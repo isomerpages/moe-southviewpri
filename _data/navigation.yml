@@ -1,8 +1,19 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Page
-    url: /page/
-  - title: Resource
-    resource_room: true
+  - title: About Us
+    url: /about-us/principals-message-2022
+    sublinks:
+      - title: Principal's Message 2022
+        url: /about-us/principals-message-2022
+      - title: Our Beliefs
+        url: /about-us/our-beliefs
+      - title: Our Identity
+        url: /about-us/our-identity
+      - title: School Leaders & Key Personnel
+        url: /about-us/school-leaders-n-key-personnel
+      - title: Teaching Staff
+        url: /about-us/teaching-staff-and-allied-educators
+      - title: Non Teaching Staff
+        url: /about-us/non-teaching-staff
+      - title: SVPS School Virtual Tour
+        url: https://4d.silvrcraft.com/svps360/
