@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - P1 Transition Programme/SVPS School Virtual Tour.md
       - P1 Transition Programme/SVPS Student Portal.md
       - "P1 Transition Programme/2022 Primary 1 #StayHomeStayCurious
         Challenges.md"
