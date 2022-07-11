@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - Student Development/Student Development.md
       - Student Development/.keep
       - Learners Profile and Education Support.md
