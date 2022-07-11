@@ -2,6 +2,5 @@ collections:
   departments:
     output: true
     order:
-      - Student Development/Welcome Back To School.md
       - Student Development/.keep
       - Learners Profile and Education Support.md
