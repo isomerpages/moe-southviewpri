@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - P1 Transition Programme/School related Services.md
       - P1 Transition Programme/Students with Special Needs.md
       - P1 Transition Programme/Information regarding starting Primary 1 in
         2022.md
