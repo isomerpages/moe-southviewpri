@@ -3,7 +3,7 @@ title: Our Identity
 permalink: /about-us/our-identity
 description: ""
 ---
-<div><video preload="none" autoplay="autoplay" muted="" width="580" height="368" data-mce-fragment="1"></div></video></div>
+<div><video preload="none" autoplay="autoplay" muted="" width="580" height="368" data-mce-fragment="1"></div></video>
 <p><strong><u>Our History</u></strong></p>
 <p>Nam San School was founded on 2nd February 1946, with students housed in three separate locations: temple, wayang stage and warehouse. Under the first principal Mr. Kua Chu Yan, the student population was a mere 157.</p>
 <p>In June 1946, Mr Ong Koh Bee, a community leader, initiated a fund-raising project to build a school. Villagers contributed generously towards the fund. Eventually $13,000 was raised, together with a donation of 1.75 acres of land. By 27th March 1947, the building for Nam San School was built at 12 miles Choa Chu Kang Road. The building had only 5 classrooms.</p>
