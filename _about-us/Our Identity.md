@@ -45,3 +45,38 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p><strong><u>School Crest</u></strong></p>
+<img style="width: 25%;" src="/images/crest.gif" />
+<p>The logo, a diamond formed by the initials "S" and "V" for South View, is a symbol of quality education. Blue symbolises an unpolished diamond. Yellow represents the shine and glitter of a polished diamond. A child who first enters school is like an unpolished diamond. By the time he leaves school, learning has polished him that he shines with aspiration and knowledge.</p>
+<p><strong><u>School Song</u></strong></p>
+<div>March forward, South View Primary</div>
+<div>In strength and unity</div>
+<div>Let's have a vision for tomorrow</div>
+<div>Let's care and share with others</div>
+<div>Be proud of our dear school</div>
+<div>Keep our school flag flying high</div>
+<div>Let us treasure our school days</div>
+<div>Excel in all we do</div>
+<div>&nbsp;</div>
+<div>Our future will be brighter</div>
+<div>If we strive for excellence</div>
+<div>Be loyal to our family</div>
+<div>Not forgetting school and nation</div>
+<div>Be proud of our dear school</div>
+<div>Keep our school flag flying high</div>
+<div>Let us treasure our school days</div>
+<div>Excel in all we do</div>
+<p><em>Lyrics by Thomas Yeo Chin Hee<br />Music by JJ de Souza</em></p>
+<p><strong><u>SOUTHVIENS Creed</u></strong></p>
+<p>We, the pupils of South View Primary School, pledge to...</p>
+<div>Always be&nbsp;<strong><u>S</u>TEADFAST</strong>&nbsp;in everything that we do,</div>
+<div>and remain&nbsp;<strong><u>O</u>PTIMISTIC</strong>&nbsp;of our future.</div>
+<div>Always exhibit&nbsp;<strong><u>U</u>NITY</strong>&nbsp;as a community,</div>
+<div>and have&nbsp;<strong><u>T</u>ENACITY</strong>&nbsp;in the face of any adversity.</div>
+<div>Display&nbsp;<strong><u>H</u>UMILITY</strong>,</div>
+<div>and be&nbsp;<strong><u>V</u>IRTUOUS</strong>&nbsp;in our daily lives.</div>
+<div>Aim to be&nbsp;<strong><u>I</u>NSPIRING</strong>&nbsp;through our actions,</div>
+<div>and have&nbsp;<strong><u>E</u>MPATHY</strong>&nbsp;towards the plight of others.</div>
+<div>Our&nbsp;<strong><u>N</u>OBILITY</strong>&nbsp;is clearly seen by all,</div>
+<div>and with&nbsp;<strong><u>S</u>INCERITY</strong>&nbsp;we serve with heart and mind.</div>
+<p><em>Written by Muhammad Khairi Uda and Sharida Batcha Sahib</em></p>
