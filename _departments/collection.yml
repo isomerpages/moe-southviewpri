@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Student Development/.keep
-      - Student Development.md
       - Learners Profile and Education Support.md
