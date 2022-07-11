@@ -103,7 +103,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><strong>2022 Primary 2 Form Teachers</strong></p>
+<h4><strong>2022 Primary 2 Form Teachers</strong></h4>
 <table style="height: 342px;">
 <tbody>
 <tr style="height: 18px;">
@@ -520,7 +520,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4>2022 Primary 6 Form Teachers</h4>
+	<h4><strong>2022 Primary 6 Form Teachers</strong></h4>
 </div>
 <div>
 <table>
