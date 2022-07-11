@@ -14,7 +14,7 @@ description: ""
 <p>Over the next 12 years, the enrolment increased ten-fold to over 570. Between 1965-1973, student population again doubled. As such, an expansion program was launched. The result was a 4 storey-block of 12 classrooms and a hall-cum-canteen in 1973. This $300,000 building was officially declared open by Member of Parliament (Choa Chu Kang) Mr. Tang See Chim on 23rd June 1973.</p>
 <p>During the 1970s, Ama Keng School also became an integrated school and a Chinese-medium class was started. But by the 1980s, Chinese medium classes were phased out.</p>
 <p>In March 1990, Nam San School and Ama Keng School merged and formed South View Primary School and moved to its present site at 6 Choa Chu Kang Central.&nbsp;</p>
-<p><a href="https://www-southviewpri-moe-edu-sg-admin.cwp.sg/other/photo-gallery-of-nam-san-school" target="_blank" rel="noopener">Photo gallery of Nam San School</a>&nbsp;|&nbsp;<a href="https://www-southviewpri-moe-edu-sg-admin.cwp.sg/other/photo-gallery-of-ama-keng-school" target="_blank" rel="noopener"><u>Photo Gallery of Ama Keng School</u></a></p>
+<p><a href="/other/photo-gallery-of-nam-san-school" target="_blank" rel="noopener">Photo gallery of Nam San School</a>&nbsp;|&nbsp;<a href="/other/photo-gallery-of-ama-keng-school" target="_blank" rel="noopener"><u>Photo Gallery of Ama Keng School</u></a></p>
 <p><strong><u>Our Principals</u></strong></p>
 <table>
 <tbody>
