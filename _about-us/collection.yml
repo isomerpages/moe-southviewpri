@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Beliefs.md
       - Our Identity.md
       - School Leaders & Key Personnel.md
       - Teaching Staff and Allied Educators.md
