@@ -19,4 +19,4 @@ third_nav_title: P1 Transition Programme
 <img style="width: 40%;" src="/images/takecare.gif" />
 <p style="text-align: center;"><strong><u><a href="/files/2%20Taking%20Care%20of%20my%20Belongings_v2.pdf" target="_blank" rel="noopener">Taking Care of My Belongings</a></u></strong></p>
 <img style="width: 40%;" src="/images/ask.gif" />
-<p><strong><u><a href="/files/COMIC%20-%20Asking%20for%20Permission%20-%20Toilet.pdf" target="_blank" rel="noopener">Asking for Permission</a></u></strong></p>
+<p style="text-align: center;"><strong><u><a href="/files/COMIC%20-%20Asking%20for%20Permission%20-%20Toilet.pdf" target="_blank" rel="noopener">Asking for Permission</a></u></strong></p>
