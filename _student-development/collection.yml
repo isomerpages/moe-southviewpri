@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - P6 Transition Programme.md
       - P1 Transition Programme/Preparing for P1.md
       - P1 Transition Programme/Useful Links & Articles.md
       - P1 Transition Programme/P1 Orientation.md
