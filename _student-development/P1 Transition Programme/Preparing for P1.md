@@ -20,3 +20,15 @@ third_nav_title: P1 Transition Programme
 <p style="text-align: center;"><strong><u><a href="/files/2%20Taking%20Care%20of%20my%20Belongings_v2.pdf" target="_blank" rel="noopener">Taking Care of My Belongings</a></u></strong></p>
 <img style="width: 40%;" src="/images/ask.gif" />
 <p style="text-align: center;"><strong><u><a href="/files/COMIC%20-%20Asking%20for%20Permission%20-%20Toilet.pdf" target="_blank" rel="noopener">Asking for Permission</a></u></strong></p>
+<img style="width: 40%;" src="/images/pack.png" />
+<p style="text-align: center;"><strong><u><a href="https://drive.google.com/file/d/1R8vQpeQwG-ISv1kWpr__jB4FMPKOxJvy/view?usp=sharing" target="_blank" rel="noopener">Packing My Bag by Myself</a></u></strong></p>
+<img style="width: 40%;" src="/images/buy.png" />
+<p style="text-align: center;"><strong><u><a href="https://drive.google.com/file/d/14cdbsC--R7Qb5yzzEALr5941K8LaJVRC/view?usp=sharing" target="_blank" rel="noopener">Buying Food and Eating</a></u></strong></p>
+<img style="width: 40%;" src="/images/good.jpg" />
+<p style="text-align: center;"><strong><a href="https://drive.google.com/file/d/1p1zRH1RB-gDYx9OUTzQcmAdSfR75xm_E/view?usp=sharing" target="_blank" rel="noopener">Maintaining Good Hygiene </a></strong></p>
+<p><strong>3) Primary 1 Transition Programme Overview</strong></p>
+<img style="width: 65%;" src="/images/p1transitionprogramme.png" />
+<p style="text-align: center;"><strong><u><a href="https://drive.google.com/file/d/15zJfKyBFb0S6ZA35EvSAugccQdiWIx61/view?usp=sharing" target="">P1 Transition Programme</a></u></strong></p>
+<p><strong>4) Getting Adjusted</strong></p>
+<img style="width: 35%;" src="/images/manage.jpg" />
+<p style="text-align: center;"><strong><u><a href="/files/5%20Managing%20Expectations.pdf" target="_blank" rel="noopener">Managing Expectations</a></u></strong></p>
