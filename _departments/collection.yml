@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Pupil well being/Modes of Communication with the School.md
       - Pupil well being/Use of Photographs and Videos for School Publicity.md
       - Pupil well being/Pupil Well Being.md
       - Pupil well being/.keep
