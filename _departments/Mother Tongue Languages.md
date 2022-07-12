@@ -108,8 +108,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>MTL Fortnight</p>
-<p>Story-telling</p>
+<p>MTL Fortnight Story-telling</p>
 </td>
 <td>To provide opportunities for pupils to build up their self-confidence and love in speaking the Malay language, pupils will be listening to animal folktale stories from their teachers. They are then encouraged to tell other folktale stories that they know of in their own ways in Malay language.&nbsp;</td>
 <td>Primary 1-2</td>
