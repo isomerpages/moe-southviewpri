@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Example Title.md
       - Mother Tongue Languages.md
       - PE Education, CCA & Aesthetics/.keep
       - PE Education, CCA & Aesthetics/Physical & Health Education, CCA &
