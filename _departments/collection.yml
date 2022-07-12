@@ -2,13 +2,13 @@ collections:
   departments:
     output: true
     order:
+      - Pupil well being/.keep
+      - Pupil well being/Pupil Well Being.md
       - Pupil well being/MOE Sexuality Education in Schools.md
       - Pupil well being/Counselling.md
-      - Pupil well being/Parents Gateway.md
       - Pupil well being/Modes of Communication with the School.md
+      - Pupil well being/Parents Gateway.md
       - Pupil well being/Use of Photographs and Videos for School Publicity.md
-      - Pupil well being/Pupil Well Being.md
-      - Pupil well being/.keep
       - Character & Citizenship Education.md
       - Student Development.md
       - Learners Profile and Education Support.md
