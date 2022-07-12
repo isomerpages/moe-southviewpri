@@ -17,3 +17,26 @@ links:
         url: /about-us/non-teaching-staff
       - title: SVPS School Virtual Tour
         url: https://4d.silvrcraft.com/svps360/
+  - title: Departments
+    url: /departments
+    sublinks:
+      - title: English Language
+        url: /departments/english-language
+      - title: Mathematics
+        url: /departments/mathematics
+      - title: Science
+        url: /departments/science
+      - title: Mother Tongue Languages
+        url: /departments/mother-tongue-languages
+      - title: PE, CCA & Aesthetics
+        url: /departments/physical-n-health-education-cca-n-aesthetics
+      - title: CIE Technology
+        url: /departments/curriculum-innovation-n-educational-technology
+      - title: Pupil Well Being
+        url: /departments/pupil-well-being
+      - title: CCE
+        url: /departments/character-n-citizenship-education
+      - title: Student Development
+        url: /departments/student-development
+      - title: Learners Profile and Education
+        url: /departments/learners-profile-and-education-support
