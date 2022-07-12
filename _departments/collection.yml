@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CIE Technology/.keep
       - Pupil well being/.keep
       - Pupil well being/Pupil Well Being.md
       - Pupil well being/MOE Sexuality Education in Schools.md
