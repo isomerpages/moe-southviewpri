@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - Character & Citizenship Education.md
       - Student Development.md
       - Learners Profile and Education Support.md
