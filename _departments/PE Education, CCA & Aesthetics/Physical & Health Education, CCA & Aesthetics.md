@@ -5,7 +5,7 @@ description: ""
 third_nav_title: PE Education, CCA & Aesthetics
 ---
 <img style="width: 100%;" src="/images/pe1.jpg" />
-<p>Our Key Programmes (PHE &amp; CCA)</p>
+<p><strong><u>Our Key Programmes (PHE &amp; CCA)</strong></u></p>
 <table>
 <tbody>
 <tr>
