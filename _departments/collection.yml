@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Pupil well being/Counselling.md
       - Pupil well being/Parents Gateway.md
       - Pupil well being/Modes of Communication with the School.md
       - Pupil well being/Use of Photographs and Videos for School Publicity.md
