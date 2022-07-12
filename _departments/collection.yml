@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Pupil well being/MOE Sexuality Education in Schools.md
       - Pupil well being/Counselling.md
       - Pupil well being/Parents Gateway.md
       - Pupil well being/Modes of Communication with the School.md
