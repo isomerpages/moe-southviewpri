@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Pupil well being/.keep
-      - Pupil Well Being.md
       - Character & Citizenship Education.md
       - Student Development.md
       - Learners Profile and Education Support.md
