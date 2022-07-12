@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - PE Education, CCA & Aesthetics/.keep
       - CIE Technology/Sustaining Gaia through Project Work.md
       - CIE Technology/Curriculum, Innovation & Educational Technology.md
       - CIE Technology/.keep
