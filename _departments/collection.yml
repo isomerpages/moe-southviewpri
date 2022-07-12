@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CIE Technology/Curriculum, Innovation & Educational Technology.md
       - CIE Technology/.keep
       - Pupil well being/.keep
       - Pupil well being/Pupil Well Being.md
