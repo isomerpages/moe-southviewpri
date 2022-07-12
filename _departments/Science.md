@@ -72,4 +72,4 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><br />Page last updated: 1 March 2021</p>
+<p>Page last updated: 1 March 2021</p>
