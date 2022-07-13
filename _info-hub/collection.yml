@@ -2,6 +2,7 @@ collections:
   info-hub:
     output: true
     order:
+      - School Rules.md
       - MOE Sexuality Education in Schools.md
       - Adminstration/.keep
       - Adminstration/P1 Registration Exercise.md
