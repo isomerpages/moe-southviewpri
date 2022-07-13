@@ -2,4 +2,5 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Sustaining Gaia through Project Work.md
       - Signature Programmes.md
