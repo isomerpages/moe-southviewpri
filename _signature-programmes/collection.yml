@@ -2,5 +2,6 @@ collections:
   signature-programmes:
     output: true
     order:
+      - P6 Transition Programme.md
       - Sustaining Gaia through Project Work.md
       - Signature Programmes.md
