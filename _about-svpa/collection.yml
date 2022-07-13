@@ -2,4 +2,5 @@ collections:
   about-svpa:
     output: true
     order:
+      - Join Us.md
       - Contact & Feedback.md
