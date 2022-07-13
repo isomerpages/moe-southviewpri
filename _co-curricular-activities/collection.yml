@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - The Oasis.md
       - Tink!SV.md
       - VIA in CCA.md
       - Co Curricular Activities.md
