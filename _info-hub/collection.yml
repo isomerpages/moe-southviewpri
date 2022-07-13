@@ -2,10 +2,10 @@ collections:
   info-hub:
     output: true
     order:
+      - SLS and Student Icon Matters/.keep
+      - "SLS and Student Icon Matters/SLS: Getting Started.md"
       - "SLS and Student Icon Matters/SLS: Password Reset.md"
       - SLS and Student Icon Matters/Student iCON FAQs.md
-      - "SLS and Student Icon Matters/SLS: Getting Started.md"
-      - SLS and Student Icon Matters/.keep
       - Student Learning Space and Student iCON matters (General).md
       - "School Home Partnership: Homework Policy.md"
       - E Forms.md
