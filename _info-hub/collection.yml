@@ -2,4 +2,5 @@ collections:
   info-hub:
     output: true
     order:
+      - Terms of Use.md
       - Privacy Statement.md
