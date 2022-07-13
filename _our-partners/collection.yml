@@ -2,5 +2,6 @@ collections:
   our-partners:
     output: true
     order:
+      - Alumni Association/Organisation Chart.md
       - Alumni Association/Alumni Association.md
       - Alumni Association/.keep
