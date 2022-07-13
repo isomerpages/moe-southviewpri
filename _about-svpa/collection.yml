@@ -1,0 +1,4 @@
+collections:
+  about-svpa:
+    output: true
+    order: []
