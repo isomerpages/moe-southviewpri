@@ -2,6 +2,7 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Love Dance, Love Life!.md
       - GastroChef With A Cultural Twist.md
       - P1 Transition Programme.md
       - P6 Transition Programme.md
