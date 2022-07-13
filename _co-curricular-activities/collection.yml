@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Student Leadership.md
       - The Oasis.md
       - Tink!SV.md
       - VIA in CCA.md
