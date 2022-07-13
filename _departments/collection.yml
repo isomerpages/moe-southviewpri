@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Departments.md
       - English language/.keep
       - English language/English Language.md
       - English language/Learning Support (English).md
