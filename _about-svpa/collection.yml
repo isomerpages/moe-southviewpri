@@ -2,5 +2,6 @@ collections:
   about-svpa:
     output: true
     order:
+      - Organisation Chart.md
       - Join Us.md
       - Contact & Feedback.md
