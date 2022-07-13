@@ -2,6 +2,7 @@ collections:
   info-hub:
     output: true
     order:
+      - E Forms.md
       - Contact Information.md
       - Terms of Use.md
       - Privacy Statement.md
