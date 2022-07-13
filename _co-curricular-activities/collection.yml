@@ -2,12 +2,14 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Co Curricular Activities.md
       - Art Club.md
       - Badminton.md
       - Boys' Brigade & Girls' Brigade.md
       - Chinese Dance.md
       - Chinese Orchestra.md
       - Choir.md
+      - Floorball.md
       - Football.md
       - Indian Dance.md
       - Library.md
@@ -15,7 +17,6 @@ collections:
       - Media Club.md
       - Multi Sports.md
       - Netball.md
-      - Floorball.md
       - Orators Club.md
       - Robotics Club.md
       - Science Club.md
@@ -24,4 +25,3 @@ collections:
       - The Oasis.md
       - Tink!SV.md
       - VIA in CCA.md
-      - Co Curricular Activities.md
