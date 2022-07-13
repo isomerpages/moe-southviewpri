@@ -2,9 +2,9 @@ collections:
   info-hub:
     output: true
     order:
-      - Adminstration/Communication.md
-      - Adminstration/P1 Registration Exercise.md
       - Adminstration/.keep
+      - Adminstration/P1 Registration Exercise.md
+      - Adminstration/Communication.md
       - Operations.md
       - Calendar & Schedules.md
       - SLS and Student Icon Matters/.keep
