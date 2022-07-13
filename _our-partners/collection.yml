@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - School Advisory Committee.md
       - Parents Association/SVPA Logo.md
       - Parents Association/About SVPA.md
       - Parents Association/SVPA Activities.md
