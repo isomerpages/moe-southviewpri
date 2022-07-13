@@ -2,6 +2,7 @@ collections:
   about-svpa:
     output: true
     order:
+      - Vision & Mission.md
       - Organisation Chart.md
       - Join Us.md
       - Contact & Feedback.md
