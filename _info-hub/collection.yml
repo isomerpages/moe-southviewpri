@@ -2,6 +2,7 @@ collections:
   info-hub:
     output: true
     order:
+      - Student Learning Space and Student iCON matters (General).md
       - "School Home Partnership: Homework Policy.md"
       - E Forms.md
       - Contact Information.md
