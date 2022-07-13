@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Parents Association/About SVPA.md
       - Parents Association/SVPA Activities.md
       - Parents Association/Annual General Meeting.md
       - Parents Association/Join Us.md
