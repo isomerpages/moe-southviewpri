@@ -2,5 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Tink!SV.md
       - VIA in CCA.md
       - Co Curricular Activities.md
