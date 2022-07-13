@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Departments.md
-      - English language/.keep
-      - English language/English Language.md
-      - English language/Learning Support (English).md
-      - English language/School Library.md
+      - English Language/.keep
+      - English Language/English Language.md
+      - English Language/Learning Support (English).md
+      - English Language/School Library.md
       - Mathematics.md
       - Science.md
       - Mother Tongue Languages.md
