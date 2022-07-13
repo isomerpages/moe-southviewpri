@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Media Club.md
       - Multi Sports.md
       - Netball.md
       - Floorball.md
