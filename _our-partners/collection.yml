@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Parents Association/Join Us.md
       - Parents Association/Parents Association.md
       - Parents Association/.keep
       - Family Matters @ SV.md
