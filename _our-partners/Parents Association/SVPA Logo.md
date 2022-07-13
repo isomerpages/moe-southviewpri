@@ -19,5 +19,5 @@ third_nav_title: Parents Association
 <h4><strong>Shades of Blue</strong></h4>
 <p>*Blue is seen as trustworthy, dependable and committed. It is associated with depth and stability.<br />*SVPA strives to be a trustworthy, dependable and committed stakeholder and partner of the school in supporting the school&rsquo;s mission.</p>
 <h4><strong>Black/Gray</strong></h4>
-<p>*Black denotes strength and authority.<br />Gray is practical, solid and stable.<br />|*SVPA aims to provide a strong and continuous support and foundation to the school and students.</p>
+<p>*Black denotes strength and authority.<br />Gray is practical, solid and stable.<br />*SVPA aims to provide a strong and continuous support and foundation to the school and students.</p>
 <p><a href="/files/svpa.pdf" target="_blank" rel="noopener">Click here to download SVPA in PDF</a></p>
