@@ -2,6 +2,7 @@ collections:
   info-hub:
     output: true
     order:
+      - Calendar & Schedules.md
       - SLS and Student Icon Matters/.keep
       - "SLS and Student Icon Matters/SLS: Getting Started.md"
       - "SLS and Student Icon Matters/SLS: Password Reset.md"
