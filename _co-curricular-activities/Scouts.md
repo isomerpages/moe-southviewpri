@@ -3,7 +3,7 @@ title: Scouts
 permalink: /co-curricular-activities/scouts
 description: ""
 ---
-<img src="/images/scouts.jpeg">
+<img style="width: 75%;" src="/images/scouts.jpeg">
 <p><u><strong>Teachers-in-charge</strong></u></p>
 <p>Mdm Waheeda Binte Mohamed Ibrahim<br />Mr Nazaruddin B Mohamed Isnin</p>
 <p><u><strong>Schedule</strong></u></p>
