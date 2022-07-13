@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Art Club.md
       - Badminton.md
       - Boys' Brigade & Girls' Brigade.md
       - Chinese Dance.md
