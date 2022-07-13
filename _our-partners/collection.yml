@@ -2,5 +2,5 @@ collections:
   our-partners:
     output: true
     order:
-      - Alumno association/Alumni Association.md
-      - Alumno association/.keep
+      - Alumni Association/Alumni Association.md
+      - Alumni Association/.keep
