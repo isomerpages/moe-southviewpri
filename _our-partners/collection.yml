@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Parents Association/Parents Association.md
       - Parents Association/.keep
       - Family Matters @ SV.md
       - Alumni Association/.keep
