@@ -205,8 +205,6 @@ third_nav_title: Parents Association
 <li>Grace Teo &ndash; Vice Chairman (Email:<a href="mailto:graceteolimay@gmail.com">graceteolimay@gmail.com</a>)&nbsp;</li>
 <li>Caroline &ndash; Secretary (Email:<a href="mailto:carolineleo00@gmail.com">carolineleo00@gmail.com</a>)</li>
 </ol>
-<p><strong>Semester 1</strong></p>
-<p>Term 1 : 4 January &ndash; 11 March 2021<br />Term 1 Holidays : 12 March &ndash;20 March 2021<br />Term 2 : 21 March &ndash; 27 May 2021<br />Term 2 Holidays : 28 May &ndash; 26 June 2021</p>
-<p><strong>Semester 2</strong></p>
-<p>Term 3 : 27 June &ndash; 2 September 2021<br />Term 3 Holidays : 3 September &ndash; 11 September 2021<br />Term 4 : 12 September &ndash; 18 November 2021<br />Term 4 Holidays : 19 November &ndash; 31 December 2021</p>
+<p><strong>Semester 1<br /></strong>Term 1 : 4 January &ndash; 11 March 2021<br />Term 1 Holidays : 12 March &ndash;20 March 2021<br />Term 2 : 21 March &ndash; 27 May 2021<br />Term 2 Holidays : 28 May &ndash; 26 June 2021</p>
+<p><strong>Semester 2<br /></strong>Term 3 : 27 June &ndash; 2 September 2021<br />Term 3 Holidays : 3 September &ndash; 11 September 2021<br />Term 4 : 12 September &ndash; 18 November 2021<br />Term 4 Holidays : 19 November &ndash; 31 December 2021</p>
 <p><br /><em>Last update: 19 April 2022</em></p>
