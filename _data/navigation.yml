@@ -111,3 +111,34 @@ links:
         url: /our-partners/family-matters-at-sv
       - title: Alumni Association
         url: /our-partners/alumni-association
+  - title: Info Hub
+    url: /info-hub/weekly-notification
+    sublinks:
+      - title: Weekly Notification
+        url: /info-hub/weekly-notification
+      - title: Student Care Centre
+        url: /info-hub/student-care-centre
+      - title: School-related Services
+        url: /info-hub/school-related-services
+      - title: School Rules
+        url: /info-hub/school-rules
+      - title: MOE Sexuality Education
+        url: /departments/pupil-well-being/moe-sexuality-education-in-schools
+      - title: Administration
+        url: /info-hub/administration/p1-registration-exercise
+      - title: Operations
+        url: /info-hub/operations
+      - title: Calendar / Schedules
+        url: /info-hub/calendar-schedules
+      - title: SLS & Student iCON Matters
+        url: /info-hub/student-learning-space-and-student-icon-matters-general
+      - title: School-Home-Partnership
+        url: /info-hub/school-home-partnership-homework-policy
+      - title: E-Forms
+        url: /info-hub/e-forms
+      - title: Contact Information
+        url: /info-hub/contact-information
+      - title: Terms of Use
+        url: /info-hub/terms-of-use
+      - title: Privacy Statement
+        url: /info-hub/privacy-statement
