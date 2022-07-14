@@ -2,7 +2,7 @@
 layout: homepage
 title: South View Primary School
 description: An Isomer site of the Singapore Government
-image: /images/logo1.png
+image: /images/crest.gif
 permalink: /
 notification: ""
 sections:
@@ -19,3 +19,4 @@ sections:
           description: Click Here for 2020 WE Stories
           url: https://drive.google.com/file/d/1GFvgxzIKKu5nWzIl0OvDRpiRiHYr3Yfq/view
 ---
+
