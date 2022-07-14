@@ -2,6 +2,7 @@ collections:
   info-hub:
     output: true
     order:
+      - Weekly Notification/.keep
       - Weekly Notification.md
       - Student Care Centre.md
       - School Related Services.md
