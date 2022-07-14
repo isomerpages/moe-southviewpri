@@ -2,7 +2,7 @@
 layout: homepage
 title: South View Primary School
 description: An Isomer site of the Singapore Government
-image: /images/school logo.png
+image: /images/logo1.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
@@ -33,6 +33,7 @@ sections:
       subtitle: Learn more
       button: View More
 ---
+
 
 
 
