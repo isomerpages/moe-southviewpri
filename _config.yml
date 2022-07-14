@@ -1,6 +1,6 @@
 title: South View Primary School
 url: ""
-favicon: /images/favicon-isomer.ico
+favicon: /images/logo1.png
 colors:
   primary-color: "#ecdb00"
   secondary-color: "#032d84"
@@ -52,7 +52,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://moe-southviewpri-staging.netlify.app
 prod: https://moe-southviewpri-prod.netlify.app
-shareicon: /images/school logo.png
+shareicon: /images/logo1.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
