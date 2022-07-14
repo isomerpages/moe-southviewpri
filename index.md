@@ -4,36 +4,22 @@ title: South View Primary School
 description: An Isomer site of the Singapore Government
 image: /images/logo1.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      background: /images/svps.gif
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+        - title: South View Primary School Virtual Tour
+          description: VIRTUAL TOUR
+          url: https://4d.silvrcraft.com/svps360/
+        - title: Parent Kit
+          description: This Parent Kit shares fun...
+          url: https://www.moe.gov.sg/parentkit.
+        - title: WE STories
+          description: Click Here for 2020 WE Stories
+          url: https://drive.google.com/file/d/1GFvgxzIKKu5nWzIl0OvDRpiRiHYr3Yfq/view
   - resources:
       title: Media
       subtitle: Learn more
       button: View More
 ---
-
-
-
-
