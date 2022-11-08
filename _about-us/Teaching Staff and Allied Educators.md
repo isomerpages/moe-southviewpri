@@ -1,9 +1,9 @@
 ---
 title: Teaching Staff and Allied Educators
-permalink: /about-us/teaching-staff-and-allied-educators
+permalink: /about-us/teaching-staff-and-allied-educators/
 description: ""
 ---
-<h4><strong>2022 Primary 1 Form Teachers</span></strong></h4>
+<h4><strong>2022 Primary 1 Form Teachers</strong></h4>
 <table>
 <tbody>
 <tr>
