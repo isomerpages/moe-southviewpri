@@ -1,9 +1,9 @@
 title: South View Primary School
-url: ""
+url: https://askgov.sg
 favicon: /images/crest.gif
 colors:
-  primary-color: "#ecdb00"
-  secondary-color: "#032d84"
+  primary-color: "#032d84"
+  secondary-color: "#aca018"
   media-colors:
     - title: media-color-one
       color: "#000000"
