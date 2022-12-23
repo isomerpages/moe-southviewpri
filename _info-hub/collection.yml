@@ -2,9 +2,9 @@ collections:
   info-hub:
     output: true
     order:
-      - School Related Services/Student Care Centre.md
-      - School Related Services/School–related Services.md
       - School Related Services/.keep
+      - School Related Services/School–related Services.md
+      - School Related Services/Student Care Centre.md
       - Weekly Notification/.keep
       - Weekly Notification/Weekly Notification.md
       - Weekly Notification/Archived Letters.md
