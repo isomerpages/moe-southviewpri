@@ -60,7 +60,7 @@ description: ""
 </table>
 <p><strong><u>General Reminder from Land Transport Authority</u></strong></p>
 <ul>
-<li>We would like to remind drivers that there shall also be strictly NO PARKING or WAITING at :&nbsp;</li>
+<li>We would like to remind drivers that there shall also be strictly NO PARKING or WAITING at:</li>
 <li>9 metres within a bus stop area;</li>
 <li>6 metres within a junction;</li>
 <li>3 metres within a fire-hydrant;</li>
