@@ -2,7 +2,6 @@ collections:
   info-hub:
     output: true
     order:
-      - Road Safety and Security.md
       - Weekly Notification/.keep
       - Weekly Notification/Weekly Notification.md
       - Weekly Notification/Archived Letters.md
@@ -17,6 +16,7 @@ collections:
       - "SLS and Student Icon Matters/SLS: Password Reset.md"
       - SLS and Student Icon Matters/Student iCON FAQs.md
       - E–Forms.md
+      - Road Safety and Security.md
       - "School Home Partnership: Homework Policy.md"
       - MOE Sexuality Education in Schools.md
       - School Rules.md
