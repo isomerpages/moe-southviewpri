@@ -2,7 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - Student Development.md
       - Welcome Back To School.md
       - P1 Transition Programme/.keep
       - P1 Transition Programme/P1 Transition Programme.md
