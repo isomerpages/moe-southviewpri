@@ -2,25 +2,25 @@ collections:
   info-hub:
     output: true
     order:
+      - Weekly Notification/.keep
       - Weekly Notification/Weekly Notification.md
       - Weekly Notification/Archived Letters.md
-      - Weekly Notification/.keep
-      - Student Care Centre.md
+      - Calendar & Schedules.md
       - School Related Services.md
+      - Student Care Centre.md
       - School Rules.md
+      - Student Learning Space and Student iCON matters (General).md
+      - E Forms.md
+      - "School Home Partnership: Homework Policy.md"
       - MOE Sexuality Education in Schools.md
       - Adminstration/.keep
       - Adminstration/P1 Registration Exercise.md
       - Adminstration/Communication.md
       - Operations.md
-      - Calendar & Schedules.md
       - SLS and Student Icon Matters/.keep
       - "SLS and Student Icon Matters/SLS: Getting Started.md"
       - "SLS and Student Icon Matters/SLS: Password Reset.md"
       - SLS and Student Icon Matters/Student iCON FAQs.md
-      - Student Learning Space and Student iCON matters (General).md
-      - "School Home Partnership: Homework Policy.md"
-      - E Forms.md
       - Contact Information.md
       - Terms of Use.md
       - Privacy Statement.md
