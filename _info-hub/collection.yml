@@ -2,6 +2,7 @@ collections:
   info-hub:
     output: true
     order:
+      - Road Safety and Security.md
       - Weekly Notification/.keep
       - Weekly Notification/Weekly Notification.md
       - Weekly Notification/Archived Letters.md
