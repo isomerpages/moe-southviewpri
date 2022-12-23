@@ -2,27 +2,27 @@ collections:
   info-hub:
     output: true
     order:
-      - School Related Services/.keep
-      - School Related Services/School–related Services.md
-      - School Related Services/Student Care Centre.md
       - Weekly Notification/.keep
       - Weekly Notification/Weekly Notification.md
       - Weekly Notification/Archived Letters.md
       - Calendar & Schedules.md
-      - School Rules.md
+      - School Related Services/.keep
+      - School Related Services/School–related Services.md
+      - School Related Services/Student Care Centre.md
+      - SLS and Student Icon Matters/.keep
+      - SLS and Student Icon Matters/Student Learning Space and Student iCON
+        matters (General).md
+      - "SLS and Student Icon Matters/SLS: Getting Started.md"
+      - "SLS and Student Icon Matters/SLS: Password Reset.md"
+      - SLS and Student Icon Matters/Student iCON FAQs.md
       - E–Forms.md
       - "School Home Partnership: Homework Policy.md"
       - MOE Sexuality Education in Schools.md
+      - School Rules.md
       - Adminstration/.keep
       - Adminstration/P1 Registration Exercise.md
       - Adminstration/Communication.md
       - Operations.md
-      - SLS and Student Icon Matters/Student Learning Space and Student iCON
-        matters (General).md
-      - SLS and Student Icon Matters/.keep
-      - "SLS and Student Icon Matters/SLS: Getting Started.md"
-      - "SLS and Student Icon Matters/SLS: Password Reset.md"
-      - SLS and Student Icon Matters/Student iCON FAQs.md
       - Contact Information.md
       - Terms of Use.md
       - Privacy Statement.md
