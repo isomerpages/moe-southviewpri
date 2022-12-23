@@ -3,16 +3,14 @@ title: Primary 6 Transition Programme – Ready, Sec, Go!
 permalink: /departments/student-development/primary-6-transition-programme-ready-sec-go/
 description: ""
 ---
-
-<p>To prepare our P6 pupils for a smooth transition to secondary school, the school customised a transition programme for the pupils, aiming to equip them with life skills that will encourage self-awareness, self-directedness, independence and confidence. In addition, pupils would be able to adapt to changes and make responsible decisions.</p>
-<p>Besides a school-based customised SEL curriculum, Project Work, local and overseas learning journeys and secondary school visits, pupils have the opportunity to engage and serve a wider community through their Values-In-Action in their ECG showcase.</p>
-<p>The changes pupils face in secondary schools may be stressful to pupils and unnecessary strains should be kept to minimal while coping with the transition. With mindful planning, we believe that our pupils will be equipped with the essential skills and greater awareness through meaningful activities, thus, getting them Ready, To Secondary School, We Go!</p>
-<p>Event timeframe: After PSLE to end of T4</p>
-<img src="/images/p6transition.png">
-<p><u>Useful links for pupils and parents</u></p>
-<p>Education &amp; Career Guidance</p>
-<p>It is an online portal that facilitates education and career development among the pupils. It also helps the pupils discover their identity through awareness, exploration and planning.&nbsp;<u><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" target="_blank" rel="noopener">https://www.myskillsfuture.gov.sg/content/student/en/primary.html</a></u></p>
-<p>Secondary Education</p>
-<p>Parents can find information on school fees, Direct Schools Admission (DSA) and Secondary 1 Posting.&nbsp;<a href="https://www.moe.gov.sg/secondary" target="_blank" rel="noopener"><u>https://www.moe.gov.sg/secondary</u></a></p>
-<p>The Secondary School Education booklets are also available in 4 languages.<br /><a href="https://www.moe.gov.sg/education/secondary/secondary-school-education-booklet" target="_blank" rel="noopener">https://www.moe.gov.sg/education/secondary/secondary-school-education-booklet</a></p>
-<p>Page last updated: 1 June 2021</p>
+<p>The changes students face in secondary schools may be stressful and unnecessary strains&nbsp;should be kept to minimal while coping with the transition. With mindful planning, we believe&nbsp;that our graduates will be equipped with the essential skills and greater awareness through&nbsp;meaningful activities, thus, getting them&nbsp;<strong>Ready, To Secondary School, We Go!</strong></p>
+<p>Ready, Sec, Go! is a customised P6 Transition programme to support the transitional needs of our graduating students. The programme will take place over 4 weeks after PSLE to the end of Term 4. It aims to provide students with opportunities and experiences to develop their confidence and resilience by preparing our students psychologically, mentally and emotionally to ensure a more successful transition into the secondary school years.</p>
+<p><strong>Objectives</strong></p>
+<ol>
+<li>To encourage students to be continual learners and create awareness of the viable&nbsp;education and career options through the provision of accurate and comprehensive information.</li>
+<li>To nurture students' confidence and social emotional skills to build positive&nbsp;relationships with others.</li>
+<li>To provide opportunities for students to develop growth mindset and GRIT to build up&nbsp;mental resilience to transit smoothly to the next phase of education journey.</li>
+</ol>
+<p><strong><u>Useful links for pupils and parents<br /></u></strong><strong>Education &amp; Career Guidance<br /></strong>It is an online portal that facilitates education and career development among the pupils. It also helps the pupils discover their identity through awareness, exploration and planning.<br /><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" target="_blank" rel="noopener">https://www.myskillsfuture.gov.sg/content/student/en/primary.html</a><br /><strong>Secondary Education<br /></strong>Parents can find information on school fees, Direct Schools Admission (DSA) and Secondary 1 Posting.<br /><a href="https://www.moe.gov.sg/secondary" target="_blank" rel="noopener">https://www.moe.gov.sg/secondary</a></p>
+<img style="width: 90%;" src="/images/p6.jpg" />
+<p>Page last updated: 8 September 2022</p>
