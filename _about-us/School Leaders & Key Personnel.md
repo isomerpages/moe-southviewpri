@@ -1,6 +1,6 @@
 ---
 title: School Leaders & Key Personnel
-permalink: /about-us/school-leaders-n-key-personnel
+permalink: /about-us/school-leaders-n-key-personnel/
 description: ""
 ---
 <p><strong><u>School Leaders</u></strong><u></u><u></u></p>
@@ -18,14 +18,9 @@ description: ""
 <td style="text-align: center;">Principal</td>
 </tr>
 <tr>
-<td style="text-align: center;">Miss Tan Wan Kheng</td>
-<td style="text-align: center;">tan_wan_kheng@schools.gov.sg</td>
-<td style="text-align: center;">Vice-Principal (Academic) 1</td>
-</tr>
-<tr>
-<td style="text-align: center;">Miss Achary Gopalan Shiyamala</td>
-<td style="text-align: center;">shiyamala_achary_gopalan@schools.gov.sg</td>
-<td style="text-align: center;">Vice-Principal (Academic) 2</td>
+<td style="text-align: center;">Mr Ong Hong Ghee</td>
+<td style="text-align: center;">ong_hong_ghee@schools.gov.sg</td>
+<td style="text-align: center;">Vice-Principal (Academic)</td>
 </tr>
 <tr>
 <td style="text-align: center;">Mr Ramesh Tiwari</td>
