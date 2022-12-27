@@ -1,6 +1,6 @@
 ---
 title: Non Teaching Staff
-permalink: /about-us/non-teaching-staff
+permalink: /about-us/non-teaching-staff/
 description: ""
 ---
 <h4><strong><u>Executive &amp; Administrative Staff</u></strong></h4>
@@ -20,11 +20,6 @@ description: ""
 <td style="text-align: center;">Operations Manager</td>
 <td style="text-align: center;">Mr Thomas Lim Yong Peng</td>
 <td style="text-align: center;">lim_yong_peng@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;">Administration Executive</td>
-<td style="text-align: center;">Mr Rustam Moenaf Ahmad Jailani</td>
-<td style="text-align: center;">rustam_moenaf_ahmad_jailani@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">ICT Manager</td>
@@ -55,6 +50,11 @@ description: ""
 <td style="text-align: center;">CSO</td>
 <td style="text-align: center;">Mdm Quak Chin Chye</td>
 <td style="text-align: center;">quak_chin_chye@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">CSO</td>
+<td style="text-align: center;">Mdm Juliana Bte Mohd Shah</td>
+<td style="text-align: center;">juliana_mohd_shah@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">OSO</td>
@@ -107,11 +107,6 @@ description: ""
 <td style="text-align: center; width: 162.703px;">svps@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 288.875px;">Gastrochef Assistant</td>
-<td style="text-align: center; width: 192.422px;">Mdm Teo Siok Eng</td>
-<td style="text-align: center; width: 162.703px;">svps@moe.edu.sg</td>
-</tr>
-<tr>
 <td style="text-align: center; width: 288.875px;">Security Guard</td>
 <td style="text-align: center; width: 192.422px;">Mr Manian Govindasamy</td>
 <td style="text-align: center; width: 162.703px;">svps@moe.edu.sg</td>
@@ -124,11 +119,6 @@ description: ""
 <tr>
 <td style="text-align: center; width: 288.875px;">Librarian</td>
 <td style="text-align: center; width: 192.422px;">Ms Leong Sheu Min</td>
-<td style="text-align: center; width: 162.703px;">svps@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center; width: 288.875px;">Safe Distancing Officer and Makerspace Assistant</td>
-<td style="text-align: center; width: 192.422px;">Mdm Siti Sarah Bte Mohd Jamil</td>
 <td style="text-align: center; width: 162.703px;">svps@moe.edu.sg</td>
 </tr>
 </tbody>
