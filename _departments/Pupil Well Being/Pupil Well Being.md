@@ -31,9 +31,6 @@ third_nav_title: Pupil Well Being
 <td>The Oasis</td>
 <td>
 <p>The Oasis serves as a student and community hub for recess, after-school and community engagement activities, aiming to develop independence, communication and life skills in our students through school- and self-organized activities.</p>
-</td>
-<td></td>
-<td>
 <p>Recess@Oasis - Daily</p>
 <p>Free-play@Oasis &amp; Activities@Oasis: The Oasis Explorer - Friday afternoon</p>
 </td>
