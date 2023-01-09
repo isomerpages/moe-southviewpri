@@ -33,7 +33,7 @@ description: ""
 </table>
 </div>
 <p><strong><u>School Executive Committee (EXCO)</u></strong><u></u></p>
-<img src="/images/2023%20EXCO.jpg" style="height: 1000px; width: 1600px">
+<img src="/images/2023%20EXCO.jpg" style="height: 800px; width: 1600px">
 </p>
 <div>
 <div>
