@@ -3,9 +3,8 @@ title: School Leaders & Key Personnel
 permalink: /about-us/school-leaders-n-key-personnel/
 description: ""
 ---
-<p><strong><u>School Leaders</u></strong>
+<p><strong><u>School Leaders</u></strong></p>
 <img src="/images/2023%20SLs.jpg" style="height: 150px; width: 1600px">
-</p>
 <div>
 <table>
 <tbody>
@@ -34,7 +33,6 @@ description: ""
 </div>
 <p><strong><u>School Executive Committee (EXCO)</u></strong><u></u></p>
 <img src="/images/2023%20EXCO.jpg" style="height: 700px; width: 1600px">
-</p>
 <div>
 <div>
 <table style="height: 1098px;">
