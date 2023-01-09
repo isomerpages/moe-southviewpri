@@ -5,7 +5,8 @@ description: ""
 ---
 <p><strong><u>School Leaders</u></strong>
 <img src="/images/2023%20SLs.jpg" style="height: 150px; width: 1600px">
-</p><div>
+</p>
+<div>
 <table>
 <tbody>
 <tr>
@@ -32,6 +33,8 @@ description: ""
 </table>
 </div>
 <p><strong><u>School Executive Committee (EXCO)</u></strong><u></u></p>
+<img src="/images/2023%20EXCO.jpg" style="height: 1000px; width: 1600px">
+</p>
 <div>
 <div>
 <table style="height: 1098px;">
