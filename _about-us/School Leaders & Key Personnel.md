@@ -4,7 +4,7 @@ permalink: /about-us/school-leaders-n-key-personnel/
 description: ""
 ---
 <p><strong><u>School Leaders</u></strong></p>
-<img src="/images/2023%20SLs.jpg" style="height: 130px; width: 1600px">
+<img src="/images/2023%20SLs.jpg" style="height: 130px; width: 1500px">
 <div>
 <table>
 <tbody>
