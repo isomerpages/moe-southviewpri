@@ -80,7 +80,7 @@ description: ""
 </tbody>
 </table>
 <h4><strong><u>School Support Staff</u></strong></h4>
-<img src="/images/2023%20Support%20Staff.jpg" style="height: 300px; width: 1500px">
+<img src="/images/2023%20Support%20Staff.jpg" style="height: 200px; width: 1500px">
 <table style="width: 666px;">
 <tbody>
 <tr>
