@@ -168,59 +168,54 @@ description: ""
 <table>
 <tbody>
 <tr>
+<th style="text-align: center;">Designation</th>
 <th style="text-align: center;">TL's Name</th>
 <th style="text-align: center;">Email address</th>
-<th style="text-align: center;">Designation</th>
 </tr>
 <tr>
+<td style="text-align: center;">Senior Teacher<br>English Language</td>
 <td style="text-align: center;">Mdm Widyawati Mudai</td>
 <td style="text-align: center;">widyawati_mudai@moe.edu.sg</td>
-<td style="text-align: center;">Senior Teacher<br>English Language</td>
 </tr>
 <tr>
+<td style="text-align: center;">Senior Teacher<br>English Language</td>
 <td style="text-align: center;">Mrs Pamela See Toh</td>
 <td style="text-align: center;">neo_soh_eng_pamela@moe.edu.sg</td>
-<td style="text-align: center;">Senior Teacher<br>English Language</td>
 </tr>
 <tr>
+<td style="text-align: center;">Senior Teacher<br>Malay Language</td>
 <td style="text-align: center;">Mdm Hanita Abd Aziz</td>
 <td style="text-align: center;">hanita_abd_aziz@moe.edu.sg</td>
-<td style="text-align: center;">Senior Teacher<br>Malay Language</td>
 </tr>
 <tr>
+<td style="text-align: center;">Senior Teacher<br>Science</td>
 <td style="text-align: center;">Mrs Sylvia Loo-Teo Gee Hua</td>
 <td style="text-align: center;">teo_gee_hua_sylvia@moe.edu.sg</td>
-<td style="text-align: center;">Senior Teacher<br>Science</td>
 </tr>
 <tr>
-<td style="text-align: center;">Mdm New Chye Fong</td>
-<td style="text-align: center;">new_chye_fong@moe.edu.sg</td>
-<td style="text-align: center;">Senior Teacher<br>Chinese Language</td>
-</tr>
-<tr>
+<td style="text-align: center;">Senior Teacher<br>Art</td>
 <td style="text-align: center;">Mrs Low-Leow Siew Peng</td>
 <td style="text-align: center;">leow_siew_peng@moe.edu.sg</td>
-<td style="text-align: center;">Senior Teacher<br>Art</td>
 </tr>
 <tr>
+<td style="text-align: center;">Senior Teacher<br>Mathematics</td>
 <td style="text-align: center;">Mr Lee Kim Joo James</td>
 <td style="text-align: center;">lee_kim_joo@moe.edu.sg</td>
-<td style="text-align: center;">Senior Teacher<br>Mathematics</td>
 </tr>
 <tr>
+<td style="text-align: center;">Senior Teacher<br>Social Studies</td>
 <td style="text-align: center;">Mrs Tan-Cheong May Ling Karen</td>
 <td style="text-align: center;">cheong_may_ling_karen@moe.edu.sg</td>
-<td style="text-align: center;">Senior Teacher<br>Social Studies</td>
 </tr>
 <tr>
+<td style="text-align: center;">Senior Teacher<br>Learning Needs</td>
 <td style="text-align: center;">Mdm Selena Akhbar</td>
 <td style="text-align: center;">selena_akhbar@moe.edu.sg</td>
-<td style="text-align: center;">Senior Teacher<br>Learning Needs</td>
 </tr>
 <tr>
+<td style="text-align: center;">Senior Teacher<br>Chinese Language</td>
 <td style="text-align: center;">Mr Lam Jun Jie James</td>
 <td style="text-align: center;">lam_jun_jie_james@moe.edu.sg</td>
-<td style="text-align: center;">Senior Teacher<br>Chinese Language</td>
 </tr>
 </tbody>
 </table>
