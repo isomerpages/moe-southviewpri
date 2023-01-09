@@ -4,6 +4,7 @@ permalink: /about-us/non-teaching-staff/
 description: ""
 ---
 <h4><strong><u>Executive &amp; Administrative Staff</u></strong></h4>
+<img src="/images/2023%20EAS.jpg" style="height: 400px; width: 1500px">
 <table>
 <tbody>
 <tr>
