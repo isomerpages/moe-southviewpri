@@ -4,29 +4,27 @@ permalink: /about-us/school-leaders-n-key-personnel/
 description: ""
 ---
 <p><strong><u>School Leaders</u></strong></p>
-<img src="/images/2023%20SLs.jpg" style="height: 130px; width: 1500px">
 <div>
 <table>
 <tbody>
 <tr>
+<th style="text-align: center;">Designation</th>
 <th style="text-align: center;">SL's Name</th>
 <th style="text-align: center;">Email address</th>
-<th style="text-align: center;">Designation</th>
 </tr>
 <tr>
+<td style="text-align: center;">Principal</td>
 <td style="text-align: center;">Ms Ang Mui Khoong</td>
 <td style="text-align: center;">ang_mui_khoong@schools.gov.sg</td>
-<td style="text-align: center;">Principal</td>
 </tr>
 <tr>
-<td style="text-align: center;">Mr Ong Hong Ghee</td>
+<td style="text-align: center;">Vice-Principal (Academic)</td><td style="text-align: center;">Mr Ong Hong Ghee</td>
 <td style="text-align: center;">ong_hong_ghee@schools.gov.sg</td>
-<td style="text-align: center;">Vice-Principal (Academic)</td>
 </tr>
 <tr>
-<td style="text-align: center;">Mr Ramesh Tiwari</td>
-<td style="text-align: center;">ramesh_tiwari_ramadhar_tiwari@schools.gov.sg</td>
 <td style="text-align: center;">Vice-Principal (Admin)</td>
+	<td style="text-align: center;">Mr Ramesh Tiwari</td>
+<td style="text-align: center;">ramesh_tiwari_ramadhar_tiwari@schools.gov.sg</td>
 </tr>
 </tbody>
 </table>
