@@ -80,6 +80,7 @@ description: ""
 </tbody>
 </table>
 <h4><strong><u>School Support Staff</u></strong></h4>
+<img src="/images/2023%20Support%20Staff.jpg" style="height: 300px; width: 1500px">
 <table style="width: 666px;">
 <tbody>
 <tr>
@@ -124,4 +125,6 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong><u>School Counsellor</u></strong></h4>
+<img src="/images/2023%20Counsellor.jpg" style="height: 100px; width: 1500px">
 <p>Page updated on: 21 January 2022</p>
