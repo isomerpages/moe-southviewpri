@@ -81,7 +81,7 @@ description: ""
 <td style="text-align: center; height: 54px; width: 305.828px;">du_hui_jun_jane@moe.edu.sg</td>
 </tr>
 <tr style="height: 54px;">
-<td style="text-align: center; height: 54px; width: 212.922px;"><br>School Staff Developer<br><br></td>
+<td style="text-align: center; height: 54px; width: 212.922px;">School Staff Developer<br><br></td>
 <td style="text-align: center; height: 54px; width: 146.25px;">Mdm Jaida Goh Lay Choo</td>
 <td style="text-align: center; height: 54px; width: 305.828px;">goh_lay_choo_jaida@moe.edu.sg</td>
 </tr>
