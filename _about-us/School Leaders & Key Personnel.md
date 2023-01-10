@@ -161,7 +161,6 @@ description: ""
 </tbody>
 </table>
 </div>
-</div>
 <p><strong><u>Teacher Leaders</u></strong><u></u></p>
 <table>
 <tbody>
