@@ -610,6 +610,11 @@ description: ""
 <td style="text-align: center;">Mdm Chan Yee Ling</td>
 <td style="text-align: center;">chan_yee_ling@moe.edu.sg</td>
 </tr>
+<tr>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Mrs Doris Goh Han Tiong</td>
+<td style="text-align: center;">goh_han_tiong_doris@moe.edu.sg</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>2023 Allied Educators</strong></h4>
