@@ -82,44 +82,44 @@ description: ""
 <table>
 <tbody>
 <tr>
-<th style="text-align: center; width: 288.875px;">Designation</th>
-<th style="text-align: center; width: 192.422px;">Staff's Name</th>
-<th style="text-align: center; width: 162.703px;">Email address</th>
+<td style="text-align: center;">Designation</th>
+<td style="text-align: center;">Staff's Name</th>
+<td style="text-align: center;">Email address</th>
 </tr>
 <tr>
-<td style="text-align: center; width: 288.875px;">Desktop Engineer</td>
-<td style="text-align: center; width: 192.422px;">Mr Jong Boon Mien Jeremy</td>
-<td style="text-align: center; width: 162.703px;">svps@moe.edu.sg</td>
+<td style="text-align: center;">Desktop Engineer</td>
+<td style="text-align: center;">Mr Jong Boon Mien Jeremy</td>
+<td style="text-align: center;">svps@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 288.875px;">Desktop Engineer&nbsp;</td>
-<td style="text-align: center; width: 192.422px;">Mr Fabiyus Tan Zen Han</td>
-<td style="text-align: center; width: 162.703px;">svps@moe.edu.sg</td>
+<td style="text-align: center;">Desktop Engineer&nbsp;</td>
+<td style="text-align: center;">Mr Fabiyus Tan Zen Han</td>
+<td style="text-align: center;">svps@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 288.875px;">Laboratory Assistant</td>
-<td style="text-align: center; width: 192.422px;">Mdm Sarimah Kamin</td>
-<td style="text-align: center; width: 162.703px;">svps@moe.edu.sg</td>
+<td style="text-align: center;">Laboratory Assistant</td>
+<td style="text-align: center;">Mdm Sarimah Kamin</td>
+<td style="text-align: center;">svps@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 288.875px;">Teacher Aide</td>
-<td style="text-align: center; width: 192.422px;">Mdm Luna Quek</td>
-<td style="text-align: center; width: 162.703px;">svps@moe.edu.sg</td>
+<td style="text-align: center;">Teacher Aide</td>
+<td style="text-align: center;">Mdm Luna Quek</td>
+<td style="text-align: center;">svps@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 288.875px;">Security Guard</td>
-<td style="text-align: center; width: 192.422px;">Mr Manian Govindasamy</td>
-<td style="text-align: center; width: 162.703px;">svps@moe.edu.sg</td>
+<td style="text-align: center;">Security Guard</td>
+<td style="text-align: center;">Mr Manian Govindasamy</td>
+<td style="text-align: center;">svps@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 288.875px;">Security Guard</td>
-<td style="text-align: center; width: 192.422px;">Mr Chan Choon Kek</td>
-<td style="text-align: center; width: 162.703px;">svps@moe.edu.sg</td>
+<td style="text-align: center;">Security Guard</td>
+<td style="text-align: center;">Mr Chan Choon Kek</td>
+<td style="text-align: center;">svps@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 288.875px;">Librarian</td>
-<td style="text-align: center; width: 192.422px;">Ms Leong Sheu Min</td>
-<td style="text-align: center; width: 162.703px;">svps@moe.edu.sg</td>
+<td style="text-align: center;">Librarian</td>
+<td style="text-align: center;">Ms Leong Sheu Min</td>
+<td style="text-align: center;">svps@moe.edu.sg</td>
 </tr>
 </tbody>
 </table>
