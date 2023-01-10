@@ -615,6 +615,76 @@ description: ""
 <td style="text-align: center;">Mrs Doris Goh Han Tiong</td>
 <td style="text-align: center;">goh_han_tiong_doris@moe.edu.sg</td>
 </tr>
+<tr>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Mdm Farzila Bte Fikri</td>
+<td style="text-align: center;">farzila_fikri@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Mdm Jeanette Yeo Yan Ting</td>
+<td style="text-align: center;">yeo_yan_ting_jeanette@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Mdm Daphne Heng Pei Li</td>
+<td style="text-align: center;">heng_pei_li_daphne@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Mr Mohammad Affendy Abdullah</td>
+<td style="text-align: center;">mohammad_affendy_abdullah@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Mdm Lau Yu Xuan Jaelyn</td>
+<td style="text-align: center;">lau_yu_xuan@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Mdm Ruhaya Binte Mohd Esa</td>
+<td style="text-align: center;">ruhaya_mohd_esa@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Ms Lee Mui Lan Linda</td>
+<td style="text-align: center;">lee_mui_lan_linda@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Mdm Silva Dennis</td>
+<td style="text-align: center;">silvia_dennis@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Mdm Leow Eng Bee</td>
+<td style="text-align: center;">leow_eng_bee@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Mr Yap Beng Hui</td>
+<td style="text-align: center;">yap_beng_hui@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Mdm Ong Linne</td>
+<td style="text-align: center;">ong_linne@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Mrs Jamilah Khan</td>
+<td style="text-align: center;">jamilah_khan@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Mdm Selena Akhbar</td>
+<td style="text-align: center;">selena_akhbar@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Mdm Tan Lee Sin</td>
+<td style="text-align: center;">tan_lee_sin@moe.edu.sg</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>2023 Allied Educators</strong></h4>
