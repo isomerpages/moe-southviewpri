@@ -255,13 +255,13 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">3 Unity</td>
-<td>Ms Tan Jie Qi</td>
-<td>tan_jie_qi_denise@moe.edu.sg</td>
+<td style="text-align: center;">Ms Tan Jie Qi</td>
+<td style="text-align: center;">tan_jie_qi_denise@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">3 Unity</td>
-<td>Mdm Mastura Bte Mohamed Yusoff</td>
-<td>mastura_mohamed_yusoff@moe.edu.sg</td>
+<td style="text-align: center;">Mdm Mastura Bte Mohamed Yusoff</td>
+<td style="text-align: center;">mastura_mohamed_yusoff@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">3 Tenacity</td>
