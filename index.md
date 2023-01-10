@@ -18,8 +18,4 @@ sections:
         - title: WE STories
           description: Click Here for 2020 WE Stories
           url: https://drive.google.com/file/d/1GFvgxzIKKu5nWzIl0OvDRpiRiHYr3Yfq/view
-  - infobar:
-      title: Announcements
-      button: Next
-      url: https://4d.silvrcraft.com/svps360/
 ---
