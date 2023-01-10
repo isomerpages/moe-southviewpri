@@ -3,7 +3,7 @@ title: Teaching Staff, AED and SEN
 permalink: /about-us/teaching-staff-aed-and-sen/
 description: ""
 ---
-<h4><strong>2022 Primary 1 Form Teachers</strong></h4>
+<h4><strong>2023 Primary 1 Form Teachers</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -113,7 +113,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4><strong>2022 Primary 2 Form Teachers</strong></h4>
+<h4><strong>2023 Primary 2 Form Teachers</strong></h4>
 <table>
 <tbody>
 <tr style="height: 18px;">
@@ -218,109 +218,94 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4><strong>2022 Primary 3 Form Teachers</strong></h4>
+<h4><strong>2023 Primary 3 Form Teachers</strong></h4>
 <div>
 <div>
 <table>
 <tbody>
 <tr>
-<th>Class</th>
-<th>Form Teacher's Name</th>
-<th>Email address</th>
+<th style="text-align: center;">Class</th>
+<th style="text-align: center;">Form Teacher's Name</th>
+<th style="text-align: center;">Email address</th>
 </tr>
 <tr>
-<td>3 Steadfast</td>
-<td>Mdm Sharifah Marziana Syed Zin</td>
-<td>sharifah_marziana_syed_zin@moe.edu.sg</td>
+<td style="text-align: center;">3 Steadfast</td>
+<td style="text-align: center;">Ms Joey Yeo</td>
+<td style="text-align: center;">joey_yeo@moe.edu.sg</td>
 </tr>
 <tr>
-<td>3 Steadfast</td>
-<td>Mdm Angeline Koh Po Yin</td>
-<td>koh_po_yin_angeline@moe.edu.sg</td>
+<td style="text-align: center;">3 Steadfast</td>
+<td style="text-align: center;">Mdm Lee_Hui_Zhi</td>
+<td style="text-align: center;">lee_hui_zhi@moe.edu.sg</td>
 </tr>
 <tr>
-<td>3 Optimistic</td>
-<td>Mrs Bernadine Dorett</td>
-<td>bernadine_dorett@moe.edu.sg</td>
+<td style="text-align: center;">3 Steadfast</td>
+<td style="text-align: center;">Mr Teo Jun Young Crosby</td>
+<td style="text-align: center;">teo_jun_young_crosby@moe.edu.sg</td>
 </tr>
 <tr>
-<td>3 Optimistic</td>
-<td>Mr Tan Wei Da</td>
-<td>tan_wei_da@moe.edu.sg</td>
+<td style="text-align: center;">3 Optimistic</td>
+<td style="text-align: center;">Ms Angelia Chew Yin Mui</td>
+<td style="text-align: center;">chew_yin_mui@moe.edu.sg</td>
 </tr>
 <tr>
-<td>3&nbsp;Unity</td>
-<td>Mdm Vjaya Lashmi D/O Tangavellu</td>
-<td>vjaya_lashmi_tangavellu@moe.edu.sg</td>
+<td style="text-align: center;">3 Optimistic</td>
+<td style="text-align: center;">Mdm Wang Wei</td>
+<td style="text-align: center;">wang_wei_a@moe.edu.sg</td>
 </tr>
 <tr>
-<td>3 Unity</td>
-<td>Ms Chua Chwee Tin Priscilla</td>
-<td>chua_chwee_tin_a@moe.edu.sg</td>
+<td style="text-align: center;">3 Unity</td>
+<td>Ms Tan Jie Qi</td>
+<td>tan_jie_qi_denise@moe.edu.sg</td>
 </tr>
 <tr>
-<td>3 Tenacity</td>
-<td>Ms Nanthiyni Selvaraja</td>
-<td>nanthiyni_selvaraja@moe.edu.sg</td>
+<td style="text-align: center;">3 Unity</td>
+<td>Mdm Mastura Bte Mohamed Yusoff</td>
+<td>mastura_mohamed_yusoff@moe.edu.sg</td>
 </tr>
 <tr>
-<td>3&nbsp;Tenacity</td>
-<td>Mr Sallahuddin Bin Yahya</td>
-<td>sallahuddin_b_yahya@moe.edu.sg</td>
+<td style="text-align: center;">3 Tenacity</td>
+<td style="text-align: center;">Mdm Goh Kheen Yong</td>
+<td style="text-align: center;">goh_kheen_yong@moe.edu.sg</td>
 </tr>
 <tr>
-<td>3 Humility</td>
-<td>Mdm Goh Dishi</td>
-<td>goh_dishi@moe.edu.sg</td>
+<td style="text-align: center;">3 Tenacity</td>
+<td style="text-align: center;">Ms Shaan Gan</td>
+<td style="text-align: center;">shaan_gan@moe.edu.sg</td>
 </tr>
 <tr>
-<td>3 Humility</td>
-<td>Mdm Wang Wei</td>
-<td>wang_wei_a@moe.edu.sg</td>
+<td style="text-align: center;">3 Humility</td>
+<td style="text-align: center;">Mdm Du Hui Jun Jane</td>
+<td style="text-align: center;">du_hui_jun_jane@moe.edu.sg</td>
 </tr>
 <tr>
-<td>3&nbsp;Virtuous</td>
-<td>Mdm Neo Soh Eng Pamela</td>
-<td>neo_soh_eng_pamela@moe.edu.sg</td>
+<td style="text-align: center;">3 Humility</td>
+<td style="text-align: center;">Mdm Lee Keng Chin</td>
+<td style="text-align: center;">lee_keng_chin@moe.edu.sg</td>
 </tr>
 <tr>
-<td>3&nbsp;Virtuous</td>
-<td>Mdm Law Gat Fai Jennifer</td>
-<td>jennifer_lim@moe.edu.sg</td>
+<td style="text-align: center;">3 Virtuous</td>
+<td style="text-align: center;">Mdm Ong Wenqi Wendy</td>
+<td style="text-align: center;">ong_wenqi_wendy@moe.edu.sg</td>
 </tr>
 <tr>
-<td>3 Inspiring</td>
-<td>Mdm Cheong Qi Li</td>
-<td>cheong_qi_li@moe.edu.sg</td>
+<td style="text-align: center;">3 Virtuous</td>
+<td style="text-align: center;">Ms Bibiana Wong Ying Ching</td>
+<td style="text-align: center;">wong_ying_ching_bibiana@moe.edu.sg</td>
 </tr>
 <tr>
-<td>3 Inspiring</td>
-<td>Ms Siti Aisyah Bte Waris</td>
-<td>siti_aisyah_waris@moe.edu.sg</td>
+<td style="text-align: center;">3 Inspiring</td>
+<td style="text-align: center;">Mrs Bernadine Dorett</td>
+<td style="text-align: center;">bernadine dorett@moe.edu.sg</td>
 </tr>
 <tr>
-<td>3&nbsp;Empathy</td>
-<td>Mdm Sim Yew Hong</td>
-<td>sim_yew_hong@moe.edu.sg</td>
-</tr>
-<tr>
-<td>3 Empathy</td>
-<td>Ms Teo Wee Sim</td>
-<td>teo_wee_sim@moe.edu.sg</td>
-</tr>
-<tr>
-<td>3&nbsp;Nobility</td>
-<td>Mdm Ng Hwee Mian</td>
-<td>ng_hwee_main@moe.edu.sg</td>
-</tr>
-<tr>
-<td>3 Nobility</td>
-<td>Ms Norhafiza Bte Mohamed Zaini</td>
-<td>norhafiza_mohamed_zaini@moe.edu.sg</td>
+<td style="text-align: center;">3 Inspiring</td>
+<td style="text-align: center;">Mr Cheong Chee Kin Terence</td>
+<td style="text-align: center;">cheong_chee_kin@moe.edu.sg</td>
 </tr>
 </tbody>
 </table>
-<h4><strong>2022 Primary 4 Form Teachers</strong></h4>
+<h4><strong>2023 Primary 4 Form Teachers</strong></h4>
 <div>
 <table>
 <tbody>
@@ -331,13 +316,13 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">4 Steadfast</td>
-<td style="text-align: center;">Ms Tan Jie Qi</td>
-<td style="text-align: center;">tan_jie_qi_denise@moe.edu.sg</td>
+<td style="text-align: center;">Mr Mohammed Fadzliegh Bin Nordin</td>
+<td style="text-align: center;">mohammed_fadzlieghnordin@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">4 Steadfast</td>
-<td style="text-align: center;">Ms Choy Yong En Carene</td>
-<td style="text-align: center;">choy_yong_en_carene@moe.edu.sg</td>
+<td style="text-align: center;">Mdm Vjaya Lashmi D/O Tangavellu</td>
+<td style="text-align: center;">vjaya_lashmi_tangavellu@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">4 Optimistic</td>
@@ -363,6 +348,11 @@ description: ""
 <td style="text-align: center;">4 Tenacity</td>
 <td style="text-align: center;">Ms Chin Hui Min Vanessa</td>
 <td style="text-align: center;">chin_hui_min_vanessa@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">4 Tenacity</td>
+<td style="text-align: center;">Mdm Nafisah Nurraudhah Bte Sa'dollah</td>
+<td style="text-align: center;">nafisah_nurraudhah_sado@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">4 Tenacity</td>
@@ -432,7 +422,7 @@ description: ""
 </tbody>
 </table>
 </div>
-<h4><strong>2022 Primary 5 Form Teachers</strong></h4>
+<h4><strong>2023 Primary 5 Form Teachers</strong></h4>
 </div>
 <div>
 <div>
@@ -642,82 +632,82 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4><strong>2022 Non-Form Teachers</strong></h4>
+<h4><strong>2023 Non-Form Teachers</strong></h4>
 <table>
 <tbody>
 <tr>
-<th>Class</th>
-<th>Teacher's Name</th>
-<th>Email address</th>
+<th style="text-align: center;">Class</th>
+<th style="text-align: center;">Teacher's Name</th>
+<th style="text-align: center;">Email address</th>
 </tr>
 <tr>
-<td>Non-Form</td>
-<td>Mdm Jaida Goh Lay Choo</td>
-<td>goh_lay_choo_jaida@moe.edu.sg</td>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Mdm Jaida Goh Lay Choo</td>
+<td style="text-align: center;">goh_lay_choo_jaida@moe.edu.sg</td>
 </tr>
 <tr>
-<td>Non-Form</td>
-<td>Mrs Doris Goh Han Tiong</td>
-<td>goh_han_tiong_doris@moe.edu.sg</td>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Mrs Doris Goh Han Tiong</td>
+<td style="text-align: center;">goh_han_tiong_doris@moe.edu.sg</td>
 </tr>
 <tr>
-<td>Non-Form</td>
-<td>Mr Yap Beng Hui</td>
-<td>yap_beng_hui@moe.edu.sg</td>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Mr Yap Beng Hui</td>
+<td style="text-align: center;">yap_beng_hui@moe.edu.sg</td>
 </tr>
 <tr>
-<td>Non-Form</td>
-<td>Mrs Brampy-Amirtammal Lakshmanan</td>
-<td>amirtammal_lakshmanan@moe.edu.sg</td>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Mrs Brampy-Amirtammal Lakshmanan</td>
+<td style="text-align: center;">amirtammal_lakshmanan@moe.edu.sg</td>
 </tr>
 <tr>
-<td>Non-Form</td>
-<td>Mdm Silvia Dennis</td>
-<td>silvia_dennis@moe.edu.sg</td>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Mdm Silvia Dennis</td>
+<td style="text-align: center;">silvia_dennis@moe.edu.sg</td>
 </tr>
 <tr>
-<td>Non-Form</td>
-<td>Ms Cheung Mee Hoong Karen</td>
-<td>cheung_mee_hoong_karen@moe.edu.sg</td>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Ms Cheung Mee Hoong Karen</td>
+<td style="text-align: center;">cheung_mee_hoong_karen@moe.edu.sg</td>
 </tr>
 <tr>
-<td>Non-Form</td>
-<td>Mdm Jeanette Yeo Yan Ting</td>
-<td>yeo_yan_ting_jeanette@moe.edu.sg</td>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Mdm Jeanette Yeo Yan Ting</td>
+<td style="text-align: center;">yeo_yan_ting_jeanette@moe.edu.sg</td>
 </tr>
 <tr>
-<td>Non-Form</td>
-<td>Mdm Chia Wee Cheng</td>
-<td>chia_wee_cheng@moe.edu.sg</td>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Mdm Chia Wee Cheng</td>
+<td style="text-align: center;">chia_wee_cheng@moe.edu.sg</td>
 </tr>
 </tbody>
 </table>
-<h4><strong>2021 Allied Educators</strong></h4>
+<h4><strong>2023 Allied Educators</strong></h4>
 <table>
 <tbody>
 <tr>
-<th>AED/Counsellor</th>
-<th>Name</th>
-<th>Email address</th>
+<th style="text-align: center;">AED/Counsellor</th>
+<th style="text-align: center;">Name</th>
+<th style="text-align: center;">Email address</th>
 </tr>
 <tr>
-<td>Senior AED (T&amp;L)</td>
-<td>Mdm Lee Li Peng</td>
-<td>lee_li_peng@moe.edu.sg</td>
+<td style="text-align: center;">Senior AED (T&amp;L)</td>
+<td style="text-align: center;">Mdm Lee Li Peng</td>
+<td style="text-align: center;">lee_li_peng@moe.edu.sg</td>
 </tr>
 <tr>
-<td>SEN Officer</td>
-<td>Mdm Nurul Ashikin Bte Ismail</td>
-<td>nurul_ashikin_ismail@moe.edu.sg</td>
+<td style="text-align: center;">SEN Officer</td>
+<td style="text-align: center;">Mdm Nurul Ashikin Bte Ismail</td>
+<td style="text-align: center;">nurul_ashikin_ismail@moe.edu.sg</td>
 </tr>
 <tr>
-<td>SEN Officer</td>
-<td>Mr Ahmad Hakim Bin Ahmad</td>
-<td>ahmad_hakim_ahmad@moe.edu.sg</td>
+<td style="text-align: center;">SEN Officer</td>
+<td style="text-align: center;">Mr Ahmad Hakim Bin Ahmad</td>
+<td style="text-align: center;">ahmad_hakim_ahmad@moe.edu.sg</td>
 </tr>
 </tbody>
 </table>
-<p>Deployment is subjected to changes at the management's discretion according to school's needs. No prior notice will be given.<br />Page updated on: 21 March 2022</p>
+<p>Deployment is subjected to changes at the management's discretion according to school's needs. No prior notice will be given.<br />Page updated on: 10 January 2023</p>
 </div>
 </div>
 </div>
