@@ -4,8 +4,7 @@ permalink: /about-us/non-teaching-staff/
 description: ""
 ---
 <h4><strong><u>Executive &amp; Administrative Staff</u></strong></h4>
-<img src="/images/2023%20EAS.jpg" style="height: 450px; width: 1500px">
-<table>
+<table style="width: 666px;">
 <tbody>
 <tr>
 <th style="text-align: center;">Designation</th>
@@ -80,7 +79,6 @@ description: ""
 </tbody>
 </table>
 <h4><strong><u>School Support Staff</u></strong></h4>
-<img src="/images/2023%20Support%20Staff.jpg" style="height: 250px; width: 1500px">
 <table style="width: 666px;">
 <tbody>
 <tr>
@@ -126,5 +124,23 @@ description: ""
 </tbody>
 </table>
 <h4><strong><u>School Counsellor</u></strong></h4>
-<img src="/images/2023%20Counsellor.jpg" style="height: 100px; width: 1500px">
-<p>Page updated on: 21 January 2022</p>
+<table style="width: 666px;">
+<tbody>
+<tr>
+<th style="text-align: center;">Designation</th>
+<th style="text-align: center;">Staff's Name</th>
+<th style="text-align: center;">Email address</th>
+</tr>
+<tr>
+<td style="text-align: center;">Counsellor</td>
+<td style="text-align: center;">Mr R Rajamohan</td>
+<td style="text-align: center;">r_rajamohan@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">Counsellor</td>
+<td style="text-align: center;">Mrs Chng Sai Tuan</td>
+<td style="text-align: center;">chng_sai_tuan@moe.edu.sg</td>
+</tr>
+</tbody>
+</table>
+<p>Page updated on: 10 January 2023</p>
