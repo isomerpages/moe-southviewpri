@@ -399,99 +399,79 @@ description: ""
 <table>
 <tbody>
 <tr>
-<th style="text-align: center; width: 84.3281px;">Class</th>
-<th style="text-align: center; width: 239.594px;">Form Teacher's Name</th>
-<th style="text-align: center; width: 301.812px;">Email address</th>
+<th style="text-align: center;">Class</th>
+<th style="text-align: center;">Form Teacher's Name</th>
+<th style="text-align: center;">Email address</th>
 </tr>
 <tr>
-<td style="text-align: center; width: 84.3281px;">5 Steadfast</td>
-<td style="text-align: center; width: 239.594px;">Mdm Liu Qiuyi</td>
-<td style="text-align: center; width: 301.812px;">liu_qiuyi@moe.edu.sg</td>
+<td style="text-align: center;">5 Steadfast</td>
+<td style="text-align: center;">Mr Nazaruddin B Mohamed Isnin</td>
+<td style="text-align: center;">nazaruddin_mohamed_isnin@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 84.3281px;">5 Steadfast</td>
-<td style="text-align: center; width: 239.594px;">Mdm Selena Akhbar</td>
-<td style="text-align: center; width: 301.812px;">selena_akhbar@moe.edu.sg</td>
+<td style="text-align: center;">5 Steadfast</td>
+<td style="text-align: center;">Mdm Teo Gee Hua Sylvia</td>
+<td style="text-align: center;">teo_gee_hua_sylvia@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 84.3281px;">5 Optimistic</td>
-<td style="text-align: center; width: 239.594px;">Mdm M'chelle Chan Kim Hong</td>
-<td style="text-align: center; width: 301.812px;">chan_kim_hong@moe.edu.sg</td>
+<td style="text-align: center;">5 Optimistic</td>
+<td style="text-align: center;">Mdm Chong Lee Chen</td>
+<td style="text-align: center;">chong_lee_chen@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 84.3281px;">5 Optimistic</td>
-<td style="text-align: center; width: 239.594px;">Mr Rayson Soh Li Sen</td>
-<td style="text-align: center; width: 301.812px;">rayson_soh_li_sen@moe.edu.sg</td>
+<td style="text-align: center;">5 Optimistic</td>
+<td style="text-align: center;">Mdm Norzelawati Bte Shariff</td>
+<td style="text-align: center;">norzelawati_shariff@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 84.3281px;">5 Unity</td>
-<td style="text-align: center; width: 239.594px;">Ms Tang Hui Qing Serene</td>
-<td style="text-align: center; width: 301.812px;">tang_hui_qing_serene@moe.edu.sg</td>
+<td style="text-align: center;">5 Unity</td>
+<td style="text-align: center;">Mdm Noor Azlinah Bte Abdul Aziz</td>
+<td style="text-align: center;">noor_azlinah_abdul_aziz@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 84.3281px;">5 Unity</td>
-<td style="text-align: center; width: 239.594px;">Mdm Boey Kah Lai</td>
-<td style="text-align: center; width: 301.812px;">boey_kah_lai@moe.edu.sg</td>
+<td style="text-align: center;">5 Unity</td>
+<td style="text-align: center;">Ms Choy Yong En Carene</td>
+<td style="text-align: center;">choy_yong_en_carene@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 84.3281px;">5 Tenacity</td>
-<td style="text-align: center; width: 239.594px;">Mdm Fun Pei Fen</td>
-<td style="text-align: center; width: 301.812px;">fun_pei_fen@moe.edu.sg</td>
+<td style="text-align: center;">5 Tenacity</td>
+<td style="text-align: center;">Mr Tong Zhi Loong Dominic</td>
+<td style="text-align: center;">tong_zhi_loong_dominic@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 84.3281px;">5 Tenacity</td>
-<td style="text-align: center; width: 239.594px;">Mdm Siti Raudhah Bte Yusoff</td>
-<td style="text-align: center; width: 301.812px;">siti_raudhah_yusoff@moe.edu.sg</td>
+<td style="text-align: center;">5 Tenacity</td>
+<td style="text-align: center;">Mr Ting Ming Chong Nicholas</td>
+<td style="text-align: center;">ting_ming_chong_nicholas@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 84.3281px;">5 Humility</td>
-<td style="text-align: center; width: 239.594px;">Ms Joey Yeo</td>
-<td style="text-align: center; width: 301.812px;">joey_yeo@moe.edu.sg</td>
+<td style="text-align: center;">5 Humility</td>
+<td style="text-align: center;">Mr Ng Chin Yong Ivan</td>
+<td style="text-align: center;">ng_chin_yong_ivan@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 84.3281px;">5 Humility</td>
-<td style="text-align: center; width: 239.594px;">Ms Salizah Bte Sudar</td>
-<td style="text-align: center; width: 301.812px;">salizah_sudar@moe.edu.sg</td>
+<td style="text-align: center;">5 Humility</td>
+<td style="text-align: center;">Mdm Cheong May Ling Karen</td>
+<td style="text-align: center;">cheong_may_ling_karen@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 84.3281px;">5 Virtuous</td>
-<td style="text-align: center; width: 239.594px;">Mr Nazaruddin B Mohamed Isnin</td>
-<td style="text-align: center; width: 301.812px;">nazaruddin_mohamed_isnin@moe.edu.sg</td>
+<td style="text-align: center;">5 Virtuous</td>
+<td style="text-align: center;">Mr Lam Jun Jie James</td>
+<td style="text-align: center;">lam_jun_jie_james@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 84.3281px;">5 Virtuous</td>
-<td style="text-align: center; width: 239.594px;">Mdm Peng Binglun</td>
-<td style="text-align: center; width: 301.812px;">peng_binglun@moe.edu.sg</td>
+<td style="text-align: center;">5 Virtuous</td>
+<td style="text-align: center;">Mdm Nafisah Nurraudhah Bte Sa'dollah</td>
+<td style="text-align: center;">nafisah_nurraudhah_sado@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 84.3281px;">5 Inspiring</td>
-<td style="text-align: center; width: 239.594px;">Mdm Damaria Sri Aminy Tumbuck</td>
-<td style="text-align: center; width: 301.812px;">damaria_sri_aminy_tumbuck@moe.edu.sg</td>
+<td style="text-align: center;">5 Inspiring</td>
+<td style="text-align: center;">Ms Chin Hui Min Vanessa</td>
+<td style="text-align: center;">chin_hui_min_vanessa@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 84.3281px;">5 Inspiring</td>
-<td style="text-align: center; width: 239.594px;">Mr Murad B Mohamad Taha</td>
-<td style="text-align: center; width: 301.812px;">murad_mohamad_taha@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center; width: 84.3281px;">5 Empathy</td>
-<td style="text-align: center; width: 239.594px;">Mr Lee Kim Joo</td>
-<td style="text-align: center; width: 301.812px;">lee_kim_joo@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center; width: 84.3281px;">5 Empathy</td>
-<td style="text-align: center; width: 239.594px;">Ms Nur Farhanah Bte Suhairi</td>
-<td style="text-align: center; width: 301.812px;">nur_farhanah_suhairi@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center; width: 84.3281px;">5 Nobility</td>
-<td style="text-align: center; width: 239.594px;">Mdm Hanita Bte Abd Aziz</td>
-<td style="text-align: center; width: 301.812px;">hanita_abd_aziz@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center; width: 84.3281px;">5 Nobility</td>
-<td style="text-align: center; width: 239.594px;">Mr Khor Tian Boon Nicholas</td>
-<td style="text-align: center; width: 301.812px;">khor_tian_boon_nicholas@moe.edu.sg</td>
+<td style="text-align: center;">5 Inspiring</td>
+<td style="text-align: center;">Mdm Majeena Rosia D/O Abdullah</td>
+<td style="text-align: center;">majeena_rosia_abdullah@moe.edu.sg</td>
 </tr>
 </tbody>
 </table>
