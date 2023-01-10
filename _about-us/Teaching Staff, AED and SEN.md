@@ -701,24 +701,14 @@ description: ""
 <td>lee_li_peng@moe.edu.sg</td>
 </tr>
 <tr>
-<td>AED (LBS)</td>
+<td>SEN Officer</td>
 <td>Mdm Nurul Ashikin Bte Ismail</td>
 <td>nurul_ashikin_ismail@moe.edu.sg</td>
 </tr>
 <tr>
-<td>AED (LBS)</td>
+<td>SEN Officer</td>
 <td>Mr Ahmad Hakim Bin Ahmad</td>
 <td>ahmad_hakim_ahmad@moe.edu.sg</td>
-</tr>
-<tr>
-<td>AED (Counsellor)</td>
-<td>Mr R Rajamohan</td>
-<td>r_rajamohan@moe.edu.sg</td>
-</tr>
-<tr>
-<td>School Counsellor</td>
-<td>Mrs Chng Sai Tuan</td>
-<td>chng_sai_tuan@moe.edu.sg</td>
 </tr>
 </tbody>
 </table>
