@@ -4,7 +4,7 @@ permalink: /about-us/non-teaching-staff/
 description: ""
 ---
 <h4><strong><u>Executive &amp; Administrative Staff</u></strong></h4>
-<table style="width: 666px;">
+<table>
 <tbody>
 <tr>
 <th style="text-align: center;">Designation</th>
@@ -79,7 +79,7 @@ description: ""
 </tbody>
 </table>
 <h4><strong><u>School Support Staff</u></strong></h4>
-<table style="width: 666px;">
+<table>
 <tbody>
 <tr>
 <th style="text-align: center; width: 288.875px;">Designation</th>
@@ -124,7 +124,7 @@ description: ""
 </tbody>
 </table>
 <h4><strong><u>School Counsellor</u></strong></h4>
-<table style="width: 666px;">
+<table>
 <tbody>
 <tr>
 <th style="text-align: center;">Designation</th>
