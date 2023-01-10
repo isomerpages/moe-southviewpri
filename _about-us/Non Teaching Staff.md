@@ -27,9 +27,9 @@ description: ""
 <td style="text-align: center;">foo_kong_weng@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center;">CSO</td>
-<td style="text-align: center;">Mdm Leong Wen Lin</td>
-<td style="text-align: center;">leong_wen_lin@moe.edu.sg</td>
+<td style="text-align: center;">Administrative Executive</td>
+<td style="text-align: center;">Mdm Joanne Pung Hong Eng</td>
+<td style="text-align: center;">joanne_pung_hong_eng@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">CSO</td>
