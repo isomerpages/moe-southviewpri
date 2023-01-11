@@ -21,7 +21,7 @@ third_nav_title: Weekly Notification
 <td style="text-align: center;"></td>
 </tr>
 <tr>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1VhV4Ac8Qwj_IzQXv0GEDmfUIHJJeitVu/view" target="_blank" rel="noopener">Week 1 / 5 Jan 2023</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1a8TDiUnzCCI-fdP3HCSuhpFhuguGiI5g/view" target="_blank" rel="noopener">Week 1 / 5 Jan 2023</a></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
