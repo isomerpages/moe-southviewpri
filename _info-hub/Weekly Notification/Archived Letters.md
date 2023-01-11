@@ -336,5 +336,3 @@ third_nav_title: Weekly Notification
 </tbody>
 </table>
 </div>
-</li>
-</ul>
