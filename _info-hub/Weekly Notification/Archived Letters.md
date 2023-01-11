@@ -1,11 +1,11 @@
 ---
 title: Archived Letters
-permalink: /info-hub/weekly-notification/archived-letters
+permalink: /info-hub/weekly-notification/archived-letters/
 description: ""
 third_nav_title: Weekly Notification
 ---
-<ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1"><strong>2021 Weekly Letters</strong></label>
+<p></p>
+<strong>2021 Weekly Letters</strong></label>
 <div>
 <table>
 <tbody>
@@ -86,7 +86,8 @@ third_nav_title: Weekly Notification
 <p>N.A. : No weekly notification for the week.</p>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2"><strong>2020 Weekly Letters</strong></label>
+<p></p>
+<strong>2020 Weekly Letters</strong></label>
 <div>
 <table>
 <tbody>
@@ -179,7 +180,8 @@ third_nav_title: Weekly Notification
 <p>N.A. : No weekly notification for the week.</p>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3"><strong>2019 Weekly Letters</strong></label>
+<p></p>
+<strong>2019 Weekly Letters</strong></label>
 <div>
 <table>
 <tbody>
