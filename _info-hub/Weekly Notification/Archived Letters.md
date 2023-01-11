@@ -268,7 +268,8 @@ third_nav_title: Weekly Notification
 <th style="text-align: center;">Term 4</th>
 </tr>
 <tr>
-<td style="text-align: center;"><a href="https://drive.google.com/drive/folders/1sEcMuDeQQqKugW8fL4LXv_m_LzlNqsGi?usp=sharing" target="">Week 0 / 3 Jan 2019</a><br /><a href="https://drive.google.com/drive/folders/1R5ZbvU35CmhH8MuJjRoPOnjKvVBVQxmM?usp=sharing" target="">After School Activities</a><br /><a href="https://drive.google.com/drive/folders/1RP4bQE7SYzFDcXd6ezXjXgzOVQW9bdIs?usp=sharing" target="">CCA Schedule</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/drive/folders/1sEcMuDeQQqKugW8fL4LXv_m_LzlNqsGi?usp=sharing" target="">Week 0 / 3 Jan 2019</a>
+</td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1PGAMKTkQdKjKZTWnFwvdVvjr_MmZhXdt/view?usp=sharing" target="">Week 1 / 28 Mar 2019</a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1z298xYfN-kb_WzuptC3rGCmHm1Fi01fN/view?usp=sharing" target="">Week 1 / 4 July 2019</a><u></u></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1jyuZwKpUNTPJN26lXT2ervoWcMFRPWHp/view?usp=sharing" target="">Week 1 / 19 Sept 2019</a></td>
@@ -310,8 +311,8 @@ third_nav_title: Weekly Notification
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1tpmvuXkA5x4mJi2CIglp1GVNiHrdZGtI/view?usp=sharing" target="">Week 7 / 31 Oct 2019</a></td>
 </tr>
 <tr>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1kFTtChFlCXNSHIce2NPdxd7uT6f99f8q/view?usp=sharing" target="">&nbsp;Week 7 / 21 Feb 2019</a><br /><a href="https://drive.google.com/file/d/1dLCIcL3l56GIFTCaa7nxg5TPhcdZwnO6/view?usp=sharing" target="">Calendar</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/drive/folders/1-Hurk8g08CbdT29Wae4AtEau7A6ZcZMg?usp=sharing" target="">Week 8 / 15 May 2019</a><br /><a href="https://drive.google.com/drive/folders/1dppQ1uWqc_zeGC0mZGO5Wif7amQ45UyE?usp=sharing" target="">Calendar</a><br /><a href="https://drive.google.com/drive/folders/1oeK91fD5w9xSmHsGOjF03lyOa8xNWGom?usp=sharing" target="">After School Activities</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1kFTtChFlCXNSHIce2NPdxd7uT6f99f8q/view?usp=sharing" target="">&nbsp;Week 7 / 21 Feb 2019</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/drive/folders/1-Hurk8g08CbdT29Wae4AtEau7A6ZcZMg?usp=sharing" target="">Week 8 / 15 May 2019</a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1BVh5275iFEAAJ1kMfNFG7v6WUDve_jQY/view?usp=sharing" target="">Week 8 / 22 Aug 2019</a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1V8FLhsGCVt06Orjrq8dnoKv-w4zceNI5/view?usp=sharing" target="">Week 8 / 7 Nov 2019</a></td>
 </tr>
@@ -329,9 +330,9 @@ third_nav_title: Weekly Notification
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;<a href="https://drive.google.com/file/d/1sVGzmx9QsqfX2yrRI5M63NcZw1ixEDJo/view?usp=sharing" target="">Week 10 / 14 Mar 2019</a></td>
-<td style="text-align: center;">&nbsp;N.A.</td>
-<td style="text-align: center;">&nbsp;N.A.</td>
-<td style="text-align: center;">&nbsp;N.A.</td>
+<td style="text-align: center;">N.A.</td>
+<td style="text-align: center;">N.A.</td>
+<td style="text-align: center;">N.A.</td>
 </tr>
 </tbody>
 </table>
