@@ -163,9 +163,8 @@ third_nav_title: Weekly Notification
 </table>
 <p>N.A. : No weekly notification for the week.</p>
 </div>
-</li>
 <p></p>
-<strong>2020 Weekly Letters</strong></label>
+<strong>2020 Weekly Letters</strong>
 <div>
 <table>
 <tbody>
