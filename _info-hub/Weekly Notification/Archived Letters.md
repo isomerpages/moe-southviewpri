@@ -83,7 +83,7 @@ third_nav_title: Weekly Notification
 </table>
 <p>N.A. : No weekly notification for the week.</p>
 <p></p>
-<strong>2021 Weekly Letters</strong></label>
+<strong>2021 Weekly Letters</strong>
 <div>
 <table>
 <tbody>
