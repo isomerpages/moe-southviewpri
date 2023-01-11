@@ -249,16 +249,15 @@ third_nav_title: Weekly Notification
 <tr>
 <td style="text-align: center;">N.A.</td>
 <td style="text-align: center;">N.A.</td>
-<td style="text-align: center;">N.A.&nbsp;</td>
+<td style="text-align: center;">N.A.</td>
 <td style="text-align: center;">N.A.</td>
 </tr>
 </tbody>
 </table>
 <p>N.A. : No weekly notification for the week.</p>
 </div>
-</li>
 <p></p>
-<strong>2019 Weekly Letters</strong></label>
+<strong>2019 Weekly Letters</strong>
 <div>
 <table>
 <tbody>
