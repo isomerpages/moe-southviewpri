@@ -9,3 +9,5 @@ description: ""
 
 <p><strong>2023 MOE Kindergarten Registration Exercise</strong><br/>
 The online registration for MOE Kindergarten (MK) 2024 K1 admissions will open from 9 am, 17 February 2023, till 4 pm, 21 February 2023.</p>
+
+<p>For further clarifications, please contact us at <u>6769 7176</u> or email enquiries to us at <a href="mailto:svps@moe.edu.sg" target="_blank" rel="noopener">svps@moe.edu.sg</p>
