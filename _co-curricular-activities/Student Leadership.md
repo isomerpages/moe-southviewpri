@@ -1,6 +1,6 @@
 ---
 title: Student Leadership
-permalink: /co-curricular-activities/student-leadership
+permalink: /co-curricular-activities/student-leadership/
 description: ""
 ---
 <img src="/images/sl.jpeg">

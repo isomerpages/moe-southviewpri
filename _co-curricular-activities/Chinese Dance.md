@@ -1,6 +1,6 @@
 ---
 title: Chinese Dance
-permalink: /co-curricular-activities/chinese-dance
+permalink: /co-curricular-activities/chinese-dance/
 description: ""
 ---
 <img src="/images/cd.jpeg">

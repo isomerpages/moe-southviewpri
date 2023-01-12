@@ -1,6 +1,6 @@
 ---
 title: Multi Sports
-permalink: /co-curricular-activities/multi-sports
+permalink: /co-curricular-activities/multi-sports/
 description: ""
 ---
 <img style="width: 100%;" src="/images/multi.jpeg">

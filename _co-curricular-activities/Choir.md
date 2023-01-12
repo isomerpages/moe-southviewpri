@@ -1,6 +1,6 @@
 ---
 title: Choir
-permalink: /co-curricular-activities/choir
+permalink: /co-curricular-activities/choir/
 description: ""
 ---
 <img style="width: 75%;" src="/images/choir.jpeg">

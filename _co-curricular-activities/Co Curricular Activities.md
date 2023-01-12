@@ -1,6 +1,6 @@
 ---
 title: Co Curricular Activities
-permalink: /co-curricular-activities
+permalink: /co-curricular-activities/
 description: ""
 ---
 <h4><strong>Clubs &amp; Societies</strong></h4>

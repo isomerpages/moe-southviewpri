@@ -1,6 +1,6 @@
 ---
 title: Operations
-permalink: /info-hub/operations
+permalink: /info-hub/operations/
 description: ""
 ---
 <p><u><strong>Safety<br /></strong></u>Our pupils&rsquo; safety is the highest priority and your cooperation is important to ensure the safety of our pupils and staff. We would like to remind parents on the following safety matters:</p>

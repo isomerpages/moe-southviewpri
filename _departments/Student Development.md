@@ -1,6 +1,6 @@
 ---
 title: Student Development
-permalink: /departments/student-development
+permalink: /departments/student-development/
 description: ""
 ---
 <img src="/images/sd1.jpg">

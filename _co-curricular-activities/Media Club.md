@@ -1,6 +1,6 @@
 ---
 title: Media Club
-permalink: /co-curricular-activities/media-club
+permalink: /co-curricular-activities/media-club/
 description: ""
 ---
 <img style="width: 75%;" src="/images/media.jpeg">

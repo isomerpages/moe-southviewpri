@@ -1,6 +1,6 @@
 ---
 title: Contact Information
-permalink: /info-hub/contact-information
+permalink: /info-hub/contact-information/
 description: ""
 ---
 <table border="0" width="80%" cellspacing="0" cellpadding="0">

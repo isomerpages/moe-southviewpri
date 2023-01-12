@@ -1,6 +1,6 @@
 ---
 title: Art Club
-permalink: /co-curricular-activities/art-club
+permalink: /co-curricular-activities/art-club/
 description: ""
 ---
 <img style="width: 75%;" src="/images/art.jpeg">

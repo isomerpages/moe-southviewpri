@@ -1,6 +1,6 @@
 ---
 title: Terms of Use
-permalink: /info-hub/terms-of-use
+permalink: /info-hub/terms-of-use/
 description: ""
 ---
 <p>Thank you for visiting South View Primary School&rsquo;s website.</p>

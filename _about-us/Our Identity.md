@@ -1,6 +1,6 @@
 ---
 title: Our Identity
-permalink: /about-us/our-identity
+permalink: /about-us/our-identity/
 description: ""
 ---
 <div><video preload="none" autoplay="autoplay" muted="" width="580" height="368" data-mce-fragment="1"></div></video>

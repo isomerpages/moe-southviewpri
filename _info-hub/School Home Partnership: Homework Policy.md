@@ -1,6 +1,6 @@
 ---
 title: "School Home Partnership: Homework Policy"
-permalink: /info-hub/school-home-partnership-homework-policy
+permalink: /info-hub/school-home-partnership-homework-policy/
 description: ""
 ---
 <h4><strong><u>Value of Homework</u></strong></h4>

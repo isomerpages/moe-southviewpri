@@ -1,6 +1,6 @@
 ---
 title: Science Club
-permalink: /co-curricular-activities/science-club
+permalink: /co-curricular-activities/science-club/
 description: ""
 ---
 <img style="width: 75%;" src="/images/sciencec.jpeg">

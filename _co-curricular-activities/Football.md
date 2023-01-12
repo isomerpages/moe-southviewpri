@@ -1,6 +1,6 @@
 ---
 title: Football
-permalink: /co-curricular-activities/football
+permalink: /co-curricular-activities/football/
 description: ""
 ---
 <img style="width: 75%;" src="/images/football.jpeg">

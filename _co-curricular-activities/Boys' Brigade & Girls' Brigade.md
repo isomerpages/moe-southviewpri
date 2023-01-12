@@ -1,6 +1,6 @@
 ---
 title: Boys' Brigade & Girls' Brigade
-permalink: /co-curricular-activities/boys-brigade-n-girls-brigade
+permalink: /co-curricular-activities/boys-brigade-n-girls-brigade/
 description: ""
 ---
 <img style="width: 48%;" src="/images/bb.jpeg" align = "left">

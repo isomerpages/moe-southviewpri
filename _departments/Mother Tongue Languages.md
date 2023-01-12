@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue Languages
-permalink: /departments/mother-tongue-languages
+permalink: /departments/mother-tongue-languages/
 description: ""
 ---
 <img src="/images/MT.jpg">

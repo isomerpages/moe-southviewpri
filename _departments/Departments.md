@@ -1,6 +1,6 @@
 ---
 title: Departments
-permalink: /departments
+permalink: /departments/
 description: ""
 ---
 <img style="width: 50%;" src="/images/d1.jpeg" />
