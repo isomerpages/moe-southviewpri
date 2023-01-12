@@ -1,6 +1,6 @@
 ---
 title: Welcome Back To School
-permalink: /departments/student-development/welcome-back-to-school
+permalink: /departments/student-development/welcome-back-to-school/
 description: ""
 ---
 

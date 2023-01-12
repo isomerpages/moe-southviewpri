@@ -1,6 +1,6 @@
 ---
 title: History
-permalink: /our-partners/parents-association/about-svpa/history
+permalink: /our-partners/parents-association/about-svpa/history/
 description: ""
 ---
 <h4><strong>History</strong></h4>

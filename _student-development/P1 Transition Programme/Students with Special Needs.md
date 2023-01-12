@@ -1,6 +1,6 @@
 ---
 title: Students with Special Needs
-permalink: /departments/student-development/p1-transition-programme/students-with-special-needs
+permalink: /departments/student-development/p1-transition-programme/students-with-special-needs/
 description: ""
 third_nav_title: P1 Transition Programme
 ---

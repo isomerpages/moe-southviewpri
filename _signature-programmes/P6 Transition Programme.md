@@ -1,6 +1,6 @@
 ---
 title: P6 Transition Programme
-permalink: /departments/student-development/p6-transition-programme
+permalink: /departments/student-development/p6-transition-programme/
 description: ""
 ---
 <p>To prepare our P6 pupils for a smooth transition to secondary school, the school customised a transition programme for the pupils, aiming to equip them with life skills that will encourage self-awareness, self-directedness, independence and confidence. In addition, pupils would be able to adapt to changes and make responsible decisions.</p>

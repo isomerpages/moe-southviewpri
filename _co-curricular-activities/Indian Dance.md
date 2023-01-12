@@ -1,6 +1,6 @@
 ---
 title: Indian Dance
-permalink: /co-curricular-activities/indian-dance
+permalink: /co-curricular-activities/indian-dance/
 description: ""
 ---
 <img style="width: 75%;" src="/images/indian.jpeg">

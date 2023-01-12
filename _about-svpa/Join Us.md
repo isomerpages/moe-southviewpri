@@ -1,6 +1,6 @@
 ---
 title: Join Us
-permalink: /our-partners/parents-association/about-svpa/join-us
+permalink: /our-partners/parents-association/about-svpa/join-us/
 description: ""
 ---
 <h4>Reasons to join SVPA</h4>

@@ -1,6 +1,6 @@
 ---
 title: School Rules
-permalink: /info-hub/school-rules
+permalink: /info-hub/school-rules/
 description: ""
 ---
 <p>Students of South View Primary School play an important role in maintaining a good image of the school.</p>

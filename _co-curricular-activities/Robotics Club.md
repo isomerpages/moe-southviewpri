@@ -1,6 +1,6 @@
 ---
 title: Robotics Club
-permalink: /co-curricular-activities/robotics-club
+permalink: /co-curricular-activities/robotics-club/
 description: ""
 ---
 <img style="width: 75%;" src="/images/robotics.jpeg" />

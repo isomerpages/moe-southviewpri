@@ -1,6 +1,6 @@
 ---
 title: Floorball
-permalink: /co-curricular-activities/floorball
+permalink: /co-curricular-activities/floorball/
 description: ""
 ---
 <p><u><strong>Teachers-in-charge</strong></u></p>

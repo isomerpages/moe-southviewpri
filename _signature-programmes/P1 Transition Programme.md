@@ -1,6 +1,6 @@
 ---
 title: P1 Transition Programme
-permalink: /departments/student-development/p1-transition-programme
+permalink: /departments/student-development/p1-transition-programme/
 description: ""
 ---
 <p>&ldquo;We Love, We Can, We Learn&rdquo; is a Primary 1 transition programme unique to South View Primary School.</p>

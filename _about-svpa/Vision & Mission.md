@@ -1,6 +1,6 @@
 ---
 title: Vision & Mission
-permalink: /our-partners/parents-association/about-svpa/vision-mission
+permalink: /our-partners/parents-association/about-svpa/vision-mission/
 description: ""
 ---
 <h4><strong>Our Vision</strong></h4>

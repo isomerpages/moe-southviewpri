@@ -1,6 +1,6 @@
 ---
 title: Family Matters @ SV
-permalink: /our-partners/family-matters-at-sv
+permalink: /our-partners/family-matters-at-sv/
 description: ""
 ---
 <p><strong>Parenting Support Programmes<br /></strong>There is no hard and fast rule book for raising children, but it is surprising how many familiar parenting problems have very simple solutions. From anger outbursts, tantrums, defiance, unhealthy gaming habits to establishing a regular homework routine &ndash; the issues you face aren&rsquo;t unique to your family. In fact, they are commonplace. That is why&nbsp;<a href="https://www.triplep-parenting.net/global/triple-p/" target="_blank" rel="noopener">Triple P Positive Parenting Programmes</a>&nbsp;can help.</p>

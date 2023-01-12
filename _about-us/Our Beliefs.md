@@ -1,6 +1,6 @@
 ---
 title: Our Beliefs
-permalink: /about-us/our-beliefs
+permalink: /about-us/our-beliefs/
 description: ""
 ---
 <p><u><strong>Vision<br /></strong></u>The school vision is one where we aspire to bring out the personal best in everyone in all endeavours. We want to build a culture of learning where staff and pupils are encouraged to deepen their learning and be anchored on values.</p>

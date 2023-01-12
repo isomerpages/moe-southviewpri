@@ -1,6 +1,6 @@
 ---
 title: Signature Programmes
-permalink: /signature-programmes
+permalink: /signature-programmes/
 description: ""
 ---
 <table>

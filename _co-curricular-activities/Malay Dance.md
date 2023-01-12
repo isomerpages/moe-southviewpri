@@ -1,6 +1,6 @@
 ---
 title: Malay Dance
-permalink: /co-curricular-activities/malay-dance
+permalink: /co-curricular-activities/malay-dance/
 description: ""
 ---
 <img style="width: 75%;" src="/images/malay.jpeg">

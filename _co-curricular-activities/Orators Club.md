@@ -1,6 +1,6 @@
 ---
 title: Orators Club
-permalink: /co-curricular-activities/orators-club
+permalink: /co-curricular-activities/orators-club/
 description: ""
 ---
 <img style="width: 75%;"  src="/images/orators.jpeg" />

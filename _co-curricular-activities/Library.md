@@ -1,6 +1,6 @@
 ---
 title: Library
-permalink: /co-curricular-activities/library
+permalink: /co-curricular-activities/library/
 description: ""
 ---
 <img style="width: 75%;" src="/images/library.jpeg">

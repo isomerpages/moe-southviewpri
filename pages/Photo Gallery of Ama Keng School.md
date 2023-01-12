@@ -1,6 +1,6 @@
 ---
 title: Photo Gallery of Ama Keng School
-permalink: /other/photo-gallery-of-ama-keng-school
+permalink: /other/photo-gallery-of-ama-keng-school/
 description: ""
 ---
 <img src="/images/gallery2.png"><br>

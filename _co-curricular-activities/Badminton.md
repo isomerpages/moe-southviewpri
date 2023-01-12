@@ -1,6 +1,6 @@
 ---
 title: Badminton
-permalink: /co-curricular-activities/badminton
+permalink: /co-curricular-activities/badminton/
 description: ""
 ---
 <img style="width: 75%;" src="/images/badminton.jpeg">

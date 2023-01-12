@@ -1,6 +1,6 @@
 ---
 title: Privacy Statement
-permalink: /info-hub/privacy-statement
+permalink: /info-hub/privacy-statement/
 description: ""
 ---
 <p>1. This is South View Primary School&rsquo;s website. Thank you for examining our privacy statement.</p>

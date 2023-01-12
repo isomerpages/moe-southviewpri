@@ -1,6 +1,6 @@
 ---
 title: Sustaining Gaia through Project Work
-permalink: /departments/curriculum-innovation-n-educational-technology/sustaining-gaia-through-project-work
+permalink: /departments/curriculum-innovation-n-educational-technology/sustaining-gaia-through-project-work/
 description: ""
 ---
 <p><strong><u>Applied Learning Programme &ndash; Project Work<br /></u></strong>ALP provides meaningful and purposeful age-appropriate opportunities for real-life application of learning. It allows for experimentation, self-discovery and joy of learning. The school has designed its own Project Work Programme. The programme spans across six levels. The programme aims to:<br />&bull; allow each student to see the applicative use of subjects<br />&bull; imbibe values through experiential learning<br />&bull; develop students&rsquo; Social Emotional competencies and 21CC skills<br />&bull; promote creativity and innovation&nbsp;<br />&bull; promote Self-directed Learning (SDL) and Collaborative Learning (CoL)</p>

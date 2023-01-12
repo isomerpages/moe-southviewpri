@@ -1,6 +1,6 @@
 ---
 title: Character & Citizenship Education
-permalink: /departments/character-n-citizenship-education
+permalink: /departments/character-n-citizenship-education/
 description: ""
 ---
 <img src="/images/CCE.jpg">

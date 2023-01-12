@@ -1,6 +1,6 @@
 ---
 title: Scouts
-permalink: /co-curricular-activities/scouts
+permalink: /co-curricular-activities/scouts/
 description: ""
 ---
 <img style="width: 75%;" src="/images/scouts.jpeg">

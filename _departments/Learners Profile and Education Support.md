@@ -1,6 +1,6 @@
 ---
 title: Learners Profile and Education Support
-permalink: /departments/learners-profile-and-education-support
+permalink: /departments/learners-profile-and-education-support/
 description: ""
 ---
 <img src="/images/lpes1.jpg">

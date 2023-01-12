@@ -1,6 +1,6 @@
 ---
 title: Netball
-permalink: /co-curricular-activities/netball
+permalink: /co-curricular-activities/netball/
 description: ""
 ---
 <img style="width: 75%;" src="/images/netball.jpeg">

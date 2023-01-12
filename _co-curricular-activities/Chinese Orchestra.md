@@ -1,6 +1,6 @@
 ---
 title: Chinese Orchestra
-permalink: /co-curricular-activities/chinese-orchestra
+permalink: /co-curricular-activities/chinese-orchestra/
 description: ""
 ---
 <img style="width: 75%;" src="/images/co.jpeg">
