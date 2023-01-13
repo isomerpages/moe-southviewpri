@@ -3,5 +3,4 @@ title: P6 Transition Programme
 permalink: /departments/student-development/p6-transition-programme-ready-sec-go/
 description: ""
 ---
-
-[Ready, Sec, Go!](https://www.southviewpri.moe.edu.sg/departments/student-development/primary-6-transition-programme-ready-sec-go/)
+[Ready, Sec, Go!](https://moe-southviewpri-staging.netlify.app//departments/student-development/primary-6-transition-programme-ready-sec-go/)
