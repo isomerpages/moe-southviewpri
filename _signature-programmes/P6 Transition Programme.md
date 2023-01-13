@@ -4,8 +4,7 @@ permalink: /departments/student-development/p6-transition-programme/
 description: ""
 ---
 &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; <title>P6 Transition Programme</title>  
-&nbsp; &nbsp; &nbsp;  
+&nbsp; &nbsp; &nbsp; &nbsp; <title>P6 Transition Programme</title>
 &nbsp; &nbsp; &nbsp;
 &nbsp; &nbsp;  
 &nbsp; &nbsp;  
