@@ -41,18 +41,18 @@ links:
       - title: Learners Profile and Education
         url: /departments/learners-profile-and-education-support
   - title: Signature Programmes
-    url: /signature-programmes
+    url: /signature-programmes/
     sublinks:
       - title: Love Dance, Love Life!
-        url: /departments/physical-n-health-education-cca-n-aesthetics/love-dance-love-life
+        url: /signature-programmes/physical-n-health-education-cca-n-aesthetics/love-dance-love-life
       - title: GastroChef
-        url: /departments/physical-n-health-education-cca-n-aesthetics/gastrochef-with-a-cultural-twist
+        url: /signature-programmes/physical-n-health-education-cca-n-aesthetics/gastrochef-with-a-cultural-twist
       - title: P1 Transition Programme
-        url: /departments/student-development/p1-transition-programme
+        url: /signature-programmes/student-development/p1-transition-programme
       - title: P6 Transition Programme
-        url: /departments/student-development/primary-6-transition-programme-ready-sec-go/
+        url: /signature-programmes/student-development/primary-6-transition-programme-ready-sec-go/
       - title: Sustaining Gaia through PW
-        url: /departments/curriculum-innovation-n-educational-technology/sustaining-gaia-through-project-work
+        url: /signature-programmes/curriculum-innovation-n-educational-technology/sustaining-gaia-through-project-work
   - title: Co-Curricular Activities
     url: /co-curricular-activities
     sublinks:
