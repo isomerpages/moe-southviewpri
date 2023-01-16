@@ -10,4 +10,4 @@ description: ""
 <p><u>Mondays</u><br /><em>(P2 &amp; P3 - Term 1 &amp; 2)&nbsp;</em><br />2.00 p.m. to 4.00 p.m.<br />(only during SYF period)</p>
 <p><u>Thursdays</u><br /><em>(P4, P5 &amp; P6)</em><br />2.00 p.m. to 4.00 p.m.</p>
 
-<p>Page last updated on: 10 Jan 2023</p>
+<p>Page last updated on: 17 Jan 2023</p>
