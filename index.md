@@ -17,5 +17,5 @@ sections:
           url: /info-hub/road-safety-and-security
         - title: MOE Kindergarten
           description: "@ South View"
-          url: /MOE-Kindergarten/MOE-Kindergarten-at-South-View/
+          url: /moe-Kindergarten/moe-kindergarten-at-south-view/
 ---
