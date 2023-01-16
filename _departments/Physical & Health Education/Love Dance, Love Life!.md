@@ -44,7 +44,6 @@ third_nav_title: Physical & Health Education
 <li>Learn basic skills and forms of expression of Malay Dance</li>
 <li>Heighten their self and social-awareness and develop an appreciation for the cultural art form through learning about the history, dance steps and expressions</li>
 <li>Develop life skills such as self-discipline, confidence, team spirit and resilience</li>
-</ol>
 </td>
 <td>P2</td>
 <td>Term 4</td>
