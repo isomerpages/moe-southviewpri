@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: South View Primary School
+title: Sitemap
 description: An Isomer site of the Singapore Government
 image: /images/crest.gif
 permalink: /
@@ -16,3 +16,4 @@ sections:
           description: Until end of Dec 2023
           url: /info-hub/road-safety-and-security
 ---
+
