@@ -11,4 +11,4 @@ description: ""
 <p><u>Thursdays</u><br />2.00 p.m. to 4.00 p.m.</p>
 <p><u>Selected Saturdays</u><br />9.00 a.m. to 11.30 a.m.</p>
 
-<p>Page last updated on: 10 May 2022</p>
+<p>Page last updated on: 10 Jan 2023</p>
