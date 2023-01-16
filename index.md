@@ -12,9 +12,9 @@ sections:
         - title: Highlight 1
           description: SVPS VIRTUAL TOUR
           url: https://4d.silvrcraft.com/svps360/
-        - title: Parent Kit
-          description: This Parent Kit shares fun...
-          url: https://www.moe.gov.sg/parentkit.
+        - title: Announcement - Closure of Gate 3
+          description: Till end of Dec 2023
+          url: /infohub/road-safety-and-security
         - title: WE STories
           description: Click Here for 2020 WE Stories
           url: https://drive.google.com/file/d/1GFvgxzIKKu5nWzIl0OvDRpiRiHYr3Yfq/view
