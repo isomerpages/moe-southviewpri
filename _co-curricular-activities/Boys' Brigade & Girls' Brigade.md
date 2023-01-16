@@ -10,5 +10,5 @@ description: ""
 <p><u><strong>Schedule</strong></u></p>
 <p><u>Thursdays</u><br />2.00 p.m. to 4.00 p.m.</p>
 <p><u>Selected Saturdays</u><br />9.00 a.m. to 11.30 a.m.</p>
-<p>Click <a href="https://drive.google.com/open?id=1KRAb7DT2GV-_DaON9vNDiPJ-ld1Li-Z_" target="_blank" rel="noopener"><strong>here</strong></a> to access letters and photos.</p>
+
 <p>Page last updated on: 10 May 2022</p>
