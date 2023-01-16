@@ -28,9 +28,9 @@ description: ""
 <p>2023 Semester 2</p>
 </td>
 <td style="text-align: center;">
-<a>Calendar</a>
-<a>After-School Activities Schedule</a>
-<a>Overall CCA Schedule</a>
+<p>Calendar<br>
+After-School Activities Schedule<br>
+Overall CCA Schedule</p>
 </td>
 </tr>
 </tbody>
