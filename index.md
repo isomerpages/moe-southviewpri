@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/svps.gif
+      background: /images/Main.jpg
       key_highlights:
         - title: Highlight
           description: SVPS VIRTUAL TOUR
