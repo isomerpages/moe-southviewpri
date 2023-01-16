@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Rules.md
       - SVPS Message for 2023.md
       - Our Beliefs.md
       - Our Identity.md
@@ -10,3 +9,4 @@ collections:
       - Teaching Staff, AED and SEN.md
       - Non Teaching Staff.md
       - SVPS School Virtual Tour.md
+      - School Rules.md
