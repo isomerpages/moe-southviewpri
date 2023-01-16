@@ -9,8 +9,8 @@ sections:
   - hero:
       background: /images/svps.gif
       key_highlights:
-        - title: South View Primary School Virtual Tour
-          description: VIRTUAL TOUR
+        - title: Highlight 1
+          description: SVPS VIRTUAL TOUR
           url: https://4d.silvrcraft.com/svps360/
         - title: Parent Kit
           description: This Parent Kit shares fun...
