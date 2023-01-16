@@ -59,12 +59,10 @@ description: ""
 <tr>
 <td>Dance with props and a storyline (Lyrical Hip Hop)</td>
 <td>&nbsp;To enable students to learn:<br />
-<ol>
 <li>The history and evolution of lyrical hip-hop dance</li>
 <li>Basic skills of lyrical hip-hop dance and costume/prop making</li>
 <li>Apply skills learnt from art and creative movement programme to learn and perform a Lyrical Hip Hop Dance with a story line on stage or virtual platform</li>
 <li>Develop life skills such as self-discipline, confidence, team spirit and resilience</li>
-</ol>
 </td>
 <td>P4</td>
 <td>Term 2 - Term 3</td>
@@ -72,11 +70,9 @@ description: ""
 <tr>
 <td>Singing with Movement&nbsp;</td>
 <td>&nbsp;To enable students to:<br />
-<ol>
 <li>Learn skills of sing and dance at the same time</li>
 <li>Apply skills learnt from music and creative movement programme to learn and produce a class performance</li>
 <li>Develop life skills such as self-discipline confidence, team spirit and resilience</li>
-</ol>
 </td>
 <td>P5</td>
 <td>Term 4</td>
