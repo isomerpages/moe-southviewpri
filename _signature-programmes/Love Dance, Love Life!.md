@@ -3,7 +3,6 @@ title: Love Dance, Love Life!
 permalink: /signature-programmes/physical-n-health-education-cca-n-aesthetics/love-dance-love-life/
 description: ""
 ---
-
 <p>"Love Dance. Love Life!" is our very own Learning for Life Programme in South View.</p>
 <p>South View&rsquo;s approach to promote Music, Visual and Performing is borne out of its vision to be A School of Passionate Learners with A Heart to Serve.</p>
 <p>The school wants to inspire students to initiate, innovate and explore new ideas to achieve excellence in all endeavours. The school&rsquo;s continuous effort in the provision of a broad-based and holistic learning is aligned to MOE&rsquo;s Holistic Education&nbsp;Framework with the aims to:</p>
@@ -31,14 +30,10 @@ description: ""
 <tr>
 <td>Chinese Dance and Costume Making</td>
 <td>To enable students to:<br />
-<ol>
 <li>Learn basic skills of Chinese Dance and costume making</li>
 <li>Heighten their self-awareness and develop an appreciation for the cultural art form through learning about the history, dance steps and expressions</li>
 <li>Develop life skills such as self-discipline, confidence, team spirit and resilience</li>
-</ol>
 </td>
-<td>P1</td>
-<td>Term 1</td>
 </tr>
 <tr>
 <td>Malay Dance</td>
