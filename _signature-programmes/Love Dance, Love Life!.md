@@ -48,12 +48,10 @@ description: ""
 <tr>
 <td>Indian Dance with percussion props</td>
 <td>&nbsp;To enable students to:<br />
-<ol>
 <li>Learn basic skills and forms of expression of Indian Dance</li>
 <li>Apply skills learnt from music and perform a Indian Dance</li>
 <li>Develop their SE skills and appreciation for the cultural art form through learning about the history, dance steps and expressions</li>
 <li>Develop life skills such as self-discipline, confidence, team spirit and resilience</li>
-</ol>
 </td>
 <td>P3</td>
 <td>Term 4<br /></td>
