@@ -80,11 +80,9 @@ description: ""
 <tr>
 <td>Choreography</td>
 <td>&nbsp;To enable students to:<br />
-<ol>
 <li>Learn basic choreography</li>
 <li>Apply dance, music and art skills to choreograph a class dance and perform confidently on stage or virtual platform</li>
 <li>Develop life skills such as self-discipline, confidence, team spirit and resilience</li>
-</ol>
 </td>
 <td>P6</td>
 <td>Term 4 Post-<br />Exam Activity</td>
@@ -92,13 +90,10 @@ description: ""
 <tr>
 <td>P6 Dance Farewell</td>
 <td>
-<ol>
-<li>To enable students to showcase what they have learnt to their peers and teachers</li>
-<li>This performance also aims to build students' self-confidence while they have fun and enjoy the dance and music</li>
+</li>
 <li>To encourage students to be innovative and creative in their choreographing and to show team-spirit in their dance presentation</li>
 <li>We want the students to celebrate everyone's success</li>
 <li>This dance farewell is the highlight of the Primary 6 post-exam activities and a platform for celebration and evaluation of the 6-year structured LLP programme</li>
-</ol>
 </td>
 <td>P6</td>
 <td>Term 4 Post-<br />Exam Activity&nbsp;</td>
