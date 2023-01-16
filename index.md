@@ -13,7 +13,7 @@ sections:
           description: SVPS VIRTUAL TOUR
           url: https://4d.silvrcraft.com/svps360/
         - title: Announcement - Closure of Gate 3
-          description: Till end of Dec 2023
+          description: Until end of Dec 2023
           url: /info-hub/road-safety-and-security
         - title: WE STories
           description: Click Here for 2020 WE Stories
