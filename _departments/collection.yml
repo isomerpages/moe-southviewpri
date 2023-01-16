@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Student Development.md
       - Departments.md
       - English Language/.keep
       - English Language/English Language.md
@@ -18,9 +17,9 @@ collections:
       - Physical & Health Education/GastroChef With A Cultural Twist.md
       - Physical & Health Education/Values in Action (VIA) in CCA.md
       - Physical & Health Education/Programme for Active Learning (PAL).md
+      - CIE Technology/.keep
       - CIE Technology/Sustaining Gaia through Project Work.md
       - CIE Technology/Curriculum, Innovation & Educational Technology.md
-      - CIE Technology/.keep
       - Pupil Well Being/.keep
       - Pupil Well Being/Pupil Well Being.md
       - Pupil Well Being/MOE Sexuality Education in Schools.md
@@ -29,4 +28,5 @@ collections:
       - Pupil Well Being/Parents Gateway.md
       - Pupil Well Being/Use of Photographs and Videos for School Publicity.md
       - Character & Citizenship Education.md
+      - Student Development.md
       - Learners Profile and Education Support.md
