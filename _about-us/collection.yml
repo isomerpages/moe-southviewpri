@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Rules.md
       - SVPS Message for 2023.md
       - Our Beliefs.md
       - Our Identity.md
