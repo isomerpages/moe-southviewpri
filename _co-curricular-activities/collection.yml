@@ -1,0 +1,27 @@
+collections:
+  co-curricular-activities:
+    output: true
+    order:
+      - Co Curricular Activities.md
+      - Art Club.md
+      - Badminton.md
+      - Boys' Brigade & Girls' Brigade.md
+      - Chinese Dance.md
+      - Chinese Orchestra.md
+      - Choir.md
+      - Floorball.md
+      - Football.md
+      - Indian Dance.md
+      - Library.md
+      - Malay Dance.md
+      - Media Club.md
+      - Multi Sports.md
+      - Netball.md
+      - Orators Club.md
+      - Robotics Club.md
+      - Science Club.md
+      - Scouts.md
+      - Student Leadership.md
+      - The Oasis.md
+      - Tink!SV.md
+      - VIA in CCA.md

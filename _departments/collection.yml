@@ -1,0 +1,31 @@
+collections:
+  departments:
+    output: true
+    order:
+      - Departments.md
+      - English Language/.keep
+      - English Language/English Language.md
+      - English Language/School Library.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue Languages.md
+      - Physical & Health Education/.keep
+      - Physical & Health Education/Physical & Health Education, CCA &
+        Aesthetics.md
+      - Physical & Health Education/Love Dance, Love Life!.md
+      - Physical & Health Education/GastroChef With A Cultural Twist.md
+      - Physical & Health Education/Values in Action (VIA) in CCA.md
+      - Physical & Health Education/Programme for Active Learning (PAL).md
+      - CIE Technology/.keep
+      - CIE Technology/Sustaining Gaia through Project Work.md
+      - CIE Technology/Curriculum, Innovation & Educational Technology.md
+      - Pupil Well Being/.keep
+      - Pupil Well Being/Pupil Well Being.md
+      - Pupil Well Being/MOE Sexuality Education in Schools.md
+      - Pupil Well Being/Counselling.md
+      - Pupil Well Being/Modes of Communication with the School.md
+      - Pupil Well Being/Parents Gateway.md
+      - Pupil Well Being/Use of Photographs and Videos for School Publicity.md
+      - Character & Citizenship Education.md
+      - Student Development.md
+      - Learners Profile and Education Support.md

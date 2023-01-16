@@ -1,17 +1,147 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Page
-    url: /page/
-  - title: Collection
-    collection: collection
-  - title: Resource
-    resource_room: true
+  - title: About Us
+    url: /about-us/SVPS-Message-for-2023
+    sublinks:
+      - title: SVPS Message for 2023
+        url: /about-us/SVPS-Message-for-2023
+      - title: Our Beliefs
+        url: /about-us/our-beliefs
+      - title: Our Identity
+        url: /about-us/our-identity
+      - title: School Leaders & Key Personnel
+        url: /about-us/school-leaders-n-key-personnel
+      - title: Teaching Staff, AED and SEN
+        url: /about-us/teaching-staff-aed-and-sen
+      - title: Non Teaching Staff
+        url: /about-us/non-teaching-staff
+      - title: SVPS School Virtual Tour
+        url: https://4d.silvrcraft.com/svps360/
+      - title: School Rules
+        url: /about-us/school-rules
+  - title: Departments
+    url: /departments
+    sublinks:
+      - title: English Language
+        url: /departments/english-language
+      - title: Mathematics
+        url: /departments/mathematics
+      - title: Science
+        url: /departments/science
+      - title: Mother Tongue Languages
+        url: /departments/mother-tongue-languages
+      - title: Physical & Health Education
+        url: /departments/physical-n-health-education-cca-n-aesthetics
+      - title: CIE Technology
+        url: /departments/curriculum-innovation-n-educational-technology
+      - title: Pupil Well Being
+        url: /departments/pupil-well-being
+      - title: CCE
+        url: /departments/character-n-citizenship-education
+      - title: Student Development
+        url: /student-development/
+      - title: Learners Profile and Education
+        url: /departments/learners-profile-and-education-support
+  - title: Signature Programmes
+    url: /signature-programmes/
+    sublinks:
+      - title: Love Dance, Love Life!
+        url: /signature-programmes/love-dance-love-life/
+      - title: GastroChef
+        url: /signature-programmes/physical-n-health-education-cca-n-aesthetics/gastrochef-with-a-cultural-twist
+      - title: P1 Transition Programme
+        url: /student-development/p1-transition-programme/
+      - title: P6 Transition Programme
+        url: /student-development/primary-6-transition-programme-ready-sec-go/
+      - title: Sustaining Gaia through PW
+        url: /signature-programmes/sustaining-gaia-through-project-work/
+  - title: Co-Curricular Activities
+    url: /co-curricular-activities
+    sublinks:
+      - title: Art Club
+        url: /co-curricular-activities/art-club
+      - title: Badminton
+        url: /co-curricular-activities/badminton
+      - title: Boys' Brigade & Girls' Brigade
+        url: /co-curricular-activities/boys-brigade-n-girls-brigade
+      - title: Chinese Dance
+        url: /co-curricular-activities/chinese-dance
+      - title: Chinese Orchestra
+        url: /co-curricular-activities/chinese-orchestra
+      - title: Choir
+        url: /co-curricular-activities/choir
+      - title: Floorball
+        url: /co-curricular-activities/floorball
+      - title: Football
+        url: /co-curricular-activities/football
+      - title: Indian Dance
+        url: /co-curricular-activities/indian-dance
+      - title: Library
+        url: /co-curricular-activities/library
+      - title: Malay Dance
+        url: /co-curricular-activities/malay-dance
+      - title: Media Club
+        url: /co-curricular-activities/media-club
+      - title: Multi-Sports
+        url: /co-curricular-activities/multi-sports
+      - title: Netball
+        url: /co-curricular-activities/netball
+      - title: Orators Club
+        url: /co-curricular-activities/orators-club
+      - title: Robotics Club
+        url: /co-curricular-activities/robotics-club
+      - title: Science Club
+        url: /co-curricular-activities/science-club
+      - title: Scouts
+        url: /co-curricular-activities/scouts
+      - title: Student Leadership
+        url: /co-curricular-activities/student-leadership
+      - title: The Oasis
+        url: /co-curricular-activities/the-oasis
+      - title: Tink!SV
+        url: /co-curricular-activities/tink-sv
+      - title: VIA in CCA
+        url: co-curricular-activities/via-in-cca
+  - title: Our Partners
+    url: /our-partners/school-advisory-committee
+    sublinks:
+      - title: School Advisory Committee
+        url: /our-partners/school-advisory-committee
+      - title: Parents Association
+        url: /our-partners/parents-association
+      - title: Family Matters @ SV
+        url: /our-partners/family-matters-at-sv
+      - title: Alumni Association
+        url: /our-partners/alumni-association
+  - title: Info Hub
+    url: /info-hub/weekly-notification
+    sublinks:
+      - title: Weekly Notification
+        url: /info-hub/weekly-notification
+      - title: School-related Services
+        url: /info-hub/school-related-services
+      - title: School Rules
+        url: /info-hub/school-rules
+      - title: MOE Sexuality Education
+        url: /departments/pupil-well-being/moe-sexuality-education-in-schools
+      - title: P1 Registration
+        url: /info-hub/p1-registration/p1-registration-exercise
+      - title: Road Safety and Security
+        url: /info-hub/road-safety-and-security
+      - title: Calendar / Schedules
+        url: /info-hub/calendar-schedules
+      - title: SLS & Student iCON Matters
+        url: /info-hub/student-learning-space-and-student-icon-matters-general
+      - title: School-Home-Partnership
+        url: /info-hub/school-home-partnership-homework-policy
+      - title: E-Forms
+        url: /info-hub/e-forms
+      - title: Contact Information
+        url: /info-hub/contact-information
+      - title: Terms of Use
+        url: /info-hub/terms-of-use
+      - title: Privacy Statement
+        url: /info-hub/privacy-statement
+  - title: MOE Kindergarten
+    url: /MOE-Kindergarten/MOE-Kindergarten-at-South-View
+    sublinks: []

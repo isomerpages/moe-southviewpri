@@ -1,0 +1,20 @@
+collections:
+  student-development:
+    output: true
+    order:
+      - Student Development.md
+      - Welcome Back To School.md
+      - P1 Transition Programme/.keep
+      - P1 Transition Programme/P1 Transition Programme.md
+      - P1 Transition Programme/Preparing for P1.md
+      - P1 Transition Programme/Useful Links & Articles.md
+      - P1 Transition Programme/P1 Orientation.md
+      - P1 Transition Programme/SVPS School Virtual Tour.md
+      - P1 Transition Programme/SVPS Student Portal.md
+      - "P1 Transition Programme/2022 Primary 1 #StayHomeStayCurious
+        Challenges.md"
+      - P1 Transition Programme/School related Services.md
+      - P1 Transition Programme/Students with Special Needs.md
+      - P1 Transition Programme/Information regarding starting Primary 1 in
+        2023.md
+      - Primary 6 Transition Programme – Ready, Sec, Go!.md
