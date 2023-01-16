@@ -4,8 +4,8 @@ permalink: /info-hub/administration/p1-registration-exercise/
 description: ""
 third_nav_title: P1 Registration
 ---
-<p><strong>2022 PRIMARY ONE (P1) REGISTRATION EXERCISE FOR ADMISSION TO P1 IN 2023</strong></p>
-<p>The 2022 P1 Registration Exercise (P1 Ex) details will be announced at later date. For more information, please visit&nbsp;<a href="https://www.moe.gov.sg/admissions/primary-one-registration/" target="_blank" rel="noopener">https://www.moe.gov.sg/admissions/primary-one-registration/</a>.</p>
+<p><strong>2023 PRIMARY ONE (P1) REGISTRATION EXERCISE FOR ADMISSION TO P1 IN 2023</strong></p>
+<p>The 2023 P1 Registration Exercise (P1 Ex) details will be announced at later date. For more information, please visit&nbsp;<a href="https://www.moe.gov.sg/admissions/primary-one-registration/" target="_blank" rel="noopener">https://www.moe.gov.sg/admissions/primary-one-registration/</a>.</p>
 <p><u>1. Registration Phases and Procedures</u></p>
 <p>For more details on registration phases and procedures, please visit&nbsp;<a href="https://www.moe.gov.sg/admissions/primary-one-registration/phases" target=""><u>https://www.moe.gov.sg/admissions/primary-one-registration/phases</u></a>.</p>
 <p><u>2. Non-Tamil Indian Languages (NTIL)&nbsp;Classes from 2019</u></p>
