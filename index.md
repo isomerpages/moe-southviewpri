@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/svps.gif
       key_highlights:
-        - title: Highlight 1
+        - title: Highlight
           description: SVPS VIRTUAL TOUR
           url: https://4d.silvrcraft.com/svps360/
         - title: Announcement - Closure of Gate 3
