@@ -14,7 +14,7 @@ sections:
           url: https://4d.silvrcraft.com/svps360/
         - title: Announcement - Closure of Gate 3
           description: Until end of Dec 2023
-          url: /info-hub/road-safety-and-security
+          url: /announcements/closure-of-gate-3-due-to-moe-kindergarten-mk-works/
         - title: MOE Kindergarten
           description: "@ South View"
           url: /moe-Kindergarten/moe-kindergarten-at-south-view/
