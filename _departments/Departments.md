@@ -22,4 +22,4 @@ description: ""
 <img style="width: 50%;" src="/images/d9.jpeg" />
 <p style="text-align: center;"><a href="/departments/science" target="">Science</a></p>
 <img style="width: 50%;" src="/images/d10.jpeg" />
-<p style="text-align: center;"><a href="/departments/student-development" target="">Student Development</a></p>
+<p style="text-align: center;"><a href="/student-development" target="">Student Development</a></p>
