@@ -15,7 +15,4 @@ sections:
         - title: Announcement - Closure of Gate 3
           description: Until end of Dec 2023
           url: /info-hub/road-safety-and-security
-        - title: WE STories
-          description: Click Here for 2020 WE Stories
-          url: https://drive.google.com/file/d/1GFvgxzIKKu5nWzIl0OvDRpiRiHYr3Yfq/view
 ---
