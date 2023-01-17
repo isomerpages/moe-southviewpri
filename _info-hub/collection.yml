@@ -2,7 +2,6 @@ collections:
   info-hub:
     output: true
     order:
-      - Contact Information.md
       - Weekly Notification/.keep
       - Weekly Notification/Weekly Notification.md
       - Weekly Notification/Archived Letters.md
@@ -24,3 +23,4 @@ collections:
       - P1 Registration/.keep
       - P1 Registration/P1 Registration Exercise.md
       - P1 Registration/Communication.md
+      - Contact Information.md
