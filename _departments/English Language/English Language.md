@@ -4,8 +4,6 @@ permalink: /departments/english-language/
 description: ""
 third_nav_title: English Language
 ---
-
-
 <img src="/images/el1.jpg">
 <p>The English Language programmes aim to nurture positive learning dispositions, skills and attitudes in our Southviens.</p>
 <p>We are preparing them to:</p>
@@ -57,7 +55,7 @@ third_nav_title: English Language
 </td>
 <td style="text-align: center;">Primary 1</td>
 <td style="text-align: center;">
-<p>Term 2</p>
+<p>Curriculum time</p>
 </td>
 </tr>
 <tr>
@@ -67,7 +65,7 @@ third_nav_title: English Language
 </td>
 <td style="text-align: center;">Primary 2</td>
 <td style="text-align: center;">
-<p>Term 2</p>
+<p>Curriculum time</p>
 </td>
 </tr>
 <tr>
@@ -80,16 +78,16 @@ third_nav_title: English Language
 </tr>
 <tr>
 <td>
-<p>Speak Out, Speak Up &ndash; Choral Speaking</p>
+<p>Speak Up, Speak Out &ndash; Public Speaking</p>
 </td>
 <td>
-<p>Teach expression and movement to convey meaning creatively</p>
+<p>Teach skills to captivate the attention of the audience and write a speech to engage the audience</p>
 </td>
 <td style="text-align: center;">
 <p>Primary 4</p>
 </td>
 <td style="text-align: center;">
-<p>Term 2</p>
+<p>Curriculum time</p>
 </td>
 </tr>
 <tr>
@@ -100,16 +98,6 @@ third_nav_title: English Language
 <td style="text-align: center;">
 <p>Primary 5</p>
 </td>
-<td style="text-align: center;">
-<p>Term 1</p>
-</td>
-</tr>
-<tr>
-<td>Speak Up, Speak Out &ndash; Public Speaking</td>
-<td>
-<p>Teach skills to captivate the attention of the audience and write a speech to engage the audience</p>
-</td>
-<td style="text-align: center;">Primary 6</td>
 <td style="text-align: center;">
 <p>Term 1</p>
 </td>
