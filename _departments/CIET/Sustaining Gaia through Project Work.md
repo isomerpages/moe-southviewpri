@@ -10,7 +10,6 @@ third_nav_title: CIET
 <strong>ALP – Project Work (PW)</strong><br/>
 The school’s Applied Learning Programme (ALP), Sustaining Gaia, develops students from having awareness of environmental issues to demonstrating advocacy towards environmental issues through project work at the different levels. It provides an integrated learning experience and opportunities for students to explore the inter-connectedness and inter-relationships of subject-specific knowledge. Through meaningful activities and outdoor learning experiences, students will learn to communicate and collaborate to develop independent learning skills.
 </p>
-</div>
 <table>
 <tbody>
 <tr>
