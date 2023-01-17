@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Visual & Performing Arts/Art Club.md
       - Visual & Performing Arts/.keep
       - Uniformed Groups/Scouts.md
       - Uniformed Groups/Boys' Brigade & Girls' Brigade.md
