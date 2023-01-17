@@ -17,10 +17,9 @@ third_nav_title: CIET
 * To ensure learning continues seamlessly in different learning contexts (physical or digital)
 
 <p><strong><u>Key Programmes/Platforms<br /></strong>
-	
-	
 
 | Programmes/Platforms | Description | Time Frame & Target Audience |
+|----------|---------|---------|
 | (ALP) Sustaining Gaia |  The different level programmes progressively develops students from having awareness of environmental issues to demonstrating advocacy towards environmental issues through project work.| P1 - P6, curriculum time|
 | Tink!SV | A learning space equipped with resources to allow students to hone their creative and problem-solving skills by participating in maker recess activities and completing their ALP projects| P1 - P6, during recess|
 |ICT Familiarisation|  Students get hands-on experience independently accessing SLS and Student iCON during the Welcome Back to School programme to ensure they are ready to use these platforms for active learning with technology the rest of the year.|P2 - P6, during WBTS (first 4 days of school)
