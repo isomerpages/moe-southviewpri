@@ -15,7 +15,4 @@ sections:
         - title: Announcement - Closure of Gate 3
           description: Until end of Dec 2023
           url: /announcements/closure-of-gate-3-due-to-moe-kindergarten-mk-works/
-        - title: MOE Kindergarten
-          description: "@ South View"
-          url: /moe-Kindergarten/moe-kindergarten-at-south-view/
 ---
