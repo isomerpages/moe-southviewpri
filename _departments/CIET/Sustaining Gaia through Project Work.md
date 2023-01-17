@@ -31,4 +31,4 @@ The school’s Applied Learning Programme (ALP), Sustaining Gaia, develops stude
 </tr>
 </tbody>
 </table>
-<p>Page last updated: 21 June 2021</p>
+<p>Page last updated: 17 Jan 2023</p>
