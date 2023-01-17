@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/chinese-dance/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-<img style="width: 61%;" src="/images/cca14.jpeg">
+<img style="width: 61%;" src="/images/cca17.jpg">
 <p><u><strong>Teachers-in-charge</strong></u></p>
 <p>Mdm Choung Hui Ming<br />Mdm New Chye Fong<br />Ms Jiao Yu Jie<br />Mdm Liang Xuexia</p>
 <p><u><strong>Schedule</strong></u></p>
