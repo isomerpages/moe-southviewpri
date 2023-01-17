@@ -1,4 +1,5 @@
 collections:
   moe-kindergarten:
     output: true
-    order: []
+    order:
+      - MOE Kindergarten @ South View.md
