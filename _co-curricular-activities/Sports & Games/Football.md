@@ -4,8 +4,7 @@ permalink: /co-curricular-activities/football/
 description: ""
 third_nav_title: Sports & Games
 ---
-
-<img style="width: 75%;" src="/images/football.jpeg">
+<img style="width: 50%;" src="/images/football.jpeg">
 
 <p><u><strong>Teachers-in-charge</strong></u></p>
 <p>Mr Rayson Soh<br />Mr Nur Ismadi Bte Mohd Esa<br />Mr Zainal Ariffin Bin Kassim</p>
