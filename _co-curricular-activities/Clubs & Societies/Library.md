@@ -4,8 +4,7 @@ permalink: /co-curricular-activities/library/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-
-<img style="width: 75%;" src="/images/library.jpeg">
+<img style="width: 50%;" src="/images/library.jpeg">
 <p><u><strong>Teachers-in-charge</strong></u></p>
 <p>Ms Vanessa Chin Hui Min<br />Mdm Majeena Rosia D/O Abdullah<br />Mdm Hanita Bte Abdul Aziz</p>
 <p><u><strong>Schedule</strong></u></p>
