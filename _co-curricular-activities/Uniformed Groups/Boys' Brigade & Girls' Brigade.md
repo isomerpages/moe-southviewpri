@@ -4,9 +4,15 @@ permalink: /co-curricular-activities/boys-brigade-n-girls-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/bb.jpeg" align = "right"></td>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/gb.jpeg" align = "left"></td>
+</tr>
+</tbody>
+</table>
 
-<img style="width: 48%;" src="/images/bb.jpeg" align = "left">
-<img style="width: 48%;" src="/images/gb.jpeg" align = "right"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p><u><strong>Teachers-in-charge</strong></u></p>
 <p>Mr Khor Tian Boon Nicholas<br />Mrs Ser-Goh Siew Ngor<br />Mdm Lee Yin Ping<br/>Mr Teo Jun Young Crosby</p>
 <p><u><strong>Schedule</strong></u></p>
