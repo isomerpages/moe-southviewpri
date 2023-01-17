@@ -4,8 +4,7 @@ permalink: /co-curricular-activities/chinese-orchestra/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-
-<img style="width: 75%;" src="/images/co.jpeg">
+<img style="width: 50%;" src="/images/co.jpeg">
 <p><u><strong>Teachers-in-charge</strong></u></p>
 <p>Mr Tan Weida<br />Mdm Liu Yun<br />Ms Yu Naishan<br />Mdm Guo Wei</p>
 <p><u><strong>Schedule</strong></u></p>
