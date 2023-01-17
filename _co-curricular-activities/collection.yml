@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs & Societies/Robotics Club.md
       - Clubs & Societies/Science Club.md
       - Clubs & Societies/.keep
       - Co Curricular Activities.md
