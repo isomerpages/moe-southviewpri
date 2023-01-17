@@ -2,8 +2,9 @@
 title: Scouts
 permalink: /co-curricular-activities/scouts/
 description: ""
+third_nav_title: Uniformed Groups
 ---
-<img style="width: 75%;" src="/images/scouts.jpeg">
+<img style="width: 50%;" src="/images/scouts.jpeg">
 <p><u><strong>Teachers-in-charge</strong></u></p>
 <p>Ms Nanthiyni Selvaraja<br />Mr Nazaruddin B Mohamed Isnin</p>
 <p><u><strong>Schedule</strong></u></p>

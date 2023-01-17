@@ -2,8 +2,9 @@
 title: Choir
 permalink: /co-curricular-activities/choir/
 description: ""
+third_nav_title: Visual & Performing Arts
 ---
-<img style="width: 75%;" src="/images/choir.jpeg">
+<img style="width: 50%;" src="/images/choir.jpeg">
 
 <p><u><strong>Teachers-in-charge</strong></u></p>
 <p>Ms Choy Yong En Carene<br />Mrs Bernadine Dorett<br />Mrs Woo Mun Lan<br />Mr Lam Jun Jie James</p>

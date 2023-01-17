@@ -2,8 +2,9 @@
 title: Badminton
 permalink: /co-curricular-activities/badminton/
 description: ""
+third_nav_title: Sports & Games
 ---
-<img style="width: 75%;" src="/images/badminton.jpeg">
+<img style="width: 50%;" src="/images/badminton.jpeg">
 <p><u><strong>Teachers-in-charge</strong></u></p>
 <p>Mdm Boey Kah Lai<br />Mdm See Lina<br />Mrs Lim-Goh Kheen Yong<br />Mdm Tang Mei Fong<br />Mdm Lei Jiayan Jean</p>
 <p><u><strong>Schedule</strong></u></p>

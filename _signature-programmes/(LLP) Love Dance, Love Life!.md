@@ -1,8 +1,9 @@
 ---
-title: Love Dance, Love Life!
-permalink: /signature-programmes/love-dance-love-life/
+title: (LLP) Love Dance, Love Life!
+permalink: /signature-programmes/llp-love-dance-love-life/
 description: ""
 ---
+
 
 <p>"Love Dance. Love Life!" is our very own Learning for Life Programme in South View.</p>
 <p>South View&rsquo;s approach to promote Music, Visual and Performing is borne out of its vision to be A School of Passionate Learners with A Heart to Serve.</p>

@@ -3,22 +3,27 @@ collections:
     output: true
     order:
       - Co Curricular Activities.md
-      - Art Club.md
-      - Badminton.md
-      - Boys' Brigade & Girls' Brigade.md
-      - Cultural Dance.md
-      - Chinese Orchestra.md
-      - Choir.md
-      - Floorball.md
-      - Football.md
-      - Library.md
-      - Media@SV.md
-      - Multi Sports.md
-      - Netball.md
-      - Orators Club.md
-      - Robotics Club.md
-      - Science Club.md
-      - Scouts.md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/Library.md
+      - Clubs & Societies/Media Club.md
+      - Clubs & Societies/Orators Club.md
+      - Clubs & Societies/Robotics Club.md
+      - Clubs & Societies/Science Club.md
+      - Sports & Games/.keep
+      - Sports & Games/Badminton.md
+      - Sports & Games/Football.md
+      - Sports & Games/Netball.md
+      - Sports & Games/Multi Sports.md
+      - Sports & Games/Floorball.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Boys' Brigade & Girls' Brigade.md
+      - Uniformed Groups/Scouts.md
+      - Visual & Performing Arts/.keep
+      - Visual & Performing Arts/Art Club.md
+      - Visual & Performing Arts/Chinese Dance.md
+      - Visual & Performing Arts/Chinese Orchestra.md
+      - Visual & Performing Arts/Choir.md
+      - Visual & Performing Arts/Indian Dance.md
+      - Visual & Performing Arts/Malay Dance.md
       - Student Leadership.md
       - The Oasis.md
-      - Tink!SV.md

@@ -1,10 +1,8 @@
 ---
-title: Curriculum, Innovation & Educational Technology
-permalink: /departments/curriculum-innovation-n-educational-technology/
+title: School Assessment Policy
+permalink: /info-hub/school-assessment-policy/
 description: ""
-third_nav_title: CIE Technology
 ---
-<img src="/images/CIET.jpg">
 <p><strong><u>Assessment policy<br /></u></strong>For the conduct of the <u>weighted assessment </u>tasks carried out in different terms for&nbsp;<u>P3 to P6</u>, we would like to bring your attention to the following:</p>
 <p><u><strong>Observation of punctuality</strong></u></p>
 <ul>
@@ -19,5 +17,5 @@ third_nav_title: CIE Technology
 <li>For pupils whose external competition/exam dates clash with the internal school examination dates, they are to re-schedule their external competition/exam dates.</li>
 <li>No make-up examination will be arranged for the absentees.</li>
 </ul>
-<p><strong>Level Assessment plans<br /></strong>This document provides a detailed breakdown and description of the different types of assessment tasks carried out in the course of the academic year, by the level, and across all the relevant subjects.<br /><strong><em>Assessment plans have been sent via Parents&rsquo; Gateway Announcement.&nbsp;</em></strong></p>
-<p>Page last updated: 5 March 2021</p>
+<p><strong>Level Assessment plans<br /></strong>This document provides a detailed breakdown and description of the different types of assessment tasks carried out in the course of the academic year, by the level, and across all the relevant subjects.<br /><strong><em>Assessment plans are sent via Parents&rsquo; Gateway Announcement.&nbsp;</em></strong></p>
+<p>Page last updated: 17 Jan 2023</p>

@@ -2,8 +2,9 @@
 title: Multi Sports
 permalink: /co-curricular-activities/multi-sports/
 description: ""
+third_nav_title: Sports & Games
 ---
-<img style="width: 100%;" src="/images/multi.jpeg">
+<img style="width: 65%;" src="/images/multi.jpeg">
 <p><u><strong>Teachers-in-charge</strong></u></p>
 <p>Ms Shaan Gan<br />Mdm Haslinda Bte Othman<br />Siti Aisyah Binte Waris<br/>Ms Lee Hui Zhi<br/>Mr Murad B Mohamad Taha</p>
 <p><u><strong>Schedule</strong></u></p>

@@ -32,7 +32,7 @@ links:
         url: /departments/mother-tongue-languages
       - title: Physical & Health Education
         url: /departments/physical-n-health-education-cca-n-aesthetics
-      - title: CIE Technology
+      - title: CIET
         url: /departments/curriculum-innovation-n-educational-technology
       - title: Pupil Well Being
         url: /departments/pupil-well-being
@@ -45,57 +45,31 @@ links:
   - title: Signature Programmes
     url: /signature-programmes/
     sublinks:
-      - title: Love Dance, Love Life!
-        url: /signature-programmes/love-dance-love-life/
-      - title: GastroChef
-        url: /signature-programmes/physical-n-health-education-cca-n-aesthetics/gastrochef-with-a-cultural-twist
+      - title: (LLP) Love Dance, Love Life!
+        url: /signature-programmes/llp-love-dance-love-life/
+      - title: (ALP) Sustaining Gaia
+        url: /departments/ciet/alp-sustaining-gaia/
       - title: P1 Transition Programme
         url: /student-development/p1-transition-programme/
       - title: P6 Transition Programme
         url: /student-development/primary-6-transition-programme-ready-sec-go/
-      - title: Sustaining Gaia through PW
-        url: /signature-programmes/sustaining-gaia-through-project-work/
+      - title: GastroChef
+        url: /signature-programmes/physical-n-health-education-cca-n-aesthetics/gastrochef-with-a-cultural-twist
   - title: CCAs
     url: /co-curricular-activities
     sublinks:
-      - title: Art Club
-        url: /co-curricular-activities/art-club
-      - title: Badminton
-        url: /co-curricular-activities/badminton
-      - title: Boys' Brigade & Girls' Brigade
-        url: /co-curricular-activities/boys-brigade-n-girls-brigade
-      - title: Cultural Dance
-        url: /co-curricular-activities/cultural-dance
-      - title: Chinese Orchestra
-        url: /co-curricular-activities/chinese-orchestra
-      - title: Choir
-        url: /co-curricular-activities/choir
-      - title: Floorball
-        url: /co-curricular-activities/floorball
-      - title: Football
-        url: /co-curricular-activities/football
-      - title: Library
+      - title: Clubs & Societies
         url: /co-curricular-activities/library
-      - title: Media Club
-        url: /co-curricular-activities/media-club
-      - title: Multi-Sports
-        url: /co-curricular-activities/multi-sports
-      - title: Netball
-        url: /co-curricular-activities/netball
-      - title: Orators Club
-        url: /co-curricular-activities/orators-club
-      - title: Robotics Club
-        url: /co-curricular-activities/robotics-club
-      - title: Science Club
-        url: /co-curricular-activities/science-club
-      - title: Scouts
-        url: /co-curricular-activities/scouts
+      - title: Sports & Games
+        url: /co-curricular-activities/badminton
+      - title: Uniformed Groups
+        url: /co-curricular-activities/boys-brigade-n-girls-brigade
+      - title: Visual & Performing Arts
+        url: /co-curricular-activities/art-club
       - title: Student Leadership
         url: /co-curricular-activities/student-leadership
       - title: The Oasis
         url: /co-curricular-activities/the-oasis
-      - title: Tink!SV
-        url: /co-curricular-activities/tink-sv
   - title: Our Partners
     url: /our-partners/school-advisory-committee
     sublinks:
@@ -124,15 +98,13 @@ links:
         url: /info-hub/road-safety-and-security
       - title: School-Home-Partnership
         url: /info-hub/school-home-partnership-homework-policy
+      - title: School Assessment Policy
+        url: /info-hub/school-assessment-policy
       - title: MOE Sexuality Education
         url: /departments/pupil-well-being/moe-sexuality-education-in-schools
       - title: P1 Registration
         url: /info-hub/p1-registration/p1-registration-exercise
       - title: Contact Information
         url: /info-hub/contact-information
-      - title: Terms of Use
-        url: /info-hub/terms-of-use
-      - title: Privacy Statement
-        url: /info-hub/privacy-statement
   - title: MOE Kindergarten
     collection: moe-kindergarten
