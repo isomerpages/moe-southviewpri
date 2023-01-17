@@ -4,8 +4,7 @@ permalink: /co-curricular-activities/netball/
 description: ""
 third_nav_title: Sports & Games
 ---
-
-<img style="width: 75%;" src="/images/netball.jpeg">
+<img style="width: 50%;" src="/images/netball.jpeg">
 <p><u><strong>Teachers-in-charge</strong></u></p>
 <p>Mdm Hamidah Binte Abdol Hamid<br />Mdm Ou Wen Lien<br />Ms Rosnaini Bte Abdul Rasid</p>
 <p><u><strong>Schedule</strong></u></p>
