@@ -4,8 +4,7 @@ permalink: /co-curricular-activities/science-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-
-<img style="width: 75%;" src="/images/sciencec.jpeg">
+<img style="width: 50%;" src="/images/sciencec.jpeg">
 <p><u><strong>Teachers-in-charge</strong></u></p>
 <p>Mrs Sylvia Loo-Teo Gee Hua<br />Mdm Goh Dishi April<br />Ms Cheong Qi Li<br />Mdm Noor Azlinah Bte Abdul Aziz<br />Mdm Sharifah Marziana Bte Syed Zin</p>
 <p><u><strong>Schedule</strong></u></p>
