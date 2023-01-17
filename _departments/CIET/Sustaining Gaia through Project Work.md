@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CIET
 ---
 <p><strong><u>Applied Learning Programme &ndash; Project Work<br /></u></strong>
-<p>ALP/ LLP provides meaningful and purposeful age-appropriate opportunities for real-life application of learning. They allow for experimentation, self-discovery and joy of learning. The programmes focus on providing opportunities for holistic development. 
+<p>ALP/ LLP provides meaningful and purposeful age-appropriate opportunities for real-life application of learning. They allow for experimentation, self-discovery and joy of learning. The programmes focus on providing opportunities for holistic development.<br/>
 
 <strong>ALP – Project Work (PW)</strong><br/>
 The school’s Applied Learning Programme (ALP), Sustaining Gaia, develops students from having awareness of environmental issues to demonstrating advocacy towards environmental issues through project work at the different levels. It provides an integrated learning experience and opportunities for students to explore the inter-connectedness and inter-relationships of subject-specific knowledge. Through meaningful activities and outdoor learning experiences, students will learn to communicate and collaborate to develop independent learning skills.
