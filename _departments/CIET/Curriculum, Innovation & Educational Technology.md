@@ -16,7 +16,7 @@ third_nav_title: CIET
 * To develop future-ready learners who possess MOE 21st century competencies and digital literacies.
 * To ensure learning continues seamlessly in different learning contexts (physical or digital)
 
-<p><strong><u>Key Programmes/Platforms<br /></strong>
+<p><strong><u>Key Programmes/Platforms</strong><br/>
 
 | Programmes/Platforms | Description | Time Frame & Target Audience |
 |----------|---------|---------|
