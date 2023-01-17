@@ -18,4 +18,4 @@ description: ""
 <li>No make-up examination will be arranged for the absentees.</li>
 </ul>
 <p><strong>Level Assessment plans<br /></strong>This document provides a detailed breakdown and description of the different types of assessment tasks carried out in the course of the academic year, by the level, and across all the relevant subjects.<br /><strong><em>Assessment plans are sent via Parents&rsquo; Gateway Announcement.&nbsp;</em></strong></p>
-<p>Page last updated: 5 March 2021</p>
+<p>Page last updated: 17 Jan 2023</p>
