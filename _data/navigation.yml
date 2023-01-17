@@ -55,7 +55,7 @@ links:
         url: /student-development/primary-6-transition-programme-ready-sec-go/
       - title: Sustaining Gaia through PW
         url: /signature-programmes/sustaining-gaia-through-project-work/
-  - title: Co-Curricular Activities
+  - title: CCAs
     url: /co-curricular-activities
     sublinks:
       - title: Art Club
@@ -64,8 +64,8 @@ links:
         url: /co-curricular-activities/badminton
       - title: Boys' Brigade & Girls' Brigade
         url: /co-curricular-activities/boys-brigade-n-girls-brigade
-      - title: Chinese Dance
-        url: /co-curricular-activities/chinese-dance
+      - title: Cultural Dance
+        url: /co-curricular-activities/cultural-dance
       - title: Chinese Orchestra
         url: /co-curricular-activities/chinese-orchestra
       - title: Choir
@@ -74,12 +74,8 @@ links:
         url: /co-curricular-activities/floorball
       - title: Football
         url: /co-curricular-activities/football
-      - title: Indian Dance
-        url: /co-curricular-activities/indian-dance
       - title: Library
         url: /co-curricular-activities/library
-      - title: Malay Dance
-        url: /co-curricular-activities/malay-dance
       - title: Media Club
         url: /co-curricular-activities/media-club
       - title: Multi-Sports
@@ -100,8 +96,6 @@ links:
         url: /co-curricular-activities/the-oasis
       - title: Tink!SV
         url: /co-curricular-activities/tink-sv
-      - title: VIA in CCA
-        url: co-curricular-activities/via-in-cca
   - title: Our Partners
     url: /our-partners/school-advisory-committee
     sublinks:
@@ -141,5 +135,4 @@ links:
       - title: Privacy Statement
         url: /info-hub/privacy-statement
   - title: MOE Kindergarten
-    url: /MOE-Kindergarten/MOE-Kindergarten-at-South-View
-    sublinks: []
+    collection: moe-kindergarten

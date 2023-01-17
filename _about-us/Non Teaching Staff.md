@@ -82,9 +82,9 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td style="text-align: center;">Designation</th>
-<td style="text-align: center;">Staff's Name</th>
-<td style="text-align: center;">Email address</th>
+<th style="text-align: center;">Designation</th>
+<th style="text-align: center;">Staff's Name</th>
+<th style="text-align: center;">Email address</th>
 </tr>
 <tr>
 <td style="text-align: center;">Desktop Engineer</td>
