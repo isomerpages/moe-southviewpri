@@ -4,6 +4,7 @@ permalink: /co-curricular-activities/indian-dance/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
+<img style="width: 50%;" src="/images/cca16.jpg">
 <p><u><strong>Teachers-in-charge</strong></u></p>
 <p>Mdm Vjaya Lashmi D/O Tangavellu<br />Ms Teo Wee Sim</p>
 <p><u><strong>Schedule</strong></u></p>
