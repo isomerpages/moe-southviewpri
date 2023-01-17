@@ -4,8 +4,7 @@ permalink: /co-curricular-activities/robotics-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-
-<img style="width: 75%;" src="/images/robotics.jpeg" />
+<img style="width: 50%;" src="/images/robotics.jpeg" />
 <p><u><strong>Teachers-in-charge</strong></u></p>
 <p>Mr James Lee Kim Joo<br />Mdm Mastura Bte Mohamed Yusoff<br />Mdm Wang Wei<br />Mdm Waheeda Bte Mohamed Ibrahim<br />Mr Ting Ming Chong, Nicholas<br />Mdm Chua Sze Ling</p>
 <p><u><strong>Schedule</strong></u></p>
