@@ -4,11 +4,7 @@ permalink: /co-curricular-activities/media-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-
-
-
-
-<img style="width: 75%;" src="/images/media.jpeg">
+<img style="width: 50%;" src="/images/media.jpeg">
 <p><u><strong>Teachers-in-charge</strong></u></p>
 <p>Mr Dominic Tong Zhi Loong<br />Mdm Chew Yin Mui Angela<br />Mr Quah Yan Teik Dominic</p>
 <p><u><strong>Schedule</strong></u></p>
