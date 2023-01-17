@@ -14,11 +14,8 @@ description: ""
 <tr>    
 <td>Operation hours:
 </td>  
-<td>
- <p>Monday - Friday
-            : 8.00 a.m. - 5.00 p.m.<br>
+<td>Monday - Friday : 8.00 a.m. - 5.00 p.m.<br>
             Closed on Saturday &amp; Sunday
-</p>
 	</td>
 </tr>
 <tr>
