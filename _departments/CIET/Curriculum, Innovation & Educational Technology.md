@@ -26,6 +26,6 @@ third_nav_title: CIET
 | Tink!SV | A learning space equipped with resources to allow students to hone their creative and problem-solving skills by participating in maker recess activities and completing their ALP projects| P1 - P6, during recess|
 |ICT Familiarisation|  Students get hands-on experience independently accessing SLS and Student iCON during the Welcome Back to School programme to ensure they are ready to use these platforms for active learning with technology the rest of the year.|P2 - P6, during WBTS (first 4 days of school)
 |Home-Based Learning (HBL) Site|A portal for the school to disseminate information to students.|P1 - P6, official HBL days or in the event of school closure
-|Student Portal|A portal containing useful links and instructional guides for students to support self-directed active learning with technology.|P1 - P6, all-year round
+|Student Portal|A portal containing useful links and instructional guides for students to support self-directed active learning with technology.|P1 - P6, all-year round|
 	
 <p>Page last updated: 17 Jan 2023</p>
