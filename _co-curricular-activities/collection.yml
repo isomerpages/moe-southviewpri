@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs & Societies/Media@SV.md
       - Clubs & Societies/Orators Club.md
       - Clubs & Societies/Robotics Club.md
       - Clubs & Societies/Science Club.md
