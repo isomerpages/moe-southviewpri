@@ -91,12 +91,25 @@ third_nav_title: English Language
 </td>
 </tr>
 <tr>
+	<td>
+<p>See, Perceive, Yield</p>
+</td>
+<td>
+<p>See, Perceive, Yield teaches perspective taking using different texts. It aims to open the mind to different perspectives, deliberately see from the various perspectives, understand and evaluate them before yielding to the ones that make sense.</p>
+</td>
+<td style="text-align: center;">
+<p>Primary 5</p>
+</td>
+<td style="text-align: center;">
+<p>Term 2</p>
+</td>
+	<tr>
 <td>Speak Up, Speak Out &ndash; Debate</td>
 <td>
 <p>Teach debate structure and crafting of arguments to support the motion</p>
 </td>
 <td style="text-align: center;">
-<p>Primary 5</p>
+<p>Primary 6</p>
 </td>
 <td style="text-align: center;">
 <p>Term 1</p>
@@ -108,25 +121,15 @@ third_nav_title: English Language
 <p>Speaking Sparkle is a platform to help build the speaking and communication skills of Southviens. It is an additional platform that allows our pupils to apply the skills they have learnt from Speak Up Speak Out and gain confidence in public speaking or in front of an audience. Any interested Southvien can be part of this.</p>
 </td>
 <td style="text-align: center;">
-<p>Primary 1 - 6</p>
+<p>Primary 1 - 4</p>
 </td>
 <td style="text-align: center;">Term 2 - 3</td>
 </tr>
 <tr>
-<td>
-<p>See, Perceive, Yield</p>
-</td>
-<td>
-<p>See, Perceive, Yield teaches perspective taking using different texts. It aims to open the mind to different perspectives, deliberately see from the various perspectives, understand and evaluate them before yielding to the ones that make sense.</p>
-</td>
-<td style="text-align: center;">
-<p>Primary 5</p>
-</td>
-<td style="text-align: center;">
-<p>Term 3</p>
-</td>
 </tr>
 </tbody>
 </table>
+
 <img style="width: 75%;" src="/images/el2.jpg" />
-<p>Page last updated: 1 March 2021</p>
+
+<p>Page last updated: 17 Jan 2023</p>
