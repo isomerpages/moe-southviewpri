@@ -4,8 +4,7 @@ permalink: /co-curricular-activities/art-club/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-
-<img style="width: 75%;" src="/images/art.jpeg">
+<img style="width: 50%;" src="/images/art.jpeg">
 <p><u><strong>Teachers-in-charge</strong></u></p>
 <p>Mdm Zurainah Binte Ahmid<br />Ms Rosnah Bte Rabu<br />Mrs Low-Leow Siew Peng</p>
 <p><u><strong>Schedule</strong></u></p>
