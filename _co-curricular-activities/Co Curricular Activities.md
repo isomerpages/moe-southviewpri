@@ -67,15 +67,31 @@ description: ""
 </tbody>
 </table>
 <h4><strong>Visual & Performing Arts</strong></h4>
-<img style="width: 50%;" src="/images/cca13.jpeg" />
-<p style="text-align: center;"><a href="/co-curricular-activities/art-club" target="">Art Club</a></p>
-<img style="width: 50%;" src="/images/cca14.jpeg" />
-<p style="text-align: center;"><a href="/co-curricular-activities/chinese-dance" target="">Chinese Dance</a></p>
-<img style="width: 50%;" src="/images/cca15.jpeg" />
-<p style="text-align: center;"><a href="/co-curricular-activities/chinese-orchestra" target="">Chinese Orchestra</a></p>
-<img style="width: 50%;" src="/images/cca16.jpeg" />
-<p style="text-align: center;"><a href="/co-curricular-activities/choir" target="">Choir</a></p>
-<img style="width: 50%;" src="/images/cca17.jpeg" />
-<p style="text-align: center;"><a href="/co-curricular-activities/indian-dance" target="">Indian Dance</a></p>
-<img style="width: 50%;" src="/images/cca18.jpeg" />
-<p style="text-align: center;"><a href="/co-curricular-activities/malay-dance" target="">Malay Dance</a></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><a href="/co-curricular-activities/art-club" target=""><img style="width: 100%;" src="/images/cca13.jpeg" /></a></td>
+<td style="width: 25%;"><a href="/co-curricular-activities/chinese-dance" target=""><img style="width: 100%;" src="/images/cca14.jpeg" /></a></td>
+<td style="width: 25%;"><a href="/co-curricular-activities/chinese-orchestra" target=""><img style="width: 100%;" src="/images/cca15.jpeg" /></a></td>
+<td style="width: 25%;"><a href="/co-curricular-activities/choir" target=""><img style="width: 100%;" src="/images/cca16.jpeg" /></a></td>
+</tr>
+<tr>
+<td style="width: 25%;"><p style="text-align: center;"><a href="/co-curricular-activities/art-club" target="">Art Club</a></p></td>
+<td style="width: 25%;"><p style="text-align: center;"><a href="/co-curricular-activities/chinese-dance" target="">Chinese Dance</a></p></td>
+<td style="width: 25%;"><p style="text-align: center;"><a href="/co-curricular-activities/chinese-orchestra" target="">Chinese Orchestra</a></p></td>
+<td style="width: 25%;"><p style="text-align: center;"><a href="/co-curricular-activities/choir" target="">Choir</a></p></td>
+</tr>
+ <tr>
+<td style="width: 25%;"><a href="/co-curricular-activities/indian-dance" target=""><img style="width: 100%;" src="/images/cca17.jpeg" /></a></td>
+<td style="width: 25%;"><a href="/co-curricular-activities/malay-dance" target=""><img style="width: 100%;" src="/images/cca18.jpeg" /></a></td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 25%;"><p style="text-align: center;"><a href="/co-curricular-activities/indian-dance" target="">Indian Dance</a></p></td>
+<td style="width: 25%;"><p style="text-align: center;"><a href="/co-curricular-activities/malay-dance" target="">Malay Dance</a></p></td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
