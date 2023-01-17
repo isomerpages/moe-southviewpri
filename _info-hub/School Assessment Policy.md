@@ -17,5 +17,5 @@ description: ""
 <li>For pupils whose external competition/exam dates clash with the internal school examination dates, they are to re-schedule their external competition/exam dates.</li>
 <li>No make-up examination will be arranged for the absentees.</li>
 </ul>
-<p><strong>Level Assessment plans<br /></strong>This document provides a detailed breakdown and description of the different types of assessment tasks carried out in the course of the academic year, by the level, and across all the relevant subjects.<br /><strong><em>Assessment plans have been sent via Parents&rsquo; Gateway Announcement.&nbsp;</em></strong></p>
+<p><strong>Level Assessment plans<br /></strong>This document provides a detailed breakdown and description of the different types of assessment tasks carried out in the course of the academic year, by the level, and across all the relevant subjects.<br /><strong><em>Assessment plans are sent via Parents&rsquo; Gateway Announcement.&nbsp;</em></strong></p>
 <p>Page last updated: 5 March 2021</p>
