@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Uniformed Groups/Scouts.md
       - Uniformed Groups/Boys' Brigade & Girls' Brigade.md
       - Uniformed Groups/.keep
       - Sports & Games/Multi Sports.md
