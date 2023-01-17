@@ -74,7 +74,7 @@ third_nav_title: English Language
 <p>Teach expression and turn-taking to grow their confidence in reading expressively</p>
 </td>
 <td style="text-align: center;">Primary 3</td>
-<td style="text-align: center;">Term 2</td>
+<td style="text-align: center;">Curriculum time</td>
 </tr>
 <tr>
 <td>
