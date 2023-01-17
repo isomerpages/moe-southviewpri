@@ -74,12 +74,8 @@ links:
         url: /co-curricular-activities/floorball
       - title: Football
         url: /co-curricular-activities/football
-      - title: Indian Dance
-        url: /co-curricular-activities/indian-dance
       - title: Library
         url: /co-curricular-activities/library
-      - title: Malay Dance
-        url: /co-curricular-activities/malay-dance
       - title: Media Club
         url: /co-curricular-activities/media-club
       - title: Multi-Sports
@@ -100,8 +96,6 @@ links:
         url: /co-curricular-activities/the-oasis
       - title: Tink!SV
         url: /co-curricular-activities/tink-sv
-      - title: VIA in CCA
-        url: co-curricular-activities/via-in-cca
   - title: Our Partners
     url: /our-partners/school-advisory-committee
     sublinks:
