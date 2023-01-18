@@ -7,31 +7,31 @@ third_nav_title: English Language
 <img src="/images/el1.jpg">
 <p>The English Language programmes aim to nurture positive learning dispositions, skills and attitudes in our Southviens.</p>
 <p>We are preparing them to:</p>
-<p>Communicate effectively to different audience, for different purposes and in different contexts<br />Cultivate an open mind to multiple perspectives consciously and process information critically<br />Make a positive impact in their community with what they have learnt</p>
+<p>Communicate effectively to different audience, for different purposes and in different contexts<br>Cultivate an open mind to multiple perspectives consciously and process information critically<br>Make a positive impact in their community with what they have learnt</p>
 <p><strong><u>Our Key Programmes</u></strong></p>
 <table>
 <tbody>
 <tr>
-<td style="text-align: center;">
-<p><strong>Name of Programmes</strong></p>
-</td>
-<td style="text-align: center;">
-<p><strong>Objectives</strong></p>
-</td>
-<td style="text-align: center;">
-<p><strong>Target Level</strong></p>
-</td>
-<td style="text-align: center;">
-<p><strong>Date / Timeframe</strong></p>
-</td>
+<th style="text-align: center;">
+<strong>Name of Programmes</strong>
+</th>
+<th style="text-align: center;">
+	<strong>Objectives</strong>
+</th>
+<th style="text-align: center;">
+<strong>Target Level</strong>
+
+</th><th style="text-align: center;">
+<strong>Date / Timeframe</strong>
+</th>
 </tr>
 <tr>
 <td>Write Connection</td>
 <td>Write Connection equips pupils with:
 <li><small> creative writing techniques
-	<li><small> skills to take on different perspectives
-	<li><small> the ability to identify purpose, audience and context and write different text types
-<td style="text-align: center;">
+	</small></li><li><small><small> skills to take on different perspectives
+	</small></small></li><li><small><small><small> the ability to identify purpose, audience and context and write different text types
+</small></small></small></li></td><td style="text-align: center;">
 Primary 1 - 6
 </td>
 <td style="text-align: center;">
@@ -51,7 +51,7 @@ Curriculum time
 </td>
 </tr>
 <tr>
-<td>Speak Up, Speak Out &ndash; Choral Reading</td>
+<td>Speak Up, Speak Out – Choral Reading</td>
 <td>
 Teach expression, pronunciation and articulation clearly to build their confidence in speaking and reading
 </td>
@@ -61,7 +61,7 @@ Curriculum time
 </td>
 </tr>
 <tr>
-<td>Speak Up, Speak Out &ndash; Readers&rsquo; Theatre</td>
+<td>Speak Up, Speak Out – Readers’ Theatre</td>
 <td>
 Teach expression and turn-taking to grow their confidence in reading expressively
 </td>
@@ -70,7 +70,7 @@ Teach expression and turn-taking to grow their confidence in reading expressivel
 </tr>
 <tr>
 <td>
-Speak Up, Speak Out &ndash; Public Speaking
+Speak Up, Speak Out – Public Speaking
 </td>
 <td>
 Teach skills to captivate the attention of the audience and write a speech to engage the audience
@@ -97,7 +97,7 @@ Term 2
 </td>
 		</tr>
 		<tr>
-<td>Speak Up, Speak Out &ndash; Debate</td>
+<td>Speak Up, Speak Out – Debate</td>
 <td>
 Teach debate structure and crafting of arguments to support the motion
 </td>
@@ -120,6 +120,6 @@ Primary 1 - 4
 		</tr>
 		</tbody>
 	</table>
-<img style="width: 75%;" src="/images/el2.jpg"/>
+<img src="/images/el2.jpg" style="width: 50%">
 
 <p>Page last updated: 17 Jan 2023</p>
