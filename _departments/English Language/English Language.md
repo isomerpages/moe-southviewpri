@@ -120,6 +120,6 @@ Primary 1 - 4
 		</tr>
 		</tbody>
 	</table>
-<img src="/images/el2.jpg" style="width">
+<img src="/images/el2.jpg" style="width;75%">
 
 <p>Page last updated: 17 Jan 2023</p>
