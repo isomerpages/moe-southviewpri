@@ -31,7 +31,6 @@ third_nav_title: English Language
 <li><small> creative writing techniques
 	<li><small> skills to take on different perspectives
 	<li><small> the ability to identify purpose, audience and context and write different text types
-</td>
 <td style="text-align: center;">
 Primary 1 - 6
 </td>
