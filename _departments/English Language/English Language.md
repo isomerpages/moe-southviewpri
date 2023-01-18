@@ -95,7 +95,8 @@ Primary 5
 <td style="text-align: center;">
 Term 2
 </td>
-	<tr>
+		</tr>
+		<tr>
 <td>Speak Up, Speak Out &ndash; Debate</td>
 <td>
 Teach debate structure and crafting of arguments to support the motion
@@ -116,6 +117,7 @@ Speaking Sparkle is a platform to help build the speaking and communication skil
 Primary 1 - 4
 </td>
 <td style="text-align: center;">Term 2 - 3</td>
+		</tr>
 		</tbody>
 	</table>
 <img style="width: 75%;" src="/images/el2.jpg"/>
