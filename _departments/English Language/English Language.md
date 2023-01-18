@@ -27,8 +27,7 @@ third_nav_title: English Language
 </tr>
 <tr>
 <td>Write Connection</td>
-<td>
-<p>Write Connection equips pupils with:</p>
+<td>Write Connection equips pupils with:
 <li>creative writing techniques</li>
 <li>skills to take on different perspectives</li>
 <li>the ability to identify purpose, audience and context and write different text types</li>
