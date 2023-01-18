@@ -118,11 +118,9 @@ Speaking Sparkle is a platform to help build the speaking and communication skil
 </td>
 <td style="text-align: center;">Term 2 - 3</td>
 </tr>
-<tr>
-</tr>
 </tbody>
 </table>
 
-<img style="width: 75%;" src="/images/el2.jpg" />
+<img style="width: 75%;" src="/images/el2.jpg"/>
 
 <p>Page last updated: 17 Jan 2023</p>
