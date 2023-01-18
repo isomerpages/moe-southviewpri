@@ -12,18 +12,18 @@ third_nav_title: English Language
 <table>
 <tbody>
 <tr>
-<td style="text-align: center;">
-<p><strong>Name of Programmes</strong></p>
-</td>
-<td style="text-align: center;">
-<p><strong>Objectives</strong></p>
-</td>
-<td style="text-align: center;">
-<p><strong>Target Level</strong></p>
-</td>
-<td style="text-align: center;">
-<p><strong>Date / Timeframe</strong></p>
-</td>
+<th style="text-align: center;">
+<strong>Name of Programmes</strong>
+</th>
+<th style="text-align: center;">
+	<strong>Objectives</strong>
+</th>
+<th style="text-align: center;">
+<strong>Target Level</strong>
+
+</th><th style="text-align: center;">
+<strong>Date / Timeframe</strong>
+</th>
 </tr>
 <tr>
 <td>Write Connection</td>
