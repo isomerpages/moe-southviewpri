@@ -108,7 +108,8 @@ Primary 6
 Term 1
 </td>
 </tr>
-<td>Speaking Sparkle</td>
+<tr>
+	<td>Speaking Sparkle</td>
 <td>
 Speaking Sparkle is a platform to help build the speaking and communication skills of Southviens. It is an additional platform that allows our pupils to apply the skills they have learnt from Speak Up Speak Out and gain confidence in public speaking or in front of an audience. Any interested Southvien can be part of this.
 </td>
@@ -116,6 +117,7 @@ Speaking Sparkle is a platform to help build the speaking and communication skil
 Primary 1 - 4
 </td>
 <td style="text-align: center;">Term 2 - 3</td>
+		</tr>
 		</tbody>
 	</table>
 <img style="width: 75%;" src="/images/el2.jpg"/>
