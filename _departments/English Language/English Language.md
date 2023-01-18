@@ -33,10 +33,10 @@ third_nav_title: English Language
 <li>the ability to identify purpose, audience and context and write different text types</li>
 </td>
 <td style="text-align: center;">
-<p>Primary 1 - 6</p>
+Primary 1 - 6
 </td>
 <td style="text-align: center;">
-<p>Term 1 - 4</p>
+Term 1 - 4
 </td>
 </tr>
 <tr>
