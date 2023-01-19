@@ -4,7 +4,9 @@ permalink: /co-curricular-activities/chinese-dance/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-<img style="width: 65%;" src="/images/cca17.jpg">
+<img style="width: 25%;" src="/images/cca18.jpg">
+<img style="width: 25%;" src="/images/cca16.jpg">
+<img style="width: 25%;" src="/images/cca17.jpg">
 <p><u><strong>Teachers-in-charge</strong></u></p>
 <p>Mdm Vjaya Lashmi D/O Tangavellu<br />
 Mdm Choung Hui Ming<br />
