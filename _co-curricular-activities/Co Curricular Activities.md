@@ -86,5 +86,5 @@ description: ""
 <td style="width: 25%;"><p style="text-align: center;"><a href="/co-curricular-activities/chinese-orchestra" target="">Chinese Orchestra</a></p></td>
 <td style="width: 25%;"><p style="text-align: center;"><a href="/co-curricular-activities/choir" target="">Choir</a></p></td>
 </tr>
-	</tbody>
-	</table>
+</tbody>
+</table>
