@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/
 description: ""
 ---
 <h4><strong>Clubs &amp; Societies</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table>
 <tbody>
 <tr>
 <td style="width: 25%;"><a href="/co-curricular-activities/library" target=""><img style="width: 100%;" src="/images/cca1.jpeg" /></a></td>
@@ -32,7 +32,7 @@ description: ""
 	</tbody>
 	</table>
 <h4><strong>Sports & Games</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table>
 <tbody>
 <tr>
 <td style="width: 25%;"><a href="/co-curricular-activities/badminton" target=""><img style="width: 100%;" src="/images/cca6.jpeg" /></a></td>
