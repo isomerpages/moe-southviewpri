@@ -9,9 +9,8 @@ description: ""
 <tr>
 <td style="width: 25%;"><a href="/co-curricular-activities/library" target=""><img style="width: 100%;" src="/images/cca1.jpeg" /></a></td>
 <td style="width: 25%;"><a href="/co-curricular-activities/media-club" target=""><img style="width: 100%;" src="/images/cca2.jpeg" /></a></td>
-<td style="width: 25%;"><a href="/co-curricular-activities/orators-club" target=""><img style="width: 100%;" src="/images/cca3.jpeg" /></a></td>
-<td style="width: 25%;"><a href="/co-curricular-activities/robotics-club" target=""><img style="width: 100%;" src="/images/cca4.jpeg" /></a></td>
-</tr>
+<td style="width: 25%;"><a href="/co-curricular-activities/orators-club" target=""><img style="width: 100%;" src="/images/cca3.jpeg" /></a>
+<td style="width: 25%;"><a href="/co-curricular-activities/robotics-club" target=""><img style="width: 100%;" src="/images/cca4.jpeg" /></a>
 <tr>
 <td style="width: 25%;"><p style="text-align: center;"><a href="/co-curricular-activities/library" target="">Library</a></p></td>
 <td style="width: 25%;"><p style="text-align: center;"><a href="/co-curricular-activities/media-club" target="">Media Club</a></p></td>
@@ -93,5 +92,3 @@ description: ""
 <td style="width: 25%;">&nbsp;</td>
 <td style="width: 25%;">&nbsp;</td>
 </tr>
-</tbody>
-</table>
