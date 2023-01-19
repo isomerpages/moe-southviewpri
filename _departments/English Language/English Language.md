@@ -7,7 +7,7 @@ third_nav_title: English Language
 <img src="/images/el1.jpg">
 <p>The English Language programmes aim to nurture positive learning dispositions, skills and attitudes in our Southviens.</p>
 <p>We are preparing them to:</p>
-<p>Communicate effectively to different audience, for different purposes and in different contexts<br>Cultivate an open mind to multiple perspectives consciously and process information critically<br>Make a positive impact in their community with what they have learnt</p>
+<p><li>Communicate effectively to different audience, for different purposes and in different contexts<br><li>Cultivate an open mind to multiple perspectives consciously and process information critically<br><li>Make a positive impact in their community with what they have learnt</p>
 <p><strong><u>Our Key Programmes</u></strong></p>
 <table>
 <tbody>
