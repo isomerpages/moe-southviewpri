@@ -46,7 +46,7 @@ description: ""
 <td style="width: 25%;"><p style="text-align: center;"><a href="/co-curricular-activities/netball" target="">Netball</a></p></td>
 <td style="width: 25%;"><p style="text-align: center;"><a href="/co-curricular-activities/multi-sports" target="">Multi-sports</a></p></td>
 </tr>
-	<tr>
+<tr>
 <td style="width: 25%;"><a href="/co-curricular-activities/floorball" target=""><img style="width: 100%;" src="/images/cca20.jpg" /></a></td>
 </tr>
 <tr>
