@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Sitemap
+title: South View Primary School
 description: An Isomer site of the Singapore Government
 image: /images/crest.gif
 permalink: /
@@ -16,3 +16,4 @@ sections:
           description: Until end of Dec 2023
           url: /announcements/closure-of-gate-3-due-to-moe-kindergarten-mk-works/
 ---
+
