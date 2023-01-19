@@ -7,7 +7,7 @@ third_nav_title: English Language
 <img src="/images/el1.jpg">
 <p>The English Language programmes aim to nurture positive learning dispositions, skills and attitudes in our Southviens.</p>
 <p>We are preparing them to:</p>
-<p><li>Communicate effectively to different audience, for different purposes and in different contexts<br><li>Cultivate an open mind to multiple perspectives consciously and process information critically<br><li>Make a positive impact in their community with what they have learnt</p>
+<li>Communicate effectively to different audience, for different purposes and in different contexts<br><li>Cultivate an open mind to multiple perspectives consciously and process information critically<br><li>Make a positive impact in their community with what they have learnt<br/>
 <p><strong><u>Our Key Programmes</u></strong></p>
 <table>
 <tbody>
@@ -28,10 +28,10 @@ third_nav_title: English Language
 <tr>
 <td>Write Connection</td>
 <td>Write Connection equips pupils with:
-<li><small> creative writing techniques
-	</small></li><li><small><small> skills to take on different perspectives
-	</small></small></li><li><small><small><small> the ability to identify purpose, audience and context and write different text types
-</small></small></small></li></td><td style="text-align: center;">
+<li> creative writing techniques
+	</li><li> skills to take on different perspectives
+	</li><li> the ability to identify purpose, audience and context and write different text types
+</li></td><td style="text-align: center;">
 Primary 1 - 6
 </td>
 <td style="text-align: center;">
