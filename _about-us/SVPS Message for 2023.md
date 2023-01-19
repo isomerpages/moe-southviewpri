@@ -1,8 +1,9 @@
 ---
-title: South View Primary School Message for School Website 2023
-permalink: /about-us/south-view-primary-school-message-for-school-website-2023/
+title: SVPS Message for 2023
+permalink: /about-us/svps-message-for-2023/
 description: ""
 ---
+
 
 <p>The year 2022 has been a good year for our Southviens, despite the COVID-19 pandemic. By mid-2022, we were able to resume many in-person learning experiences for our students. National School Games (NSG) and Singapore Youth Festival (SYF) participation resumed and our students have done us proud again, as regardless of their achievements, by virtue of being resilient to come together to participate in NSG and SYF in spite of the short lead time, our Southviens have indeed done well.</p>
 <p>Amongst the highlights of 2022, I am sure our Southviens will cite Children’s Day celebrations with the theme “The Sun is Out, Let’s Come Out N Play” as one. The school collaborated with the SVPA, 40-hours PVs and partners to plan exciting activities for our students. Our SAC helped to source for opportunities for our P6 students to visit varied workplaces to learn about careers for Honouring Careers Day. As for staff, the Teachers’ Day Fiesta organised by our SVPSAA was a key highlight. All these would not have been possible without the unstinting support of our parents, SVPA, SVPSAA and the SAC, and our committed staff both present and past, who have dedicated their lives to grow the school to what it is today.</p>

@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - South View Primary School Message for School Website 2023.md
+      - SVPS Message for 2023.md
       - Our Beliefs.md
       - Our Identity.md
       - School Leaders & Key Personnel.md
