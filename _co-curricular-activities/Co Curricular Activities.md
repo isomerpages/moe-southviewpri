@@ -48,6 +48,9 @@ description: ""
 </tr>
 <tr>
 <td style="width: 25%;"><a href="/co-curricular-activities/floorball" target=""><img style="width: 100%;" src="/images/cca20.jpg" /></a></td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
 </tr>
 <tr>
 <td style="width: 25%;"><p style="text-align: center;"><a href="/co-curricular-activities/badminton" target="">Floorball</a></p></td>
