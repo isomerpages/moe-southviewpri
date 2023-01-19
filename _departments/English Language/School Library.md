@@ -12,6 +12,6 @@ third_nav_title: English Language
 
 <p>The school librarian has also looked through and updated the class library book collection in each classroom to ensure it is age-appropriate and encourages our students to read widely even in class.</p>
 
-<p>To search for available books in our school library, you may access the school library’s online catalogue (OPAC) using this link: [https://schoolibrary.moe.edu.sg/southviewpri/](https://schoolibrary.moe.edu.sg/southviewpri/)
+<p>To search for available books in our school library, you may access the school library’s online catalogue (OPAC) using this link: <a href="https://schoolibrary.moe.edu.sg/southviewpri/" target="_blank" rel="noopener">(https://schoolibrary.moe.edu.sg/southviewpri/)</a>
 </p>
 <p>Page last updated: 19 January 2023</p>
