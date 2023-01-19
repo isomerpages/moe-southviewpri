@@ -14,9 +14,8 @@ description: ""
 <tr>
 <td style="width: 25%;"><p style="text-align: center;"><a href="/co-curricular-activities/library" target="">Library</a></p></td>
 <td style="width: 25%;"><p style="text-align: center;"><a href="/co-curricular-activities/media-club" target="">Media Club</a></p></td>
-<td style="width: 25%;"><p style="text-align: center;"><a href="/co-curricular-activities/orators-club" target="">Orators Club</a></td>
-<td style="width: 25%;"><p style="text-align: center;"><a href="/co-curricular-activities/robotics-club" target="">Robotics Club</a></td>
-</tr>
+<td style="width: 25%;"><p style="text-align: center;"><a href="/co-curricular-activities/orators-club" target="">Orators Club</a>
+<td style="width: 25%;"><p style="text-align: center;"><a href="/co-curricular-activities/robotics-club" target="">Robotics Club</a>
 <tr>
 <td style="width: 25%;"><a href="/co-curricular-activities/science-club" target=""><img style="width: 100%;" src="/images/cca5.jpeg" /></a></td>
 <td style="width: 25%;">&nbsp;</td>
