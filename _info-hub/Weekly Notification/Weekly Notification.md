@@ -39,7 +39,7 @@ third_nav_title: Weekly Notification
 <td style="text-align: center;"></td>
 </tr>
 <tr>
-<td style="text-align: center;"></td>
+<td style="text-align: center;">N.A.</td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
