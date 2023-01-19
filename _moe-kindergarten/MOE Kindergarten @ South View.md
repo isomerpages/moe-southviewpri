@@ -3,7 +3,7 @@ title: MOE Kindergarten @ South View
 permalink: /moe-Kindergarten/moe-kindergarten-at-south-view/
 description: ""
 ---
-<center><a href="https://www.moe.gov.sg/mk" target="_blank" rel="noopener"><img style = "height:350px;width:490px" src="/images/MOE%20Kindergarten.jpg"></a>
+<a href="https://www.moe.gov.sg/mk" target="_blank" rel="noopener"><img style = "height:350px;width:490px" src="/images/MOE%20Kindergarten.jpg"></a>
 <center><a href="https://www.moe.gov.sg/mk" target="_blank" rel="noopener">(www.moe.gov.sg/mk)</a>
 <p>We are pleased to share with you that MOE will be setting up an MOE Kindergarten (MK) within South View Primary School. MK@South View will enroll Kindergarten 1 (K1) children from January 2024.</p>
 <img style = "height:300px;width:300px" src="/images/MK%20reg.jpg">
