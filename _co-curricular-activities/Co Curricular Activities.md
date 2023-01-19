@@ -29,6 +29,8 @@ description: ""
 <td style="width: 25%;">&nbsp;</td>
 <td style="width: 25%;">&nbsp;</td>
 </tr>
+	</tbody>
+	</table>
 <h4><strong>Sports & Games</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
