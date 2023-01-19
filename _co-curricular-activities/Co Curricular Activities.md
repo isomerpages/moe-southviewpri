@@ -51,6 +51,9 @@ description: ""
 </tr>
 <tr>
 <td style="width: 25%;"><p style="text-align: center;"><a href="/co-curricular-activities/badminton" target="">Floorball</a></p></td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
