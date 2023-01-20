@@ -33,13 +33,13 @@ third_nav_title: Weekly Notification
 <td style="text-align: center;"></td>
 </tr>
 <tr>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1kD16HdTrCLbSh-lpa_fSEf2UM57tb6KO/view?usp=sharing" target="_blank" rel="noopener">Week 3 / 19 Jan 2023</a></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr>
-<td style="text-align: center;"></td>
+<td style="text-align: center;">N.A.</td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
