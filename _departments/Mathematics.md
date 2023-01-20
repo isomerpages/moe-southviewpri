@@ -11,7 +11,6 @@ description: ""
 <li>Provide students with an opportunity to enrich their learning experiences beyond the core curriculum<br />
 <p><strong><u>Our Key Programmes<br /></u></strong></p>
 <table>
-<tbody>
 <tr>
 <th>Name of Programmes</th>
 <th>Objectives</th>
