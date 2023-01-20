@@ -35,7 +35,7 @@ description: ""
 <tr>
 <td style="text-align: center;"> Math Learning Day</td>
 <td>
-<li>To sharpen the thinking skills of P3 students through hands¬-on activities
+<li>To sharpen the thinking skills of P3 students through hands-on activities
 <li>To provide an environment for team building and building of students’ social skills. 
 <li>To have an opportunity to tap on Mathematical knowledge learnt to real life situations
 </td>
