@@ -62,5 +62,5 @@ description: ""
 </tr>
 </tbody>
 </table>
-<img style="width: 80%;" src="/images/Maths%20webpage.png/>
+<img style="width: 80%;" src="/images/Maths%20webpage.jpg">
 <p>Page last updated: 9 April 2021</p>
