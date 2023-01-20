@@ -6,9 +6,9 @@ description: ""
 <img src="/images/math1.jpg">
 <p>Our Mathematics programmes aims to:</p>
 <ul>
-<li>Introduce students to concepts, skills and thinking strategies that are essential in everyday life and support learning across the curriculum</li>
-<li>Help students make sense of the numbers, patterns and shapes they see in the world around them, offers ways of handling data in an increasingly digital world&nbsp;</li>
-<li>Provide students with an opportunity to enrich their learning experiences beyond the core curriculum</li>
+<li>Introduce students to concepts, skills and thinking strategies that are essential in everyday life and support learning across the curriculum
+<li>Help students make sense of the numbers, patterns and shapes they see in the world around them, offers ways of handling data in an increasingly digital world 
+<li>Provide students with an opportunity to enrich their learning experiences beyond the core curriculum
 </ul>
 <p><strong><u>Our Key Programmes<br /></u></strong></p>
 <table>
@@ -17,26 +17,21 @@ description: ""
 <th>Name of Programmes</th>
 <th>Objectives</th>
 <th>Target Level</th>
-<th>Date/Timeframe</th>
-</tr>
-<tr>
-<td style="text-align: center;">Mathematical Olympiad Training</td>
-<td>
-<li>To develop thinking skills and apply techniques that are required to solve higher-order non-routine questions.</li>
-<li>To provide opportunity to collaborate in groups to develop essential 21st century skills in terms of communication and teamwork</li>
-<li>To motivate and prepare pupils to participate in local and international Mathematical competitions</li>
-</td>
-<td style="text-align: center;">Primary 5 &amp; 6</td>
-<td>Term 1;<br />P5: 18 Jan &ndash; 8 Mar<br />(Mon, 6 Sessions)<br /><br />P6: 20 Jan &ndash; 24 Feb (Wed, 6 Sessions)</td>
 </tr>
 <tr>
 <td style="text-align: center;">Math Trail</td>
 <td>
-<li>To&nbsp;sharpen&nbsp;the thinking skills of P1 students through hands on&nbsp;activities</li>
-<li>To provide&nbsp;an environment for team building of students' social skills</li>
+<li>To sharpen the thinking skills of P1 students through hands on activities
+<li>To provide an environment for team building of students' social skills
 </td>
-<td style="text-align: center;">Primary 1</td>
-<td style="text-align: center;">Term 3</td>
+<td style="text-align: center;">Primary 1 & 2</td>
+</tr>
+<tr>
+<td style="text-align: center;"> Math Journaling</td>
+<td>
+<li>To enhance classroom learning and stimulate thinking regarding mathematics learning and enhance conceptual understanding.</li>
+</td>
+<td style="text-align: center;"> Primary 1 - 5</td>
 </tr>
 <tr>
 <td style="text-align: center;">Math Journaling</td>
