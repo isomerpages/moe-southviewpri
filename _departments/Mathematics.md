@@ -55,5 +55,5 @@ description: ""
 	<td style="text-align: center;">All Level</td>
 </tbody>
 </table>
-<img style="width: 80%;" src="/images/Maths%20webpage.jpg">
+<img style="width: 50%;" src="/images/Maths%20webpage.jpg">
 <p>Page last updated: 9 April 2021</p>
