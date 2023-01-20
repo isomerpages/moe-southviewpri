@@ -22,14 +22,12 @@ description: ""
 <td>
 <li>To sharpen the thinking skills of P1 students through hands on activities
 <li>To provide an environment for team building of students' social skills
-</td>
 <td style="text-align: center;">Primary 1 & 2</td>
 </tr>
 <tr>
 <td style="text-align: center;"> Math Journaling</td>
 <td>
-<li>To enhance classroom learning and stimulate thinking regarding mathematics learning and enhance conceptual understanding.</li>
-</td>
+<li>To enhance classroom learning and stimulate thinking regarding mathematics learning and enhance conceptual understanding.
 <td style="text-align: center;"> Primary 1 - 5</td>
 </tr>
 <tr>
@@ -38,7 +36,6 @@ description: ""
 <li>To sharpen the thinking skills of P3 students through hands-on activities
 <li>To provide an environment for team building and building of students’ social skills. 
 <li>To have an opportunity to tap on Mathematical knowledge learnt to real life situations
-</td>
 <td style="text-align: center;">Primary 3 </td>
 </tr>
 <tr>
@@ -47,7 +44,6 @@ description: ""
 <li>To appreciate the use of Mathematics in real world
 <li>To enjoy Mathematics and develop patience and persistence in solving problems
 <li>To develop Mathematical curiosity
-</td>
 <td style="text-align: center;">All Level</td>
 </tr>
 <tr>
@@ -56,9 +52,7 @@ description: ""
 <li>To challenge pupils to complete Math projects in the form of games, craft work, puzzles, etc
 <li>Encourage Southviens to be excited about Math through hands-on activities
 <li>To appreciate the use of Mathematics in real world
-</td>
-<td style="text-align: center;">All Level</td>
-</tr>
+	<td style="text-align: center;">All Level</td>
 </tbody>
 </table>
 <img style="width: 80%;" src="/images/Maths%20webpage.jpg">
