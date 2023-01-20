@@ -22,13 +22,11 @@ description: ""
 <li>To sharpen the thinking skills of P1 students through hands on activities
 <li>To provide an environment for team building of students' social skills
 <td style="text-align: center;">Primary 1 & 2</td>
-</tr>
 <tr>
 <td style="text-align: center;"> Math Journaling</td>
 <td>
 <li>To enhance classroom learning and stimulate thinking regarding mathematics learning and enhance conceptual understanding.
 <td style="text-align: center;"> Primary 1 - 5</td>
-</tr>
 <tr>
 <td style="text-align: center;"> Math Learning Day</td>
 <td>
@@ -36,7 +34,6 @@ description: ""
 <li>To provide an environment for team building and building of students’ social skills. 
 <li>To have an opportunity to tap on Mathematical knowledge learnt to real life situations
 <td style="text-align: center;">Primary 3 </td>
-</tr>
 <tr>
 <td style="text-align: center;">Level Activity</td>
 <td>
@@ -44,7 +41,6 @@ description: ""
 <li>To enjoy Mathematics and develop patience and persistence in solving problems
 <li>To develop Mathematical curiosity
 <td style="text-align: center;">All Level</td>
-</tr>
 <tr>
 <td style="text-align: center;">Math Online Level Activity</td>
 <td>
