@@ -16,7 +16,6 @@ description: ""
 <th>Name of Programmes</th>
 <th>Objectives</th>
 <th>Target Level</th>
-</tr>
 <tr>
 <td style="text-align: center;">Math Trail</td>
 <td>
