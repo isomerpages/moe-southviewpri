@@ -4,7 +4,6 @@ permalink: /info-hub/p1-registration/p1-registration-exercise/
 description: ""
 third_nav_title: P1 Registration
 ---
-
 <p><strong>2023 PRIMARY ONE (P1) REGISTRATION EXERCISE FOR ADMISSION TO P1 IN 2023</strong></p>
 <p>The 2023 P1 Registration Exercise (P1 Ex) details will be announced at later date. For more information, please visit&nbsp;<a href="https://www.moe.gov.sg/admissions/primary-one-registration/" target="_blank" rel="noopener">https://www.moe.gov.sg/admissions/primary-one-registration/</a>.</p>
 <p><u>1. Registration Phases and Procedures</u></p>
