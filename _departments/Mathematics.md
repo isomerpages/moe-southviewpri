@@ -12,11 +12,9 @@ description: ""
 <p><strong><u>Our Key Programmes<br /></u></strong></p>
 <table>
 <tbody>
-<tr>
 <th>Name of Programmes</th>
 <th>Objectives</th>
 <th>Target Level</th>
-	</tr>
 	<tr>
 <td style="text-align: center;">Math Trail</td>
 <td>
