@@ -12,9 +12,11 @@ description: ""
 <p><strong><u>Our Key Programmes<br /></u></strong></p>
 <table>
 <tbody>
+<tr>
 <th>Name of Programmes</th>
 <th>Objectives</th>
 <th>Target Level</th>
+	</tr>
 	<tr>
 <td style="text-align: center;">Math Trail</td>
 <td>
@@ -22,8 +24,8 @@ description: ""
 <li>To provide an environment for team building of students' social skills
 <td style="text-align: center;">Primary 1 & 2</td>
 	</tr>
-	<tr>
-<td style="text-align: center;"> Math Journaling</td>
+		<tr>
+			<td style="text-align: center;"> Math Journaling</td>
 <td>
 <li>To enhance classroom learning and stimulate thinking regarding mathematics learning and enhance conceptual understanding.
 <td style="text-align: center;"> Primary 1 - 5</td>
