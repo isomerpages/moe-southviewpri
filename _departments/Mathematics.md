@@ -56,6 +56,5 @@ description: ""
 	</tr>
 	</tbody>
 	</table>
-	<br/>
 <img style="width: 50%;" src="/images/Maths%20webpage.jpg">
 <p>Page last updated: 20 January 2023</p>
