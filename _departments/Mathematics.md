@@ -11,7 +11,7 @@ description: ""
 <li>Provide students with an opportunity to enrich their learning experiences beyond the core curriculum<br />
 <p><strong><u>Our Key Programmes<br /></u></strong></p>
 <table>
-	<tbody>
+<tbody>
 <tr>
 <th>Name of Programmes</th>
 <th>Objectives</th>
@@ -47,8 +47,8 @@ description: ""
 <li>To challenge pupils to complete Math projects in the form of games, craft work, puzzles, etc
 <li>Encourage Southviens to be excited about Math through hands-on activities
 <li>To appreciate the use of Mathematics in real world
-	<td style="text-align: center;">All Level</td>
-	</tbody>
-	</table>
+<td style="text-align: center;">All Level</td>
+</tbody>
+</table>
 <img style="width: 50%;" src="/images/Maths%20webpage.jpg">
 <p>Page last updated: 20 January 2023</p>
