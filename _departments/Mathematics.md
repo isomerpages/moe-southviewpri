@@ -48,7 +48,6 @@ description: ""
 <li>Encourage Southviens to be excited about Math through hands-on activities
 <li>To appreciate the use of Mathematics in real world
 	<td style="text-align: center;">All Level</td>
-	<tr></tr>
 	</tbody>
 	</table>
 <img style="width: 50%;" src="/images/Maths%20webpage.jpg">
