@@ -9,13 +9,13 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td style="text-align: center;" width="154">
+<td>
 <p><strong>Name of Programmes</strong></p>
 </td>
-<td style="text-align: center;" width="154">
+<td>
 <p><strong>Objectives</strong></p>
 </td>
-<td style="text-align: center;" width="154">
+<td>
 <p><strong>Target Level</strong></p>
 </td>
 </tr>
@@ -36,7 +36,7 @@ description: ""
 </tr>
 <tr>
 <td>Comics Creation Competition&nbsp;</td>
-<td>To cultivate interest in the language through creating comic strips for Chinese idioms.<br/ ><br />To instil confidence in using the language to introduce the comics created.
+<td><ul><li>To cultivate interest in the language through creating comic strips for Chinese idioms.<li>To instil confidence in using the language to introduce the comics created.
 </td>
 <td>Primary 4</td>
 </tr>
@@ -68,7 +68,7 @@ description: ""
 		<tr>
 			<td>Primary 3</td>
 			<td>到脆弱森林去</td>
-			<td>Introducing endangered species such as Malayan Flying fox, mouse deer etc in fragile forest<br /><br />Learning how to give specific instructions to direct ways from one place to another
+			<td><ul><li>Introducing endangered species such as Malayan Flying fox, mouse deer etc in fragile forest<li>Learning how to give specific instructions to direct ways from one place to another
 </td>
 		</tr>
 		<tr>
@@ -130,18 +130,18 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td style="text-align: center;" width="154">
+<td>
 <p><strong>Name of Programmes</strong></p>
 </td>
-<td style="text-align: center;" width="154">
+<td>
 <p><strong>Objectives</strong></p>
 </td>
-<td style="text-align: center;" width="154">
+<td>
 <p><strong>Target Level</strong></p>
 </td>
 </tr>
 <tr>
-<td width="154">
+<td>
 <p>Reading programme 2022</p>
 </td>
 <td>
