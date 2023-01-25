@@ -23,7 +23,7 @@ description: ""
 		</tr>
 		<tr>
 			<td>Math Journaling</td>
-			<td>To enhance classroom learning and stimulate thinking regarding mathematics learning and enhance conceptual understanding</td>
+			<td><li>To enhance classroom learning and stimulate thinking regarding mathematics learning and enhance conceptual understanding</td>
 			<td>Primary 1 - 5</td>
 		</tr>
 		<tr>
