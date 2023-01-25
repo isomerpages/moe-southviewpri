@@ -142,18 +142,13 @@ description: ""
 </td>
 </tr>
 <tr>
-<td>
-<p>Reading programme 2022</p>
+<td>Reading programme 2022
 </td>
-<td>
-<p>To encourage pupils to read Malay stories books extensively and intensively, a year programme was planned for the whole school. Pupils will start off each Malay lesson with a 10 minute reading time dedicated to reading a Malay story book of their choice on Mondays to Wednesdays. Time was also allocated for teachers to book the school library to have their lessons and to bring pupils to borrow Malay books. The programme also looked into the development of their reading skills and their acquisition of Malay vocabulary. The programme seeks the home support to encourage children to extend their reading.</p>
-</td>
+<td>To encourage pupils to read Malay stories books extensively and intensively, a year programme was planned for the whole school. Pupils will start off each Malay lesson with a 10 minute reading time dedicated to reading a Malay story book of their choice on Mondays to Wednesdays. Time was also allocated for teachers to book the school library to have their lessons and to bring pupils to borrow Malay books. The programme also looked into the development of their reading skills and their acquisition of Malay vocabulary. The programme seeks the home support to encourage children to extend their reading.</td>
 <td>Primary 1 to Primary 6</td>
 </tr>
 <tr>
-<td>
-<p>Spelling Bee Competition for P5</p>
-</td>
+<td>Spelling Bee Competition for P5</td>
 <td>To encourage students to use and learn the vocabulary found in the syllabus more effectively, a termly spelling bee competition was held termly. This encourages students to remember the vocabulary learnt with its meanings.<br /><img src="/images/MT%20ML%20webpage.jpg"></td>
 <td>Primary 5</td>
 </tr>
