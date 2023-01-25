@@ -4,19 +4,19 @@ permalink: /departments/mother-tongue-languages/
 description: ""
 ---
 <img src="/images/MT.jpg">
-<p><strong><u>Our Key Programmes</u></strong></p>
-<p><strong><u>Chinese Department</u></strong></p>
+<strong><u>Our Key Programmes</u></strong>
+<strong><u>Chinese Department</u></strong>
 <table>
 <tbody>
 <tr>
 <td>
-<p><strong>Name of Programmes</strong></p>
+<strong>Name of Programmes</strong>
 </td>
 <td>
-<p><strong>Objectives</strong></p>
+<strong>Objectives</strong>
 </td>
 <td>
-<p><strong>Target Level</strong></p>
+<strong>Target Level</strong>
 </td>
 </tr>
 <tr>
@@ -48,6 +48,7 @@ description: ""
 </tbody>
 </table>
 <p>Besides the above competitions, the department worked with Mandai Wildlife Group to conduct the following online lessons for the various levels. The content of the lessons is aligned to the content in the curriculum. Pupils engaged with the presenter/zookeepers during the lessons and the animal world was brought virtually to the classrooms. Pupils presented their learning through the creation of Picture Books, voice recordings, PowerPoint presentations etc.</p>
+<br>
 <table>
 	<tbody>
 		<tr>
@@ -84,7 +85,7 @@ description: ""
 		</tr>
 	</tbody>
 	</table>
-<p><strong><u>Tamil Department</u></strong></p>
+<strong><u>Tamil Department</u></strong>
 <table>
 <tbody>
 <tr>
