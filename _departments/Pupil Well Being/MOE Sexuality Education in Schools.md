@@ -23,4 +23,4 @@ third_nav_title: Pupil Well Being
 <p>8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. </p>
 <p>9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form via Parents Gateway. The completed opt-out form is to be submitted by 3rd February 2023.</p>
 <p>10. Parents can contact the school at 67697176 for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
-<p><small>Page last updated on: 25 January 2023</p>
+<small>Page last updated on: 25 January 2023
