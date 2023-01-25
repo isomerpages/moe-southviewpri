@@ -75,7 +75,7 @@ description: ""
 		<tr>
 			<td>Primary 4</td>
 			<td>亚马逊洪溢林</td>
-			<td>Introduce the animals living in Amazon Flooded Forest and their features<br /><br />Using See-Think-Wonder strategy to introduce an animal seen on the virtual meeting
+			<td>Introduce the animals living in Amazon Flooded Forest and their features<br />Using See-Think-Wonder strategy to introduce an animal seen on the virtual meeting
 </td>
 		</tr>
 		<tr>
