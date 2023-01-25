@@ -147,4 +147,4 @@ To inculcate the use of the language fluently and confidently, the pupils will b
 </tr>
 </tbody>
 </table>
-<p><small>Page last updated: 25 January 2023</p>
+Page last updated: 25 January 2023
