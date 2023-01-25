@@ -36,13 +36,13 @@ description: ""
 </tr>
 <tr>
 <td>Comics Creation Competition&nbsp;</td>
-<td><ul><li>To cultivate interest in the language through creating comic strips for Chinese idioms.<li>To instil confidence in using the language to introduce the comics created.</ul>
+<td><ul><li>To cultivate interest in the language through creating comic strips for Chinese idioms.<li>To instil confidence in using the language to introduce the comics created.
 </td>
 <td>Primary 4</td>
 </tr>
 <tr>
 <td>Comics Creation Competition&nbsp;</td>
-<td>Comics Creation Competition	To cultivate interest in the language through creating comic strips for Chinese idioms.	Primary 5</td>
+<td>Comics Creation Competition	To cultivate interest in the language through creating comic strips for Chinese idioms.</td>
 <td>Primary 5</td>
 </tr>
 </tbody>
