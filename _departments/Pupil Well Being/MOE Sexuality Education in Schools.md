@@ -22,8 +22,7 @@ third_nav_title: Pupil Well Being
 <img src="/images/sexed4.jpg">
 <p><u>Please Note:</u><br />*For <u>2023</u>, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.</p>
 <p><strong>INFORMATION FOR PARENTS</strong></p>
-<p>8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
-<p>9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="https://drive.google.com/drive/folders/1tZ5YJggEZhjYMD3iW2yT2gu6s0sHjHnV?usp=sharing" target="_blank" rel="noopener">here</a>. The completed opt-out form is to be submitted by 10/02/2022.</p>
-<p>10. Parents can contact the school at 67697176 for discussion or to seek clarification about the school&rsquo;s sexuality education programme.</p>
-<p>11. Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements.</p>
-<p>Page last updated on: 31 January 2022</p>
+<p>8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. </p>
+<p>9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form via Parents Gateway. The completed opt-out form is to be submitted by 3rd February 2023.</p>
+<p>10. Parents can contact the school at 67697176 for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
+<p>Page last updated on: 25 January 2023</p>
