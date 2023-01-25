@@ -127,7 +127,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><strong>Malay Department</strong></p>
+<p><strong><u>Malay Department</u></strong></p>
 <table>
 <tbody>
 <tr>
@@ -143,30 +143,25 @@ description: ""
 </tr>
 <tr>
 <td width="154">
-<p>Reading programme&nbsp;2021</p>
+<p>Reading programme 2022</p>
 </td>
 <td>
-<p>To encourage pupils to read Malay stories books extensively and intensively, a year programme was planned for the whole school. Pupils will start off each Malay lesson with a 10 minute reading time dedicated to reading a Malay story book of their choice on Mondays to Wednesdays. Time was also allocated for teachers to book the school library to have their lessons and to bring pupils to borrow Malay books. The programme also looked into the development of their reading skills and their acquisition of Malay vocabulary. The programme seeks the home support to encourage children to extend their reading to other reading materials such as newspapers, magazines and even recipe books.</p>
+<p>To encourage pupils to read Malay stories books extensively and intensively, a year programme was planned for the whole school. Pupils will start off each Malay lesson with a 10 minute reading time dedicated to reading a Malay story book of their choice on Mondays to Wednesdays. Time was also allocated for teachers to book the school library to have their lessons and to bring pupils to borrow Malay books. The programme also looked into the development of their reading skills and their acquisition of Malay vocabulary. The programme seeks the home support to encourage children to extend their reading.</p>
 </td>
 <td>Primary 1 to Primary 6</td>
 </tr>
 <tr>
 <td>
-<p>MTL Fortnight Story-telling</p>
+<p>Spelling Bee Competition for P5</p>
 </td>
-<td>To provide opportunities for pupils to build up their self-confidence and love in speaking the Malay language, pupils will be listening to animal folktale stories from their teachers. They are then encouraged to tell other folktale stories that they know of in their own ways in Malay language.&nbsp;</td>
-<td>Primary 1-2</td>
+<td>To encourage students to use and learn the vocabulary found in the syllabus more effectively, a termly spelling bee competition was held termly. This encourages students to remember the vocabulary learnt with its meanings.</td>
+<td>Primary 5</td>
 </tr>
 <tr>
-<td>MTL Fortnight<br />Traditional Games&nbsp;</td>
-<td>To instill the love and understanding of the Malay traditions and culture, the best way to assimilate is through hands-on activities. Learning through play gives the pupils a change to find out more about Malay culture and how it has changed or evolved through the years. This is also an opportunity for pupils to converse with their families and friends by bringing the knowledge home so as to keep the tradition and culture alive.&nbsp;</td>
-<td>&nbsp;Primary 3-4</td>
-</tr>
-<tr>
-<td>MTL Fortnight<br />Dramatisation</td>
-<td>To inculcate the use of the language fluently and confidently, the pupils will be exposed to different types of texts and engaged in role playing activities to practice the language in a fun and informal setting. Pupils will also learn to work with peers and motivate each other to use the language confidently.&nbsp;</td>
-<td>Primary 5-6</td>
+<td>MTL Fortnight Class and Individual activities</td>
+<td>To instill the love and understanding of the Malay traditions and culture, the best way to assimilate is through hands-on activities. Learning through play gives the pupils a change to find out more about Malay culture and how it has changed or evolved through the years. This is also an opportunity for pupils to converse with their families and friends by bringing the knowledge home so as to keep the tradition and culture alive.
+To inculcate the use of the language fluently and confidently, the pupils will be exposed to different types of poetry and engaged in performance activities as well as individual to practice the language and embrace the culture in a fun and informal setting. Pupils will also learn to work with peers and motivate each other to use the language confidently.</td>
 </tr>
 </tbody>
 </table>
-<p>Page last updated: 9 April 2021</p>
+<p>Page last updated: 25 January 2023</p>
