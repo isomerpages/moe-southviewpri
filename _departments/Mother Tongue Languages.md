@@ -48,7 +48,6 @@ description: ""
 </tbody>
 </table>
 <p>Besides the above competitions, the department worked with Mandai Wildlife Group to conduct the following online lessons for the various levels. The content of the lessons is aligned to the content in the curriculum. Pupils engaged with the presenter/zookeepers during the lessons and the animal world was brought virtually to the classrooms. Pupils presented their learning through the creation of Picture Books, voice recordings, PowerPoint presentations etc.</p>
-<br>
 <table>
 	<tbody>
 		<tr>
