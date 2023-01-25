@@ -4,7 +4,7 @@ permalink: /departments/mother-tongue-languages/
 description: ""
 ---
 <img src="/images/MT.jpg">
-<strong><u>Our Key Programmes</u></strong>
+<strong><u>Our Key Programmes</u></strong><br>
 <strong><u>Chinese Department</u></strong>
 <table>
 <tbody>
