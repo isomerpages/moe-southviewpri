@@ -84,7 +84,6 @@ Besides the above competitions, the department worked with Mandai Wildlife Group
 		</tr>
 	</tbody>
 	</table>
-	<br>
 <p><strong><u>Tamil Department</u></strong></p>
 <table>
 <tbody>
@@ -148,4 +147,4 @@ To inculcate the use of the language fluently and confidently, the pupils will b
 </tr>
 </tbody>
 </table>
-Page last updated: 25 January 2023
+<small>Page last updated: 25 January 2023
