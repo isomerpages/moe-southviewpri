@@ -5,7 +5,7 @@ description: ""
 ---
 <img src="/images/MT.jpg">
 <p><strong><u>Our Key Programmes</u></strong></p>
-<p><strong>Chinese Department</strong></p>
+<p><strong><u>Chinese Department</u></strong></p>
 <table>
 <tbody>
 <tr>
@@ -25,23 +25,67 @@ description: ""
 <td>Primary 1</td>
 </tr>
 <tr>
-<td>Singing Competition&nbsp;</td>
+<td>Singing Competition</td>
 <td>To instil self-confidence in using the Chinese Language and appreciate the language through songs.</td>
 <td>Primary 2</td>
 </tr>
 <tr>
-<td>&nbsp;Text Recital Competition</td>
+<td>Text Recital Competition</td>
 <td>To instil confidence in public speaking and appreciate the language through meaningful texts.</td>
 <td>Primary 3</td>
 </tr>
 <tr>
 <td>Comics Creation Competition&nbsp;</td>
-<td>To cultivate interest in the language through creating comic strips for Chinese idioms</td>
-<td>Primary 4 to 6</td>
+<td>To cultivate interest in the language through creating comic strips for Chinese idioms.<br/ ><br />To instil confidence in using the language to introduce the comics created.
+</td>
+<td>Primary 4</td>
+</tr>
+<tr>
+<td>Comics Creation Competition&nbsp;</td>
+<td>Comics Creation Competition	To cultivate interest in the language through creating comic strips for Chinese idioms.	Primary 5</td>
+<td>Primary 5</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Tamil Department</strong></p>
+<p>Besides the above competitions, the department worked with Mandai Wildlife Group to conduct the following online lessons for the various levels. The content of the lessons is aligned to the content in the curriculum. Pupils engaged with the presenter/zookeepers during the lessons and the animal world was brought virtually to the classrooms. Pupils presented their learning through the creation of Picture Books, voice recordings, PowerPoint presentations etc.</p>
+<table>
+	<tbody>
+		<tr>
+			<th>Level</th>
+			<th>Online Programme</th>
+			<th>Learning Objectives</th>
+		</tr>
+		<tr>
+			<td>Primary 1</td>
+			<td>大熊猫宝宝饲养员</td>
+			<td>Using See-Think-Wonder strategy, learn how Panda Keeper take care of Le Le</td>
+		</tr>
+		<tr>
+			<td>Primary 2</td>
+			<td>大熊猫宝宝饲养员</td>
+			<td>Using See-Think-Wonder strategy, learn how Panda Keeper take care of Le Le</td>
+		</tr>
+		<tr>
+			<td>Primary 3</td>
+			<td>到脆弱森林去</td>
+			<td>Introducing endangered species such as Malayan Flying fox, mouse deer etc in fragile forest<br /><br />Learning how to give specific instructions to direct ways from one place to another
+</td>
+		</tr>
+		<tr>
+			<td>Primary 4</td>
+			<td>亚马逊洪溢林</td>
+			<td>Introduce the animals living in Amazon Flooded Forest and their features<br /><br />Using See-Think-Wonder strategy to introduce an animal seen on the virtual meeting
+</td>
+		</tr>
+		<tr>
+			<td>Primary 5</td>
+			<td>动物园里的职业有什么</td>
+			<td>Learning about the career opportunities in the zoo</td>
+		</tr>
+	</tbody>
+	</table>
+	<br />
+<p><strong><u>Tamil Department</u></strong></p>
 <table>
 <tbody>
 <tr>
