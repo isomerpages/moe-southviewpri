@@ -142,8 +142,7 @@ Besides the above competitions, the department worked with Mandai Wildlife Group
 </tr>
 <tr>
 <td>MTL Fortnight Class and Individual activities</td>
-<td>To instill the love and understanding of the Malay traditions and culture, the best way to assimilate is through hands-on activities. Learning through play gives the pupils a change to find out more about Malay culture and how it has changed or evolved through the years. This is also an opportunity for pupils to converse with their families and friends by bringing the knowledge home so as to keep the tradition and culture alive.
-To inculcate the use of the language fluently and confidently, the pupils will be exposed to different types of poetry and engaged in performance activities as well as individual to practice the language and embrace the culture in a fun and informal setting. Pupils will also learn to work with peers and motivate each other to use the language confidently.</td>
+<td>To instill the love and understanding of the Malay traditions and culture, the best way to assimilate is through hands-on activities. Learning through play gives the pupils a change to find out more about Malay culture and how it has changed or evolved through the years. This is also an opportunity for pupils to converse with their families and friends by bringing the knowledge home so as to keep the tradition and culture alive. <br />To inculcate the use of the language fluently and confidently, the pupils will be exposed to different types of poetry and engaged in performance activities as well as individual to practice the language and embrace the culture in a fun and informal setting. Pupils will also learn to work with peers and motivate each other to use the language confidently.</td>
 </tr>
 </tbody>
 </table>
