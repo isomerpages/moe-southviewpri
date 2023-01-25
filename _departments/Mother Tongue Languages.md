@@ -69,7 +69,7 @@ description: ""
 		<tr>
 			<td>Primary 3</td>
 			<td>到脆弱森林去</td>
-			<td><ul><li>Introducing endangered species such as Malayan Flying fox, mouse deer etc in fragile forest<li>Learning how to give specific instructions to direct ways from one place to another
+			<td>Introducing endangered species such as Malayan Flying fox, mouse deer etc in fragile forest<br />Learning how to give specific instructions to direct ways from one place to another
 </td>
 		</tr>
 		<tr>
