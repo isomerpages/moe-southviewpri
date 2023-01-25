@@ -84,6 +84,7 @@ Besides the above competitions, the department worked with Mandai Wildlife Group
 		</tr>
 	</tbody>
 	</table>
+	<br>
 <p><strong><u>Tamil Department</u></strong></p>
 <table>
 <tbody>
