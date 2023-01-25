@@ -154,7 +154,7 @@ description: ""
 <td>
 <p>Spelling Bee Competition for P5</p>
 </td>
-<td>To encourage students to use and learn the vocabulary found in the syllabus more effectively, a termly spelling bee competition was held termly. This encourages students to remember the vocabulary learnt with its meanings.<br /><img src="/images/MT%20ML%20webpage.jpg; style=width:50%"></td>
+<td>To encourage students to use and learn the vocabulary found in the syllabus more effectively, a termly spelling bee competition was held termly. This encourages students to remember the vocabulary learnt with its meanings.<br /><img src="/images/MT%20ML%20webpage.jpg"></td>
 <td>Primary 5</td>
 </tr>
 <tr>
