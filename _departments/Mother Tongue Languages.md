@@ -4,8 +4,8 @@ permalink: /departments/mother-tongue-languages/
 description: ""
 ---
 <img src="/images/MT.jpg">
-<strong><u>Our Key Programmes</u></strong><br>
-<strong><u>Chinese Department</u></strong>
+<p><strong><u>Our Key Programmes</u></strong></p><br>
+<p><strong><u>Chinese Department</u></strong></p>
 <table>
 <tbody>
 <tr>
@@ -84,45 +84,34 @@ description: ""
 		</tr>
 	</tbody>
 	</table>
-<strong><u>Tamil Department</u></strong>
+<p><strong><u>Tamil Department</u></strong></p>
 <table>
 <tbody>
 <tr>
-<td style="text-align: center;" width="154">
+<td>
 <p><strong>Name of Programmes</strong></p>
 </td>
-<td style="text-align: center;" width="154">
+<td>
 <p><strong>Objectives</strong></p>
 </td>
-<td style="text-align: center;" width="154">
+<td>
 <p><strong>Target Level</strong></p>
 </td>
 </tr>
 <tr>
 <td>Mother Tongue Fortnight Activities</td>
-<td>
-<p>To encourage pupils to embrace their mother tongue languages through various competitions and enrichment programs.&nbsp;The P1 &amp; P2 pupils will showcase their public speaking skills via show and tell competitions about their favourite traditional indian costume and food.</p>
-</td>
-<td>
-<p>Primary 1 &amp; 2</p>
-</td>
+<td>To encourage pupils to embrace their mother tongue languages through various competitions and enrichment programs.&nbsp;The P1 &amp; P2 pupils will showcase their public speaking skills via show and tell competitions about their favourite traditional indian costume and food.</td>
+<td>Primary 1 &amp; 2</td>
 </tr>
 <tr>
 <td>Mother Tongue Fortnight Activities</td>
-<td>
-<p>&nbsp;To create an immersive environment for learning and appreciating Mother Tongue Languages and Cultures.</p>
-<p>The P3 &amp; P4 pupils will be involved in a role play competition on the characters from the Indian epics, Ramayana and Mahabharata. This competition encourages cultural discovery through authentic experience in a fun way.</p>
-</td>
+<td>To create an immersive environment for learning and appreciating Mother Tongue Languages and Cultures.<br />The P3 &amp; P4 pupils will be involved in a role play competition on the characters from the Indian epics, Ramayana and Mahabharata. This competition encourages cultural discovery through authentic experience in a fun way.</td>
 <td>Primary 3 &amp; 4</td>
 </tr>
 <tr>
 <td>Mother Tongue Fortnight Activities</td>
-<td>
-<p>To allow authentic usage and exposure to Tamil Language. Students are exposed to a wide range of activities during the MTL Fortnight, in addition to learning and using the language.&nbsp;The P5 &amp; p6 pupils will be involved in a debate competition. This allows them to enhance their public speaking skills.</p>
-</td>
-<td>
-<p>Primary 5 &amp; 6</p>
-</td>
+<td>To allow authentic usage and exposure to Tamil Language. Students are exposed to a wide range of activities during the MTL Fortnight, in addition to learning and using the language.&nbsp;The P5 &amp; p6 pupils will be involved in a debate competition. This allows them to enhance their public speaking skills.</td>
+<td>Primary 5 &amp; 6</td>
 </tr>
 </tbody>
 </table>
