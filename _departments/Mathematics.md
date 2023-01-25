@@ -18,27 +18,27 @@ description: ""
 		</tr>
 		<tr>
 			<td>Math Trail</td>
-			<td><li>To sharpen the thinking skills of P1 students through hands on activities<li>To provide an environment for team building of students' social skills</td>
+			<td><ul><li>To sharpen the thinking skills of P1 students through hands on activities<li>To provide an environment for team building of students' social skills</td>
 			<td>Primary 1 & 2</td>
 		</tr>
 		<tr>
 			<td>Math Journaling</td>
-			<td><li>To enhance classroom learning and stimulate thinking regarding mathematics learning and enhance conceptual understanding</td>
+			<td><ul><li>To enhance classroom learning and stimulate thinking regarding mathematics learning and enhance conceptual understanding</td>
 			<td>Primary 1 - 5</td>
 		</tr>
 		<tr>
 			<td>Math Learning Day</td>
-			<td><li>To sharpen the thinking skills of P3 students through hands-on activities<li>To provide an environment for team building and building of students’ social skills<li>To have an opportunity to tap on Mathematical knowledge learnt to real life situations</td>
+			<td><ul><li>To sharpen the thinking skills of P3 students through hands-on activities<li>To provide an environment for team building and building of students’ social skills<li>To have an opportunity to tap on Mathematical knowledge learnt to real life situations</td>
 			<td>Primary 3</td>
 		</tr>
 		<tr>
 			<td>Level Activity</td>
-			<td><li>To appreciate the use of Mathematics in real world<li>To enjoy Mathematics and develop patience and persistence in solving problems<li>To develop Mathematical curiosity</td>
+			<td><ul><li>To appreciate the use of Mathematics in real world<li>To enjoy Mathematics and develop patience and persistence in solving problems<li>To develop Mathematical curiosity</td>
 			<td>All Level</td>
 		</tr>
 		<tr>
 			<td>Math Online Level Activity</td>
-			<td><li>To challenge pupils to complete Math projects in the form of games, craft work, puzzles, etc<li>Encourage Southviens to be excited about Math through hands-on activities<li>To appreciate the use of Mathematics in real world</td>
+			<td><ul><li>To challenge pupils to complete Math projects in the form of games, craft work, puzzles, etc<li>Encourage Southviens to be excited about Math through hands-on activities<li>To appreciate the use of Mathematics in real world</td>
 			<td>All Level</td>
 		</tr>
 	</tbody>
