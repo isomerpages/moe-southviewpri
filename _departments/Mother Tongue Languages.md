@@ -36,7 +36,7 @@ description: ""
 </tr>
 <tr>
 <td>Comics Creation Competition&nbsp;</td>
-<td>To cultivate interest in the language through creating comic strips for Chinese idioms.<br />To instil confidence in using the language to introduce the comics created.
+<td>To cultivate interest in the language through creating comic strips for Chinese idioms.<br>To instil confidence in using the language to introduce the comics created.
 </td>
 <td>Primary 4</td>
 </tr>
@@ -68,13 +68,13 @@ Besides the above competitions, the department worked with Mandai Wildlife Group
 		<tr>
 			<td>Primary 3</td>
 			<td>到脆弱森林去</td>
-			<td>Introducing endangered species such as Malayan Flying fox, mouse deer etc in fragile forest<br />Learning how to give specific instructions to direct ways from one place to another
+			<td>Introducing endangered species such as Malayan Flying fox, mouse deer etc in fragile forest<br>Learning how to give specific instructions to direct ways from one place to another
 </td>
 		</tr>
 		<tr>
 			<td>Primary 4</td>
 			<td>亚马逊洪溢林</td>
-			<td>Introduce the animals living in Amazon Flooded Forest and their features<br />Using See-Think-Wonder strategy to introduce an animal seen on the virtual meeting
+			<td>Introduce the animals living in Amazon Flooded Forest and their features<br>Using See-Think-Wonder strategy to introduce an animal seen on the virtual meeting
 </td>
 		</tr>
 		<tr>
@@ -105,7 +105,7 @@ Besides the above competitions, the department worked with Mandai Wildlife Group
 </tr>
 <tr>
 <td>Mother Tongue Fortnight Activities</td>
-<td>To create an immersive environment for learning and appreciating Mother Tongue Languages and Cultures.<br />The P3 &amp; P4 pupils will be involved in a role play competition on the characters from the Indian epics, Ramayana and Mahabharata. This competition encourages cultural discovery through authentic experience in a fun way.</td>
+<td>To create an immersive environment for learning and appreciating Mother Tongue Languages and Cultures.<br>The P3 &amp; P4 pupils will be involved in a role play competition on the characters from the Indian epics, Ramayana and Mahabharata. This competition encourages cultural discovery through authentic experience in a fun way.</td>
 <td>Primary 3 &amp; 4</td>
 </tr>
 <tr>
@@ -137,13 +137,33 @@ Besides the above competitions, the department worked with Mandai Wildlife Group
 </tr>
 <tr>
 <td>Spelling Bee Competition for P5</td>
-<td>To encourage students to use and learn the vocabulary found in the syllabus more effectively, a termly spelling bee competition was held termly. This encourages students to remember the vocabulary learnt with its meanings.<br /><img src="/images/MT%20ML%20webpage.jpg"></td>
+<td>To encourage students to use and learn the vocabulary found in the syllabus more effectively, a termly spelling bee competition was held termly. This encourages students to remember the vocabulary learnt with its meanings.<br><img src="/images/MT%20ML%20webpage.jpg"></td>
 <td>Primary 5</td>
 </tr>
 <tr>
 <td>MTL Fortnight Class and Individual activities</td>
-<td>To instill the love and understanding of the Malay traditions and culture, the best way to assimilate is through hands-on activities. Learning through play gives the pupils a change to find out more about Malay culture and how it has changed or evolved through the years. This is also an opportunity for pupils to converse with their families and friends by bringing the knowledge home so as to keep the tradition and culture alive. <br />To inculcate the use of the language fluently and confidently, the pupils will be exposed to different types of poetry and engaged in performance activities as well as individual to practice the language and embrace the culture in a fun and informal setting. Pupils will also learn to work with peers and motivate each other to use the language confidently.</td>
+<td>To instill the love and understanding of the Malay traditions and culture, the best way to assimilate is through hands-on activities. Learning through play gives the pupils a change to find out more about Malay culture and how it has changed or evolved through the years. This is also an opportunity for pupils to converse with their families and friends by bringing the knowledge home so as to keep the tradition and culture alive. <br>To inculcate the use of the language fluently and confidently, the pupils will be exposed to different types of poetry and engaged in performance activities as well as individual to practice the language and embrace the culture in a fun and informal setting. Pupils will also learn to work with peers and motivate each other to use the language confidently.</td>
+	<td>Primary 1 to 6</td>
 </tr>
 </tbody>
 </table>
-<small>Page last updated: 25 January 2023
+<p><strong><u>MTL Fortnight</u></strong></p>
+<table>
+	<tbody>
+		<tr>
+			<td><strong>Primary 1</strong><br>
+			As a class, students sang children songs. Songs are a big part of the Malay culture. We grow up and learn the language through songs. By singing different children songs, we hope the children will love learning the language.<br>
+			<img src="/images/MTLFP1.jpg"><br>
+			Individually, students learnt about the traditional Wau and wau making.</td>
+		</tr>
+		<tr>
+			<td><strong>Primary 2</strong><br>
+			As a class, students learnt silat through silat demonstration by our own PE teacher, Mr Faizal. Silat is Malay traditional martial arts that is still active in the Malay community. By learning the basics will be more encouraged to preserve this traditional martial art.<br>
+				<img src="/images/MTLFP2-1.jpg"><br>
+				Individually, students learnt to make bunga manggar using crepe paper and sticks. While silat can be seen during Malay weddings, bunga manggar is also used to accompany the bride and groom.<br>
+					<img src="/images/MTLFP2-2.jpg"><br>
+		</td>
+		</tr>
+	</tbody>
+	</table>
+<small>Page last updated: 25 January 2023</small>
