@@ -176,7 +176,7 @@ Besides the above competitions, the department worked with Mandai Wildlife Group
 			<td><strong>Primary 4</strong><br>
 				As a class, the students learnt dikir barat. It is a traditional musical group performance.<br />
 				<img src="/images/MTLFP4-1.jpg"><br>
-				Individually, students learn about traditional games and created their own traditional games using recycled materials.<br />
+				Individually, students learn about traditional games and created their own traditional games using recycled materials.<br>
 				<img src="/images/MTLFP4-2.jpg"><br>
 			</td>
 		</tr>
