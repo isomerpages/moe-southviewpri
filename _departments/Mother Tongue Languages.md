@@ -161,8 +161,16 @@ Besides the above competitions, the department worked with Mandai Wildlife Group
 			As a class, students learnt silat through silat demonstration by our own PE teacher, Mr Faizal. Silat is Malay traditional martial arts that is still active in the Malay community. By learning the basics will be more encouraged to preserve this traditional martial art.<br>
 				<img src="/images/MTLFP2-1.jpg"><br>
 				Individually, students learnt to make bunga manggar using crepe paper and sticks. While silat can be seen during Malay weddings, bunga manggar is also used to accompany the bride and groom.<br>
-					<img style="width 25%" src="/images/MTLFP2-2.jpg"><br>
+					<img style="width 15%" src="/images/MTLFP2-2.jpg"><br>
 		</td>
+		</tr>
+		<tr>
+			<td><strong>Primary 3</strong><br>
+				As a class, students learnt traditional dance steps such as Inang, Zapin and Asli.<br />
+				<img src="/images/MTLFP3-1.jpg"><br>
+				Individually, students learnt how to make bunga rampai using the traditional ingredients.<br />
+				<img src="/images/MTLFP3-2.jpg"><br>
+			</td>
 		</tr>
 	</tbody>
 	</table>
