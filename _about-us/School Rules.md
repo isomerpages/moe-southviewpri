@@ -154,12 +154,12 @@ description: ""
 <li>Students are not allowed to bring their mobile phones/devices to school during examination/PSLE days. Such devices will be collected and returned to the student at the end of the day.</li>
 </ul>
 <p><strong>7. Care for Personal Belongings<br /></strong>Students are responsible for their own personal belongings and should avoid bringing valuables or excessive amounts of money to school.</p>
-<p><strong>8. Possession of Weapons<br /></strong>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.<br />Examples of such items:</p>
+<p><strong>8. Possession of Weapons<br /></strong>Students are not allowed to have any weapons in their possession. They are also not allowed to bring any weapon-like items which can be used or intended to be used to cause harm to others.<br />Examples of such items:</p>
 <ul>
 <li>Pen knife/Knife</li>
 <li>Metal ruler</li>
 <li>Comb with pointed end</li>
-<li>Scissors (school will provide students with scissors if there is a need to use them)&nbsp;</li>
+<li>Scissors (school will provide students with scissors if there is a need to use them)</li>
 </ul>
 <p><strong>9. Items Prohibited in School<br /></strong>The following items must not be brought to school:</p>
 <ul>
