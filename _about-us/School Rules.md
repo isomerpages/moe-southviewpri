@@ -171,15 +171,17 @@ description: ""
 <li>Any other items which are deemed as a distraction or dangerous.</li>
 </ul>
 <p><strong>10. Electronics Devices (Mobile Phones and Smart Watches)</strong></p>
-<p>Students are strongly discouraged from bringing their mobile phones to school. The school will not be held responsible for any loss of mobile phones. Mobile phones must be switched off when the students are in school.&nbsp;</p>
-<p>Students wearing smart watches, with camera and call functions, are to keep them in the school bag during curriculum hours. They will only be allowed to wear it if the camera and call functions are disabled.&nbsp;</p>
-<p>Students found using his/her mobile phones or the smart watches&rsquo; camera and call functions in school without valid reason will have the items confiscated. The confiscated items will be returned only to parent.</p>
+<p>Students are strongly discouraged from bringing their mobile phones to school. The school will not be held responsible for any loss of mobile phones. Mobile phones must be switched off when the students are in school.</p>
+<p>Students wearing smart watches, with camera and call functions, are to keep them in the school bag during curriculum hours. They will only be allowed to wear it if the camera and call functions are disabled.</p>
+<p>Students found using his/her mobile phones or the smart watches’ camera and call functions in school without valid reason will have the items confiscated. The confiscated items will be returned only to parents.</p>
 <p><strong>Discipline Policy - Offences &amp; Consequences</strong></p>
 <p>Discipline and good character are the hallmarks of a Southvien. The school categorises offences into 3 stages: Stage 1 for minor offences, Stage 2 for major offences and Stage 3 for very serious offences. The school will take one or more of the following actions when students misbehave.</p>
 <img src="/images/sr7.jpeg" />
 <img src="/images/sr8.jpeg" />
 <img src="/images/sr9.jpeg" />
-<p><strong>Additional Notes:<br /></strong><strong>1. Repeated Offences<br /></strong>Repeated offences will be recorded and captured in the School Offence Module in the School Cockpit System. The school may also implement measures such as&nbsp;<strong><u>counselling, caning and suspension for repeated offences and for Stage 2 and Stage 3 offences.</u></strong> The school will inform parents before proceeding with any of the measures.</p>
+<p><strong>Additional Notes:<br /></strong><strong>1. Repeated Offences<br /></strong>Repeated offences will be recorded and captured in the School Offence Module in the School Cockpit System.
+The school may also implement measures such as <u><strong>counselling, caning and suspension for repeated offences and for Stage 2 and Stage 3 offences.</strong></u> The school will inform parents before proceeding with any of the measures.</p>
 <p><strong>2. Use of Electronic Devices (Mobile Phones and Smart Watches)<br /></strong>Unauthorised use of personal mobile phones/ smart watches (with camera and call functions) is not allowed during official school activities e.g. curriculum time, learning journeys, CCA, supplementary lessons, recess/lunch.</p>
 <p>These items will be confiscated and only returned to the parent(s) personally if unauthorised use is found. Students may be furthered barred from bringing such items to school.</p>
-<p>Page updated on: 27 February 2021</p>
+<br>
+<small>Page updated on: 27 February 2021
