@@ -133,7 +133,7 @@ description: ""
 </ul>
 <p><strong>Absence from School</strong></p>
 <ul>
-<li>A student who is absent must submit either a medical certificate or a letter from his parent/guardian to his/her form teacher on the day he/she returns to school. Parents are also encouraged to give the school a call or, send an email or message to inform of their child&rsquo;s absence.</li>
+<li>A student who is absent must submit either a medical certificate or a letter from his parent/guardian to his/her form teacher on the day he/she returns to school. Parents are also encouraged to give the school a call or send an email/ message to inform of their child’s absence.</li>
 <li>Absence from examinations and tests must be covered by a medical certificate or other relevant official documents. Doctors will need to include the diagnosis of illness in the medical certificate.</li>
 </ul>
 <p><strong>Late for School/Late for Class/Skipping lesson</strong></p>
