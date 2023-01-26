@@ -184,4 +184,4 @@ The school may also implement measures such as <u><strong>counselling, caning an
 <p><strong>2. Use of Electronic Devices (Mobile Phones and Smart Watches)<br /></strong>Unauthorised use of personal mobile phones/ smart watches (with camera and call functions) is not allowed during official school activities e.g. curriculum time, learning journeys, CCA, supplementary lessons, recess/lunch.</p>
 <p>These items will be confiscated and only returned to the parent(s) personally if unauthorised use is found. Students may be furthered barred from bringing such items to school.</p>
 <br>
-<small>Page updated on: 27 February 2021
+<small>Page updated on: 26 January 2023
