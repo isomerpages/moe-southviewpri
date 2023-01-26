@@ -166,15 +166,15 @@ Besides the above competitions, the department worked with Mandai Wildlife Group
 		</tr>
 		<tr>
 			<td><strong>Primary 3</strong><br>
-				As a class, students learnt traditional dance steps such as Inang, Zapin and Asli.<br />
+				As a class, students learnt traditional dance steps such as Inang, Zapin and Asli.<br>
 				<img src="/images/MTLFP3-1.jpg"><br>
-				Individually, students learnt how to make bunga rampai using the traditional ingredients.<br />
+				Individually, students learnt how to make bunga rampai using the traditional ingredients.<br>
 				<img src="/images/MTLFP3-2.jpg"><br>
 			</td>
 		</tr>
 		<tr>
 			<td><strong>Primary 4</strong><br>
-				As a class, the students learnt dikir barat. It is a traditional musical group performance.<br />
+				As a class, the students learnt dikir barat. It is a traditional musical group performance.<br>
 				<img src="/images/MTLFP4-1.jpg"><br>
 				Individually, students learn about traditional games and created their own traditional games using recycled materials.<br>
 				<img src="/images/MTLFP4-2.jpg"><br>
