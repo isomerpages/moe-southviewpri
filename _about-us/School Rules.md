@@ -176,9 +176,9 @@ description: ""
 <p>Students found using his/her mobile phones or the smart watches’ camera and call functions in school without valid reason will have the items confiscated. The confiscated items will be returned only to parents.</p>
 <p><strong>Discipline Policy - Offences &amp; Consequences</strong></p>
 <p>Discipline and good character are the hallmarks of a Southvien. The school categorises offences into 3 stages: Stage 1 for minor offences, Stage 2 for major offences and Stage 3 for very serious offences. The school will take one or more of the following actions when students misbehave.</p>
-<img src="/images/sr7.jpeg" />
-<img src="/images/sr8.jpeg" />
-<img src="/images/sr9.jpeg" />
+<img src="/images/SR6N.jpg">
+<img src="/images/SR7N.jpg">
+<img src="/images/SR8N.jpg">
 <p><strong>Additional Notes:<br /></strong><strong>1. Repeated Offences<br /></strong>Repeated offences will be recorded and captured in the School Offence Module in the School Cockpit System.
 The school may also implement measures such as <u><strong>counselling, caning and suspension for repeated offences and for Stage 2 and Stage 3 offences.</strong></u> The school will inform parents before proceeding with any of the measures.</p>
 <p><strong>2. Use of Electronic Devices (Mobile Phones and Smart Watches)<br /></strong>Unauthorised use of personal mobile phones/ smart watches (with camera and call functions) is not allowed during official school activities e.g. curriculum time, learning journeys, CCA, supplementary lessons, recess/lunch.</p>
