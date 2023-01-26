@@ -55,7 +55,7 @@ description: ""
 <li>Plain black canvas shoes</li>
 </ul>
 </td>
-<td><img src="/images/sr1.jpeg"></td>
+<td><img src="/images/SR1N.jpg"></td>
 <td>
 <p><strong>Girls</strong></p>
 <ul>
@@ -65,7 +65,7 @@ description: ""
 <li>Plain black canvas shoes</li>
 </ul>
 </td>
-<td><img src="/images/sr2.jpeg"></td>
+<td><img src="/images/SR2N.jpg"></td>
 </tr>
 </tbody>
 </table>
@@ -81,7 +81,7 @@ description: ""
 </li>
 <li>All students are to wear the PE attire during PE lessons and CCA sessions.</li>
 </ul>
-<img src="/images/sr3.png" />
+<img src="/images/SR34N.jpg">
 <p><strong>Use of PE Attire</strong></p>
 <ul>
 <li>Students are allowed to wear their PE attire for the whole day if there is PE and CCA for the day.</li>
