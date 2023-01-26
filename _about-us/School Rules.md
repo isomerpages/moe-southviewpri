@@ -3,10 +3,8 @@ title: School Rules
 permalink: /about-us/school-rules/
 description: ""
 ---
-
-
 <p>Students of South View Primary School play an important role in maintaining a good image of the school.</p>
-<p>The following information serves as useful guidelines to help every student measure up the standards of behaviour expected by the school. If a student misbehaves in or outside the school, disciplinary action will be taken against him/her and the incident will be recorded in the School Cockpit System.</p>
+<p>The following information serves as useful guidelines to help every student measure up to the standards of behaviour expected by the school. If a student misbehaves in or outside the school, disciplinary action will be taken against him/her and the incident will be recorded in the School Cockpit System.</p>
 <p><strong>1. School Hours</strong></p>
 <div style="text-align: center;">
 <table>
@@ -22,7 +20,7 @@ description: ""
 </tbody>
 </table>
 </div>
-<p>We start flag raising punctually at 7.30 am. It is a good habit for students to be in school by 7.30 am. Students who report after 7.30 am will be considered late for school.</p>
+<p>Flag-raising starts punctually at 7.30 am. Students are expected to be in school by then. Students who report after flag-raising will be considered late for school.</p>
 <p><strong>2.&nbsp;</strong><strong>National Anthem and Pledge</strong></p>
 <ul>
 <li>All students must attend the daily flag-raising ceremony.</li>
@@ -41,7 +39,8 @@ description: ""
 <li>Students must attend school and all school activities in proper school uniform.</li>
 <li>Students are to wear the prescribed school uniform and modification to the uniform is not allowed.</li>
 <li>Students who report to school during the weekends and holidays must be in school uniform or in appropriate CCA attire.</li>
-<li>Slippers, sandals and track shoes are prohibited unless permission is granted by the school.</li>
+<li>Any other attire that is not part of the school uniform is prohibited unless permission is granted by the school, for example, slippers, sandals and track shoes, for valid reason(s).</li>
+	<li>Male students must be clean-shaven and neat in appearance.</li>
 </ul>
 <div>
 <table>
@@ -56,7 +55,7 @@ description: ""
 <li>Plain black canvas shoes</li>
 </ul>
 </td>
-<td><img src="/images/sr1.jpeg" /></td>
+<td><img src="/images/SR1N.jpg"></td>
 <td>
 <p><strong>Girls</strong></p>
 <ul>
@@ -66,7 +65,7 @@ description: ""
 <li>Plain black canvas shoes</li>
 </ul>
 </td>
-<td><img src="/images/sr2.jpeg" /></td>
+<td><img src="/images/SR2N.jpg"></td>
 </tr>
 </tbody>
 </table>
@@ -74,40 +73,37 @@ description: ""
 <div>&nbsp;</div>
 <div><strong>PE Attire</strong></div>
 <ul>
-<li>● The PE attire comprises:
+<li>The PE attire comprises:
 <ul>
 <li>School PE T-shirt with nametag sewn above the school crest; and</li>
-<li>PE running shorts/ skort (for girls)</li>
+<li>school running shorts/ skort (for girls)</li>
 </ul>
 </li>
 <li>All students are to wear the PE attire during PE lessons and CCA sessions.</li>
 </ul>
-<img src="/images/sr3.png" />
+<img src="/images/SR34N.jpg">
 <p><strong>Use of PE Attire</strong></p>
 <ul>
-<li>Students are allowed to wear their PE attire for the whole day if there is PE for the day.</li>
-<li>Girls are only allowed to be in their running shorts during PE lessons. Skirts need to be worn at all times otherwise.&nbsp;</li>
-<li>PE t-shirt must be tucked in at all times.</li>
+<li>Students are allowed to wear their PE attire for the whole day if there is PE and CCA for the day.</li>
+<li>PE T-shirt must be tucked in at all times.</li>
 </ul>
 <p><strong>Finger Nails</strong></p>
 <ul>
-<li>Finger nails must be kept short and clean.&nbsp;</li>
+<li>Finger nails must be kept short and clean.</li>
 <li>Use of nail polish is not allowed.</li>
 </ul>
 <p><strong>Accessories</strong></p>
 <ul>
 <li>Students are only allowed to wear spectacles with clear lenses. Outlandish coloured spectacle frames are not allowed.</li>
-<li>No jewellery or any form or adornment is to be worn in school.</li>
+<li>No jewellery or any form of adornment is to be worn in school. However, girls are allowed to wear earrings of only gold/silver studs (fanciful studs are not allowed).</li>
 <li>Boys are not allowed to pierce ear holes or wear earrings/studs.</li>
-<li>Girls are allowed to wear only gold/silver studs. Fanciful studs are not allowed.</li>
 </ul>
 <p><strong>Hairstyle<br /></strong><strong>Boys</strong></p>
 <ul>
 <li>Hair should be kept short and neat and must not touch the ears and collar.</li>
-<li>Fringe should not fall on the forehead nor touch the eyebrows.&nbsp;</li>
+<li>Fringe should not touch the eyebrows.</li>
 <li>Extreme hairstyles and dyeing/highlighting of hair are strictly not allowed.</li>
-<li>Boys must be clean-shaven and neat in appearance.</li>
-<li>&ldquo;Skin-head&rdquo; haircut is not allowed unless permission has been granted by the school.</li>
+<li>Boys must be clean shaven; beards, moustaches and long side-burns are not allowed. </li>
 </ul>
 <p><strong>Girls</strong></p>
 <ul>
@@ -117,7 +113,7 @@ description: ""
 <li>Dyeing/highlighting of hair is strictly not allowed.</li>
 </ul>
 <p style="text-align: center;"><strong>Boys &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Girls</strong></p>
-<img src="/images/sr4.jpeg" />
+<img src="/images/SR5-1N.jpg" />
 <p><strong>4. Personal Conduct &ndash; Uphold the Core Values of the School<br /></strong>Students are expected to:</p>
 <ul>
 <li>Be honest (Integrity)</li>
@@ -137,7 +133,7 @@ description: ""
 </ul>
 <p><strong>Absence from School</strong></p>
 <ul>
-<li>A student who is absent must submit either a medical certificate or a letter from his parent/guardian to his/her form teacher on the day he/she returns to school. Parents are also encouraged to give the school a call or, send an email or message to inform of their child&rsquo;s absence.</li>
+<li>A student who is absent must submit either a medical certificate or a letter from his parent/guardian to his/her form teacher on the day he/she returns to school. Parents are also encouraged to give the school a call or send an email/ message to inform of their child’s absence.</li>
 <li>Absence from examinations and tests must be covered by a medical certificate or other relevant official documents. Doctors will need to include the diagnosis of illness in the medical certificate.</li>
 </ul>
 <p><strong>Late for School/Late for Class/Skipping lesson</strong></p>
@@ -158,12 +154,12 @@ description: ""
 <li>Students are not allowed to bring their mobile phones/devices to school during examination/PSLE days. Such devices will be collected and returned to the student at the end of the day.</li>
 </ul>
 <p><strong>7. Care for Personal Belongings<br /></strong>Students are responsible for their own personal belongings and should avoid bringing valuables or excessive amounts of money to school.</p>
-<p><strong>8. Possession of Weapons<br /></strong>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.<br />Examples of such items:</p>
+<p><strong>8. Possession of Weapons<br /></strong>Students are not allowed to have any weapons in their possession. They are also not allowed to bring any weapon-like items which can be used or intended to be used to cause harm to others.<br />Examples of such items:</p>
 <ul>
 <li>Pen knife/Knife</li>
 <li>Metal ruler</li>
 <li>Comb with pointed end</li>
-<li>Scissors (school will provide students with scissors if there is a need to use them)&nbsp;</li>
+<li>Scissors (school will provide students with scissors if there is a need to use them)</li>
 </ul>
 <p><strong>9. Items Prohibited in School<br /></strong>The following items must not be brought to school:</p>
 <ul>
@@ -175,15 +171,17 @@ description: ""
 <li>Any other items which are deemed as a distraction or dangerous.</li>
 </ul>
 <p><strong>10. Electronics Devices (Mobile Phones and Smart Watches)</strong></p>
-<p>Students are strongly discouraged from bringing their mobile phones to school. The school will not be held responsible for any loss of mobile phones. Mobile phones must be switched off when the students are in school.&nbsp;</p>
-<p>Students wearing smart watches, with camera and call functions, are to keep them in the school bag during curriculum hours. They will only be allowed to wear it if the camera and call functions are disabled.&nbsp;</p>
-<p>Students found using his/her mobile phones or the smart watches&rsquo; camera and call functions in school without valid reason will have the items confiscated. The confiscated items will be returned only to parent.</p>
+<p>Students are strongly discouraged from bringing their mobile phones to school. The school will not be held responsible for any loss of mobile phones. Mobile phones must be switched off when the students are in school.</p>
+<p>Students wearing smart watches, with camera and call functions, are to keep them in the school bag during curriculum hours. They will only be allowed to wear it if the camera and call functions are disabled.</p>
+<p>Students found using his/her mobile phones or the smart watches’ camera and call functions in school without valid reason will have the items confiscated. The confiscated items will be returned only to parents.</p>
 <p><strong>Discipline Policy - Offences &amp; Consequences</strong></p>
 <p>Discipline and good character are the hallmarks of a Southvien. The school categorises offences into 3 stages: Stage 1 for minor offences, Stage 2 for major offences and Stage 3 for very serious offences. The school will take one or more of the following actions when students misbehave.</p>
-<img src="/images/sr7.jpeg" />
-<img src="/images/sr8.jpeg" />
-<img src="/images/sr9.jpeg" />
-<p><strong>Additional Notes:<br /></strong><strong>1. Repeated Offences<br /></strong>Repeated offences will be recorded and captured in the School Offence Module in the School Cockpit System. The school may also implement measures such as&nbsp;<strong><u>counselling, caning and suspension for repeated offences and for Stage 2 and Stage 3 offences.</u></strong> The school will inform parents before proceeding with any of the measures.</p>
+<img src="/images/SR6N.jpg">
+<img src="/images/SR7N.jpg">
+<img src="/images/SR8N.jpg">
+<p><strong>Additional Notes:<br /></strong><strong>1. Repeated Offences<br /></strong>Repeated offences will be recorded and captured in the School Offence Module in the School Cockpit System.
+The school may also implement measures such as <u><strong>counselling, caning and suspension for repeated offences and for Stage 2 and Stage 3 offences.</strong></u> The school will inform parents before proceeding with any of the measures.</p>
 <p><strong>2. Use of Electronic Devices (Mobile Phones and Smart Watches)<br /></strong>Unauthorised use of personal mobile phones/ smart watches (with camera and call functions) is not allowed during official school activities e.g. curriculum time, learning journeys, CCA, supplementary lessons, recess/lunch.</p>
 <p>These items will be confiscated and only returned to the parent(s) personally if unauthorised use is found. Students may be furthered barred from bringing such items to school.</p>
-<p>Page updated on: 27 February 2021</p>
+<br>
+<small>Page updated on: 26 January 2023
