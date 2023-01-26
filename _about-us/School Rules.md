@@ -113,7 +113,7 @@ description: ""
 <li>Dyeing/highlighting of hair is strictly not allowed.</li>
 </ul>
 <p style="text-align: center;"><strong>Boys &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Girls</strong></p>
-<img src="/images/sr4.jpeg" />
+<img src="/images/SR5-1N.jpg" />
 <p><strong>4. Personal Conduct &ndash; Uphold the Core Values of the School<br /></strong>Students are expected to:</p>
 <ul>
 <li>Be honest (Integrity)</li>
