@@ -180,6 +180,21 @@ Besides the above competitions, the department worked with Mandai Wildlife Group
 				<img src="/images/MTLFP4-2.jpg"><br>
 			</td>
 		</tr>
+		<tr>
+			<td><strong>Primary 5</strong><br>
+				As a class, students learnt about poetry and presents it as a class with accompanied music or gestures.<br>
+			<img src="/images/MTLFP4-1.jpg"><br>
+				Individually, students learnt about wayang kulit and its significance to the Malay culture. Students also made their own wayang kulit.<br>
+				<img src="/images/MTLFP4-1.jpg"><br>
+			</td>
+		</tr>
+		<tr>
+			<td><strong>Primary 6</strong><br>
+				As a class, students learnt the significance of kompang and how to play the kompang as a group.<br>
+				<img src="/images/MTLFP4-1.jpg"><br>
+				Individually, students learn how to paint batik wau.<br>
+			</td>
+		</tr>
 	</tbody>
 	</table>
 <small>Page last updated: 25 January 2023</small>
