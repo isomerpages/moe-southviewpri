@@ -3,10 +3,8 @@ title: School Rules
 permalink: /about-us/school-rules/
 description: ""
 ---
-
-
 <p>Students of South View Primary School play an important role in maintaining a good image of the school.</p>
-<p>The following information serves as useful guidelines to help every student measure up the standards of behaviour expected by the school. If a student misbehaves in or outside the school, disciplinary action will be taken against him/her and the incident will be recorded in the School Cockpit System.</p>
+<p>The following information serves as useful guidelines to help every student measure up to the standards of behaviour expected by the school. If a student misbehaves in or outside the school, disciplinary action will be taken against him/her and the incident will be recorded in the School Cockpit System.</p>
 <p><strong>1. School Hours</strong></p>
 <div style="text-align: center;">
 <table>
@@ -22,7 +20,7 @@ description: ""
 </tbody>
 </table>
 </div>
-<p>We start flag raising punctually at 7.30 am. It is a good habit for students to be in school by 7.30 am. Students who report after 7.30 am will be considered late for school.</p>
+<p>Flag-raising starts punctually at 7.30 am. Students are expected to be in school by then. Students who report after flag-raising will be considered late for school.</p>
 <p><strong>2.&nbsp;</strong><strong>National Anthem and Pledge</strong></p>
 <ul>
 <li>All students must attend the daily flag-raising ceremony.</li>
@@ -41,7 +39,8 @@ description: ""
 <li>Students must attend school and all school activities in proper school uniform.</li>
 <li>Students are to wear the prescribed school uniform and modification to the uniform is not allowed.</li>
 <li>Students who report to school during the weekends and holidays must be in school uniform or in appropriate CCA attire.</li>
-<li>Slippers, sandals and track shoes are prohibited unless permission is granted by the school.</li>
+<li>Any other attire that is not part of the school uniform is prohibited unless permission is granted by the school, for example, slippers, sandals and track shoes, for valid reason(s).</li>
+	<li>Male students must be clean-shaven and neat in appearance.</li>
 </ul>
 <div>
 <table>
@@ -56,7 +55,7 @@ description: ""
 <li>Plain black canvas shoes</li>
 </ul>
 </td>
-<td><img src="/images/sr1.jpeg" /></td>
+<td><img src="/images/sr1.jpeg"></td>
 <td>
 <p><strong>Girls</strong></p>
 <ul>
@@ -66,7 +65,7 @@ description: ""
 <li>Plain black canvas shoes</li>
 </ul>
 </td>
-<td><img src="/images/sr2.jpeg" /></td>
+<td><img src="/images/sr2.jpeg"></td>
 </tr>
 </tbody>
 </table>
@@ -74,10 +73,10 @@ description: ""
 <div>&nbsp;</div>
 <div><strong>PE Attire</strong></div>
 <ul>
-<li>● The PE attire comprises:
+<li>The PE attire comprises:
 <ul>
 <li>School PE T-shirt with nametag sewn above the school crest; and</li>
-<li>PE running shorts/ skort (for girls)</li>
+<li>school running shorts/ skort (for girls)</li>
 </ul>
 </li>
 <li>All students are to wear the PE attire during PE lessons and CCA sessions.</li>
@@ -85,29 +84,26 @@ description: ""
 <img src="/images/sr3.png" />
 <p><strong>Use of PE Attire</strong></p>
 <ul>
-<li>Students are allowed to wear their PE attire for the whole day if there is PE for the day.</li>
-<li>Girls are only allowed to be in their running shorts during PE lessons. Skirts need to be worn at all times otherwise.&nbsp;</li>
-<li>PE t-shirt must be tucked in at all times.</li>
+<li>Students are allowed to wear their PE attire for the whole day if there is PE and CCA for the day.</li>
+<li>PE T-shirt must be tucked in at all times.</li>
 </ul>
 <p><strong>Finger Nails</strong></p>
 <ul>
-<li>Finger nails must be kept short and clean.&nbsp;</li>
+<li>Finger nails must be kept short and clean.</li>
 <li>Use of nail polish is not allowed.</li>
 </ul>
 <p><strong>Accessories</strong></p>
 <ul>
 <li>Students are only allowed to wear spectacles with clear lenses. Outlandish coloured spectacle frames are not allowed.</li>
-<li>No jewellery or any form or adornment is to be worn in school.</li>
+<li>No jewellery or any form of adornment is to be worn in school. However, girls are allowed to wear earrings of only gold/silver studs (fanciful studs are not allowed).</li>
 <li>Boys are not allowed to pierce ear holes or wear earrings/studs.</li>
-<li>Girls are allowed to wear only gold/silver studs. Fanciful studs are not allowed.</li>
 </ul>
 <p><strong>Hairstyle<br /></strong><strong>Boys</strong></p>
 <ul>
 <li>Hair should be kept short and neat and must not touch the ears and collar.</li>
-<li>Fringe should not fall on the forehead nor touch the eyebrows.&nbsp;</li>
+<li>Fringe should not touch the eyebrows.</li>
 <li>Extreme hairstyles and dyeing/highlighting of hair are strictly not allowed.</li>
-<li>Boys must be clean-shaven and neat in appearance.</li>
-<li>&ldquo;Skin-head&rdquo; haircut is not allowed unless permission has been granted by the school.</li>
+<li>Boys must be clean shaven; beards, moustaches and long side-burns are not allowed. </li>
 </ul>
 <p><strong>Girls</strong></p>
 <ul>
