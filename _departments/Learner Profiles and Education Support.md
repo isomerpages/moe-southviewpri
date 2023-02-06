@@ -5,7 +5,7 @@ description: ""
 ---
 <img src="/images/lpes1.jpg">
 <p>The Learner Profiles and Educational Support Department aims to complement existing school-based efforts by enhancing the coordination and communication between the different stakeholders through customised programme interventions to strengthen high needs students’ and high progress learners’ educational and developmental outcomes.</p>
-<img src="/images/lpes2.jpg">
+<img src="/images/LPES PC.jpg">
 <p><strong><u>Our key programmes</u></strong></p>
 <table width="0">
 <tbody>
