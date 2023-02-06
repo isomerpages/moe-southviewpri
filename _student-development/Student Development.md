@@ -30,7 +30,7 @@ description: ""
 			<tr>
 			<td><a href="/student-development/primary-6-transition-programme-ready-sec-go" target="">P6 Transition Programme</a></td>
 			<td>Ready, Sec, Go! is a customised P6 Transition programme to support the transitional needs of our graduating students.</td>
-			<td>Primary 6</th>
+			<td>Primary 6</td>
 			<td> Term 4 - 4 week programm eafter PSLE</td>
 			</tr>
 </tbody>
