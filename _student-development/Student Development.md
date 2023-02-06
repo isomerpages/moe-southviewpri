@@ -4,6 +4,35 @@ permalink: /student-development/
 description: ""
 ---
 <img src="/images/sd1.jpg">
+<p><u><strong>Student Development Team</strong></u></p>
+<p>The Student Development Team aims to promote a whole school approach to ensure the well-being of all students. We also promote positive school experiences for students and provide support and intervention. Through our programmes, we hope to motivate students to be confident, passionate learners with a heart to serve.</p>
 <p><u><strong>Our Key Programmes</strong></u></p>
-<p><a href="/student-development/welcome-back-to-school" target="">Welcome Back To School</a><br /><a href="/student-development/p1-transition-programme" target="">P1 Transition Programme</a><br /><a href="/student-development/primary-6-transition-programme-ready-sec-go" target="">P6 Transition Programme</a></p>
-<p>Page last updated: 9 April 2021</p>
+<table>
+	<tbody>
+		<tr>
+			<th>Name of Programmes</th>
+			<th>Objectives</th>
+			<th>Target Level</th>
+			<th> Date / Timeframe</th>
+		</tr>
+		<tr>
+			<td><p><a href="/student-development/welcome-back-to-school" target="">Welcome Back To School</a></td>
+			<td>The Welcome Back to School programme is a unique programme dedicated to the first few days of school, to ensure a smoother transition for the pupils starting the new academic year, through meaningful lessons and activities.</td>
+			<td>Primary 1 - 6</td>
+			<td>First few days of school</td>
+		</tr>
+				<tr>
+			<td><a href="/student-development/p1-transition-programme" target="">P1 Transition Programme</a></td>
+			<td>“We Love, We Can, We Learn” is a Primary 1 transition programme unique to South View Primary School. It aims to help P1 incoming students to transit more smoothly from preschool to primary school.</td>
+			<td>Primary 1</td>
+			<td> Term 1 - First 4 weeks of school</td>
+		</tr>
+			<tr>
+			<td><a href="/student-development/primary-6-transition-programme-ready-sec-go" target="">P6 Transition Programme</a></td>
+			<td>Ready, Sec, Go! is a customised P6 Transition programme to support the transitional needs of our graduating students.</td>
+			<td>Primary 6</th>
+			<td> Term 4 - 4 week programm eafter PSLE</td>
+			</tr>
+</tbody>
+	</table>
+<p>Page last updated: 6 February 2023</p>
