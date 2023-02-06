@@ -68,7 +68,7 @@ description: ""
 <p>Identified P1-P6 students</p>
 </td>
 <td style="text-align: center;" width="96">
-<p>Term 4 – Term 1</p>
+<p>Term 4 - Term 1</p>
 </td>
 </tr>
 <tr>
@@ -81,23 +81,7 @@ description: ""
 </ul>
 </td>
 <td style="text-align: center;" width="84">
-<p>Identified P1-P6 students</p>
-</td>
-<td style="text-align: center;" width="96">
-<p>Whole year</p>
-</td>
-</tr>
-<tr>
-<td width="186">
-<p>Hear4U Programme</p>
-</td>
-<td width="300">
-<ul>
-<li>Customised support programme to equip students with social emotional competencies and Executive Functioning skills through a solution-focussed approach</li>
-</ul>
-</td>
-<td style="text-align: center;" width="84">
-<p>Identified P1-P6 students</p>
+<p>Identified P4-P6 students</p>
 </td>
 <td style="text-align: center;" width="96">
 <p>Whole year</p>
@@ -109,7 +93,7 @@ description: ""
 </td>
 <td width="300">
 <ul>
-<li>Closely monitors the needs of students and designs intervention strategies in consultation with school leaders, teachers, parents and external agencies when necessary</li>
+<li>Closely monitors the needs of students and designs intervention strategies in consultation with school leaders, teachers, parents and/or external agencies</li>
 </ul>
 </td>
 <td style="text-align: center;" width="84">
@@ -125,16 +109,11 @@ description: ""
 </td>
 <td width="300">
 <ul>
-<li>Enriches learning for students who demonstrate passion, interest and ability in English Language, Chinese Language, Mathematics or Science, to:&nbsp;</li>
+<li>Extends students&#39; learning beyond the curriculum coverage and nurtures 21st century competencies such as critical and inventive thinking and effective communication skills for students who demonstrate passion, interest and ability in English Language, Chinese Language, Mathematics or Science</li>
 </ul>
-<ol>
-<li>extend students' learning beyond the curriculum coverage</li>
-<li>nurture 21st century competencies such as critical and inventive thinking and effective communication skills</li>
-<li>promote the joy of and passion in learning</li>
-</ol>
 </td>
 <td style="text-align: center;" width="84">
-<p>Identified P3-P6 students</p>
+<p>Identified P3-P5 students</p>
 </td>
 <td style="text-align: center;" width="96">
 <p>Whole year</p>
@@ -142,4 +121,4 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>Page last updated: 2 December 2021</p>
+<p>Page last updated: 6 February 2023</p>
