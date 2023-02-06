@@ -16,7 +16,7 @@ description: ""
 			<th> Date / Timeframe</th>
 		</tr>
 		<tr>
-			<td><p><a href="/student-development/welcome-back-to-school" target="">Welcome Back To School</a></td>
+			<td><a href="/student-development/welcome-back-to-school" target="">Welcome Back To School</a></td>
 			<td>The Welcome Back to School programme is a unique programme dedicated to the first few days of school, to ensure a smoother transition for the pupils starting the new academic year, through meaningful lessons and activities.</td>
 			<td>Primary 1 - 6</td>
 			<td>First few days of school</td>
