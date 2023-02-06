@@ -18,5 +18,4 @@ The Student Leadership Programme is part of our schools’ efforts to nurture st
 	<li>To instil a sense of self and social awareness of student leaders' roles and responsibilities in the school and community
 <li>To equip student leaders with knowledge, skills and values, to develop their competence to lead and serve others
 <li>To provide opportunities for student leaders to serve and make a difference in the school and community</ul></p>
-<img src="/images/PW2-1.jpg"/>
 <p>Page last updated: 6 February 2023</p>
