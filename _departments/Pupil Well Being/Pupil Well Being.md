@@ -5,8 +5,11 @@ description: ""
 third_nav_title: Pupil Well Being
 ---
 <img src="/images/PW.jpg">
-<p>The Pupil Well Being Department aims to establish&nbsp;<strong>Quality Relationships</strong>&nbsp;and&nbsp;<strong>Positive School Experience</strong>&nbsp;for the students. Quality relationship entails positive Teacher-Student Relationship (TSR) &amp; Student-Student Relationship (SSR). The school strengthens the quality of teacher-student and peer relationships to reinforce a&nbsp;<strong>Culture of Care</strong>, trust and respect so that students will form positive bonds and develop a strong sense of belonging to the school.</p>
+<p>The Pupil Well-Being Department aims to establish <strong>Quality Relationships</strong> and <strong>Positive School Experience</strong> for the students. Quality relationship entails positive Teacher-Student Relationship (TSR) & Student-Student Relationship (SSR). The school strengthens the quality of teacher-student and peer relationships to reinforce a <strong>Culture of Care</strong>, trust and respect so that students will form positive bonds and develop a strong sense of belonging to the school.</p>
 <p><strong>Our Key Programmes</strong></p>
+<p><strong>Peer Support Programme</strong><br />
+Students contribute to the caring and positive peer culture in school when they look out for one another and provide support to their peers in need. With a peer support mind-set, students create a community of care and support amongst peers.</p>
+<p>Under the Buddy System, all students have a class buddy. Besides helping their friends in school, they can motivate their friends to have a growth and resilient mindset. Peer Support Leaders (PSLs) were also appointed to look out for their peers and help them to seek support. The PSLs are involved in organising activities during Mental Health Awareness week.</p>
 <table>
 <tbody>
 <tr>
