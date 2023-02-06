@@ -57,4 +57,15 @@ third_nav_title: Physical & Health Education
 	</tbody>
 	</table>
 	<br>
+	<img src="/images/Art.jpg">
+	<br>
+	<p><strong>Music</strong></p>
+	<p>We believe that all children are musical, and we seek to develop their aural and expressive abilities and sensibilities to empower them to appreciate and participate in music.</p>
+<p>The aims for music education are to:
+<ul>
+	<li>Acquire and apply musical skills, knowledge and understanding through Listening, Creating and Performing
+<li>Develop abilities for creative expression and communication
+<li>Develop an understanding and appreciation of music in local and global cultures
+<li>Cultivate a life-long enjoyment and involvement in music
+</ul>
 	<p>Page last updated: 6 February 2023</p>
