@@ -3,9 +3,8 @@ title: Learner Profiles and Education Support
 permalink: /departments/learner-profiles-and-education-support/
 description: ""
 ---
-
 <img src="/images/lpes1.jpg">
-<p>The Learners Profile and Education Support Department aims to complement existing school-based efforts by enhancing the coordination and communication between the different stakeholders through customised programme interventions to strengthen high needs students&rsquo; and high progress learners&rsquo; educational and developmental outcomes.</p>
+<p>The Learner Profiles and Educational Support Department aims to complement existing school-based efforts by enhancing the coordination and communication between the different stakeholders through customised programme interventions to strengthen high needs students’ and high progress learners’ educational and developmental outcomes.</p>
 <img src="/images/lpes2.jpg">
 <p><strong><u>Our key programmes</u></strong></p>
 <table width="0">
@@ -26,7 +25,7 @@ description: ""
 </tr>
 <tr>
 <td width="186">
-<p>Learning Support Programme (LSP) and Learning Support for Mathematics (LSM)</p>
+<p>Learning Support Programme (LSP) & Learning Support for Mathematics (LSM)</p>
 </td>
 <td width="300">
 <ul>
@@ -34,7 +33,7 @@ description: ""
 </ul>
 </td>
 <td style="text-align: center;" width="84">
-<p>P1 &amp; P2</p>
+<p>P1 & P2</p>
 </td>
 <td style="text-align: center;" width="96">
 <p>Whole year</p>
@@ -42,15 +41,15 @@ description: ""
 </tr>
 <tr>
 <td width="186">
-<p>School-based Dyslexia Remediation Programme (SDR) &amp; Reading Remediation Programme (RRP)</p>
+<p>School-based Dyslexia Remediation Programme (SDR) & Reading Remediation Programme (RRP)</p>
 </td>
 <td width="300">
 <ul>
-<li>Specialised remediation programmes for identified students with dyslexia&nbsp;</li>
+<li>Specialised remediation programmes for identified students with dyslexia</li>
 </ul>
 </td>
 <td style="text-align: center;" width="84">
-<p>P3 &amp; P4</p>
+<p>P3 & P4</p>
 </td>
 <td style="text-align: center;" width="96">
 <p>Whole year</p>
@@ -62,24 +61,23 @@ description: ""
 </td>
 <td width="300">
 <ul>
-<li>Provide transition support for identified students to strengthen the follow-up and continuity of learning/strategies adopted</li>
-<li>Provide support for teachers as a school community&nbsp;</li>
+<li>Transition support for students with learning, behavioural and/or social- emotional needs</li>
 </ul>
 </td>
 <td style="text-align: center;" width="84">
 <p>Identified P1-P6 students</p>
 </td>
 <td style="text-align: center;" width="96">
-<p>Whole year</p>
+<p>Term 4 – Term 1</p>
 </td>
 </tr>
 <tr>
 <td width="186">
-<p>IGAIN</p>
+<p>iGAIN</p>
 </td>
 <td width="300">
 <ul>
-<li>Customised academic and befriending programme carried out in collaboration with external organisations</li>
+<li>Customised academic and befriending programmes carried out in collaboration with community partners and/or external organisations</li>
 </ul>
 </td>
 <td style="text-align: center;" width="84">
