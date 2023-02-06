@@ -45,7 +45,7 @@ third_nav_title: Weekly Notification
 <td style="text-align: center;"></td>
 </tr>
 <tr>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1gEbGsqJ6yWB4P009-vGmnR3xtc95pS5F/view?usp=sharing" target="_blank" rel="noopener">Week 5 / 2 Feb 2023</a></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
