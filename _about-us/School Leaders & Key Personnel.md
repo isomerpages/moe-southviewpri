@@ -104,7 +104,7 @@ description: ""
 <td style="text-align: center; height: 36px; width: 305.828px;">norhafiza_mohd_zaini@moe.edu.sg</td>
 </tr>
 <tr style="height: 36px;">
-<td style="text-align: center; height: 36px; width: 212.922px;">Level Head<br>Chinese &amp; Language</td>
+<td style="text-align: center; height: 36px; width: 212.922px;">Level Head<br>Chinese Language</td>
 <td style="text-align: center; height: 36px; width: 146.25px;">Mdm Lee Keng Chin</td>
 <td style="text-align: center; height: 36px; width: 305.828px;">lee_keng_chin@moe.edu.sg</td>
 </tr>
