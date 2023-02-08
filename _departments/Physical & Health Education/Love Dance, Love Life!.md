@@ -125,4 +125,4 @@ third_nav_title: Physical & Health Education
 <img style="width: 85%;" src="/images/ldll3.jpg" />
 <p><strong>Learning Beyond- Overseas Learning Journey to Seoul, South Korea 2018</strong></p>
 <p>At the peak of the pyramid is where we see students whose passion have been ignited as they continue to pursue their passion and create for themselves another pathway to success, striving towards becoming Lifelong Learners. The school took a group of students to Seoul in 2018 to learn a traditional Korean Dance and a K-pop Dance. There was also a cultural immersion in which participating students were exposed to.</p>
-<p>Page last updated: 4 May 2021</p>
+<p>Page last updated: 8 February 2023</p>
