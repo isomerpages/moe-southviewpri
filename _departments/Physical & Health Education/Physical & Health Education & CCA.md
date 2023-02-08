@@ -54,7 +54,7 @@ about making wise food choices for a lifetime of good health.</p>
 <tr>
 <td style="width: 656px;" colspan="3">
 <p style="text-align: center;"><strong><u>Primary 5 Cohort Camp</u></strong></p>
-<img style="width: 60%;" src="/images/pe4.png" />
+<img src="/images/PHE2.jpg"/>
 </td>
 </tr>
 <tr>
