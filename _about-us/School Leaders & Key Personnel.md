@@ -74,7 +74,7 @@ description: ""
 <td style="text-align: center; height: 54px; width: 305.828px;">lau_yu_xuan@moe.edu.sg</td>
 </tr>
 <tr style="height: 54px;">
-<td style="text-align: center; height: 54px; width: 212.922px;">Head of Department<br>Learners Profile and Education Support</td>
+<td style="text-align: center; height: 54px; width: 212.922px;">Head of Department<br>Learner Profiles and Education Support</td>
 <td style="text-align: center; height: 54px; width: 146.25px;">Mrs Jane Soon-Du Hui Jun</td>
 <td style="text-align: center; height: 54px; width: 305.828px;">du_hui_jun_jane@moe.edu.sg</td>
 </tr>
