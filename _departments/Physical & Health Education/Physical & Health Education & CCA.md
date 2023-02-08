@@ -4,10 +4,8 @@ permalink: /departments/physical-n-health-education-n-cca/
 description: ""
 third_nav_title: Physical & Health Education
 ---
-
-
 <p><img style="width: 100%;" src="/images/pe1.jpg" /></p>
-<p><strong><u>Our Key Programmes (PHE &amp; CCA)</u></strong></p>
+<p><strong><u>Our Key Programmes (PHE)</u></strong></p>
 <table style="width: 666px;">
 <tbody>
 <tr>
@@ -26,7 +24,10 @@ third_nav_title: Physical & Health Education
 <p>GastroChef with A Cultural Twist</p>
 </td>
 <td style="text-align: center; width: 391.594px;">
-<p style="text-align: left;">GastroChef with A Cultural Twist provides students with real-life experiences to learn basic culinary skills, develop character &amp; values through teamwork, understand differences in culture and develop cultural awareness in today&rsquo;s global environment.</p>
+<p style="text-align: left;">GastroChef with A Cultural Twist aims to provide students with real-life experiences to learn basic culinary skills, develop character & values through teamwork. Through the programme, students will be exposed to differences in culture and develop cultural awareness in today’s global environment.</p>
+<p>PHF plays an important role by providing students significant
+nutritional information and food safety lessons, as they learn
+about making wise food choices for a lifetime of good health.</p>
 </td>
 <td style="text-align: center; width: 119.203px;">
 <p>P1 - P6</p>
@@ -43,8 +44,8 @@ third_nav_title: Physical & Health Education
 <p>Primary 5 Cohort Camp</p>
 </td>
 <td style="width: 391.594px;">
-<p>The annual Primary 5 Cohort Camp, organised by the PHE Department, focuses on developing every student as an adventurous individual while nurturing decision-making skills, and inculcating core values of Character &amp; Citizenship Education in an out-of-classroom setting.</p>
-<p>Students are provided with opportunities for experiential learning through a variety of enriching learning experiences such as tent pitching, low elements, orienteering, basic first aid and team building games.</p>
+<p>The annual Primary 5 Cohort Camp, focuses on Outdoor Education which aims to equip students with the knowledge, skills and attitudes to explore the natural and urban environments safely and responsibly.</p>
+<p>At the camp, students will have opportunities to synthesise, apply and make decisions from what they have learnt through authentic situations and tasks set in the outdoors. Through a variety of experiential and enriching learning experiences such as tent pitching, low elements, orienteering, basic first aid and team building games, students nurture decision-making skills, and inculcate core values of Character &amp; Citizenship Education in an out-of-classroom setting.</p>
 </td>
 <td style="width: 119.203px;">
 <p style="text-align: center;">P5</p>
@@ -52,7 +53,7 @@ third_nav_title: Physical & Health Education
 </tr>
 <tr>
 <td style="width: 656px;" colspan="3">
-<p style="text-align: center;"><strong><u>GastroChef with A Cultural Twist</u></strong></p>
+<p style="text-align: center;"><strong><u>Primary 5 Cohort Camp</u></strong></p>
 <img style="width: 60%;" src="/images/pe4.png" />
 </td>
 </tr>
@@ -61,7 +62,10 @@ third_nav_title: Physical & Health Education
 <div>Swimsafer Programme</div>
 </td>
 <td style="width: 391.594px;">
+<p>Swimming is one of the key learning areas in the Physical Education syllabus and all primary schools leverage on the SwimSafer programme by SportSG to equip students with basic swimming and water survival skills.</p>
 <p>SwimSafer 2.0 Programme aims to equip students with basic swimming and water survival skills, as well as to raise awareness of water safety and the standard of swimming proficiency.</p>
+<p>Beyond teaching fundamental movement skills on land, students will also learn movement skills through water so as to open up new possibilities in aquatics. The water environment offers unique challenges to the students in managing their body posture in different spatial dimensions, emphasizing enjoyment during initial learning and ultimately enhancing their water movement competence, without losing focus on
+water safety.</p>
 </td>
 <td style="width: 119.203px; text-align: center;">P2 &amp; P5</td>
 </tr>
@@ -74,27 +78,6 @@ third_nav_title: Physical & Health Education
 <p>P4 &amp; P6</p>
 </td>
 </tr>
-<tr>
-<td style="width: 133.203px; text-align: center;">Programme for Active Learning (PAL) Programme</td>
-<td style="width: 391.594px;">
-<p>Programme for Active Learning (PAL) is an integral part of the curriculum for Primary 1 and 2 pupils. PAL offers learning experiences that are active, hands-on and meaningful. PAL enhances the development of soft skills in our pupils such as the ability to communicate clearly and cooperate with others. The programme encourages pupils to have a lively curiosity about the world they live in and a belief in their ability to accomplish a task or manage a challenge.</p>
-</td>
-<td style="width: 119.203px; text-align: center;">P1 &amp; P2</td>
-</tr>
-<tr>
-<td style="width: 133.203px; text-align: center;">Values &ndash; In- Action (VIA) in CCA</td>
-<td style="width: 391.594px;">
-<p>VIA supports students&rsquo; development as socially responsible citizens who can contribute meaningfully to the community, through the learning and application of values, knowledge, and skills. VIA provides opportunities for students to serve, relate and work with people beyond the school context and empathise with the people around them as well as the elderly.</p>
-</td>
-<td style="width: 119.203px; text-align: center;">P4-P6 pupils with CCA&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 133.203px; text-align: center;">Cheers Break</td>
-<td style="width: 391.594px;">
-<p>In line with Healthy Eating, <strong>Cheers Break</strong>&nbsp;provide students with a short break in between lessons to help students to focus, increase productivity and maintain positive mental well-being while encouraging students to practice making healthier choices.</p>
-</td>
-<td style="width: 119.203px; text-align: center;">P1 - P6</td>
-</tr>
 </tbody>
 </table>
-<p>Page last updated: 31 October 2022</p>
+<p>Page last updated: 8 February 2023</p>
