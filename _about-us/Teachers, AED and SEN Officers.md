@@ -1,8 +1,11 @@
 ---
-title: Teaching Staff, AED and SEN
-permalink: /about-us/teaching-staff-aed-and-sen/
+title: Teachers, AED and SEN Officers
+permalink: /about-us/teachers-aed-and-sen-officers/
 description: ""
 ---
+
+
+
 <h4><strong>2023 Primary 1 Form Teachers</strong></h4>
 <table>
 <tbody>

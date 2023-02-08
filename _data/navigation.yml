@@ -11,8 +11,8 @@ links:
         url: /about-us/our-identity
       - title: School Leaders & Key Personnel
         url: /about-us/school-leaders-n-key-personnel
-      - title: Teaching Staff, AED and SEN
-        url: /about-us/teaching-staff-aed-and-sen
+      - title: Teachers, AED and SEN Officers
+        url: /about-us/teachers-aed-and-sen-officers
       - title: Non Teaching Staff
         url: /about-us/non-teaching-staff
       - title: SVPS School Virtual Tour
@@ -40,8 +40,8 @@ links:
         url: /departments/character-n-citizenship-education
       - title: Student Development
         url: /student-development/
-      - title: Learners Profile and Education
-        url: /departments/learners-profile-and-education-support
+      - title: Learner Profiles and Education
+        url: /departments/learner-profiles-and-education-support
   - title: Signature Programmes
     url: /signature-programmes/
     sublinks:

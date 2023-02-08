@@ -1,9 +1,11 @@
 ---
-title: Physical & Health Education, CCA & Aesthetics
-permalink: /departments/physical-n-health-education-cca-n-aesthetics/
+title: Physical & Health Education & CCA
+permalink: /departments/physical-n-health-education-n-cca/
 description: ""
 third_nav_title: Physical & Health Education
 ---
+
+
 <p><img style="width: 100%;" src="/images/pe1.jpg" /></p>
 <p><strong><u>Our Key Programmes (PHE &amp; CCA)</u></strong></p>
 <table style="width: 666px;">

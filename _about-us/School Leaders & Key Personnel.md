@@ -139,12 +139,12 @@ description: ""
 <td style="text-align: center; height: 36px; width: 305.828px;">wong_ying_ching_bibiana@moe.edu.sg</td>
 </tr>
 <tr style="height: 54px;">
-<td style="text-align: center; height: 54px; width: 212.922px;">Assistant Year Head / P1<br></td>
+<td style="text-align: center; height: 54px; width: 212.922px;">Assistant Year Head / P2<br></td>
 <td style="text-align: center; height: 54px; width: 146.25px;">Mrs Daphne Ng-Heng Pei Li</td>
 <td style="text-align: center; height: 54px; width: 305.828px;">heng_pei_li_daphne@moe.edu.sg</td>
 </tr>
 <tr style="height: 54px;">
-<td style="text-align: center; height: 54px; width: 212.922px;">Assistant Year Head / P3<br></td>
+<td style="text-align: center; height: 54px; width: 212.922px;">Assistant Year Head / P5<br></td>
 <td style="text-align: center; height: 54px; width: 146.25px;">Mrs Koh-Chan Yee Ling</td>
 <td style="text-align: center; height: 54px; width: 305.828px;">chan_yee_ling@moe.edu.sg</td>
 </tr>
