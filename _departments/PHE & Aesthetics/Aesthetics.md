@@ -4,7 +4,6 @@ permalink: /departments/Physical-and-Health-Education/Aesthetics/
 description: ""
 third_nav_title: PHE & Aesthetics
 ---
-
 <p><strong>Art</strong></p>
 <p>The aims of art education are to enable every child to:
 <ul>
@@ -140,7 +139,6 @@ third_nav_title: PHE & Aesthetics
 			<td></td>
 			<td>Primary 6</td>
 		</tr>
-		<tr></tr>
 	</tbody>
 	</table>
 	<p>Page last updated: 6 February 2023</p>
