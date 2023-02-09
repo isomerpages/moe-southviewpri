@@ -7,4 +7,4 @@ description: ""
 challenges with a Growth Mindset.</p>
 <img src="/images/WBTS1.jpg">
 <img src="/images/WBTS2.jpg">
-<p>Page last updated: 25 September 2020</p>
+<p>Page last updated: 9 February 2023</p>
