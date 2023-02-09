@@ -4,7 +4,6 @@ permalink: /signature-programmes/love-dance-love-life/
 description: ""
 third_nav_title: PHE & Aesthetics
 ---
-
 <p>"Love Dance. Love Life!" is our very own Learning for Life Programme in South View.</p>
 <p>South View’s approach to promote Music, Visual and Performing is borne out of its vision to be A School of Passionate Learners with A Heart to Serve.</p>
 <p>The school wants to inspire students to initiate, innovate and explore new ideas to achieve excellence in all endeavours. The school’s continuous effort in the provision of a broad-based and holistic learning is aligned to MOE’s Holistic Education Framework with the aims to:</p>
@@ -34,9 +33,9 @@ third_nav_title: PHE & Aesthetics
 <td>Chinese Dance and Costume Making</td>
 <td>To enable students to:
 <ul>
-	<li>Learn basic skills of Chinese Dance and costume making
-<li>Heighten their self-awareness and develop an appreciation for the cultural art form through learning about the history, dance steps and expressions
-<li>Develop life skills such as self-discipline, confidence, team spirit and resilience
+	<li>Learn basic skills of Chinese Dance and costume making</li>
+<li>Heighten their self-awareness and develop an appreciation for the cultural art form through learning about the history, dance steps and expressions</li>
+	<li>Develop life skills such as self-discipline, confidence, team spirit and resilience</li>
 	</ul>
 </td>
 <td>P1</td>
@@ -46,9 +45,9 @@ third_nav_title: PHE & Aesthetics
 <td>Malay Dance</td>
 <td>To enable students to:
 	<ul>
-<li>Learn basic skills and forms of expression of Malay Dance
-<li>Heighten their self and social-awareness and develop an appreciation for the cultural art form through learning about the history, dance steps and expressions
-<li>Develop life skills such as self-discipline, confidence, team spirit and resilience
+		<li>Learn basic skills and forms of expression of Malay Dance</li>
+<li>Heighten their self and social-awareness and develop an appreciation for the cultural art form through learning about the history, dance steps and expressions</li>
+		<li>Develop life skills such as self-discipline, confidence, team spirit and resilience</li>
 	</ul>
 </td>
 <td>P2</td>
@@ -58,10 +57,10 @@ third_nav_title: PHE & Aesthetics
 <td>Indian Dance with percussion props</td>
 <td>&nbsp;To enable students to:
 <ul>
-	<li>Learn basic skills and forms of expression of Indian Dance
-<li>Apply skills learnt from music and perform a Indian Dance
-<li>Develop their SE skills and appreciation for the cultural art form through learning about the history, dance steps and expressions
-<li>Develop life skills such as self-discipline, confidence, team spirit and resilience
+	<li>Learn basic skills and forms of expression of Indian Dance</li>
+<li>Apply skills learnt from music and perform a Indian Dance</li>
+<li>Develop their SE skills and appreciation for the cultural art form through learning about the history, dance steps and expressions</li>
+<li>Develop life skills such as self-discipline, confidence, team spirit and resilience</li>
 	</ul>
 	</td>
 <td>P3</td>
@@ -71,10 +70,10 @@ third_nav_title: PHE & Aesthetics
 <td>Hip-Hop Level 1</td>
 <td>To enable students to learn:
 <ul>
-	<li>The history and evolution of lyrical hip-hop dance
-<li>Basic skills of lyrical hip-hop dance and costume/prop making
-<li>Apply skills learnt from art and creative movement programme to learn and perform a Lyrical Hip Hop Dance with a story line on stage or virtual platform
-<li>Develop life skills such as self-discipline, confidence, team spirit and resilience
+	<li>The history and evolution of lyrical hip-hop dance</li>
+<li>Basic skills of lyrical hip-hop dance and costume/prop making</li>
+<li>Apply skills learnt from art and creative movement programme to learn and perform a Lyrical Hip Hop Dance with a story line on stage or virtual platform</li>
+<li>Develop life skills such as self-discipline, confidence, team spirit and resilience</li>
 	</ul>
 </td>
 <td>P4</td>
@@ -84,10 +83,10 @@ third_nav_title: PHE & Aesthetics
 <td>Hip-Hop Level 2</td>
 <td>To enable students to learn:
 <ul>
-	<li>The history and evolution of lyrical hip-hop dance
-<li>Basic skills of lyrical hip-hop dance and costume/prop making
-<li>Apply skills learnt from art and creative movement programme to learn and perform a Lyrical Hip Hop Dance with a story line on stage or virtual platform
-<li>Develop life skills such as self-discipline, confidence, team spirit and resilience
+	<li>The history and evolution of lyrical hip-hop dance</li>
+<li>Basic skills of lyrical hip-hop dance and costume/prop making</li>
+<li>Apply skills learnt from art and creative movement programme to learn and perform a Lyrical Hip Hop Dance with a story line on stage or virtual platform</li>
+<li>Develop life skills such as self-discipline, confidence, team spirit and resilience</li>
 	</ul>
 </td>
 <td>P5</td>
@@ -97,9 +96,9 @@ third_nav_title: PHE & Aesthetics
 <td>Choreography</td>
 <td>To enable students to:
 <ul>
-	<li>Learn basic choreography
-<li>Apply dance, music and art skills to choreograph a class dance and perform confidently on stage or virtual platform
-<li>Develop life skills such as self-discipline, confidence, team spirit and resilience
+	<li>Learn basic choreography</li>
+<li>Apply dance, music and art skills to choreograph a class dance and perform confidently on stage or virtual platform</li>
+<li>Develop life skills such as self-discipline, confidence, team spirit and resilience</li>
 	</ul>
 </td>
 <td>P6</td>
@@ -109,11 +108,11 @@ third_nav_title: PHE & Aesthetics
 <td>P6 Dance Farewell</td>
 <td>
 <ul>
-	<li>To enable students to showcase what they have learnt to their peers and teachers
-<li>This performance also aims to build students' self-confidence while they have fun and enjoy the dance and music
+	<li>To enable students to showcase what they have learnt to their peers and teachers</li>
+<li>This performance also aims to build students' self-confidence while they have fun and enjoy the dance and music</li>
 <li>To encourage students to be innovative and creative in their choreographing and to show team-spirit in their dance presentation
-<li>We want the students to celebrate everyone's success
-<li>This dance farewell is the highlight of the Primary 6 post-exam activities and a platform for celebration and evaluation of the 6-year structured LLP programme
+<li>We want the students to celebrate everyone's success</li>
+<li>This dance farewell is the highlight of the Primary 6 post-exam activities and a platform for celebration and evaluation of the 6-year structured LLP programme</li>
 	</ul>
 </td>
 <td>P6</td>
