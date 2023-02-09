@@ -26,29 +26,23 @@ third_nav_title: PHE & Aesthetics
 <th>Name of Programmes</th>
 <th>Objectives</th>
 <th>Target Level</th>
-<th>Date / Timeframe</th>
-</tr>
+<th>Date / Timeframe</th></tr>
 <tr>
 <td>Chinese Dance and Costume Making</td>
 <td>To enable students to:
 <ul>
 <li>Learn basic skills of Chinese Dance and costume making</li>
 <li>Heighten their self-awareness and develop an appreciation for the cultural art form through learning about the history, dance steps and expressions</li>
-<li>Develop life skills such as self-discipline, confidence, team spirit and resilience</li>
-</ul>
-</td>
+<li>Develop life skills such as self-discipline, confidence, team spirit and resilience</li></ul></td>
 <td>P1</td>
-<td>Term 1</td>
-</tr>
+<td>Term 1</td></tr>
 <tr>
 <td>Malay Dance</td>
 <td>To enable students to:
 	<ul>
 		<li>Learn basic skills and forms of expression of Malay Dance</li>
 <li>Heighten their self and social-awareness and develop an appreciation for the cultural art form through learning about the history, dance steps and expressions</li>
-		<li>Develop life skills such as self-discipline, confidence, team spirit and resilience</li>
-	</ul>
-</td>
+		<li>Develop life skills such as self-discipline, confidence, team spirit and resilience</li></ul></td>
 <td>P2</td>
 <td>Term 4</td>
 </tr>
@@ -116,7 +110,6 @@ third_nav_title: PHE & Aesthetics
 	</ul>
 </td>
 <td>P6</td>
-<td>Term 4 Post-Exam Activity</td>
-</tr>
+<td>Term 4 Post-Exam Activity</td></tr>
 </tbody>
 </table>
