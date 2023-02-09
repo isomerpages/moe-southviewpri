@@ -29,8 +29,8 @@ third_nav_title: PHE & Aesthetics
 <tr>
 <th>Name of Programmes</th>
 <th>Objectives</th>
-<th>Target<br />Level</th>
-<th>Date /<br />Timeframe</th>
+<th>Target Level</th>
+<th>Date / Timeframe</th>
 </tr>
 <tr>
 <td>Chinese Dance and Costume Making</td>
