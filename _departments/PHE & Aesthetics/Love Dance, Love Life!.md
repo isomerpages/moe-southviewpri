@@ -122,7 +122,11 @@ third_nav_title: PHE & Aesthetics
 </table>
 <p><strong>Approach 2 : Talent Development Programme</strong></p>
 <p>The “Experience for All” at the base level is also an avenue for instructors and teachers to surface talented students. It is also a ground for students to be more aware of their talents and explore their strengths. These identified talented students are invited to join the different Aesthetic tier 2 enrichment programmes and CCAs, which include SV’s Got Talent Masterclass, Visual and Performing Arts Masterclass, Chinese Dance, Indian Dance, Malay Dance, Chinese Orchestra, Choir and Art Club, for dedicated instruction and training, to further strengthen their abilities and / or talents in respective art forms.</p>
-<img style="width: 85%;" src="/images/ldll3.jpg" />
-<p><strong>Learning Beyond- Overseas Learning Journey to Seoul, South Korea 2018</strong></p>
-<p>At the peak of the pyramid is where we see students whose passion have been ignited as they continue to pursue their passion and create for themselves another pathway to success, striving towards becoming Lifelong Learners. The school took a group of students to Seoul in 2018 to learn a traditional Korean Dance and a K-pop Dance. There was also a cultural immersion in which participating students were exposed to.</p>
+<img style="width: 85%;" src="/images/ldll3.jpg"/>
+<p><strong>Learning Beyond- Overseas Learning Journey to Seoul, South Korea 2018
+</strong>
+</p>
+<p>
+At the peak of the pyramid is where we see students whose passion have been ignited as they continue to pursue their passion and create for themselves another pathway to success, striving towards becoming Lifelong Learners. The school took a group of students to Seoul in 2018 to learn a traditional Korean Dance and a K-pop Dance. There was also a cultural immersion in which participating students were exposed to.
+</p>
 <p>Page last updated: 8 February 2023</p>
