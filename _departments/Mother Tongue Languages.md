@@ -197,5 +197,4 @@ Besides the above competitions, the department worked with Mandai Wildlife Group
 		</tr>
 	</tbody>
 	</table>
-	<br>
-<small>Page last updated: 25 January 2023</small>
+<p>Page last updated: 25 January 2023</p>
