@@ -1,8 +1,9 @@
 ---
-title: Learner Profiles and Education Support
-permalink: /departments/learner-profiles-and-education-support/
+title: Learner Profiles and Educational Support
+permalink: /departments/learner-profiles-and-educational-support/
 description: ""
 ---
+
 <img src="/images/lpes1.jpg">
 <p>The Learner Profiles and Educational Support Department aims to complement existing school-based efforts by enhancing the coordination and communication between the different stakeholders through customised programme interventions to strengthen high needs students’ and high progress learners’ educational and developmental outcomes.</p>
 <img src="/images/LPES PC.jpg">

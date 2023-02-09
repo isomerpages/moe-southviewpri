@@ -2,8 +2,9 @@
 title: GastroChef With A Cultural Twist
 permalink: /departments/physical-n-health-education-cca-n-aesthetics/gastrochef-with-a-cultural-twist/
 description: ""
-third_nav_title: Physical & Health Education
+third_nav_title: PHE & Aesthetics
 ---
+
 
 <img src="/images/gastro1.jpg">
 <p>The GastroChef programme is designed to equip pupils with culinary skills where they learn to prepare different ethnic dishes. As part of the school&rsquo;s cultural package, pupils will be given opportunities to experience and learn more about the culture of the various ethnic dishes and even pick up conversational language related to the ethnic group. On top of that, pupils will learn more about nutritional information, food safety, cultural diversity through team building as they learn about making wise food choices for a lifetime of good health.</p>
