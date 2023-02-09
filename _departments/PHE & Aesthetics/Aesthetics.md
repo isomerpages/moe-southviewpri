@@ -58,8 +58,8 @@ third_nav_title: PHE & Aesthetics
 	</tbody>
 	</table>
 <img src="/images/Art.jpg">
-	<p><strong>Music</strong></p>
-	<p>We believe that all children are musical, and we seek to develop their aural and expressive abilities and sensibilities to empower them to appreciate and participate in music.</p>
+<p><strong>Music</strong></p>
+<p>We believe that all children are musical, and we seek to develop their aural and expressive abilities and sensibilities to empower them to appreciate and participate in music.</p>
 <p>The aims for music education are to:
 <ul>
 	<li>Acquire and apply musical skills, knowledge and understanding through Listening, Creating and Performing</li>
