@@ -38,10 +38,10 @@ third_nav_title: PHE & Aesthetics
 <td>Chinese Dance and Costume Making</td>
 <td>To enable students to:
 <ul>
-	<li>Learn basic skills of Chinese Dance and costume making</li>
+<li>Learn basic skills of Chinese Dance and costume making</li>
 <li>Heighten their self-awareness and develop an appreciation for the cultural art form through learning about the history, dance steps and expressions</li>
-	<li>Develop life skills such as self-discipline, confidence, team spirit and resilience</li>
-	</ul>
+<li>Develop life skills such as self-discipline, confidence, team spirit and resilience</li>
+</ul>
 </td>
 <td>P1</td>
 <td>Term 1</td>
