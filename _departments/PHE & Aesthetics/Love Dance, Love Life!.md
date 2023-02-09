@@ -105,10 +105,11 @@ third_nav_title: PHE & Aesthetics
 </tr>
 <tr>
 <td>P6 Dance Farewell</td>
-<td><ul>
+<td>
+	<ul>
 	<li>To enable students to showcase what they have learnt to their peers and teachers</li>
 <li>This performance also aims to build students' self-confidence while they have fun and enjoy the dance and music</li>
-<li>To encourage students to be innovative and creative in their choreographing and to show team-spirit in their dance presentation
+<li>To encourage students to be innovative and creative in their choreographing and to show team-spirit in their dance presentation</li>
 <li>We want the students to celebrate everyone's success</li>
 <li>This dance farewell is the highlight of the Primary 6 post-exam activities and a platform for celebration and evaluation of the 6-year structured LLP programme</li>
 	</ul>
