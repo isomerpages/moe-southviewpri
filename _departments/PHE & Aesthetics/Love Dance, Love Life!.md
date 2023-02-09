@@ -115,6 +115,7 @@ third_nav_title: PHE & Aesthetics
 	</ul>
 </td>
 <td>P6</td>
-<td>Term 4 Post-Exam Activity</td></tr>
+	<td>Term 4 Post-Exam Activity</td>
+	</tr>
 </tbody>
 </table>
