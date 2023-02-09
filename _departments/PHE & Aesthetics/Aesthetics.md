@@ -42,7 +42,8 @@ third_nav_title: PHE & Aesthetics
 					<li>Appreciate the origins of Batik.</li>
 						<li>Learn the process of traditional way of batik making and the correct use of traditional batik art tools (such as tjanting).</li>
 							<li>Apply Batik art making skills such as waxing, painting and layering in their artwork.</li>
-				</ul></td>
+				</ul>
+			</td>
 		</tr>
 <tr>
 	<td>3D-Sculptures and Basic Photography</td>
@@ -56,3 +57,16 @@ third_nav_title: PHE & Aesthetics
 		</tr>
 	</tbody>
 	</table>
+	<br>
+	<img src="/images/Art.jpg">
+	<br>
+	<p><strong>Music</strong></p>
+	<p>We believe that all children are musical, and we seek to develop their aural and expressive abilities and sensibilities to empower them to appreciate and participate in music.</p>
+<p>The aims for music education are to:
+<ul>
+	<li>Acquire and apply musical skills, knowledge and understanding through Listening, Creating and Performing</li>
+	<li>Develop abilities for creative expression and communication</li>
+	<li>Develop an understanding and appreciation of music in local and global cultures</li>
+	<li>Cultivate a life-long enjoyment and involvement in music</li>
+</ul>
+<p><u><strong>Key Programmes</strong></u></p>
