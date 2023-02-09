@@ -5,11 +5,13 @@ description: ""
 third_nav_title: PHE & Aesthetics
 ---
 <p><strong>Art</strong>
-The aims of art education are to enable every child to:</p>
+The aims of art education are to enable every child to:
 <ul>
 	<li>enjoy art
 <li>communicate visually
 <li>make meaning through connecting with society and culture
+</ul>
+</p>
 <p>Our Art programmes centre around three Big ideas:- Self and Immediate Environment, Singapore Past, Present and Future and The World and Place around us. Students explore different artistic expressions and make connections to the artworks which inspire them.  Through art making and art appreciation develop creative critical thinking skills. Acquiring the skills in appreciating and communicating about the artworks enhance the development of Social and Emotional Learning competencies.</p>
 <p>Key developmental programmes are:</p>
 <table>
