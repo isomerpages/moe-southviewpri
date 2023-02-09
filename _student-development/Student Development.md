@@ -35,5 +35,5 @@ description: ""
 			</tr>
 </tbody>
 	</table>
-	<p>For more details on the programmes, please click on the links.</p>
-<p>Page last updated: 6 February 2023</p>
+<p>For more details on the programmes, please click on the links.<br />
+Page last updated: 6 February 2023</p>
