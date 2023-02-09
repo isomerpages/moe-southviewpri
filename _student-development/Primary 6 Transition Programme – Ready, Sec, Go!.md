@@ -10,6 +10,9 @@ description: ""
 <li>To encourage students to be continual learners and create awareness of the viable education and career options through the provision of accurate and comprehensive information.</li>
 <li>To nurture students' confidence and social emotional skills to build positive relationships with others.</li>
 <li>To provide opportunities for students to develop growth mindset and GRIT to build up mental resilience to transit smoothly to the next phase of education journey.</li>
+	<img src ="/images/PRSG1.jpg">
+	<img src ="/images/PRSG2.jpg">
+	<img src ="/images/PRSG3.jpg">
 </ol>
 <strong>P6 Ready Sec Go programme photos<br /></strong>
 <i>Click on the link to view<br /></i>
