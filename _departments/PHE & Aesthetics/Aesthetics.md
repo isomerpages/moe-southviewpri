@@ -68,7 +68,7 @@ third_nav_title: PHE & Aesthetics
 <li>Develop an understanding and appreciation of music in local and global cultures
 <li>Cultivate a life-long enjoyment and involvement in music
 </ul>
-<p><strong>Key Programmes</strong></p>
+<p><u><strong>Key Programmes</strong></u></p>
 <table>
 	<tbody>
 		<tr>
