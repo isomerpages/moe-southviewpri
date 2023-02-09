@@ -4,8 +4,8 @@ permalink: /departments/Physical-and-Health-Education/Aesthetics/
 description: ""
 third_nav_title: PHE & Aesthetics
 ---
-<p><strong>Art</strong>
-The aims of art education are to enable every child to:
+<p><strong>Art</strong></p>
+<p>The aims of art education are to enable every child to:
 <ul>
 	<li>enjoy art
 <li>communicate visually
