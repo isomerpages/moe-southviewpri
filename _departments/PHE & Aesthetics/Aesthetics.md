@@ -119,7 +119,6 @@ third_nav_title: PHE & Aesthetics
 	<li>Understand the culture and origin of Ukulele
 <li>Build musical skills through playing the ukulele
 <li>Play simple chords or pluck to accompany singing
-				</ul>
 			</td>
 			<td>Primary 4</td>
 		</tr>
