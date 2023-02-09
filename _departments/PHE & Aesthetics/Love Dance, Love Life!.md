@@ -21,8 +21,10 @@ third_nav_title: PHE & Aesthetics
 <p>During the Level Enrichment Programme, which are also carried out during curriculum time, students are able to deepen their knowledge and skills acquired from the Art, Music and PHE (Dance) lessons and apply them to produce/perform a class dance with confidence. They also learn the history and culture of the different art forms, therefore to gain a better understanding of them and learn to appreciate different cultures.
 </p>
 <p>
-	<u>P1 to P6 Level Enrichment Programme
+	<strong>
+		<u>P1 to P6 Level Enrichment Programme
 	</u>
+	</strong>
 </p>
 <table>
 <tbody>
