@@ -19,6 +19,7 @@ third_nav_title: PHE & Aesthetics
 <p><strong>Approach 1 : Experience for All</strong></p>
 <p>The experience for All is part of the school’s effort in the provision of holistic and broad education to help every student explore and discover their talent. It is the first step towards the creation of different pathways to success. At this broad base level, all students learn dance, music and art through different modular programmes in the Art, Music and PHE (Dance) curriculum.</p>
 <p>During the Level Enrichment Programme, which are also carried out during curriculum time, students are able to deepen their knowledge and skills acquired from the Art, Music and PHE (Dance) lessons and apply them to produce/perform a class dance with confidence. They also learn the history and culture of the different art forms, therefore to gain a better understanding of them and learn to appreciate different cultures.</p>
+<p><strong><u>P1 to P6 Level Enrichment Programme</u></strong></p>
 <table>
 <tbody>
 <tr>
@@ -99,7 +100,6 @@ third_nav_title: PHE & Aesthetics
 <li>Develop life skills such as self-discipline, confidence, team spirit and resilience</li>
 	</ul>
 </td>
-<p><strong><u>P1 to P6 Level Enrichment Programme</u></strong></p>
 <td>P6</td>
 <td>Term 4 Post-Exam Activity</td>
 </tr>
