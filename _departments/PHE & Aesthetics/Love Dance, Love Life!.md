@@ -105,8 +105,7 @@ third_nav_title: PHE & Aesthetics
 </tr>
 <tr>
 <td>P6 Dance Farewell</td>
-<td>
-<ul>
+<td><ul>
 	<li>To enable students to showcase what they have learnt to their peers and teachers</li>
 <li>This performance also aims to build students' self-confidence while they have fun and enjoy the dance and music</li>
 <li>To encourage students to be innovative and creative in their choreographing and to show team-spirit in their dance presentation
@@ -117,5 +116,5 @@ third_nav_title: PHE & Aesthetics
 <td>P6</td>
 	<td>Term 4 Post-Exam Activity</td>
 	</tr>
-</tbody>
+	</tbody>
 </table>
