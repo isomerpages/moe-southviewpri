@@ -10,21 +10,24 @@ third_nav_title: School Related Services
 <table>
 	<tbody>
 		<tr>
-			<th>School Bookshop</th>
+			<th></th>
+			<th style="text-align: center;">School Bookshop</th>
+			<th></th>
 		</tr>
 		<tr>
 			<td>HB Book Centre</td>
 			<td>Bookshop operating hours in school:<br />
 Monday to Friday: 8.30am to 3.00pm<br />
 Closed for lunch between 1.30pm to 2.00pm<br /><br />
-
 Time slots for parents/guardians to make purchases at bookshop are Monday to Friday between 2.00pm to 3.00pm ONLY.</td>
 			<td>Telephone number : 6270 1060<br /><br />
 Email : hb.bk.ctr@gmail.com<br /><br />
 				Website: www.ihuntforbooks.com<br /></td>
 		</tr>
 		<tr>
-			<th>School Uniform</th>
+			<th></th>
+			<th style="text-align: center;">School Uniform</th>
+			<th></th>
 		</tr>
 		<tr>
 			<td>KH Uniform Pte. Ltd.</td>
