@@ -81,4 +81,4 @@ Lunch: 1-2pm<br><br>
 	</tbody>
 	</table>
 <p><u><strong>Canteen<br></strong></u>In line with guidelines from MOE, the canteen stalls in the school will be only be selling set meals with one or two fixed items at a fixed price during recess and meal times. This will help in reducing wait time as well as relief congestion at the stalls. The menu for each stall please click&nbsp;<a href="https://drive.google.com/file/d/1B1LEG8gbvFc6DDp9R5QvH1gl93JYL9jz/view" target="_blank" rel="noopener">"Here"</a></p>
-<p>Page last updated: 25 October 2022</p>
+<p>Page last updated: 14 February 2023</p>
