@@ -65,7 +65,7 @@ description: ""
 <li>Plain black canvas shoes</li>
 </ul>
 </td>
-<td><img src="/images/SR2N.jpg"></td>
+<td><img src="/images/SR1N.jpg"></td>
 </tr>
 </tbody>
 </table>
