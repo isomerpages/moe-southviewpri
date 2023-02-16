@@ -81,7 +81,7 @@ description: ""
 </li>
 <li>All students are to wear the PE attire during PE lessons and CCA sessions.</li>
 </ul>
-<img src="/images/SR34N.jpg">
+<img style="width:90%" src="/images/SR34N.jpg">
 <p><strong>Use of PE Attire</strong></p>
 <ul>
 <li>Students are allowed to wear their PE attire for the whole day if there is PE and CCA for the day.</li>
