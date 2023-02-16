@@ -51,13 +51,13 @@ third_nav_title: Weekly Notification
 <td style="text-align: center;"></td>
 </tr>
 <tr>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1vd6CqUsPqAs2BTOVTkFP-8qHYLZABS74/view?usp=sharing" target="_blank" rel="noopener">Week 6 / 9 Feb 2023</a></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/11oSj-tIHEfnyqgtRAxdd5EOcsXfUtnYu/view?usp=sharing" target="_blank" rel="noopener">Week 7 / 16 Feb 2023</a></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
