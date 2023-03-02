@@ -2,8 +2,9 @@
 title: Archived Letters
 permalink: /info-hub/weekly-notification/archived-letters/
 description: ""
-third_nav_title: Weekly Notification
+third_nav_title: School Notification
 ---
+
 <p><strong>2022 Weekly Letters</strong></p>
 <table>
 <tbody>
