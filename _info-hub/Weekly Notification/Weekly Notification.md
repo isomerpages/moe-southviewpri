@@ -33,7 +33,7 @@ third_nav_title: Weekly Notification
 <tr>
 <td style="text-align: center;">N.A.</td>
 <td style="text-align: center;">N.A.</td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1dMsDNeDEjSH2KcLJrSZlxHvzyySnPl8O/view?usp=sharing" target="_blank" rel="noopener">March</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1dMsDNeDEjSH2KcLJrSZlxHvzyySnPl8O/view?usp=sharing" target="_blank" rel="noopener">Mar</a></td>
 <td style="text-align: center;">Apr</td>
 </tr>
 <tr>
