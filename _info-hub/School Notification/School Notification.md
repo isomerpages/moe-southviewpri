@@ -4,8 +4,6 @@ permalink: /info-hub/school-notification/
 description: ""
 third_nav_title: School Notification
 ---
-
-
 <p>The weekly notification is made available on Thursdays. It is an effective communication tool that provides useful information, updates, announcement on school matters. Click on the file to read or download the respective letters.</p>
 <p><strong>2023 Weekly Letters</strong></p>
 <table>
@@ -52,4 +50,4 @@ third_nav_title: School Notification
 </tr>
 </tbody>
 </table>
-<p>N.A. : No notification for the week.</p>
+<p>N.A. : No notification for the month.</p>
