@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Weekly Notification/.keep
-      - Weekly Notification/Weekly Notification.md
+      - Weekly Notification/School Notification.md
       - Weekly Notification/Archived Letters.md
       - Calendar & Schedules.md
       - School Related Services/.keep
