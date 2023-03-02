@@ -2,9 +2,9 @@ collections:
   info-hub:
     output: true
     order:
-      - Weekly Notification/.keep
-      - Weekly Notification/School Notification.md
-      - Weekly Notification/Archived Letters.md
+      - School Notification/.keep
+      - School Notification/School Notification.md
+      - School Notification/Archived Letters.md
       - Calendar & Schedules.md
       - School Related Services/.keep
       - School Related Services/School–related Services.md
