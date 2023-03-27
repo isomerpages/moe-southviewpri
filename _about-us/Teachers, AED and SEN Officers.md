@@ -680,6 +680,16 @@ description: ""
 <td style="text-align: center;">Mdm Tan Lee Sin</td>
 <td style="text-align: center;">tan_lee_sin@moe.edu.sg</td>
 </tr>
+	<tr>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Mdm Hong Wai Chong Dora</td>
+<td style="text-align: center;">hong_wai_chong_dora@moe.edu.sg</td>
+</tr>
+	<tr>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Ms Tay Hwee Hoon</td>
+<td style="text-align: center;">tay_hwee_hoon@moe.edu.sg</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>2023 Allied Educators</strong></h4>
