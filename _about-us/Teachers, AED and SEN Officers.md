@@ -717,7 +717,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>Deployment is subjected to changes at the management's discretion according to school's needs. No prior notice will be given.<br />Page updated on: 10 January 2023</p>
+<p>Deployment is subjected to changes at the management's discretion according to school's needs. No prior notice will be given.<br />Page updated on: 27 March 2023</p>
 </div>
 </div>
 </div>
