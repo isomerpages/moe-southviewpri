@@ -235,7 +235,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">3 Steadfast</td>
-<td style="text-align: center;">Mdm Lee_Hui_Zhi</td>
+<td style="text-align: center;">Mdm Lee Hui Zhi</td>
 <td style="text-align: center;">lee_hui_zhi@moe.edu.sg</td>
 </tr>
 <tr>
