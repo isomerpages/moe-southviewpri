@@ -3,9 +3,6 @@ title: Teachers, AED and SEN Officers
 permalink: /about-us/teachers-aed-and-sen-officers/
 description: ""
 ---
-
-
-
 <h4><strong>2023 Primary 1 Form Teachers</strong></h4>
 <table>
 <tbody>
@@ -267,6 +264,11 @@ description: ""
 <td style="text-align: center;">mastura_mohamed_yusoff@moe.edu.sg</td>
 </tr>
 <tr>
+<td style="text-align: center;">3 Unity</td>
+<td style="text-align: center;">Ms Rosnaini Bte Abdul Rasid</td>
+<td style="text-align: center;">rosnaini_abdul_rasid@moe.edu.sg</td>
+</tr>
+<tr>
 <td style="text-align: center;">3 Tenacity</td>
 <td style="text-align: center;">Mdm Goh Kheen Yong</td>
 <td style="text-align: center;">goh_kheen_yong@moe.edu.sg</td>
@@ -354,11 +356,6 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">4 Tenacity</td>
-<td style="text-align: center;">Ms Rosnaini Bte Abdul Rasid</td>
-<td style="text-align: center;">rosnaini_abdul_rasid@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;">4 Tenacity</td>
 <td style="text-align: center;">Mr Koh Rensheng Andrew</td>
 <td style="text-align: center;">koh_rensheng_andrew@moe.edu.sg</td>
 </tr>
@@ -379,8 +376,8 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">4 Virtuous</td>
-<td style="text-align: center;">Ms Salizah Bte Sudar</td>
-<td style="text-align: center;">salizah_sudar@moe.edu.sg</td>
+<td style="text-align: center;">Ms Chua Chwee Tin (Priscilla)</td>
+<td style="text-align: center;">chua_chwee_tin_a@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">4 Inspiring</td>
@@ -635,11 +632,6 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">Non-Form</td>
-<td style="text-align: center;">Mr Mohammad Affendy Abdullah</td>
-<td style="text-align: center;">mohammad_affendy_abdullah@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;">Non-Form</td>
 <td style="text-align: center;">Mdm Lau Yu Xuan Jaelyn</td>
 <td style="text-align: center;">lau_yu_xuan@moe.edu.sg</td>
 </tr>
@@ -688,6 +680,16 @@ description: ""
 <td style="text-align: center;">Mdm Tan Lee Sin</td>
 <td style="text-align: center;">tan_lee_sin@moe.edu.sg</td>
 </tr>
+	<tr>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Mdm Hong Wai Chong Dora</td>
+<td style="text-align: center;">hong_wai_chong_dora@moe.edu.sg</td>
+</tr>
+	<tr>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Ms Tay Hwee Hoon</td>
+<td style="text-align: center;">tay_hwee_hoon@moe.edu.sg</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>2023 Allied Educators</strong></h4>
@@ -715,7 +717,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>Deployment is subjected to changes at the management's discretion according to school's needs. No prior notice will be given.<br />Page updated on: 10 January 2023</p>
+<p>Deployment is subjected to changes at the management's discretion according to school's needs. No prior notice will be given.<br />Page updated on: 27 March 2023</p>
 </div>
 </div>
 </div>
