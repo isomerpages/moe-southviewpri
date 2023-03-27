@@ -632,11 +632,6 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">Non-Form</td>
-<td style="text-align: center;">Mr Mohammad Affendy Abdullah</td>
-<td style="text-align: center;">mohammad_affendy_abdullah@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;">Non-Form</td>
 <td style="text-align: center;">Mdm Lau Yu Xuan Jaelyn</td>
 <td style="text-align: center;">lau_yu_xuan@moe.edu.sg</td>
 </tr>
