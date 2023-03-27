@@ -3,9 +3,6 @@ title: Teachers, AED and SEN Officers
 permalink: /about-us/teachers-aed-and-sen-officers/
 description: ""
 ---
-
-
-
 <h4><strong>2023 Primary 1 Form Teachers</strong></h4>
 <table>
 <tbody>
@@ -267,6 +264,11 @@ description: ""
 <td style="text-align: center;">mastura_mohamed_yusoff@moe.edu.sg</td>
 </tr>
 <tr>
+<td style="text-align: center;">3 Unity</td>
+<td style="text-align: center;">Ms Rosnaini Bte Abdul Rasid</td>
+<td style="text-align: center;">rosnaini_abdul_rasid@moe.edu.sg</td>
+</tr>
+<tr>
 <td style="text-align: center;">3 Tenacity</td>
 <td style="text-align: center;">Mdm Goh Kheen Yong</td>
 <td style="text-align: center;">goh_kheen_yong@moe.edu.sg</td>
@@ -351,11 +353,6 @@ description: ""
 <td style="text-align: center;">4 Tenacity</td>
 <td style="text-align: center;">Ms Teo Wee Sim</td>
 <td style="text-align: center;">teo_wee_sim@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;">4 Tenacity</td>
-<td style="text-align: center;">Ms Rosnaini Bte Abdul Rasid</td>
-<td style="text-align: center;">rosnaini_abdul_rasid@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">4 Tenacity</td>
