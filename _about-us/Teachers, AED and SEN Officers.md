@@ -376,8 +376,8 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">4 Virtuous</td>
-<td style="text-align: center;">Ms Salizah Bte Sudar</td>
-<td style="text-align: center;">salizah_sudar@moe.edu.sg</td>
+<td style="text-align: center;">Ms Chua Chwee Tin (Priscilla)</td>
+<td style="text-align: center;">chua_chwee_tin_a@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">4 Inspiring</td>
