@@ -3,7 +3,7 @@ title: MOE Kindergarten @ South View
 permalink: /moe-Kindergarten/moe-kindergarten-at-south-view/
 description: ""
 ---
-<a href="https://www.moe.gov.sg/mk" target="_blank" rel="noopener"><img style="height:350px;width:490px" src="/images/MOE%20Kindergarten.jpg"></a>
+<center><a href="https://www.moe.gov.sg/mk" target="_blank" rel="noopener"><img style="height:350px;width:490px" src="/images/MOE%20Kindergarten.jpg"></a></center>
 <p>We are excited to share with you that the MOE Kindergarten at South View Primary School (MK@SVPS) is on schedule to commence with our first cohort of K1s from January 2024.</p>
 <p>MOE Kindergarten (MK) provides quality and affordable preschool education to Singapore Citizens and Permanent Residents aged 5 and 6.</p>
 <p><b>MOE’s MK Curriculum</b> strives to provide a strong start for every child. The curriculum aims at nurturing children holistically so that they are confident, demonstrate strong social skills and have a good foundation in literacy and numeracy. For more information on MKs, please visit the website <a href="https://www.moe.gov.sg/mk" target="_blank" rel="noopener">www.moe.gov.sg/mk</a>. Through this website, you can also gain more information on the <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum" target="_blank" rel="noopener">MK Curriculum</a> as well as the learning environment via a <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/mk-virtual-tour" target="_blank" rel="noopener"> MK Virtual Tour</a>.
