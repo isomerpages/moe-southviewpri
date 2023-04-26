@@ -235,11 +235,6 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">3 Steadfast</td>
-<td style="text-align: center;">Mdm Lee Hui Zhi</td>
-<td style="text-align: center;">lee_hui_zhi@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;">3 Steadfast</td>
 <td style="text-align: center;">Mr Teo Jun Young Crosby</td>
 <td style="text-align: center;">teo_jun_young_crosby@moe.edu.sg</td>
 </tr>
@@ -376,8 +371,8 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">4 Virtuous</td>
-<td style="text-align: center;">Ms Chua Chwee Tin (Priscilla)</td>
-<td style="text-align: center;">chua_chwee_tin_a@moe.edu.sg</td>
+<td style="text-align: center;">Mdm Lee Hui Zhi</td>
+<td style="text-align: center;">lee_hui_zhi@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">4 Inspiring</td>
@@ -690,6 +685,11 @@ description: ""
 <td style="text-align: center;">Ms Tay Hwee Hoon</td>
 <td style="text-align: center;">tay_hwee_hoon@moe.edu.sg</td>
 </tr>
+		<tr>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Ms Chua Chwee Tin (Priscilla)</td>
+<td style="text-align: center;">chua_chwee_tin_a@moe.edu.sg</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>2023 Allied Educators</strong></h4>
@@ -717,7 +717,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>Deployment is subjected to changes at the management's discretion according to school's needs. No prior notice will be given.<br />Page updated on: 27 March 2023</p>
+<p>Deployment is subjected to changes at the management's discretion according to school's needs. No prior notice will be given.<br>Page updated on: 27 March 2023</p>
 </div>
 </div>
 </div>

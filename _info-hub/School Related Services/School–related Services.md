@@ -53,12 +53,9 @@ Email: sales@khuniform.com<br>
 The school Dental clinic will be operating on alternate weeks commencing from 3 Jan 2023<br><br>
 Monday to Thursday: 8.00am to 5.30pm<br>
 Lunch: 1-2pm<br><br>
-				<strong>Alternate weeks</strong><br>
-				W1 - 3 Jan to 5 Jan<br>
-				W3 - 16 Jan to 19 Jan<br>
-				W5 - 30 Jan to 2 Feb<br>
-				W7 - 13 Feb to 16 Feb<br>
-				W9 - 27 Feb to 2 Mar<br><br>
+				<strong>Open on weeks</strong><br>
+				W8 - 8 May to 11 May<br>
+				W10 - 22 May to 25 May (24 May Open AM)<br><br>
 			Please note that this schedule is tentative and submit to change<br><br>
 			In the event that clinic is closed, students who required urgent dental treatment please contact<br><br>
 				<table>
@@ -80,5 +77,5 @@ Lunch: 1-2pm<br><br>
 		</tr>
 	</tbody>
 	</table>
-<p><u><strong>Canteen<br></strong></u>In line with guidelines from MOE, the canteen stalls in the school will be only be selling set meals with one or two fixed items at a fixed price during recess and meal times. This will help in reducing wait time as well as relief congestion at the stalls. The menu for each stall please click&nbsp;<a href="https://drive.google.com/file/d/1B1LEG8gbvFc6DDp9R5QvH1gl93JYL9jz/view" target="_blank" rel="noopener">"Here"</a></p>
+</p><p><u><strong>Canteen<br></strong></u>In line with guidelines from MOE, the canteen stalls in the school will be only be selling set meals with one or two fixed items at a fixed price during recess and meal times. This will help in reducing wait time as well as relief congestion at the stalls. The menu for each stall please click&nbsp;<a href="https://drive.google.com/file/d/1B1LEG8gbvFc6DDp9R5QvH1gl93JYL9jz/view" target="_blank" rel="noopener">"Here"</a></p>
 <p>Page last updated: 14 February 2023</p>
