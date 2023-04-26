@@ -685,6 +685,11 @@ description: ""
 <td style="text-align: center;">Ms Tay Hwee Hoon</td>
 <td style="text-align: center;">tay_hwee_hoon@moe.edu.sg</td>
 </tr>
+		<tr>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Ms Chua Chwee Tin (Priscilla)</td>
+<td style="text-align: center;">chua_chwee_tin_a@moe.edu.sg</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>2023 Allied Educators</strong></h4>
