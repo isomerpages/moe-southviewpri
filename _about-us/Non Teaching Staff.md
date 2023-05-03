@@ -133,8 +133,8 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">Counsellor</td>
-<td style="text-align: center;">Mr R Rajamohan</td>
-<td style="text-align: center;">r_rajamohan@moe.edu.sg</td>
+<td style="text-align: center;">Ms Cheo Eve Lyn</td>
+<td style="text-align: center;">cheo_eve_lyn@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">Counsellor</td>
