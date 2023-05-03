@@ -92,11 +92,6 @@ description: ""
 <td style="text-align: center;">svps@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center;">Desktop Engineer&nbsp;</td>
-<td style="text-align: center;">Mr Fabiyus Tan Zen Han</td>
-<td style="text-align: center;">svps@moe.edu.sg</td>
-</tr>
-<tr>
 <td style="text-align: center;">Laboratory Assistant</td>
 <td style="text-align: center;">Mdm Sarimah Kamin</td>
 <td style="text-align: center;">svps@moe.edu.sg</td>
@@ -133,8 +128,8 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">Counsellor</td>
-<td style="text-align: center;">Mr R Rajamohan</td>
-<td style="text-align: center;">r_rajamohan@moe.edu.sg</td>
+<td style="text-align: center;">Ms Cheo Eve Lyn</td>
+<td style="text-align: center;">cheo_eve_lyn@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">Counsellor</td>
@@ -143,4 +138,4 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>Page updated on: 10 January 2023</p>
+<p>Page updated on: 3 May 2023</p>
