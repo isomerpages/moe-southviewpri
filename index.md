@@ -16,6 +16,6 @@ sections:
           description: Until end of Dec 2023
           url: /announcements/closure-of-gate-3-due-to-moe-kindergarten-mk-works/
         - title: WE-STories 2023
-          description: Click here for more info
+          description: Click here for WE-STories 2023
           url: https://online.fliphtml5.com/obrr/qkde/
 ---
