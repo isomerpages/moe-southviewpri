@@ -715,6 +715,11 @@ description: ""
 <td style="text-align: center;">Mr Ahmad Hakim Bin Ahmad</td>
 <td style="text-align: center;">ahmad_hakim_ahmad@moe.edu.sg</td>
 </tr>
+<tr>
+<td style="text-align: center;">SEN Officer</td>
+<td style="text-align: center;">Ms Shidy Shariana Bte Mohamed Ishak</td>
+<td style="text-align: center;">shidy_shariana@moe.edu.sg</td>
+</tr>
 </tbody>
 </table>
 <p>Deployment is subjected to changes at the management's discretion according to school's needs. No prior notice will be given.<br>Page updated on: 27 March 2023</p>
