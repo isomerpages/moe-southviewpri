@@ -92,11 +92,6 @@ description: ""
 <td style="text-align: center;">svps@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center;">Desktop Engineer&nbsp;</td>
-<td style="text-align: center;">Mr Fabiyus Tan Zen Han</td>
-<td style="text-align: center;">svps@moe.edu.sg</td>
-</tr>
-<tr>
 <td style="text-align: center;">Laboratory Assistant</td>
 <td style="text-align: center;">Mdm Sarimah Kamin</td>
 <td style="text-align: center;">svps@moe.edu.sg</td>
