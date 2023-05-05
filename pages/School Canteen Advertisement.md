@@ -3,7 +3,7 @@ title: School Canteen Advertisement
 permalink: /permalink/
 description: ""
 ---
-<p><strong>School Canteen Advertisement</strong></p>
+<h4><strong>School Canteen Advertisement</strong></h4>
 <table>
 	<tbody>
 		<tr>
