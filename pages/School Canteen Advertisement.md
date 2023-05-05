@@ -51,4 +51,4 @@ Application Form</p>
 </p><li>Successful applicant and stall assistant(s) must possess the WSQ basic Food Hygiene Certificate.</li>
 	<li>Possess catering experience or experience operating in a school environment.</li>
 <li>Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).</li><p></p>
-<p>Shortlisted applicants will be notifi ed for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</p>
+<p><i>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</i></p>
