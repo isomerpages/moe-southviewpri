@@ -34,13 +34,13 @@ Application Form</p>
 <li>List of proposed menu and pricing for all items</li>
 <li>Photocopy of relevant certificates such as Basic Food Hygience Course, etc</li><p></p>
 <p>3. Submit the completed application form and documents by closing date via email OR to the School’s General Office.
-	</p><li>Address: 110 Woodlands Crescent S737803</li>
-<li>Contact No: 63654490</li>
-<li>Email: riverside_ps@moe.edu.sg</li>
-<li>Contact Person: Mdm Aminah Saad</li><p></p>
+	</p><li>Address: 6 Choa Chu Kang Central, Singapore 689762</li>
+<li>Contact No: 67697176</li>
+<li>Email: svps@moe.edu.sg</li>
+<li>Contact Person: Mr Thomas Lim</li><p></p>
 <p><strong>How to get there?</strong><br>
-	</p><li>Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance</li>
-	<li>Bus number: 904 - 3 minutes walking distance</li><p></p>
+	</p><li>Nearest MRT: Chua Chu Kang MRT (NS4 line) – 10 minutes walking distance</li>
+	<li>Bus number: 307/307T - 3 minutes walking distance</li><p></p>
 <p><strong>Interest applicants must meet the following criteria:</strong><br>
 </p><li>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.</li>
 <li>Able to provide good service and quality food with prices determined in consultation with the school.</li>
