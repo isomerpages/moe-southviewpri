@@ -28,7 +28,7 @@ description: ""
 	</table>
 	<p><strong>Application Procedure</strong></p>
 <p>1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-Application Form</p>
+</p><li><a href="https://drive.google.com/file/d/1h_NYaabiQTFlmyIiCafb-DMBcnR1IJds/view?usp=sharing" target="_blank" rel="noopener">Application Form</a></li><p></p>
 <p>2. Attached the following documents together with the application form:
 	</p><li>Photocopy of the NRIC (front and back)</li>
 <li>List of proposed menu and pricing for all items</li>
