@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/boys-brigade-n-girls-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table>
 <tbody>
 <tr>
 <td style="width: 50%;"><img style="width: 65%;" src="/images/bb.jpeg" align="right"></td>
