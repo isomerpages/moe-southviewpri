@@ -4,5 +4,5 @@ permalink: /info-hub/school-bus-service/
 description: ""
 ---
 <h4><strong>School Bus Services</strong></h4>
-	<p>School Bus Operator and Bus Fare<br>
-<a href="https://drive.google.com/file/d/1JljWLwICI6y6fUoPoHu87KY0Djr2eAXN/view?usp=sharing" target="_blank" rel="noopener">School Bus Service</a></p>
+	<p>School Bus Operator and Bus Fare</p>
+<p><a href="https://drive.google.com/file/d/1JljWLwICI6y6fUoPoHu87KY0Djr2eAXN/view?usp=sharing" target="_blank" rel="noopener">School Bus Service</a></p>
