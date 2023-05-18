@@ -506,11 +506,6 @@ description: ""
 <td style="text-align: center;">chan_kim_hong@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center;">6 Unity</td>
-<td style="text-align: center;">Mr Rayson Soh Li Sen</td>
-<td style="text-align: center;">rayson_soh_li_sen@moe.edu.sg</td>
-</tr>
-<tr>
 <td style="text-align: center;">6 Tenacity</td>
 <td style="text-align: center;">Ms Tang Hui Qing Serene</td>
 <td style="text-align: center;">tang_hui_qing_serene@moe.edu.sg</td>
