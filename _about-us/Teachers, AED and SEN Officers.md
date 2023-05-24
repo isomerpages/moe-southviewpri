@@ -317,7 +317,7 @@ description: ""
 <tr>
 <td style="text-align: center;">4 Steadfast</td>
 <td style="text-align: center;">Mr Mohammed Fadzliegh Bin Nordin</td>
-<td style="text-align: center;">mohammed_fadzlieghnordin@moe.edu.sg</td>
+<td style="text-align: center;">mohammed_fadzliegh_nordin@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">4 Steadfast</td>
