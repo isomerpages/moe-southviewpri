@@ -18,8 +18,8 @@ description: ""
 <p>2023 Semester 1</p>
 </td>
 <td style="text-align: center;">
-<a href="https://drive.google.com/file/d/1ra6qhR_UwKkmTmri8NflJJKzlKCtxtwU/view" target="_blank" rel="noopener">Calendar</a><br/>
-<a href="https://drive.google.com/file/d/1gMVzN-BSX4MhnbSRYSGjZn93VDyf3Wyo/view" target="_blank" rel="noopener">After-School Activities Schedule</a><br />
+<a href="https://drive.google.com/file/d/1ra6qhR_UwKkmTmri8NflJJKzlKCtxtwU/view" target="_blank" rel="noopener">Calendar</a><br>
+<a href="https://drive.google.com/file/d/1gMVzN-BSX4MhnbSRYSGjZn93VDyf3Wyo/view" target="_blank" rel="noopener">After-School Activities Schedule</a><br>
 <a href="https://drive.google.com/file/d/1nbFscFognkKyl3jHP049RBRiyzT1aEWE/view" target="_blank" rel="noopener">Overall CCA Schedule</a>
 </td>
 </tr>
@@ -28,9 +28,9 @@ description: ""
 <p>2023 Semester 2</p>
 </td>
 <td style="text-align: center;">
-<a>Calendar<br>
+<a href="https://drive.google.com/file/d/1Um9AN8V3-O58T9ajIi2_cmQVMs4Nmrsi/view?usp=sharing" target="_blank" rel="noopener">Calendar</a><br>
 After-School Activities Schedule<br>
-Overall CCA Schedule</a>
+Overall CCA Schedule
 </td>
 </tr>
 </tbody>
