@@ -18,7 +18,4 @@ sections:
         - title: WE-STories 2023
           description: Click here for WE-STories 2023
           url: https://online.fliphtml5.com/obrr/qkde/
-        - title: South View Dental Clinic will be closed from 12pm onwards
-          description: on 22, 23 and 24 May 2023
-          url: ""
 ---
