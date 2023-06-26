@@ -35,10 +35,10 @@ description: ""
 	</tbody>
 	</table>
 	<p><strong>Application Procedure</strong></p>
-<p>1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-</p><li><a href="https://drive.google.com/file/d/1h_NYaabiQTFlmyIiCafb-DMBcnR1IJds/view?usp=sharing" target="_blank" rel="noopener">Application Form</a></li><p></p>
-<p>2. Attached the following documents together with the application form:
-	</p><li>Photocopy of the NRIC (front and back)</li>
+<p>1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.</p>
+<p></p><li><a href="https://drive.google.com/file/d/1h_NYaabiQTFlmyIiCafb-DMBcnR1IJds/view?usp=sharing" target="_blank" rel="noopener">Application Form</a></li><p></p>
+<p>2. Attached the following documents together with the application form:</p>
+	<p></p><li>Photocopy of the NRIC (front and back)</li>
 <li>List of proposed menu and pricing for all items</li>
 <li>Photocopy of relevant certificates such as Basic Food Hygience Course, etc</li><p></p>
 <p>3. Submit the completed application form and documents by closing date via email OR to the School’s General Office.
@@ -46,8 +46,8 @@ description: ""
 <li>Contact No: 67697176</li>
 <li>Email: svps@moe.edu.sg</li>
 <li>Contact Person: Mr Thomas Lim</li><p></p>
-<br><p><strong>How to get there?</strong><br>
-	</p><li>Nearest MRT: Chua Chu Kang MRT (NS4 line) – 10 minutes walking distance</li>
+<p><strong>How to get there?</strong><br>
+</p><li>Nearest MRT: Chua Chu Kang MRT (NS4 line) – 10 minutes walking distance</li>
 	<li>Bus number: 307/307T - 3 minutes walking distance</li><p></p>
 <br><p><strong>Interest applicants must meet the following criteria:</strong><br>
 </p><li>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.</li>
