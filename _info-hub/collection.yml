@@ -2,6 +2,7 @@ collections:
   info-hub:
     output: true
     order:
+      - School Bus Service.md
       - School Canteen Advertisement.md
       - School Notification/.keep
       - School Notification/School Notification.md
