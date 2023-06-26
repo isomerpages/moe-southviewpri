@@ -2,8 +2,6 @@ collections:
   info-hub:
     output: true
     order:
-      - School Bus Service.md
-      - School Canteen Advertisement.md
       - School Notification/.keep
       - School Notification/School Notification.md
       - School Notification/Archived Letters.md
@@ -11,6 +9,8 @@ collections:
       - School Related Services/.keep
       - School Related Services/School–related Services.md
       - School Related Services/Student Care Centre.md
+      - School Bus Service.md
+      - School Canteen Advertisement.md
       - SLS and Student Icon Matters/.keep
       - SLS and Student Icon Matters/Student Learning Space and Student iCON
         matters (General).md
