@@ -90,6 +90,8 @@ links:
         url: /info-hub/school-related-services
       - title: School Bus Service
         url: /info-hub/school-bus-service/
+      - title: School Canteen Advertisement
+        url: /info-hub/school-canteen-advertisement/
       - title: SLS & Student iCON Matters
         url: /info-hub/student-learning-space-and-student-icon-matters-general
       - title: E-Forms
@@ -106,7 +108,5 @@ links:
         url: /info-hub/p1-registration/p1-registration-exercise
       - title: Contact Information
         url: /info-hub/contact-information
-      - title: School Canteen Advertisement
-        url: /info-hub/school-canteen-advertisement
   - title: MOE Kindergarten
     collection: moe-kindergarten
