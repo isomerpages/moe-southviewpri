@@ -49,7 +49,8 @@ description: ""
 <p><strong>How to get there?</strong><br>
 </p><li>Nearest MRT: Chua Chu Kang MRT (NS4 line) – 10 minutes walking distance</li>
 	<li>Bus number: 307/307T - 3 minutes walking distance</li><p></p>
-<p><strong>Interest applicants must meet the following criteria:</strong><br></p><li>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.</li>
+<p><strong>Interest applicants must meet the following criteria:</strong><br>
+	</p><li>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.</li>
 <li>Able to provide good service and quality food with prices determined in consultation with the school.</li>
 <li>Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the“Healthy Meals in Schools Programme (HMSP)” guidelines <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" target="_blank" rel="noopener">(see link)</a>.</li>
 <li>Able to maintain high standard of food safety and personal hygiene.
