@@ -670,15 +670,10 @@ description: ""
 <td style="text-align: center;">Mdm Hong Wai Chong Dora</td>
 <td style="text-align: center;">hong_wai_chong_dora@moe.edu.sg</td>
 </tr>
-	<tr>
-<td style="text-align: center;">Non-Form</td>
-<td style="text-align: center;">Ms Tay Hwee Hoon</td>
-<td style="text-align: center;">tay_hwee_hoon@moe.edu.sg</td>
-</tr>
 		<tr>
 <td style="text-align: center;">Non-Form</td>
-<td style="text-align: center;">Ms Chua Chwee Tin (Priscilla)</td>
-<td style="text-align: center;">chua_chwee_tin_a@moe.edu.sg</td>
+<td style="text-align: center;">Mr Mohamad Hafees Bin Hanafi</td>
+<td style="text-align: center;">mohamad_hafees_hanafi@moe.edu.sg</td>
 </tr>
 </tbody>
 </table>
@@ -712,7 +707,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>Deployment is subjected to changes at the management's discretion according to school's needs. No prior notice will be given.<br>Page updated on: 3 May 2023</p>
+<p>Deployment is subjected to changes at the management's discretion according to school's needs. No prior notice will be given.<br>Page updated on: 4 July 2023</p>
 </div>
 </div>
 </div>
