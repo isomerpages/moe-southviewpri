@@ -235,8 +235,8 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">3 Steadfast</td>
-<td style="text-align: center;">Mr Teo Jun Young Crosby</td>
-<td style="text-align: center;">teo_jun_young_crosby@moe.edu.sg</td>
+<td style="text-align: center;">Mr Eddie Quek Joo Hin</td>
+<td style="text-align: center;">quek_joo_hin_eddie@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">3 Optimistic</td>
@@ -262,6 +262,11 @@ description: ""
 <td style="text-align: center;">3 Unity</td>
 <td style="text-align: center;">Ms Rosnaini Bte Abdul Rasid</td>
 <td style="text-align: center;">rosnaini_abdul_rasid@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">3 Unity</td>
+<td style="text-align: center;">Ms Tay Hwee Hoon</td>
+<td style="text-align: center;">tay_hwee_hoon@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">3 Tenacity</td>
@@ -300,8 +305,8 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">3 Inspiring</td>
-<td style="text-align: center;">Mr Cheong Chee Kin Terence</td>
-<td style="text-align: center;">cheong_chee_kin@moe.edu.sg</td>
+<td style="text-align: center;">Mdm Selena Akhbar</td>
+<td style="text-align: center;">selena_akhbar@moe.edu.sg</td>
 </tr>
 </tbody>
 </table>
@@ -632,11 +637,6 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">Non-Form</td>
-<td style="text-align: center;">Ms Lee Mui Lan Linda</td>
-<td style="text-align: center;">lee_mui_lan_linda@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;">Non-Form</td>
 <td style="text-align: center;">Mdm Silva Dennis</td>
 <td style="text-align: center;">silvia_dennis@moe.edu.sg</td>
 </tr>
@@ -662,11 +662,6 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">Non-Form</td>
-<td style="text-align: center;">Mdm Selena Akhbar</td>
-<td style="text-align: center;">selena_akhbar@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;">Non-Form</td>
 <td style="text-align: center;">Mdm Tan Lee Sin</td>
 <td style="text-align: center;">tan_lee_sin@moe.edu.sg</td>
 </tr>
@@ -675,15 +670,10 @@ description: ""
 <td style="text-align: center;">Mdm Hong Wai Chong Dora</td>
 <td style="text-align: center;">hong_wai_chong_dora@moe.edu.sg</td>
 </tr>
-	<tr>
-<td style="text-align: center;">Non-Form</td>
-<td style="text-align: center;">Ms Tay Hwee Hoon</td>
-<td style="text-align: center;">tay_hwee_hoon@moe.edu.sg</td>
-</tr>
 		<tr>
 <td style="text-align: center;">Non-Form</td>
-<td style="text-align: center;">Ms Chua Chwee Tin (Priscilla)</td>
-<td style="text-align: center;">chua_chwee_tin_a@moe.edu.sg</td>
+<td style="text-align: center;">Mr Mohamad Hafees Bin Hanafi</td>
+<td style="text-align: center;">mohamad_hafees_hanafi@moe.edu.sg</td>
 </tr>
 </tbody>
 </table>
@@ -717,7 +707,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>Deployment is subjected to changes at the management's discretion according to school's needs. No prior notice will be given.<br>Page updated on: 3 May 2023</p>
+<p>Deployment is subjected to changes at the management's discretion according to school's needs. No prior notice will be given.<br>Page updated on: 4 July 2023</p>
 </div>
 </div>
 </div>
