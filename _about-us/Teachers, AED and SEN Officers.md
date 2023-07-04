@@ -235,8 +235,8 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">3 Steadfast</td>
-<td style="text-align: center;">Mr Teo Jun Young Crosby</td>
-<td style="text-align: center;">teo_jun_young_crosby@moe.edu.sg</td>
+<td style="text-align: center;">Mr Eddie Quek Joo Hin</td>
+<td style="text-align: center;">quek_joo_hin_eddie@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">3 Optimistic</td>
