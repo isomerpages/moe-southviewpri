@@ -39,7 +39,7 @@ third_nav_title: School Notification
 <tr>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1lKZrAmMfbobuoqOt66niP3RymsVsY3N8/view?usp=sharing" target="_blank" rel="noopener">May-Jun</a></td>
 <td style="text-align: center;">N.A.</td>
-<td style="text-align: center;">Jul</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/13aD3uoR-PNO8AqlLOUFjAg2Q1gBcxHaE/view?usp=sharing" target="_blank" rel="noopener">July</a></td>
 <td style="text-align: center;">Aug</td>
 </tr>
 	<tr>
