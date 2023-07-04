@@ -305,8 +305,8 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">3 Inspiring</td>
-<td style="text-align: center;">Mr Cheong Chee Kin Terence</td>
-<td style="text-align: center;">cheong_chee_kin@moe.edu.sg</td>
+<td style="text-align: center;">Mdm Selena Akhbar</td>
+<td style="text-align: center;">selena_akhbar@moe.edu.sg</td>
 </tr>
 </tbody>
 </table>
