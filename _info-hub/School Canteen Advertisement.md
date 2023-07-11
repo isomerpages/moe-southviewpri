@@ -19,7 +19,7 @@ description: ""
 <tr>
 <td style="text-align: center;">Chinese Mixed  Rice (non-halal)
 	</td>
-<td style="text-align: center;">27-Jul-23
+<td style="text-align: center;">10-Aug-23
 	</td>
 	<td style="text-align: center;">Mixed rice set meals with veggies with meat, fruit, Hor Fun dish are acceptable. Dishes must follows Health Promotion Board Healthy Meals Guidelines. Set Meal consist of veggies or meat. Fruit is reuired mandatory for all set meals
 </td>
