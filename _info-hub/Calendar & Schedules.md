@@ -29,8 +29,7 @@ description: ""
 </td>
 <td style="text-align: center;">
 <a href="https://drive.google.com/file/d/1Um9AN8V3-O58T9ajIi2_cmQVMs4Nmrsi/view?usp=sharing" target="_blank" rel="noopener">Calendar</a><br>
-<a href="https://drive.google.com/file/d/1YZRm-dpINkc71SvYhsohljmWNhuh_iZ_/view?usp=sharing" target="_blank" rel="noopener">After-School Activities Schedule</a><br>
-Overall CCA Schedule
+<a href="https://drive.google.com/file/d/1YZRm-dpINkc71SvYhsohljmWNhuh_iZ_/view?usp=sharing" target="_blank" rel="noopener">After-School Activities Schedule</a><a href="https://drive.google.com/file/d/13tBXz5VxykVlvJTCbyfCvdLnlR0SuXDC/view?usp=sharing" target="_blank" rel="noopener">Overall CCA Schedule</a>
 </td>
 </tr>
 </tbody>
