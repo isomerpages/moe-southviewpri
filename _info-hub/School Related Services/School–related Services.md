@@ -51,13 +51,15 @@ Email: sales@khuniform.com<br>
 			<td>Dental Therapists: Ms Safura Ja'afar</td>
 			<td>Operating hours in SVPS<br><br>
 The school Dental clinic will be operating on alternate weeks commencing from 3 Jan 2023<br><br>
-Monday to Thursday: 8.00am to 5.30pm<br>
+Monday to Wednesday: 8.00am to 5.30pm<br>
+Thursday: 8.00am to 5.00pm<br>
 Lunch: 1-2pm<br><br>
 				<strong>Open on weeks</strong><br>
-				W8 - 8 May to 11 May<br>
-				W10 - 22 May to 25 May (24 May Open AM)<br><br>
+				W6 - 31 Jul to 3 Aug<br>
+				W8 - 14 Aug (PM Only) &amp; 17 Aug<br>
+				W10 - 28 Aug to 31 Aug<br>
 			Please note that this schedule is tentative and submit to change<br><br>
-			In the event that clinic is closed, students who required urgent dental treatment please contact<br><br>
+			Students who requires URGENT dental treatment, please call/WhatsApp/SMS the buddy clinic (see table below) for an appointment.<br>
 				<table>
 					<tbody>
 						<tr>
@@ -66,14 +68,17 @@ Lunch: 1-2pm<br><br>
 						</tr>
 							<tr>
 							<td>Yew Tee Primary Dental Clinic</td>
-							<td>91159835</td>
+							<td>9115 9835</td>
 						</tr>
 					</tbody>
 				</table>
-				For EMERGENCY dental treatment such as facial/gum swelling, severe toothache and dental trauma please contact School Dental Centre via email: Contact_YPS@hpb.gov.sg<br>
+In the event of dental emergencies such as trauma (broken tooth/knocked out), facial/gum swelling or severe toothache please contact 
+School dental centre via email: Contact_YPS@hpb.gov.sg
+<br>
 			</td>
 	<td>Telephone number:<br>
-		9115 6994</td>
+		9115 6994<br>(South View Primary)<br>
+			9114 1358<br>(Beacon Primary)</td>
 		</tr>
 	</tbody>
 	</table>
