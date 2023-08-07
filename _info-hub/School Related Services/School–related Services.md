@@ -68,7 +68,7 @@ Lunch: 1-2pm<br><br>
 						</tr>
 							<tr>
 							<td>Yew Tee Primary Dental Clinic</td>
-							<td>91159835</td>
+							<td>9115 9835</td>
 						</tr>
 					</tbody>
 				</table>
@@ -77,7 +77,8 @@ School dental centre via email: Contact_YPS@hpb.gov.sg
 <br>
 			</td>
 	<td>Telephone number:<br>
-		9115 6994</td>
+		9115 6994<br>(South View Primary)<br>
+			9114 1358<br>(Beacon Primary)</td>
 		</tr>
 	</tbody>
 	</table>
