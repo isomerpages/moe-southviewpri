@@ -51,7 +51,8 @@ Email: sales@khuniform.com<br>
 			<td>Dental Therapists: Ms Safura Ja'afar</td>
 			<td>Operating hours in SVPS<br><br>
 The school Dental clinic will be operating on alternate weeks commencing from 3 Jan 2023<br><br>
-Monday to Thursday: 8.00am to 5.30pm<br>
+Monday to Wednesday: 8.00am to 5.30pm<br>
+Thursday: 8.00am to 5.00pm<br>
 Lunch: 1-2pm<br><br>
 				<strong>Open on weeks</strong><br>
 				W8 - 8 May to 11 May<br>
