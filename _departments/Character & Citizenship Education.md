@@ -20,4 +20,5 @@ CCE MT teachers use cultural stories, songs, idioms, and proverbs unique to each
 	<li>Racial Harmony Day</li>
 	<li>National Day</li>
 	<li>P3-P6 NE Learning Journeys</li>
-<p>Page last updated: 2 June 2021</p></ul>
+	<p>The four NE Commemorative Days (Total Defence Day, International Friendship Day, Racial Harmony Day, and National Day) are an important part of students’ learning experiences on being active citizens in school and nation. Through these NE commemorative days, students learn important lessons from significant moments in Singapore history, understand the importance of our nation’s friendship ties with other countries, and reflect on they can apply their learning and contribute as active citizens.</p>
+<p>Page last updated: 15 August 2023</p></ul>
