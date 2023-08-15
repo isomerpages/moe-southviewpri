@@ -14,7 +14,7 @@ Our structured CCE Form Teacher Guidance Period (CCE FTGP) curriculum equips stu
 CCE lessons are taught in Mother Tongue languages (MTL). For students who take the non-Tamil Indian Languages (NTIL) as their Mother Tongue and for those exempted from taking MTL, CCE will be taught in English.
 CCE MT teachers use cultural stories, songs, idioms, and proverbs unique to each Mother Tongue Language to teach moral values and perspective taking.</li><p></p>
 <p><strong><u>CCE Programmes</u></strong></p>
-<p><b>National Education</b>
+<p><b>1. National Education</b>
 	</p><li>Total Defence Day</li>
 	<li>International Friendship</li>
 	<li>Racial Harmony Day</li>
@@ -34,4 +34,7 @@ Having gained a better insight to the history, heritage and contributions of the
 	<p>The P6 students will be visiting the Asian Civilisations Museum (ACM) as their post-PSLE activity. The museum is housed in a historical building by the Singapore River, it tells its stories through its permanent collections.<br><br>
 The museum guide will walk the students through this multi-sensory learning experience which include storytelling, close observation of artefacts and questions to ignite the critical thinking skills in students.<br><br>
 The objective of this visit is to deepen the students’ understanding and appreciation of the cultural heritage of different parts of Asia and what present-day societies have inherited from the civilisations of the past.</p>
+	<p><b>2. Values in Education (VIA) </b></p>
+	<p>Values in Action (VIA) are experiences that support students’ development as socially responsible citizens who contribute meaningfully to the community, through the learning and application of knowledge, skills, and values. VIA fosters student ownership over how they can serve and contribute to the school and community.<br><br>
+Through VIA programmes such as VIA in CNY, Singapore World Water Day (SWWD) exercise, Clean as We Go and Spring Cleaning, students get to learn and demonstrate values through hands on activities. Students reflect on their experiences, and how they can continue to contribute to the school and community meaningfully.</p>
 <p>Page last updated: 15 August 2023</p></ul>
