@@ -7,12 +7,11 @@ description: ""
 <p><strong>Character and Citizenship Department</strong></p>
 <p>The Character &amp; Citizenship Education (CCE) Department aims to inculcate values and build social emotional competencies in students to develop them to be good individuals and useful citizens. Our students have the opportunities to participate in various CCE lessons and programmes and equip themselves with the knowledge and skills required to make sense of their own identities, form positive relationships with others and learn to make good choices.</p>
 <p><strong><u>CCE Curriculum</u></strong></p>
-<p>
-	</p><ul><li><b>CCE Form Teacher Guidance Period (FTGP) Lessons</b><br>
+<p></p><ul><li><b>CCE Form Teacher Guidance Period (FTGP) Lessons</b><br>
 Our structured CCE Form Teacher Guidance Period (CCE FTGP) curriculum equips students with social emotional competencies and school values and provide quality interaction time between form teachers and students in a safe and positive learning environment.</li><br>
 	<b></b><li><b>CCE Mother Tongue (MT) Lessons</b><br>
 CCE lessons are taught in Mother Tongue languages (MTL). For students who take the non-Tamil Indian Languages (NTIL) as their Mother Tongue and for those exempted from taking MTL, CCE will be taught in English.
-CCE MT teachers use cultural stories, songs, idioms, and proverbs unique to each Mother Tongue Language to teach moral values and perspective taking.</li><p></p>
+CCE MT teachers use cultural stories, songs, idioms, and proverbs unique to each Mother Tongue Language to teach moral values and perspective taking.</li></ul>
 <p><strong><u>CCE Programmes</u></strong></p>
 <p><b>1. National Education</b>
 	</p><li>Total Defence Day</li>
@@ -39,4 +38,4 @@ The objective of this visit is to deepen the students’ understanding and appre
 Through VIA programmes such as VIA in CNY, Singapore World Water Day (SWWD) exercise, Clean as We Go and Spring Cleaning, students get to learn and demonstrate values through hands on activities. Students reflect on their experiences, and how they can continue to contribute to the school and community meaningfully.</p>
 	<p><b>3. Cyber Wellness (CW)</b></p>
 	<p>Cyber Wellness focuses on the well-being of our students as they navigate the cyberspace. Through Cyber Wellness talks, level programmes and recess activities, the school aims to equip students with the knowledge, skills, and values to maintain a positive presence in cyberspace and learn to become responsible digital learners.</p>
-<p>Page last updated: 15 August 2023</p></ul>
+<p>Page last updated: 15 August 2023</p>
