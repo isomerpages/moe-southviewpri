@@ -13,8 +13,8 @@ Our structured CCE Form Teacher Guidance Period (CCE FTGP) curriculum equips stu
 CCE lessons are taught in Mother Tongue languages (MTL). For students who take the non-Tamil Indian Languages (NTIL) as their Mother Tongue and for those exempted from taking MTL, CCE will be taught in English.
 CCE MT teachers use cultural stories, songs, idioms, and proverbs unique to each Mother Tongue Language to teach moral values and perspective taking.</li></ul>
 <p><strong><u>CCE Programmes</u></strong></p>
-<p><b>1. National Education</b>
-	</p><li>Total Defence Day</li>
+<p><b>1. National Education</b></p>
+<p></p><li>Total Defence Day</li>
 	<li>International Friendship</li>
 	<li>Racial Harmony Day</li>
 	<li>National Day</li>
