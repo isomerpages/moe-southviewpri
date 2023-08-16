@@ -15,5 +15,13 @@ description: ""
 <p>Children who are unwell or have had recent contact with infected persons are strongly encouraged to self-test using an Antigen Rapid Test (ART) kit.<br><br>
 Important: Children who return to kindergarten after recovering from an infectious disease but are still showing symptoms of illness (after the expiry of medical certification), will need to produce a certificate of health from the medical practitioner for the child to return to the kindergarten.<br><br>
 MK teachers will not administer medication to your child or do the ART test.<br></p>
-<p><b>MK Uniform</b></p>
-<center><img src="/images/mkuniform.png"></center>
+<p><b>MK Uniform</b>
+</p><center><img src="/images/mkuniform.png"></center><p></p>
+<p><b>Purchasing of MK Uniforms</b></p>
+<p>You can purchase the MK uniform from either <a>Beau Voix Uniform</a> or <a>Jeep Sing Fashion</a> at the following prices:</p>
+<p></p><ul>Beau Voix Uniform
+	<li>$7 for polo T-shirt.</li>
+	<li>$7 for khaki shorts (for boys) or skorts (for girls).</li></ul>
+<ul>Jeep Sing Fashion
+	<li>$7 for polo T-shirt.</li>
+	<li>$8 for khaki shorts (for boys) or skorts (for girls).</li></ul><p></p>
