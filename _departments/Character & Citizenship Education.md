@@ -14,11 +14,11 @@ CCE lessons are taught in Mother Tongue languages (MTL). For students who take t
 CCE MT teachers use cultural stories, songs, idioms, and proverbs unique to each Mother Tongue Language to teach moral values and perspective taking.</li></ul>
 <p><strong><u>CCE Programmes</u></strong></p>
 <p><b>1. National Education</b></p>
-<p></p><li>Total Defence Day</li>
+<p></p><ul><li>Total Defence Day</li>
 	<li>International Friendship</li>
 	<li>Racial Harmony Day</li>
 	<li>National Day</li>
-	<li>P3-P6 NE Learning Journeys</li><p></p>
+	<li>P3-P6 NE Learning Journeys</li></ul><p></p>
 	<p>The four NE Commemorative Days (Total Defence Day, International Friendship Day, Racial Harmony Day, and National Day) are an important part of students’ learning experiences on being active citizens in school and nation. Through these NE commemorative days, students learn important lessons from significant moments in Singapore history, understand the importance of our nation’s friendship ties with other countries, and reflect on they can apply their learning and contribute as active citizens.</p>
 	<p><b>P3 National Education (NE) Learning Journey</b></p>
 	<p>The P3 students went on a farm tour at Kok Fah Technology Farm. During the tour, they got an idea of what vertical farming was and its benefits. They were also introduced to the variety of produce that the farm harvest for local consumption. 
