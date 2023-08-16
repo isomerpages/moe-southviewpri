@@ -16,3 +16,4 @@ description: ""
 Important: Children who return to kindergarten after recovering from an infectious disease but are still showing symptoms of illness (after the expiry of medical certification), will need to produce a certificate of health from the medical practitioner for the child to return to the kindergarten.<br><br>
 MK teachers will not administer medication to your child or do the ART test.</p>
 <p><b>MK Uniform</b></p>
+<center><img src="/images/mkuniform.png"></center>
