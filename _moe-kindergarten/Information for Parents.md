@@ -19,9 +19,9 @@ MK teachers will not administer medication to your child or do the ART test.<br>
 </p><center><img src="/images/mkuniform.png"></center><p></p>
 <p><b>Purchasing of MK Uniforms</b></p>
 <p>You can purchase the MK uniform from either <a href="https://www.beauvoix.com.sg/products-category/preschool" target="_blank" rel="noopener">Beau Voix Uniform</a> or <a href="https://jeepsinguniform.com/collections/moe-kindergarten-uniforms" target="_blank" rel="noopener">Jeep Sing Fashion</a> at the following prices:</p>
-<p></p><ul>Beau Voix Uniform
+<p></p><ul><b>Beau Voix Uniform</b>
 	<li>$7 for polo T-shirt.</li>
 	<li>$7 for khaki shorts (for boys) or skorts (for girls).</li></ul>
-<ul>Jeep Sing Fashion
+<ul><b>Jeep Sing Fashion</b>
 	<li>$7 for polo T-shirt.</li>
 	<li>$8 for khaki shorts (for boys) or skorts (for girls).</li></ul><p></p>
