@@ -168,11 +168,6 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">2 Humility</td>
-<td style="text-align: center;">Mdm Siti Nur 'Asyiqin Bte Termizi</td>
-<td style="text-align: center;">siti_nur_asyiqin_termizi@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;">2 Humility</td>
 <td style="text-align: center;">Mrs Kunavathi Vijayan Kumaran</td>
 <td style="text-align: center;">kunavathi_marimuthu@moe.edu.sg</td>
 </tr>
@@ -185,6 +180,11 @@ description: ""
 <td style="text-align: center;">2 Virtuous</td>
 <td style="text-align: center;">Ms Kek Chiew Ching</td>
 <td style="text-align: center;">kek_chiew_ching@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">2 Virtuous</td>
+<td style="text-align: center;">Mr Matthew Loh Yin Sheng</td>
+<td style="text-align: center;">matthew_loh_yin_sheng@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">2 Inspiring</td>
