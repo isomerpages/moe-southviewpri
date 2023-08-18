@@ -20,5 +20,5 @@ sections:
           url: /announcements/closure-of-gate-3-due-to-moe-kindergarten-mk-works/
         - title: Homecoming for ex-Southviens will be cancelled this year.
           description: Click here for more info
-          url: /presidential-election-on-1-september-2023/
+          url: /announcements/presidential-election-on-1-september-2023/
 ---
