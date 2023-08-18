@@ -12,10 +12,13 @@ sections:
         - title: Highlight
           description: SVPS VIRTUAL TOUR
           url: https://4d.silvrcraft.com/svps360/
-        - title: Announcement - Closure of Gate 3
-          description: Until end of Dec 2023
-          url: /announcements/closure-of-gate-3-due-to-moe-kindergarten-mk-works/
         - title: WE-STories 2023
           description: Click here for WE-STories 2023
           url: https://online.fliphtml5.com/obrr/qkde/
+        - title: Announcement - Closure of Gate 3
+          description: Until end of Dec 2023
+          url: /announcements/closure-of-gate-3-due-to-moe-kindergarten-mk-works/
+        - title: Homecoming for ex-Southviens will be cancelled this year.
+          description: Click here for more info
+          url: ""
 ---
