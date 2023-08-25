@@ -55,9 +55,10 @@ Monday to Wednesday: 8.00am to 5.30pm<br>
 Thursday: 8.00am to 5.00pm<br>
 Lunch: 1-2pm<br><br>
 				<strong>Open on weeks</strong><br>
-				W6 - 31 Jul to 3 Aug<br>
-				W8 - 14 Aug (PM Only) &amp; 17 Aug<br>
-				W10 - 28 Aug to 31 Aug<br>
+				T.Break - 4 Sep, 5 Sep &amp; 7 Sep<br>
+				W1 - 11 Sep to 14 Sep<br>
+				W2 - 20 Sep &amp; 21 Sep<br>
+				W3 - 25 Sep to 27 Sep &amp; 28 Sep (after 2PM)<br>
 			Please note that this schedule is tentative and submit to change<br><br>
 			Students who requires URGENT dental treatment, please call/WhatsApp/SMS the buddy clinic (see table below) for an appointment.<br>
 				<table>
