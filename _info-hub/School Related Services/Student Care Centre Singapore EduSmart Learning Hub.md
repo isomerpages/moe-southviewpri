@@ -16,7 +16,7 @@ The initial upfront fee consists of 1 month fee, deposit of $245 and registratio
 Our full-day SCC surcharge is $3 per day.</p>
 <p><u><b>Assistance for needy families</b></u></p>
 <p>We will assist eligible parents to apply for Student Care Financial Assistance, administered by Ministry of Social and Family Development (MSF).
-Please refer to the website for SCFA eligibility criteria (https://supportgowhere.life.gov.sg/schemes/SCFA/student-care-fee-assistance-scfa)</p>
+Please refer to the <a href="https://supportgowhere.life.gov.sg/schemes/SCFA/student-care-fee-assistance-scfa" target="_blank" rel="noopener">website</a> for SCFA eligibility criteria</p>
 <p><u><b>Operating Hours (Monday to Friday)</b></u></p>
 <p>There is no change to the current operating hours, as follows:<br>
 School Term: After School to 7.00 p.m.<br>
