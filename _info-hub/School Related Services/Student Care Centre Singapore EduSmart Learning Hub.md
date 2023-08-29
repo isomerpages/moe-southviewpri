@@ -9,7 +9,7 @@ third_nav_title: School Related Services
 <p>Singapore EduSmart Learning Hub was established in 2012 to provide a structured and conducive learning environment for our students after school hours. 
 EduSmart has been providing quality care to more than 1,000 students across several Singapore schools.<br><br>
 The SCC programme includes a holistic mix of Character Development, Enrichment Activities and Outdoor Activities. There is also supervised study time to complement the school’s teaching.<br><br>
-You may find out more information by clicking this link (click here)</p>
+You may find out more information by clicking this link <a href="https://singaporeedusmart.com.sg/" target="_blank" rel="noopener"> (click here)</a></p>
 <p><u><b>Monthly SCC Fees</b></u></p>
 <p>The monthly SCC fees in 2024 is $245.<br><br>
 The initial upfront fee consists of 1 month fee, deposit of $245 and registration fee of $20.   SCC T-shirt can be purchased at $11 per piece.<br><br>
