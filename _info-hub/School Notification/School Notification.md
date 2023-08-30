@@ -42,8 +42,7 @@ third_nav_title: School Notification
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/13aD3uoR-PNO8AqlLOUFjAg2Q1gBcxHaE/view?usp=sharing" target="_blank" rel="noopener">July</a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1VNuOM5mIhTnpU1KMQKP9dd5r6hfpoOzp/view?usp=sharing" target="_blank" rel="noopener">Aug</a></td>
 </tr>
-	<tr>
-	<td style="text-align: center;">Sep</td>
+	<tr><td style="text-align: center;"><a href="https://drive.google.com/file/d/1PbbguhgRygH0rRAVL4g2BXiOPPakAi9C/view?usp=sharing" target="_blank" rel="noopener">Sep</a></td>
 <td style="text-align: center;">Oct</td>
 <td style="text-align: center;">Nov</td>
 <td style="text-align: center;">Dec</td>
