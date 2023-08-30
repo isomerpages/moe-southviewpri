@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Main.jpg
       key_highlights:
-        - title: Highlight
-          description: SVPS VIRTUAL TOUR
-          url: https://4d.silvrcraft.com/svps360/
+        - title: Announcement for school holidays
+          description: Operating Hours for GO
+          url: /announcement-for-school-holiday/
         - title: WE-STories 2023
           description: Click here for WE-STories 2023
           url: https://online.fliphtml5.com/obrr/qkde/
