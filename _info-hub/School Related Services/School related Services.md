@@ -56,7 +56,7 @@ Thursday: 8.00am to 5.00pm<br>
 Lunch: 1-2pm<br><br>
 				<strong>Open on weeks</strong><br>
 				T.Break - 4 Sep, 5 Sep &amp; 7 Sep<br>
-				W1 - 11 Sep to 14 Sep<br>
+				W1 - 12 Sep to 14 Sep<br>
 				W2 - 20 Sep &amp; 21 Sep<br>
 				W3 - 25 Sep to 27 Sep &amp; 28 Sep (after 2PM)<br>
 			Please note that this schedule is tentative and submit to change<br><br>
