@@ -12,9 +12,7 @@ description: ""
 <li>vomiting</li>
 <li>head lice</li>
 <li>communicable diseases such as chicken pox, gastric flu, hand-foot-and-mouth disease, measles, mumps, rubella</li></ul><p></p>
-<p>Children who are unwell or have had recent contact with infected persons are strongly encouraged to self-test using an Antigen Rapid Test (ART) kit.<br><br>
-Important: Children who return to kindergarten after recovering from an infectious disease but are still showing symptoms of illness (after the expiry of medical certification), will need to produce a certificate of health from the medical practitioner for the child to return to the kindergarten.<br><br>
-MK teachers will not administer medication to your child or do the ART test.<br></p>
+<p>Children who are unwell or have had recent contact with infected persons are strongly encouraged to self-test using an Antigen Rapid Test (ART) kit.</p>
 <h3><b>MK Uniform</b></h3>
 <p></p><center><img src="/images/mkuniform.png"></center><p></p>
 <h3><b>Purchasing of MK Uniforms</b></h3>

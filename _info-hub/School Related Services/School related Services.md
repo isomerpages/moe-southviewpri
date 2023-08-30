@@ -1,8 +1,8 @@
 ---
 title: School related Services
-permalink: /info-hub/school-related-services/
+permalink: /info-hub/school-related-services/school-related-services/
 description: ""
-third_nav_title: P1 Transition Programme
+third_nav_title: School Related Services
 ---
 <p><strong>2023 SOUTH VIEW PRIMARY SCHOOL - BOOKLISTS<br></strong>
 </p><p>Click <a href="https://drive.google.com/drive/folders/1_1_PtgMeYOOM88YUF2ZLdlIpQKrnsqUS?usp=sharing" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://drive.google.com/drive/folders/1LeB7Ei8TdtX3-V8zEaUYPr3Ul_7B3ohD?usp%3Dsharing&amp;source=gmail&amp;ust=1608183411061000&amp;usg=AFQjCNEpY_R1CdyaBKCojI4RtVLbQT87Bg">here</a> to access and download 2023 Booklists from Primary 1 to Primary 6</p>
