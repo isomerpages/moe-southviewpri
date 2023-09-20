@@ -20,26 +20,34 @@ CCE MT teachers use cultural stories, songs, idioms, and proverbs unique to each
 	<li>National Day</li>
 	<li>P3-P6 NE Learning Journeys</li></ul><p></p>
 <p>The four NE Commemorative Days (Total Defence Day, International Friendship Day, Racial Harmony Day, and National Day) are an important part of students’ learning experiences on being active citizens in school and nation. Through these NE commemorative days, students learn important lessons from significant moments in Singapore history, understand the importance of our nation’s friendship ties with other countries, and reflect on they can apply their learning and contribute as active citizens.</p>
+<img src="/images/charce1.jpg">
 <p><b>P3 National Education (NE) Learning Journey</b></p>
 <p>The P3 students went on a farm tour at Kok Fah Technology Farm. During the tour, they got an idea of what vertical farming was and its benefits. They were also introduced to the variety of produce that the farm harvest for local consumption.<br><br>
 	This trip aims to provide opportunities for the students to understand the limited land use in Singapore and how it manages its resources to meet the needs of the country in future. It also encourages all students to reflect on and improve their daily practices so that they can play their part for the environment.</p>
+	<img src="/images/charce2.jpg">
 <p><b>P4 National Education (NE) Learning Journey</b></p>
 <p>The P4 students went on a walking tour at Little India, one of Singapore’s most colourful historical districts. The tour consisted of pits stops at wall murals which depicted the lives of the community living there: past and present, stalls selling traditional Indian snacks and crafts. The post-trip activity of flower garland-making also allowed students to experience this unique vanishing trade.<br><br>
 From this trip, students were able to gain a better understanding the history, culture and traditions of the local Indian community and how life in Singapore today is shaped by its past.</p>
+<img src="/images/charce3.jpg">
 <p><b>P5 National Education (NE) Learning Journey</b></p>
 <p>The P5 students had the chance to visit one of the oldest urban quarters in Singapore. Kampong Glam. This district dates to the colonial era where the area was allocated to the Malay, Arab and Bugis communities. The walking tour consisted of famous landmarks such as the Sultans’ Mosque and the Madrasah Alsagoff.<br><br>
 Having gained a better insight to the history, heritage and contributions of the Malay community, students were able to see how the different influences from diverse cultures have shaped Singapore’s multicultural heritage.</p>
+<img src="/images/charce4.jpg">
 <p><b>P6 National Education (NE) Learning Journey</b></p>
 <p>The P6 students will be visiting the Asian Civilisations Museum (ACM) as their post-PSLE activity. The museum is housed in a historical building by the Singapore River, it tells its stories through its permanent collections.<br><br>
 The museum guide will walk the students through this multi-sensory learning experience which include storytelling, close observation of artefacts and questions to ignite the critical thinking skills in students.<br><br>
 The objective of this visit is to deepen the students’ understanding and appreciation of the cultural heritage of different parts of Asia and what present-day societies have inherited from the civilisations of the past.</p>
+<img src="/images/charce5.jpg">
 <p><b>2. Values in Education (VIA)</b></p>
 <p>Values in Action (VIA) are experiences that support students’ development as socially responsible citizens who contribute meaningfully to the community, through the learning and application of knowledge, skills, and values. VIA fosters student ownership over how they can serve and contribute to the school and community.<br><br>
 Through VIA programmes such as VIA in CNY, Singapore World Water Day (SWWD) exercise, Clean as We Go and Spring Cleaning, students get to learn and demonstrate values through hands on activities. Students reflect on their experiences, and how they can continue to contribute to the school and community meaningfully.</p>
+<img src="/images/charce6.jpg">
 <p><b>3. Cyber Wellness (CW)</b></p>
 <p>Cyber Wellness focuses on the well-being of our students as they navigate the cyberspace. Through Cyber Wellness talks, level programmes and recess activities, the school aims to equip students with the knowledge, skills, and values to maintain a positive presence in cyberspace and learn to become responsible digital learners.</p>
+<img src="/images/charce7.jpg">
 <p><b>4. Education and Career Guidance (ECG)</b></p>
 <p>Through the ECG Buzz and level programmes, students are exposed to different categories of careers to cater to their diverse strengths, interests, and passions. Students will learn about the knowledge, skills and values required of selected careers. They also learn to appreciate the value of the different careers and how they contribute to the functioning of the society meaningfully. Students also get to explore the MySkillsFuture portal to discover more about themselves, explore various education and career options and be inspired to think about their future. During P6 Honouring Career Day, students visit actual workplaces to gain knowledge and hands on work experiences of their preferred careers.</p>
+<img src="/images/charce8.jpg">
 <p><b>5. Growing Through Stories (GTS)</b></p>
 <p>As part of the school based CCE curriculum, Growing through Stories (GTS) lessons aim to teach school values, develop growth mindset and encourage intrinsic motivation through stories. Stories can emotionally connect with students. Lessons are conducted during CCE FTGP lessons. Growth mindset messages are printed in student diaries to encourage them to demonstrate growth mindset and school values.</p>
 <p><b>6. Contemporary Issues (CI)</b></p>
