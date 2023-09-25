@@ -702,8 +702,8 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">SEN Officer</td>
-<td style="text-align: center;">Ms Shidy Shariana Bte Mohamed Ishak</td>
-<td style="text-align: center;">shidy_shariana@moe.edu.sg</td>
+<td style="text-align: center;">Ms Shidy Shariani Bte Mohamed Ishak</td>
+<td style="text-align: center;">shidy_shariani@moe.edu.sg</td>
 </tr>
 </tbody>
 </table>
