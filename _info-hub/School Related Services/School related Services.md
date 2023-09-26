@@ -53,8 +53,8 @@ Email: sales@khuniform.com<br>
 The school Dental clinic will be operating on alternate weeks commencing from 3 Jan 2023<br><br>
 Monday to Wednesday: 8.00am to 5.30pm<br>
 Thursday: 8.00am to 5.00pm<br>
-Lunch: 1-2pm<br>
-				<a href="https://drive.google.com/file/d/14yctIJhg6MkdjLnvuwJm_raSBJXQyRRI/view?usp=sharing" target="_blank" rel="noopener">"Dental Schedule"</a><br>
+Lunch: 1-2pm<br><br>
+				<a href="https://drive.google.com/file/d/14yctIJhg6MkdjLnvuwJm_raSBJXQyRRI/view?usp=sharing" target="_blank" rel="noopener">"Dental Schedule"</a><br><br>
 Students who requires URGENT dental treatment, please call/WhatsApp/SMS the buddy clinic (see table below) for an appointment.<br>
 				<table>
 					<tbody>
