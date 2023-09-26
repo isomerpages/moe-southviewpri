@@ -4,9 +4,8 @@ permalink: /departments/student-development/p1-transition-programme/students-wit
 description: ""
 third_nav_title: P1 Transition Programme
 ---
-
-<p>Our school has a Case Management Team (CMT) to look after students with special needs. To help us better understand and support your child, please email us at the email addresses below:</p>
+<p>Our school has a Case Management Team (CMT) to look after students with special educational needs. To help us better understand and support your child, please email us at the email addresses below:</p>
 <ul>
-<li>noor_azlinah_abdul_aziz@moe.edu.sg</li>
-<li>waheeda_mohamed_ibrahim@moe.edu.sg</li>
+<li>noor_azlinah_abdul_aziz@schools.gov.sg</li>
+<li>du_hui_jun_jane@schools.gov.sg</li>
 </ul>
