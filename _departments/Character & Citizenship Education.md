@@ -24,7 +24,7 @@ CCE MT teachers use cultural stories, songs, idioms, and proverbs unique to each
 <p><b>P3 National Education (NE) Learning Journey</b></p>
 <p>The P3 students went on a farm tour at Kok Fah Technology Farm. During the tour, they got an idea of what vertical farming was and its benefits. They were also introduced to the variety of produce that the farm harvest for local consumption.<br><br>
 	This trip aims to provide opportunities for the students to understand the limited land use in Singapore and how it manages its resources to meet the needs of the country in future. It also encourages all students to reflect on and improve their daily practices so that they can play their part for the environment.</p>
-	<img src="/images/charce2.jpg">
+	<img style="width: 99%;" src="/images/charce2.jpg">
 <p><b>P4 National Education (NE) Learning Journey</b></p>
 <p>The P4 students went on a walking tour at Little India, one of Singapore’s most colourful historical districts. The tour consisted of pits stops at wall murals which depicted the lives of the community living there: past and present, stalls selling traditional Indian snacks and crafts. The post-trip activity of flower garland-making also allowed students to experience this unique vanishing trade.<br><br>
 From this trip, students were able to gain a better understanding the history, culture and traditions of the local Indian community and how life in Singapore today is shaped by its past.</p>
