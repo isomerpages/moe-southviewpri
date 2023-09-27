@@ -15,13 +15,14 @@ description: ""
 </th>
 <th style="text-align: center;">
 <strong>Requirements</strong>
-</th></tr>
+</th>
+		</tr>
 <tr>
-<td style="text-align: center;">Chinese Mixed  Rice (non-halal)
+	<td style="text-align: center;">
 	</td>
-<td style="text-align: center;">10-Aug-23
+<td style="text-align: center;">
 	</td>
-	<td style="text-align: center;">Mixed rice set meals with veggies with meat, fruit, Hor Fun dish are acceptable. Dishes must follows Health Promotion Board Healthy Meals Guidelines. Set Meal consist of veggies or meat. Fruit is reuired mandatory for all set meals
+	<td style="text-align: center;">
 </td>
 </tr>
 		<tr>
