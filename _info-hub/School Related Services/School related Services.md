@@ -50,17 +50,11 @@ Email: sales@khuniform.com<br>
 		<tr>
 			<td>Dental Therapists: Ms Safura Ja'afar</td>
 			<td>Operating hours in SVPS<br><br>
-The school Dental clinic will be operating on alternate weeks commencing from 3 Jan 2023<br><br>
 Monday to Wednesday: 8.00am to 5.30pm<br>
 Thursday: 8.00am to 5.00pm<br>
-Lunch: 1-2pm<br><br>
-				<strong>Open on weeks</strong><br>
-				T.Break - 4 Sep, 5 Sep &amp; 7 Sep<br>
-				W1 - 12 Sep to 14 Sep<br>
-				W2 - 20 Sep &amp; 21 Sep<br>
-				W3 - 25 Sep to 27 Sep &amp; 28 Sep (after 2PM)<br>
-			Please note that this schedule is tentative and submit to change<br><br>
-			Students who requires URGENT dental treatment, please call/WhatsApp/SMS the buddy clinic (see table below) for an appointment.<br>
+				Lunch: 1-2pm<br><br>
+				<a href="https://drive.google.com/file/d/14yctIJhg6MkdjLnvuwJm_raSBJXQyRRI/view?usp=sharing" target="_blank" rel="noopener">"Dental Schedule"</a><br><br>
+Students who requires URGENT dental treatment, please call/WhatsApp/SMS the buddy clinic (see table below) for an appointment.<br>
 				<table>
 					<tbody>
 						<tr>
