@@ -6,7 +6,7 @@ third_nav_title: Parents Association
 ---
 <h4>Reasons to join SVPA</h4>
 <h4><a href="https://drive.google.com/file/d/13AfdHnjymsdb1qOWNAA2Q950EnYE9z9D/view?usp=sharing" target="_blank" rel="noopener">Click here to see what we do!</a></h4>
-<p><strong>For P1 parents, kindly download the cover letter&nbsp;<a href="https://drive.google.com/file/d/1oA-3rg_ZbbRTks7PyNAvv0220utznPBL/view?usp=sharing" target="_blank" rel="noopener">here</a></strong></p>
+<p><strong>For P1 parents, kindly download the cover letter&nbsp;<a href="https://drive.google.com/file/d/1ErzTZUUCfpQmkcIp81pLvBKIpj9m9oVU/view?usp=sharing" target="_blank" rel="noopener">here</a></strong></p>
 <p>South View Primary School Parents Association (SVPA) partners with the school to initiate and organise an exciting array of activities and events for parents and children. We stay united and committed to work with the school in bringing the best out of our child(ren).</p>
 <p>1. Acting as a voice for parents</p>
 <ul>
@@ -30,9 +30,9 @@ third_nav_title: Parents Association
 <li>Communicate high, yet reasonable, expectations of their child's achievement and future career and</li>
 <li>Become involved in their child's education at school and in the community.</li>
 </ul>
-<p>As a SVPA member, you will be entitled to the following benefits and exclusive access to:<br />1. WhatsApp class group chats (P1-P2) to share information with other parents<br />2. SVPA-organised workshops, seminars, parenting programmes, dialogue sessions with school<br />3. Advanced notice to parent-volunteer opportunities for school activities (Children's Day, Teacher&rsquo;s Day etc)<br />4. Information of practical online parenting or child workshops for signup<br />5. Opportunities to collaborate &amp; contribute expertise, aligning with school's vision and mission<br />6. SVPA interest/support groups</p>
+<p>As a SVPA member, you will be entitled to the following benefits and exclusive access to:<br>1. WhatsApp class group chats (P1-P2) to share information with other parents<br>2. SVPA-organised workshops, seminars, parenting programmes, dialogue sessions with school<br>3. Advanced notice to parent-volunteer opportunities for school activities (Children's Day, Teacher’s Day etc)<br>4. Information of practical online parenting or child workshops for signup<br>5. Opportunities to collaborate &amp; contribute expertise, aligning with school's vision and mission<br>6. SVPA interest/support groups</p>
 <h4><strong>How to be a SVPA member?</strong></h4>
-<p>It's easy! Simply complete the online application form (<a href="https://bit.ly/32WDOLE" target="">https://bit.ly/32WDOLE</a>) and submit a payment of SGD30.00 (New Signup for 6 years) via PAYNOW.<br /><br />Application Form QR Code</p>
+<p>It's easy! Simply complete the online application form (<a href="https://bit.ly/32WDOLE" target="">https://bit.ly/32WDOLE</a>) and submit a payment of SGD30.00 (New Signup for 6 years) via PAYNOW.<br><br>Application Form QR Code</p>
 <img style="width: 33%;" src="/images/qr1.png">
 <p>PayNow QR Code (Scan using your respective banking apps)</p>
 <img style="width: 33%;" src="/images/qr2.png">
@@ -54,5 +54,5 @@ third_nav_title: Parents Association
 <li>Youngest child studying in Primary 5 - S$10.00</li>
 <li>Youngest child studying in Primary 6 - S$5.00</li>
 </ul>
-<p>EXAMPLE HOW THE FEE STRUCTURE WORKS:<br />Existing SVPA member based on &ldquo;Eldest Child&rdquo; record:<br />Eldest child studying in Primary 4 in 2022 (Paid $30 from year 2019 to year 2024 for 6 years)<br />Youngest child studying in Primary 1 in 2022. <br />The renewal membership fee will be $15 which means you will be a SVPA member till 2027. (until your youngest child leaves school)<br />&lt; *$5 per year continuning year 2025 to 2027 based on your youngest child&gt;</p>
+<p>EXAMPLE HOW THE FEE STRUCTURE WORKS:<br>Existing SVPA member based on “Eldest Child” record:<br>Eldest child studying in Primary 4 in 2022 (Paid $30 from year 2019 to year 2024 for 6 years)<br>Youngest child studying in Primary 1 in 2022. <br>The renewal membership fee will be $15 which means you will be a SVPA member till 2027. (until your youngest child leaves school)<br>&lt; *$5 per year continuning year 2025 to 2027 based on your youngest child&gt;</p>
 <p>Page last updated on: 15 November 2021</p>
