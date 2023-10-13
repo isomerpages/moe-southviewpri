@@ -8,7 +8,7 @@ third_nav_title: School Related Services
 </p><p>Click <a href="https://drive.google.com/drive/folders/1_1_PtgMeYOOM88YUF2ZLdlIpQKrnsqUS?usp=sharing" target="_blank" rel="noopener">here</a> to access and download 2023 Booklists from Primary 1 to Primary 6</p>
 <p><strong>2024 SOUTH VIEW PRIMARY SCHOOL - BOOKLISTS &amp; UNIFORM<br></strong>
 </p>
-<p>Click <a href="https://drive.google.com/file/d/1T7lBfa0bXnZBoiNF0SUxD3vneVZWwVHK/view?usp=sharing" target="_blank" rel="noopener">here</a> to access and download 2024 Booklists from Primary 1</p>
+<p>Click <a href="https://drive.google.com/file/d/1T7lBfa0bXnZBoiNF0SUxD3vneVZWwVHK/view?usp=sharing" target="_blank" rel="noopener">here</a> to access and download 2024 Booklists for Primary 1</p>
 <p>Click <a href="https://drive.google.com/file/d/1ROuaCIceYqIsFdNw1dFwCV_aS_Vnk7j7/view?usp=sharing" target="_blank" rel="noopener">here</a> to access and download 2024 Uniform</p>
 <br>
 <p><strong>LIST OF SCHOOL VENDORS<br></strong>
