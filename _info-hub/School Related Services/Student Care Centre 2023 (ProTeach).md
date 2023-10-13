@@ -4,7 +4,7 @@ permalink: /info-hub/school-related-services/student-care-centre-proteach/
 description: ""
 third_nav_title: School Related Services
 ---
-<p>The school’s school-based Student Care Centre (SCC), managed by Pro-Teach, seeks to provide an integral platform of support for students in the school who need a structured and supportive environment after school hours.</p>
+<p>The school’s School-based Student Care (SSC), managed by Pro-Teach, seeks to provide an integral platform of support for students in the school who need a structured and supportive environment after school hours.</p>
 <p><u><strong>About Pro-Teach</strong></u></p>
 <p>Pro-Teach began operations in 1998, providing quality student care and education for children between the ages of 7 to 12 years old. We aim to provide children of South View Primary School with a diverse education in an environment that promotes self-discipline, character development and excellence in learning. We have 37 branches nationwide including 15 centres based in schools.</p>
 <p>At Pro-Teach, we awaken possibilities through nurturing cognitive growth, emotional wisdom and physical wellness. We ensure that our students are constantly stimulated, interested and growing. Our students are provided with a curriculum that not only offers a breadth of academic experience across a variety of significant areas, it also incorporates social, physical, emotional and moral development as we believe these elements are integral to a holistic education.</p>
