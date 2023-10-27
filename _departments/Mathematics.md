@@ -3,7 +3,6 @@ title: Mathematics
 permalink: /departments/mathematics/
 description: ""
 ---
-<img src="/images/math1.jpg">
 <p>Our Mathematics programmes aims to:</p>
 <li>Introduce students to concepts, skills and thinking strategies that are essential in everyday life and support learning across the curriculum
 </li><li>Help students make sense of the numbers, patterns and shapes they see in the world around them, offers ways of handling data in an increasingly digital world 
