@@ -3,7 +3,6 @@ title: Student Development
 permalink: /student-development/
 description: ""
 ---
-<img src="/images/sd1.jpg">
 <p><u><strong>Student Development Team</strong></u></p>
 <p>The Student Development Team aims to promote a whole school approach to ensure the well-being of all students. We also promote positive school experiences for students and provide support and intervention. Through our programmes, we hope to motivate students to be confident, passionate learners with a heart to serve.</p>
 <p><u><strong>Our Key Programmes</strong></u></p>
@@ -35,5 +34,5 @@ description: ""
 			</tr>
 </tbody>
 	</table>
-<p>For more details on the programmes, please click on the links.<br />
+<p>For more details on the programmes, please click on the links.<br>
 Page last updated: 6 February 2023</p>
