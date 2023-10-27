@@ -4,8 +4,6 @@ permalink: /departments/curriculum-innovation-n-educational-technology/
 description: ""
 third_nav_title: CIET
 ---
-<img src="/images/CIET.jpg">
-
 <p>The Curriculum, Innovation and Educational Technology (CIET) Department aims to enhance the learning experiences in school through a learner-centred approach and the use of technology.</p>
 
 <p>We work closely with the different stakeholders to empower students and prepare them for the future by supporting the use of technology:</p>
@@ -17,9 +15,9 @@ third_nav_title: CIET
 * To ensure learning continues seamlessly in different learning contexts (physical or digital)
 
 <strong><u>Key Programmes/Platforms</u></strong>
-<br/>
+<br>
 
-| Programmes/Platforms | Description | Time Frame & Target Audience |
+| Programmes/Platforms | Description | Time Frame &amp; Target Audience |
 |----------|---------|---------|
 | (ALP) Sustaining Gaia |  The different level programmes progressively develops students from having awareness of environmental issues to demonstrating advocacy towards environmental issues through project work.| P1 - P6, curriculum time|
 | Tink!SV | A learning space equipped with resources to allow students to hone their creative and problem-solving skills by participating in STEM activities and completing their ALP projects on sustainability. | P1 - P6, during recess|
