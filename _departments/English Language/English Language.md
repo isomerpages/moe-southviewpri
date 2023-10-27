@@ -4,10 +4,9 @@ permalink: /departments/english-language/
 description: ""
 third_nav_title: English Language
 ---
-<img src="/images/el1.jpg">
 <p>The English Language programmes aim to nurture positive learning dispositions, skills and attitudes in our Southviens.</p>
 <p>We are preparing them to:</p>
-<li>Communicate effectively to different audience, for different purposes and in different contexts<br><li>Cultivate an open mind to multiple perspectives consciously and process information critically<br><li>Make a positive impact in their community with what they have learnt<br/>
+<li>Communicate effectively to different audience, for different purposes and in different contexts<br></li><li>Cultivate an open mind to multiple perspectives consciously and process information critically<br></li><li>Make a positive impact in their community with what they have learnt<br>
 <p><strong><u>Our Key Programmes</u></strong></p>
 <table>
 <tbody>
@@ -122,4 +121,4 @@ Primary 1 - 4
 	</table>
 <img src="/images/el2.jpg" style="width: 50%">
 
-<p>Page last updated: 17 Jan 2023</p>
+<p>Page last updated: 17 Jan 2023</p></li>
