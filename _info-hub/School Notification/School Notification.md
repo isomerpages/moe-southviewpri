@@ -32,27 +32,21 @@ variant: markdown
 <th style="text-align: center;"></th>
 </tr>
 <tr>
-<td style="text-align: center;">N.A.</td>
-<td style="text-align: center;">N.A.</td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1dMsDNeDEjSH2KcLJrSZlxHvzyySnPl8O/view?usp=sharing" target="_blank" rel="noopener">Mar</a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1IONuFpxGe6Vn5x6ED0dhoWCyLfdwrQVs/view?usp=sharing" target="_blank" rel="noopener">Apr</a></td>
-</tr>
-<tr>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1lKZrAmMfbobuoqOt66niP3RymsVsY3N8/view?usp=sharing" target="_blank" rel="noopener">May-Jun</a></td>
+	<td style="text-align: center;"><a href="https://drive.google.com/file/d/1lKZrAmMfbobuoqOt66niP3RymsVsY3N8/view?usp=sharing" target="_blank" rel="noopener">May-Jun</a></td>
 <td style="text-align: center;">N.A.</td>
+</tr><tr>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/13aD3uoR-PNO8AqlLOUFjAg2Q1gBcxHaE/view?usp=sharing" target="_blank" rel="noopener">July</a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1VNuOM5mIhTnpU1KMQKP9dd5r6hfpoOzp/view?usp=sharing" target="_blank" rel="noopener">Aug</a></td>
-</tr>
-	<tr><td style="text-align: center;"><a href="https://drive.google.com/file/d/1PbbguhgRygH0rRAVL4g2BXiOPPakAi9C/view?usp=sharing" target="_blank" rel="noopener">Sep</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1PbbguhgRygH0rRAVL4g2BXiOPPakAi9C/view?usp=sharing" target="_blank" rel="noopener">Sep</a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1fIivh93d45Gj8UCLNOjsA5DPVuGX7c8G/view?usp=sharing" target="_blank" rel="noopener">Oct</a></td>
-<td style="text-align: center;">1st Nov</td>
+</tr><tr>
+	<td style="text-align: center;">1st Nov</td>
 <td style="text-align: center;">14th Nov</td>
-</tr>
-		<tr><td style="text-align: center;">Dec</td>
-			<td style="text-align: center;">N.A.</td>
+<td style="text-align: center;">Dec</td>
 <td style="text-align: center;">N.A.</td>
-<td style="text-align: center;">N.A.</td>
-</tr>
+	</tr>
 </tbody>
 </table>
 <p>N.A. : No notification for the month.</p>
