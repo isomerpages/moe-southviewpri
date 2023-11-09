@@ -3,7 +3,6 @@ title: Character & Citizenship Education
 permalink: /departments/character-n-citizenship-education/
 description: ""
 ---
-<img src="/images/CCE.jpg">
 <p><strong>Character and Citizenship Department</strong></p>
 <p>The Character &amp; Citizenship Education (CCE) Department aims to inculcate values and build social emotional competencies in students to develop them to be good individuals and useful citizens. Our students have the opportunities to participate in various CCE lessons and programmes and equip themselves with the knowledge and skills required to make sense of their own identities, form positive relationships with others and learn to make good choices.</p>
 <p><strong><u>CCE Curriculum</u></strong></p>

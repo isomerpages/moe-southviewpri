@@ -3,7 +3,6 @@ title: Mother Tongue Languages
 permalink: /departments/mother-tongue-languages/
 description: ""
 ---
-<img src="/images/MT.jpg">
 <p><strong><u>Our Key Programmes</u></strong></p>
 <p><strong><u>Chinese Department</u></strong></p>
 <table>

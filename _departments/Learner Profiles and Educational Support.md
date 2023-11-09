@@ -3,8 +3,6 @@ title: Learner Profiles and Educational Support
 permalink: /departments/learner-profiles-and-educational-support/
 description: ""
 ---
-
-<img src="/images/lpes1.jpg">
 <p>The Learner Profiles and Educational Support Department aims to complement existing school-based efforts by enhancing the coordination and communication between the different stakeholders through customised programme interventions to strengthen high needs students’ and high progress learners’ educational and developmental outcomes.</p>
 <img src="/images/LPES PC.jpg">
 <p><strong><u>Our key programmes</u></strong></p>
@@ -26,7 +24,7 @@ description: ""
 </tr>
 <tr>
 <td width="186">
-<p>Learning Support Programme (LSP) & Learning Support for Mathematics (LSM)</p>
+<p>Learning Support Programme (LSP) &amp; Learning Support for Mathematics (LSM)</p>
 </td>
 <td width="300">
 <ul>
@@ -34,7 +32,7 @@ description: ""
 </ul>
 </td>
 <td style="text-align: center;" width="84">
-<p>P1 & P2</p>
+<p>P1 &amp; P2</p>
 </td>
 <td style="text-align: center;" width="96">
 <p>Whole year</p>
@@ -42,7 +40,7 @@ description: ""
 </tr>
 <tr>
 <td width="186">
-<p>School-based Dyslexia Remediation Programme (SDR) & Reading Remediation Programme (RRP)</p>
+<p>School-based Dyslexia Remediation Programme (SDR) &amp; Reading Remediation Programme (RRP)</p>
 </td>
 <td width="300">
 <ul>
@@ -50,7 +48,7 @@ description: ""
 </ul>
 </td>
 <td style="text-align: center;" width="84">
-<p>P3 & P4</p>
+<p>P3 &amp; P4</p>
 </td>
 <td style="text-align: center;" width="96">
 <p>Whole year</p>
@@ -110,7 +108,7 @@ description: ""
 </td>
 <td width="300">
 <ul>
-<li>Extends students&#39; learning beyond the curriculum coverage and nurtures 21st century competencies such as critical and inventive thinking and effective communication skills for students who demonstrate passion, interest and ability in English Language, Chinese Language, Mathematics or Science</li>
+<li>Extends students' learning beyond the curriculum coverage and nurtures 21st century competencies such as critical and inventive thinking and effective communication skills for students who demonstrate passion, interest and ability in English Language, Chinese Language, Mathematics or Science</li>
 </ul>
 </td>
 <td style="text-align: center;" width="84">

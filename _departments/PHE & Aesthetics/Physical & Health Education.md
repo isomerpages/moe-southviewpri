@@ -4,11 +4,6 @@ permalink: /departments/phe-n-aesthetics/
 description: ""
 third_nav_title: PHE & Aesthetics
 ---
-
-
-
-
-<p><img style="width: 100%;" src="/images/pe1.jpg" /></p>
 <p><strong><u>Our Key Programmes (PHE)</u></strong></p>
 <table style="width: 666px;">
 <tbody>
@@ -28,7 +23,7 @@ third_nav_title: PHE & Aesthetics
 <p>GastroChef with A Cultural Twist</p>
 </td>
 <td style="text-align: center; width: 391.594px;">
-<p style="text-align: left;">GastroChef with A Cultural Twist aims to provide students with real-life experiences to learn basic culinary skills, develop character & values through teamwork. Through the programme, students will be exposed to differences in culture and develop cultural awareness in today’s global environment.</p>
+<p style="text-align: left;">GastroChef with A Cultural Twist aims to provide students with real-life experiences to learn basic culinary skills, develop character &amp; values through teamwork. Through the programme, students will be exposed to differences in culture and develop cultural awareness in today’s global environment.</p>
 <p>PHF plays an important role by providing students significant
 nutritional information and food safety lessons, as they learn
 about making wise food choices for a lifetime of good health.</p>
@@ -40,7 +35,7 @@ about making wise food choices for a lifetime of good health.</p>
 <tr>
 <td style="text-align: center; width: 656px;" colspan="3">
 <p><strong><u>GastroChef with A Cultural Twist</u></strong><u></u></p>
-<img style="width: 100%;" src="/images/pe2.jpg" />
+<img style="width: 100%;" src="/images/pe2.jpg">
 </td>
 </tr>
 <tr>
@@ -58,7 +53,7 @@ about making wise food choices for a lifetime of good health.</p>
 <tr>
 <td style="width: 656px;" colspan="3">
 <p style="text-align: center;"><strong><u>Primary 5 Cohort Camp</u></strong></p>
-<img src="/images/PHE2.jpg"/>
+<img src="/images/PHE2.jpg">
 </td>
 </tr>
 <tr>

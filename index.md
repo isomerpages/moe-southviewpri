@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/Main.jpg
       key_highlights:
-        - title: Highlights
-          description: School Virtual Tour
-          url: https://4d.silvrcraft.com/svps360/
         - title: WE-STories 2023
           description: Click here for WE-STories 2023
           url: https://online.fliphtml5.com/obrr/qkde/#p=1
