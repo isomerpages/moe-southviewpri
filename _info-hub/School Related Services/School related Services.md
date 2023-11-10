@@ -3,6 +3,7 @@ title: School related Services
 permalink: /info-hub/school-related-services/school-related-services/
 description: ""
 third_nav_title: School Related Services
+variant: markdown
 ---
 <p><strong>2023 SOUTH VIEW PRIMARY SCHOOL - BOOKLISTS<br></strong>
 </p><p>Click <a href="https://drive.google.com/drive/folders/1_1_PtgMeYOOM88YUF2ZLdlIpQKrnsqUS?usp=sharing" target="_blank" rel="noopener">here</a> to access and download 2023 Booklists from Primary 1 to Primary 6</p>
@@ -55,31 +56,15 @@ Email: sales@khuniform.com<br>
 		<tr>
 			<td>Dental Therapists: Ms Safura Ja'afar</td>
 			<td>Operating hours in SVPS<br><br>
-Monday to Wednesday: 8.00am to 5.30pm<br>
-Thursday: 8.00am to 5.00pm<br>
+Monday, Wednesday and Friday: 8 am to 5.00pm<br>
+Tuesday and Thursday : 8 am to 5.30pm<br>
 				Lunch: 1-2pm<br><br>
 				<a href="https://drive.google.com/file/d/14yctIJhg6MkdjLnvuwJm_raSBJXQyRRI/view?usp=sharing" target="_blank" rel="noopener">"Dental Schedule"</a><br><br>
-Students who requires URGENT dental treatment, please call/WhatsApp/SMS the buddy clinic (see table below) for an appointment.<br>
-				<table>
-					<tbody>
-						<tr>
-							<th>Dental Clinic</th>
-							<th>Telephone</th>
-						</tr>
-							<tr>
-							<td>Yew Tee Primary Dental Clinic</td>
-							<td>9115 9835</td>
-						</tr>
-					</tbody>
-				</table>
-In the event of dental emergencies such as trauma (broken tooth/knocked out), facial/gum swelling or severe toothache please contact 
-School dental centre via email: Contact_YPS@hpb.gov.sg
-<br>
+In the event of dental emergencies such as trauma (broken tooth/knocked out), facial/gum swelling or severe toothache please contact School dental centre via email: <a href="mailto:Contact_YPS@hpb.gov.sg" target="_blank" rel="noopener">"Contact_YPS@hpb.gov.sg"</a><br>
 			</td>
 	<td>Telephone number:<br>
 		9115 6994<br>(South View Primary)<br>
-			9114 1358<br>(Beacon Primary)</td>
-		</tr>
+		</td></tr>
 	</tbody>
 	</table>
 </p><p><u><strong>Canteen<br></strong></u>In line with guidelines from MOE, the canteen stalls in the school will be only be selling set meals with one or two fixed items at a fixed price during recess and meal times. This will help in reducing wait time as well as relief congestion at the stalls. The menu for each stall please click&nbsp;<a href="https://drive.google.com/file/d/1B1LEG8gbvFc6DDp9R5QvH1gl93JYL9jz/view" target="_blank" rel="noopener">"Here"</a></p>
