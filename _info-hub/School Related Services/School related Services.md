@@ -56,6 +56,7 @@ Email: sales@khuniform.com<br>
 		<tr>
 			<td>Dental Therapists: Ms Safura Ja'afar</td>
 			<td>Operating hours in SVPS<br><br>
+				<u>South View Primary Dental Clinic Operations during year-end school holidays</u><br>
 Monday, Wednesday and Friday: 8 am to 5.00pm<br>
 Tuesday and Thursday : 8 am to 5.30pm<br>
 				Lunch: 1-2pm<br><br>
