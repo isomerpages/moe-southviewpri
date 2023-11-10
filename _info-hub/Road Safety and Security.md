@@ -2,8 +2,9 @@
 title: Road Safety and Security
 permalink: /info-hub/road-safety-and-security/
 description: ""
+variant: markdown
 ---
-<p><u><strong>Safety<br /></strong></u><u></u>Our pupils&rsquo; safety is the highest priority and your cooperation is important to ensure the safety of our pupils and staff. We would like to remind parents on the following safety matters:</p>
+<p><u><strong>Safety<br></strong></u><u></u>Our pupils’ safety is the highest priority and your cooperation is important to ensure the safety of our pupils and staff. We would like to remind parents on the following safety matters:</p>
 <p><strong><u>Visitors/Parents/Guardians Entering School Compound</u></strong></p>
 <ul>
 <li>All entry to school,&nbsp;<strong>strictly via&nbsp;appointment&nbsp;only.</strong></li>
@@ -16,14 +17,14 @@ description: ""
 <p><strong><u>Arrival and Dismissal</u></strong></p>
 <p><strong>Driving into school to drop off children:</strong></p>
 <ul>
-<li>To reduce the multiple conflicting movements between motorists and pedestrians at the school&rsquo;s ingress and improve the traffic movement along Choa Chu Kang Central, we would like to seek parents&rsquo; and guardians&rsquo; co-operation to only make left-turn from Choa Chu Kang Central into the school&rsquo;s main entrance for drop-off activity within the school compound between&nbsp;<strong>0630hrs to 0730hrs</strong>&nbsp;(see&nbsp;<a href="https://drive.google.com/file/d/1t_NtoJ3bMo8IxbUdWkObpp0p390R5piB/view?usp=sharing" target="_blank" rel="noopener">LINK</a>). Parents/guardians driving their children/ward to school are encouraged to enter Choa Chu Kang Central via the junction of Choa Chu Kang Avenue 3/ Choa Chu Kang Central and exit via the junction of Choa Chu Kang Avenue 1/ Choa Chu Kang Central. In the event you are unable to use the recommended route, please do consider making use of the school side gates for drop off activities (see Figure 2). We strongly urge parents/guardians to plan your travel route accordingly beforehand.</li>
+<li>To reduce the multiple conflicting movements between motorists and pedestrians at the school’s ingress and improve the traffic movement along Choa Chu Kang Central, we would like to seek parents’ and guardians’ co-operation to only make left-turn from Choa Chu Kang Central into the school’s main entrance for drop-off activity within the school compound between&nbsp;<strong>0630hrs to 0730hrs</strong>&nbsp;(see&nbsp;<a href="https://drive.google.com/file/d/1t_NtoJ3bMo8IxbUdWkObpp0p390R5piB/view?usp=sharing" target="_blank" rel="noopener">LINK</a>). Parents/guardians driving their children/ward to school are encouraged to enter Choa Chu Kang Central via the junction of Choa Chu Kang Avenue 3/ Choa Chu Kang Central and exit via the junction of Choa Chu Kang Avenue 1/ Choa Chu Kang Central. In the event you are unable to use the recommended route, please do consider making use of the school side gates for drop off activities (see Figure 2). We strongly urge parents/guardians to plan your travel route accordingly beforehand.</li>
 <li>School buses will drop off our pupils at the transport hub instead of the foyer. This will allow parents to drive into the school&nbsp;<strong><u>from 6.30 am onwards</u></strong>.</li>
 <li>Even with the above arrangement, we expect some congestion between 7.00 am and 7.15 am. We would like to appeal to parents to be patient while waiting to drop off their children. Please DO NOT overtake the vehicle in front of you while in the school compound. We have had a few near miss accidents due to impatient parents overtaking and cutting into paths of other vehicles.</li>
 <li>Please refrain from taking too long to drop off your children too. We had observed parents changing seats, getting down from their vehicles to carry the bags for their children and giving pocket money, water bottle etc to their children while the rest of the vehicles are waiting behind to drop off their children. If you must get down from your vehicle, please park your car in the nearby HDB parking lots outside the school and walk your child to school.</li>
 </ul>
 <p><strong>Driving and dropping off children at Gates 3 and 4:</strong></p>
 <ul>
-<li>We would like to remind parents to refrain from using your vehicle&rsquo;s horn unless due to safety reasons so as not to unnecessarily disturb our neighbours in the nearby estate.</li>
+<li>We would like to remind parents to refrain from using your vehicle’s horn unless due to safety reasons so as not to unnecessarily disturb our neighbours in the nearby estate.</li>
 <li>Please refrain from stopping your vehicle on the zebra crossings to drop off your children. The zebra crossing is meant for pedestrians and by stopping on the zebra crossings, you are obstructing and endangering the safety of pedestrians.</li>
 </ul>
 <p><strong>Dismissal</strong></p>
@@ -40,17 +41,22 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">Main Gate no. 1</td>
-<td style="text-align: center;">6.30 am - 6.30 pm<br />1.45 pm - 2.00 pm (for pick-up at foyer)<br />4.00 pm - 4.30 pm (for pick-up at foyer)</td>
+<td style="text-align: center;">6.30 am - 6.30 pm<br>1.45 pm - 2.00 pm (for pick-up at foyer)<br>4.00 pm - 4.30 pm (for pick-up at foyer)</td>
 <td>&nbsp;</td>
 </tr>
 <tr>
 <td style="text-align: center;">Gate no. 3 (Side Gate)</td>
-<td style="text-align: center;">6.30 am - 7.30 am<br />1.30 pm - 2.00 pm<br />4.00 pm - 4.30 pm</td>
-<td>Gate 3 to close by 18 Nov 2022 at 5.00 pm until further notice due to MOE Kindergarten Works</td>
+<td style="text-align: center;">6.30 am - 7.30 am<br>1.30 pm - 2.00 pm<br>4.00 pm - 4.30 pm</td>
+<td>&nbsp;</td>
 </tr>
 <tr>
-<td style="text-align: center;">Gate no. 4 (Side Gate</td>
-<td style="text-align: center;">6.30 am - 7.30 am<br />1.30 pm - 2.00 pm<br />4.00 pm - 4.30 pm</td>
+<td style="text-align: center;">Gate no. 4 (Side Gate)</td>
+<td style="text-align: center;">6.30 am - 7.30 am<br>1.30 pm - 2.00 pm<br>4.00 pm - 4.30 pm</td>
+<td>&nbsp;</td>
+</tr>
+	<tr>
+<td style="text-align: center;">Gate no. 5 (Side Gate)</td>
+<td style="text-align: center;">6.45 am - 7.30 am</td>
 <td>&nbsp;</td>
 </tr>
 <tr>
