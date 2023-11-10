@@ -110,7 +110,7 @@ variant: markdown
 		<tr>
 <td style="text-align: center;">AV/ICT cum Resource Support Officer</td>
 <td style="text-align: center;">Ms RosAtiqah Binte Ramli</td>
-<td style="text-align: center;">rosatiqah_ramli@moe.edu.sg</td>
+<td style="text-align: center;">svps@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">Laboratory Assistant</td>
