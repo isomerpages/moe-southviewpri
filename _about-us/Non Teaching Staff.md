@@ -2,6 +2,7 @@
 title: Non Teaching Staff
 permalink: /about-us/non-teaching-staff/
 description: ""
+variant: markdown
 ---
 <h4><strong><u>Executive &amp; Administrative Staff</u></strong></h4>
 <table>
@@ -21,6 +22,11 @@ description: ""
 <td style="text-align: center;">Mr Thomas Lim Yong Peng</td>
 <td style="text-align: center;">lim_yong_peng@moe.edu.sg</td>
 </tr>
+	<tr>
+<td style="text-align: center;">Operations Manager</td>
+<td style="text-align: center;">Mr Muhammad Azli Bin Mad Ali</td>
+<td style="text-align: center;">muhammad_azli_mad_ali@moe.edu.sg</td>
+</tr>
 <tr>
 <td style="text-align: center;">ICT Manager</td>
 <td style="text-align: center;">Mr Foo Kong Weng Daniel</td>
@@ -30,6 +36,11 @@ description: ""
 <td style="text-align: center;">Administrative Executive</td>
 <td style="text-align: center;">Mdm Joanne Pung Hong Eng</td>
 <td style="text-align: center;">joanne_pung_hong_eng@moe.edu.sg</td>
+</tr>
+	<tr>
+<td style="text-align: center;">Administrative Executive</td>
+<td style="text-align: center;">Ms Nurhidayu Bte Mustafa</td>
+<td style="text-align: center;">nurhidayu_mustafa@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">CSO</td>
@@ -91,6 +102,16 @@ description: ""
 <td style="text-align: center;">Mr Jong Boon Mien Jeremy</td>
 <td style="text-align: center;">svps@moe.edu.sg</td>
 </tr>
+	<tr>
+<td style="text-align: center;">Desktop Engineer</td>
+<td style="text-align: center;">Mr Nurhakim Bin Zamani</td>
+<td style="text-align: center;">svps@moe.edu.sg</td>
+</tr>
+		<tr>
+<td style="text-align: center;">AV/ICT cum Resource Support Officer</td>
+<td style="text-align: center;">Ms RosAtiqah Binte Ramli</td>
+<td style="text-align: center;">svps@moe.edu.sg</td>
+</tr>
 <tr>
 <td style="text-align: center;">Laboratory Assistant</td>
 <td style="text-align: center;">Mdm Sarimah Kamin</td>
@@ -138,4 +159,4 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>Page updated on: 3 May 2023</p>
+<p>Page updated on: 10 Nov 2023</p>
