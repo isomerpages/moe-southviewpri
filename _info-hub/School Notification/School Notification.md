@@ -43,8 +43,8 @@ variant: markdown
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1fIivh93d45Gj8UCLNOjsA5DPVuGX7c8G/view?usp=sharing" target="_blank" rel="noopener">Oct</a></td>
 </tr><tr>
 	<td style="text-align: center;"><a href="https://drive.google.com/file/d/17yUvF2Cw8Qur93_IHvlI2OVs2nSj4j8e/view?usp=sharing" target="_blank" rel="noopener">1st Nov</a></td>
-<td style="text-align: center;">14th Nov</td>
-<td style="text-align: center;">Dec</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1c35yUD65BfJMxEh0hQWYab7-nxn2V1LV/view?usp=sharing" target="_blank" rel="noopener">14th Nov-Dec</a></td>
+<td style="text-align: center;">N.A.</td>
 <td style="text-align: center;">N.A.</td>
 	</tr>
 </tbody>
