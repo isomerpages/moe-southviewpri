@@ -29,9 +29,6 @@ variant: markdown
 <table>
 <tbody>
 <tr>
-<th style="text-align: center;"></th>
-</tr>
-<tr>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1dMsDNeDEjSH2KcLJrSZlxHvzyySnPl8O/view?usp=sharing" target="_blank" rel="noopener">Mar</a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1IONuFpxGe6Vn5x6ED0dhoWCyLfdwrQVs/view?usp=sharing" target="_blank" rel="noopener">Apr</a></td>
 	<td style="text-align: center;"><a href="https://drive.google.com/file/d/1lKZrAmMfbobuoqOt66niP3RymsVsY3N8/view?usp=sharing" target="_blank" rel="noopener">May-Jun</a></td>
