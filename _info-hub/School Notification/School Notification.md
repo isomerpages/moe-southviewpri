@@ -49,4 +49,4 @@ variant: markdown
 	</tr>
 </tbody>
 </table>
-<p>N.A. : No notification for the month.</p>
+<p>N.A. : No notification</p>
