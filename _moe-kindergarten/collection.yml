@@ -2,5 +2,6 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - MK@SV Orientation.md
       - MOE Kindergarten @ South View.md
       - Information for Parents.md
