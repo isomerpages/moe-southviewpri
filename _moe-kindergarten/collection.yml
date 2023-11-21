@@ -2,6 +2,6 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - K1 Transition.md
+      - K1 Orientation.md
       - MOE Kindergarten @ South View.md
       - Information for Parents.md
