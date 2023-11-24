@@ -16,6 +16,9 @@ sections:
           description: Until end of Dec 2023
           url: /announcements/closure-of-gate-3-due-to-moe-kindergarten-mk-works/
         - title: General Office (GO) operating hours during school holidays
-          description: Operating Hours of GO
+          description: Operating Hours for GO
           url: /announcements/general-office-operating-hours-during-school-holidays/
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
 ---
