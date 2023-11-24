@@ -18,7 +18,7 @@ sections:
         - title: General Office (GO) operating hours during school holidays
           description: Operating Hours for GO
           url: /announcements/general-office-operating-hours-during-school-holidays/
-        - title: Key Highlight Title
-          description: Key Highlight description
+        - title: P1 Orientation
+          description: P1 Orientation
           url: ""
 ---
