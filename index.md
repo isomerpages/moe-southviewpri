@@ -19,6 +19,6 @@ sections:
           description: Operating Hours for GO
           url: /announcements/general-office-operating-hours-during-school-holidays/
         - title: P1 Orientation
-          description: P1 Orientation
-          url: ""
+          description: P1 Orientation Briefing
+          url: /student-development/p1-transition-programme/p1-orientation/
 ---
