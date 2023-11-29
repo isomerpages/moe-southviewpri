@@ -2,6 +2,7 @@
 title: Teachers, AED and SEN Officers
 permalink: /about-us/teachers-aed-and-sen-officers/
 description: ""
+variant: markdown
 ---
 <h4><strong>2023 Primary 1 Form Teachers</strong></h4>
 <table>
@@ -657,20 +658,10 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">Non-Form</td>
-<td style="text-align: center;">Mrs Jamilah Khan</td>
-<td style="text-align: center;">jamilah_khan@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;">Non-Form</td>
 <td style="text-align: center;">Mdm Tan Lee Sin</td>
 <td style="text-align: center;">tan_lee_sin@moe.edu.sg</td>
 </tr>
-	<tr>
-<td style="text-align: center;">Non-Form</td>
-<td style="text-align: center;">Mdm Hong Wai Chong Dora</td>
-<td style="text-align: center;">hong_wai_chong_dora@moe.edu.sg</td>
-</tr>
-		<tr>
+<tr>
 <td style="text-align: center;">Non-Form</td>
 <td style="text-align: center;">Mr Mohamad Hafees Bin Hanafi</td>
 <td style="text-align: center;">mohamad_hafees_hanafi_a@moe.edu.sg</td>
