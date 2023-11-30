@@ -1,8 +1,8 @@
 ---
 title: Student Care Centre 2023 (ProTeach)
-permalink: /info-hub/school-related-services/student-care-centre-proteach/
+permalink: /permalink/
 description: ""
-third_nav_title: School Related Services
+variant: tiptap
 ---
 <p>The school’s School-based Student Care (SSC), managed by Pro-Teach, seeks to provide an integral platform of support for students in the school who need a structured and supportive environment after school hours.</p>
 <p><u><strong>About Pro-Teach</strong></u></p>
