@@ -3,10 +3,10 @@ title: Student Care Centre 2024 (Singapore EduSmart Learning Hub)
 permalink: /info-hub/school-related-services/student-care-centre-singapore-edusmart-learning-hub/
 description: ""
 third_nav_title: School Related Services
+variant: markdown
 ---
 <p>With effect from 1st January 2024, South View Primary School’s School-based Student Care (SSC) will be managed by Singapore EduSmart Learning Hub.</p>
-<p><strong>Updates on 27 Oct 2023: For successful applicants, Singapore EduSmart Learning Hub will contact parents by 20 November 2023.<br><br>
-Please note that as SCC vacancies are limited, if we are unable to enrol your child in our SCC, you may wish to consider an alternative community-based SCC near your home. Please search for other MSF-registered SCC by visiting the MSF website: <a href="https://singaporeedusmart.com.sg/" target="_blank" rel="noopener"> https://www.msf.gov.sg/our-services/directories#studenttab</a></strong></p>
+<p>Please note that as SCC vacancies are limited, if we are unable to enrol your child in our SCC, you may wish to consider an alternative community-based SCC near your home. Please search for other MSF-registered SCC by visiting the MSF website: <a href="https://singaporeedusmart.com.sg/" target="_blank" rel="noopener"> https://www.msf.gov.sg/our-services/directories#studenttab</a></p>
 <p><u><b>About Singapore EduSmart Learning Hub ( EduSmart )</b></u></p>
 <p>Singapore EduSmart Learning Hub was established in 2012 to provide a structured and conducive learning environment for our students after school hours. 
 EduSmart has been providing quality care to more than 1,000 students across several Singapore schools.<br><br>
