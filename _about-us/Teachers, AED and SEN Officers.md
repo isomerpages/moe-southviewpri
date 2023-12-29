@@ -4,7 +4,113 @@ permalink: /about-us/teachers-aed-and-sen-officers/
 description: ""
 variant: markdown
 ---
-<h4><strong>2023 Primary 1 Form Teachers</strong></h4>
+<h4><strong>2024 Primary 1 Form Teachers</strong></h4>
+<table>
+<tbody>
+<tr>
+<th style="text-align: center;">Class</th>
+<th style="text-align: center;">Form Teacher's Name</th>
+<th style="text-align: center;">Email address</th>
+</tr>
+<tr>
+<td style="text-align: center;">1 Steadfast</td>
+<td style="text-align: center;">Mdm Liu Yun</td>
+<td style="text-align: center;">liu_yun@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">1 Steadfast</td>
+<td style="text-align: center;">Ms Nur Hasinah Bte Mohammad Sidek</td>
+<td style="text-align: center;">hasinah_mohammad_sidek_a@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">1 Optimistic</td>
+<td style="text-align: center;">Mdm Hamidah Bte Abdol Hamid</td>
+<td style="text-align: center;">hamidah_abdul_hamid@moe.edu.sg
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">1 Optimistic</td>
+<td style="text-align: center;">Mdm Liang Xuexia</td>
+<td style="text-align: center;">liang_xuexia@moe.edu.sg
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">1 Unity</td>
+<td style="text-align: center;">Ms Lim Pei Jing</td>
+<td style="text-align: center;">lim_pei_jing@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">1 Unity</td>
+<td style="text-align: center;">Mr Nur Ismadi B Md Esa</td>
+<td style="text-align: center;">nur_ismadi_md_esa@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">1 Tenacity</td>
+<td style="text-align: center;">Ms Siti Aisyah Bte Waris</td>
+<td style="text-align: center;">siti_aisyah_waris@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">1 Tenacity</td>
+<td style="text-align: center;">Mdm Guo Wei</td>
+<td style="text-align: center;">guo_wei@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">1 Humility</td>
+<td style="text-align: center;">Mdm Law Gat Fai Jennifer</td>
+<td style="text-align: center;">jennifer_lim@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">1 Humility</td>
+<td style="text-align: center;">Mdm Lei Jiayan Jean</td>
+<td style="text-align: center;">lei_jiayan_jean@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">1 Humility</td>
+<td style="text-align: center;">Mdm Sharifah Marziana Syed Zin</td>
+<td style="text-align: center;">sharifah_marziana_syed_zin@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">1 Virtuous</td>
+<td style="text-align: center;">Mdm Chua Sze Ling</td>
+<td style="text-align: center;">chua_sze_ling@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">1 Virtuous</td>
+<td style="text-align: center;">Mdm Choung Hui Ming</td>
+<td style="text-align: center;">choung_hui_ming@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">1 Inspiring</td>
+<td style="text-align: center;">Mr Chua Keng Koon</td>
+<td style="text-align: center;">chua_keng_koon@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">1 Inspiring</td>
+<td style="text-align: center;">Mrs Ser-Goh Siew Ngor</td>
+<td style="text-align: center;">goh_siew_ngor@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">1 Empathy</td>
+<td style="text-align: center;">Ms Norhafiza Bte Mohamed Zaini</td>
+<td style="text-align: center;">norhafiza_mohd_zaini@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">1 Empathy</td>
+<td style="text-align: center;">Mdm Ng Siew Leng</td>
+<td style="text-align: center;">ng_siew_leng_a@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">1 Nobility</td>
+<td style="text-align: center;">Mdm Rosnah Bte Rabu</td>
+<td style="text-align: center;">rosnah_rabu@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">1 Nobility</td>
+<td style="text-align: center;">Mdm Ou Wen Lien</td>
+<td style="text-align: center;">ou_wen_lien@moe.edu.sg</td>
+</tr>
+</tbody>
+</table><h4><strong>2023 Primary 1 Form Teachers</strong></h4>
 <table>
 <tbody>
 <tr>
