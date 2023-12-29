@@ -7,14 +7,18 @@ variant: markdown
 <table>
 <tbody>
 	<tr><td>Our Minister of Education, Mr Chan Chun Sing highlighted in his 2023 MOE Workplan Seminar speech that in order to be successful in this rapidly changing world, every student needs to be a creator, connector and contributor going forward. Success, hence, needs to be defined differently. Beyond personal achievements in examinations, having the skills to apply their knowledge, communicate views and ideas effectively with others and contribute back to the society is therefore important.</td>
-		</tr></tbody>
+		</tr>
+	</tbody>
 	</table>
 	<table>
 <tbody>
-		<tr><td>Before my colleagues left for their well-deserved End-of-Year Protected Time, I had shared this holiday wish list with them and I think this wish list, not just for holidays, is apt for our students as well as for our home-school partnership.<br><br>Let me select a couple of wishes to elaborate for 2024. <i>More gratitude</i> … our Southviens should learn to be grateful for their family, friends and teachers; to be grateful for the opportunity to attend school which most students take for granted; and also be grateful to be able to pay it forward by contributing to our Values-in-Action (VIA) activities in line with the school vision ‘… <i>with a Heart to Serve</i>’ and through co-designing VIA activities, be creators and connectors with our community partners as well as contributors to the society.</td>
+		<tr>
+			<td>Before my colleagues left for their well-deserved End-of-Year Protected Time, I had shared this holiday wish list with them and I think this wish list, not just for holidays, is apt for our students as well as for our home-school partnership.<br><br>Let me select a couple of wishes to elaborate for 2024. <i>More gratitude</i> … our Southviens should learn to be grateful for their family, friends and teachers; to be grateful for the opportunity to attend school which most students take for granted; and also be grateful to be able to pay it forward by contributing to our Values-in-Action (VIA) activities in line with the school vision ‘… <i>with a Heart to Serve</i>’ and through co-designing VIA activities, be creators and connectors with our community partners as well as contributors to the society.
+			</td>
 	<td><img style="width: 50%;" src="/images/P_Pic.jpg">
 	</td>
-		</tr></tbody>
+		</tr>
+	</tbody>
 	</table>
 <table>
 <tbody>
