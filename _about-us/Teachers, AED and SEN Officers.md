@@ -84,7 +84,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">1 Inspiring</td>
-<td style="text-align: center;">Mr Chua Keng Koon</td>
+<td style="text-align: center;">Ms Jan Pang Nyuk Chin</td>
 <td style="text-align: center;">pang_nyuk_chin@moe.edu.sg
 </td>
 </tr>
