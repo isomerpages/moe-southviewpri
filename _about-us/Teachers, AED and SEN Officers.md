@@ -96,13 +96,15 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">1 Empathy</td>
-<td style="text-align: center;">Ms Norhafiza Bte Mohamed Zaini</td>
-<td style="text-align: center;">norhafiza_mohd_zaini@moe.edu.sg</td>
+<td style="text-align: center;">Mrs Kunavathi Vijayan Kumaran</td>
+<td style="text-align: center;">kunavathi_marimuthu@moe.edu.sg
+</td>
 </tr>
 <tr>
 <td style="text-align: center;">1 Empathy</td>
-<td style="text-align: center;">Mdm Ng Siew Leng</td>
-<td style="text-align: center;">ng_siew_leng_a@moe.edu.sg</td>
+<td style="text-align: center;">Ms Kek Chiew Ching</td>
+<td style="text-align: center;">kek_chiew_ching@moe.edu.sg
+</td>
 </tr>
 <tr>
 <td style="text-align: center;">1 Nobility</td>
