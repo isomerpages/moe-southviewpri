@@ -4,19 +4,17 @@ permalink: /about-us/message-for-school-website-2024/
 description: ""
 variant: markdown
 ---
+<p>Our Minister of Education, Mr Chan Chun Sing highlighted in his 2023 MOE Workplan Seminar speech that in order to be successful in this rapidly changing world, every student needs to be a creator, connector and contributor going forward. Success, hence, needs to be defined differently. Beyond personal achievements in examinations, having the skills to apply their knowledge, communicate views and ideas effectively with others and contribute back to the society is therefore important.</p>
+<table>
+<tbody>
+		<tr><td>Before my colleagues left for their well-deserved End-of-Year Protected Time, I had shared this holiday wish list with them and I think this wish list, not just for holidays, is apt for our students as well as for our home-school partnership.<br><br>Let me select a couple of wishes to elaborate for 2024. <i>More gratitude</i> … our Southviens should learn to be grateful for their family, friends and teachers; to be grateful for the opportunity to attend school which most students take for granted; and also be grateful to be able to pay it forward by contributing to our Values-in-Action (VIA) activities in line with the school vision ‘… <i>with a Heart to Serve</i>’ and through co-designing VIA activities, be creators and connectors with our community partners as well as contributors to the society.</td>
+	<td><img src="/images/P_Pic.jpg">
+	</td>
+		</tr></tbody>
+	</table>
 <p>Less gifts, more memories … instead of physical gifts, let us work towards giving Southviens the Gift of Love, the Gift of Care, the Gift of Time and the Gift of Space to support them in their journey of learning, and creating memories with our Southviens in the form of authentic learning experiences from which they will learn, grow, enjoy and remember.<br><br>
 A new year is a time for fresh starts for your child – new class, new friends, new challenges and learning opportunities! In South View Primary, we would like to partner you as we grow and support your child to be a passionate learner with a heart to serve. We will continue to work with you and your child to embrace the joy of learning, discover their individual strengths and develop the core values, a Growth Mindset, Executive Functioning Skills as well as the 21st century competencies necessary for our Southviens to thrive and be future-ready.
-</p><table>
-<tbody>
-	<tr><td><p>Our Minister of Education, Mr Chan Chun Sing highlighted in his 2023 MOE Workplan Seminar speech that in order to be successful in this rapidly changing world, every student needs to be a creator, connector and contributor going forward. Success, hence, needs to be defined differently. Beyond personal achievements in examinations, having the skills to apply their knowledge, communicate views and ideas effectively with others and contribute back to the society is therefore important.</p></td>
-		<td>Before my colleagues left for their well-deserved End-of-Year Protected Time, I had shared this holiday wish list with them and I think this wish list, not just for holidays, is apt for our students as well as for our home-school partnership.<br><br>Let me select a couple of wishes to elaborate for 2024. <i>More gratitude</i> … our Southviens should learn to be grateful for their family, friends and teachers; to be grateful for the opportunity to attend school which most students take for granted; and also be grateful to be able to pay it forward by contributing to our Values-in-Action (VIA) activities in line with the school vision ‘… <i>with a Heart to Serve</i>’ and through co-designing VIA activities, be creators and connectors with our community partners as well as contributors to the society.
-		</td>
-		<td><img src="/images/P_Pic.jpg">
-		</td>
-	
-	</tr>
-	</tbody>
-	</table>
+</p>
 <p>Your partner-in-education<br>
 Miss Ang Mui Khoong<br>
 Principal</p>
