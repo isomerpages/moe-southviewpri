@@ -3,8 +3,47 @@ title: Archived Letters
 permalink: /info-hub/weekly-notification/archived-letters/
 description: ""
 third_nav_title: School Notification
+variant: markdown
 ---
-
+<p><strong>2023 Weekly Letters</strong></p>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1VhV4Ac8Qwj_IzQXv0GEDmfUIHJJeitVu/view" target="_blank" rel="noopener">Week 0 / 29 Dec 2022</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1a8TDiUnzCCI-fdP3HCSuhpFhuguGiI5g/view" target="_blank" rel="noopener">Week 1 / 5 Jan 2023</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1labU3gWjR4goRjHlS2WUZly7-PDTVvk1/view" target="_blank" rel="noopener">Week 2 / 12 Jan 2023</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1kD16HdTrCLbSh-lpa_fSEf2UM57tb6KO/view?usp=sharing" target="_blank" rel="noopener">Week 3 / 19 Jan 2023</a></td>
+<td style="text-align: center;">N.A.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1gEbGsqJ6yWB4P009-vGmnR3xtc95pS5F/view?usp=sharing" target="_blank" rel="noopener">Week 5 / 2 Feb 2023</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1vd6CqUsPqAs2BTOVTkFP-8qHYLZABS74/view?usp=sharing" target="_blank" rel="noopener">Week 6 / 9 Feb 2023</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/11oSj-tIHEfnyqgtRAxdd5EOcsXfUtnYu/view?usp=sharing" target="_blank" rel="noopener">Week 7 / 16 Feb 2023</a></td>
+	<td style="text-align: center;"><a href="https://drive.google.com/file/d/1UzpI6nAMpbrUWAVSzvFN-3UxThk62nD0/view?usp=sharing" target="_blank" rel="noopener">Week 8 / 23 Feb 2023</a></td>
+	<td style="text-align: center;">N.A.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>2023 School Notification Letters</strong></p>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1dMsDNeDEjSH2KcLJrSZlxHvzyySnPl8O/view?usp=sharing" target="_blank" rel="noopener">Mar</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1IONuFpxGe6Vn5x6ED0dhoWCyLfdwrQVs/view?usp=sharing" target="_blank" rel="noopener">Apr</a></td>
+	<td style="text-align: center;"><a href="https://drive.google.com/file/d/1lKZrAmMfbobuoqOt66niP3RymsVsY3N8/view?usp=sharing" target="_blank" rel="noopener">May-Jun</a></td>
+<td style="text-align: center;">N.A.</td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/13aD3uoR-PNO8AqlLOUFjAg2Q1gBcxHaE/view?usp=sharing" target="_blank" rel="noopener">July</a></td>
+	</tr><tr>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1VNuOM5mIhTnpU1KMQKP9dd5r6hfpoOzp/view?usp=sharing" target="_blank" rel="noopener">Aug</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1PbbguhgRygH0rRAVL4g2BXiOPPakAi9C/view?usp=sharing" target="_blank" rel="noopener">Sep</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1fIivh93d45Gj8UCLNOjsA5DPVuGX7c8G/view?usp=sharing" target="_blank" rel="noopener">Oct</a></td>
+	<td style="text-align: center;"><a href="https://drive.google.com/file/d/17yUvF2Cw8Qur93_IHvlI2OVs2nSj4j8e/view?usp=sharing" target="_blank" rel="noopener">Nov</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1c35yUD65BfJMxEh0hQWYab7-nxn2V1LV/view?usp=sharing" target="_blank" rel="noopener">Mid Nov-Dec</a></td>
+	</tr>
+</tbody>
+</table>
+<p>N.A. : No notification</p>
+<p></p>
 <p><strong>2022 Weekly Letters</strong></p>
 <table>
 <tbody>
@@ -66,7 +105,7 @@ third_nav_title: School Notification
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1hO4vRPg1WPpyaNCmHe3mIVjn3oTeRrFz/view?usp=sharing" target="_blank" rel="noopener">Week 8 / 24 Feb 2022</a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1BmqzeEqNgdqhWK4-PyJRaHlnwQBl7NkF/view?usp=sharing" target="_blank" rel="noopener">Week 9 / 19 May 2022</a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/16EXP8k9aLSxNTi-DlLcqpIpGXj2Y2q4x/view?usp=sharing" target="_blank" rel="noopener">Week 9 / 25 Aug 2022</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1mY8SrtNXgfYVcXKzEEPYsIRbWUEuRQzH/view?usp=sharing" target="_blank" rel="noopener">Week 9 / 10 Nov 2022</a><br /><u></u></td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1mY8SrtNXgfYVcXKzEEPYsIRbWUEuRQzH/view?usp=sharing" target="_blank" rel="noopener">Week 9 / 10 Nov 2022</a><br><u></u></td>
 </tr>
 <tr>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/18yMRDho90jjr3CKzJzePdWKshYwJKOuv/view?usp=sharing" target="_blank" rel="noopener">Week 9 / 3 Mar 2022</a></td>
@@ -146,7 +185,7 @@ third_nav_title: School Notification
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1jbwubXcoqQ_5NCaWSf77U3HLyTLdQllo/view?usp=sharing" target="_blank" rel="noopener">Week 9 / 4 Mar 2021</a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1csOSh-rTDZLlNPsjvbAzmQ0EzxpV20Ff/view?usp=sharing" target="_blank" rel="noopener">Week 9 / 20 May 2021</a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/15j2Z6Nnt1__ziq4WIiP-58-L-JxVZ1gK/view?usp=sharing" target="_blank" rel="noopener">Week 9 / 26 Aug 2021</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1fb3aB8CP0H5c1TF2FG-pB6uadNPfLy7s/view?usp=sharing" target="_blank" rel="noopener">Week 9 / 11 Nov 2021</a><br /><u></u></td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1fb3aB8CP0H5c1TF2FG-pB6uadNPfLy7s/view?usp=sharing" target="_blank" rel="noopener">Week 9 / 11 Nov 2021</a><br><u></u></td>
 </tr>
 <tr>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/11tuHB07gMyLc5J8EhhuhY4yJaz1dFaRO/view?usp=sharing" target="_blank" rel="noopener">Week 10 / 11 Mar 2021</a></td>
@@ -227,7 +266,7 @@ third_nav_title: School Notification
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1N4cJPcCnnWFvSZzh5e7xkOs3JZlB8pmo/view?usp=sharing" target="">Week 8 / 27 Feb 2020</a></td>
 <td style="text-align: center;">N.A.</td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1ynGWyCL7hSs0RusTkZA9KDjd8e7EdxtO/view?usp=sharing" target="">Week 9 / 6 Aug 2020</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1b6r320-ZkAqNv5zabd5_jhrURFhUlNiF/view?usp=sharing" target="">Week 9 / 12 Nov 2020</a><br /><u></u></td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1b6r320-ZkAqNv5zabd5_jhrURFhUlNiF/view?usp=sharing" target="">Week 9 / 12 Nov 2020</a><br><u></u></td>
 </tr>
 <tr>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1ScsT-vzulegX7ianeYzx77DAUlpFqWT6/view?usp=sharing" target="">Week 9 / 5 Mar 2020</a></td>
@@ -321,7 +360,7 @@ third_nav_title: School Notification
 <td style="text-align: center;">&nbsp;<a href="https://drive.google.com/file/d/1SRt0QSLwCYMjXfF_er66UTFbAKHorqBi/view?usp=sharing" target="">Week 8 / 28 Feb 2019</a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1zq4vC9dDJf8ryuu5A_VwtknlwRdTCSHC/view?usp=sharing" target="">Week 9 / 23 May 2019</a></td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1PapuI1q3gEdzs_OhKA8FRZpU69KKC4N0/view?usp=sharing" target="">Week 9 / 29 Aug 2019</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1S3FT8Y0PgkmPPKymzINwCc9PeTuvvTPh/view?usp=sharing" target="">Week 9 / 14 Nov 2019</a><br /><u></u></td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1S3FT8Y0PgkmPPKymzINwCc9PeTuvvTPh/view?usp=sharing" target="">Week 9 / 14 Nov 2019</a><br><u></u></td>
 </tr>
 <tr>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/12UlDj8Lm5oqns8mXA31Y47FEBtspZY97/view?usp=sharing" target="">Week 9 / 7 Mar 2019</a></td>
