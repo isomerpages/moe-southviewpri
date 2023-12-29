@@ -90,8 +90,9 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">1 Inspiring</td>
-<td style="text-align: center;">Mrs Ser-Goh Siew Ngor</td>
-<td style="text-align: center;">goh_siew_ngor@moe.edu.sg</td>
+<td style="text-align: center;">Mdm See Lina</td>
+<td style="text-align: center;">see_lina@moe.edu.sg
+</td>
 </tr>
 <tr>
 <td style="text-align: center;">1 Empathy</td>
