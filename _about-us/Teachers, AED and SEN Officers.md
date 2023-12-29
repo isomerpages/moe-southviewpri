@@ -36,13 +36,15 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">1 Unity</td>
-<td style="text-align: center;">Ms Lim Pei Jing</td>
-<td style="text-align: center;">lim_pei_jing@moe.edu.sg</td>
+<td style="text-align: center;">Ms Norhafiza Bte Mohamed Zaini</td>
+<td style="text-align: center;">norhafiza_mohd_zaini@moe.edu.sg
+</td>
 </tr>
 <tr>
 <td style="text-align: center;">1 Unity</td>
-<td style="text-align: center;">Mr Nur Ismadi B Md Esa</td>
-<td style="text-align: center;">nur_ismadi_md_esa@moe.edu.sg</td>
+<td style="text-align: center;">Mdm Tang Mei Fong</td>
+<td style="text-align: center;">tang_mei_fong@moe.edu.sg
+</td>
 </tr>
 <tr>
 <td style="text-align: center;">1 Tenacity</td>
