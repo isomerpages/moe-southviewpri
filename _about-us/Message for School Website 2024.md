@@ -23,6 +23,10 @@ A new year is a time for fresh starts for your child – new class, new friends,
 </td>
 		</tr></tbody>
 	</table>
-<p>Your partner-in-education<br>
+<table>
+<tbody>
+	<tr><td>Your partner-in-education<br>
 Miss Ang Mui Khoong<br>
-Principal</p>
+Principal</td>
+		</tr></tbody>
+	</table>
