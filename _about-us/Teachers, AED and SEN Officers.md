@@ -72,18 +72,21 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">1 Virtuous</td>
-<td style="text-align: center;">Mdm Chua Sze Ling</td>
-<td style="text-align: center;">chua_sze_ling@moe.edu.sg</td>
+<td style="text-align: center;">Mdm Leow Siew Peng</td>
+<td style="text-align: center;">leow_siew_peng@moe.edu.sg
+</td>
 </tr>
 <tr>
 <td style="text-align: center;">1 Virtuous</td>
-<td style="text-align: center;">Mdm Choung Hui Ming</td>
-<td style="text-align: center;">choung_hui_ming@moe.edu.sg</td>
+<td style="text-align: center;">Mdm Waheeda Bte Mohamed Ibrahim</td>
+<td style="text-align: center;">waheeda_mohamed_ibrahim@moe.edu.sg
+</td>
 </tr>
 <tr>
 <td style="text-align: center;">1 Inspiring</td>
 <td style="text-align: center;">Mr Chua Keng Koon</td>
-<td style="text-align: center;">chua_keng_koon@moe.edu.sg</td>
+<td style="text-align: center;">pang_nyuk_chin@moe.edu.sg
+</td>
 </tr>
 <tr>
 <td style="text-align: center;">1 Inspiring</td>
