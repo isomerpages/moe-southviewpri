@@ -119,7 +119,113 @@ variant: markdown
 </td>
 </tr>
 </tbody>
-</table><h4><strong>2023 Primary 1 Form Teachers</strong></h4>
+</table>
+<h4><strong>2024 Primary 2 Form Teachers</strong></h4>
+<table>
+<tbody>
+<tr style="height: 18px;">
+<th style="text-align: center;">Class</th>
+<th style="text-align: center;">Form Teacher's Name</th>
+<th style="text-align: center;">Email address</th>
+</tr>
+<tr>
+<td style="text-align: center;">2 Steadfast</td>
+<td style="text-align: center;">Mdm Peng Binglun</td>
+<td style="text-align: center;">peng_binglun@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">2 Steadfast</td>
+<td style="text-align: center;">Mdm Tang Mei Fong</td>
+<td style="text-align: center;">tang_mei_fong@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">2 Optimistic</td>
+<td style="text-align: center;">Mrs Woo Mun Lan</td>
+<td style="text-align: center;">woo_mun_lan@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">2 Optimistic</td>
+<td style="text-align: center;">Ms Jiao Yujie</td>
+<td style="text-align: center;">jiao_yujie@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">2 Unity</td>
+<td style="text-align: center;">Mdm Waheeda Bte Mohamed Ibrahim</td>
+<td style="text-align: center;">waheeda_mohamed_ibrahim@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">2 Unity</td>
+<td style="text-align: center;">Ms Yu Naishan</td>
+<td style="text-align: center;">yu_naishan@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">2 Tenacity</td>
+<td style="text-align: center;">Ms Ayeshah Bte Jamaldeen</td>
+<td style="text-align: center;">ayeshah_jamaldeen@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">2 Tenacity</td>
+<td style="text-align: center;">Mdm Liang Xuexia</td>
+<td style="text-align: center;">liang_xuexia@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">2 Humility</td>
+<td style="text-align: center;">Mdm Leow Siew Peng</td>
+<td style="text-align: center;">leow_siew_peng@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">2 Humility</td>
+<td style="text-align: center;">Mrs Kunavathi Vijayan Kumaran</td>
+<td style="text-align: center;">kunavathi_marimuthu@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">2 Virtuous</td>
+<td style="text-align: center;">Ms Jan Pang Nyuk Chin</td>
+<td style="text-align: center;">pang_nyuk_chin@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">2 Virtuous</td>
+<td style="text-align: center;">Ms Kek Chiew Ching</td>
+<td style="text-align: center;">kek_chiew_ching@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">2 Virtuous</td>
+<td style="text-align: center;">Mr Matthew Loh Yin Sheng</td>
+<td style="text-align: center;">matthew_loh_yin_sheng@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">2 Inspiring</td>
+<td style="text-align: center;">Mdm Hamidah Bte Abdol Hamid</td>
+<td style="text-align: center;">hamidah_abdul_hamid@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">2 Inspiring</td>
+<td style="text-align: center;">Mdm Liu Yun</td>
+<td style="text-align: center;">liu_yun@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">2 Empathy</td>
+<td style="text-align: center;">Mdm Nadiah Abdul Rahman</td>
+<td style="text-align: center;">nadiah_abdul_rahman@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">2 Empathy</td>
+<td style="text-align: center;">Mdm See Lina</td>
+<td style="text-align: center;">see_lina@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">2 Nobility</td>
+<td style="text-align: center;">Mr Tan Wei Da</td>
+<td style="text-align: center;">tan_wei_da@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">2 Nobility</td>
+<td style="text-align: center;">Ms Zurainah Bte Ahmid</td>
+<td style="text-align: center;">zurainah_ahmid@moe.edu.sg</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>2023 Primary 1 Form Teachers</strong></h4>
 <table>
 <tbody>
 <tr>
