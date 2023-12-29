@@ -108,13 +108,15 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">1 Nobility</td>
-<td style="text-align: center;">Mdm Rosnah Bte Rabu</td>
-<td style="text-align: center;">rosnah_rabu@moe.edu.sg</td>
+<td style="text-align: center;">Mdm Norzelawati Bte Shariff</td>
+<td style="text-align: center;">norzelawati_shariff@moe.edu.sg
+</td>
 </tr>
 <tr>
 <td style="text-align: center;">1 Nobility</td>
-<td style="text-align: center;">Mdm Ou Wen Lien</td>
-<td style="text-align: center;">ou_wen_lien@moe.edu.sg</td>
+<td style="text-align: center;">Mdm Ong Wenqi Wendy</td>
+<td style="text-align: center;">ong_wenqi_wendy@moe.edu.sg
+</td>
 </tr>
 </tbody>
 </table><h4><strong>2023 Primary 1 Form Teachers</strong></h4>
