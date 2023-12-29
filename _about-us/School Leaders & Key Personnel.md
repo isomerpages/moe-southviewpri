@@ -2,6 +2,7 @@
 title: School Leaders & Key Personnel
 permalink: /about-us/school-leaders-n-key-personnel/
 description: ""
+variant: markdown
 ---
 <p><strong><u>School Leaders</u></strong></p>
 <div>
@@ -20,6 +21,10 @@ description: ""
 <tr>
 <td style="text-align: center;">Vice-Principal (Academic)</td><td style="text-align: center;">Mr Ong Hong Ghee</td>
 <td style="text-align: center;">ong_hong_ghee@schools.gov.sg</td>
+</tr>
+	<tr>
+<td style="text-align: center;">Vice-Principal (Academic)</td><td style="text-align: center;">Ms Goh Jia Li</td>
+<td style="text-align: center;">goh_jia_li@schools.gov.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">Vice-Principal (Admin)</td>
