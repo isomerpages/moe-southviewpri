@@ -2,14 +2,21 @@
 title: SVPS Message for 2023
 permalink: /about-us/svps-message-for-2023/
 description: ""
+variant: markdown
 ---
-
-
-<p>The year 2022 has been a good year for our Southviens, despite the COVID-19 pandemic. By mid-2022, we were able to resume many in-person learning experiences for our students. National School Games (NSG) and Singapore Youth Festival (SYF) participation resumed and our students have done us proud again, as regardless of their achievements, by virtue of being resilient to come together to participate in NSG and SYF in spite of the short lead time, our Southviens have indeed done well.</p>
-<p>Amongst the highlights of 2022, I am sure our Southviens will cite Children’s Day celebrations with the theme “The Sun is Out, Let’s Come Out N Play” as one. The school collaborated with the SVPA, 40-hours PVs and partners to plan exciting activities for our students. Our SAC helped to source for opportunities for our P6 students to visit varied workplaces to learn about careers for Honouring Careers Day. As for staff, the Teachers’ Day Fiesta organised by our SVPSAA was a key highlight. All these would not have been possible without the unstinting support of our parents, SVPA, SVPSAA and the SAC, and our committed staff both present and past, who have dedicated their lives to grow the school to what it is today.</p>
-<p>The COVID-19 pandemic has taught us invaluable lessons. We learnt to cherish in-person experiences and not to take that for granted now. We also learnt to be creative, flexible and adaptable because COVID SMM did not allow us to continue with certain practices and we needed to come up with alternative ways. Now with COVID being endemic, we have options – do we/should we revert to previous practices because SMM have eased? We have learnt the advantages of leveraging virtual platform for Parent-Child-Teacher Conference (PCTC) and will continue with this mode for PCTC in 2023. We also learnt that we can spend our time more meaningfully with students by having them reporting directly to their classrooms in the morning. So instead of reporting to the school hall daily, all students now assemble in the ISH/MPH on Monday mornings only. Time is saved from walking back from the hall to classrooms and we still have the opportunity to bond as a school and sing the school song together once a week.</p>
-<img style="height: 200px; width: 250px" src="/images/Principal's%20message%202023.jpg">
-<p>SVPS is committed to nurturing Southviens to be Passionate Learners with a Heart to Serve through a two-pronged approach; by inculcating school values and a Growth Mindset as well as equipping students with Executive Functioning Skills (EFS). We believe that students grounded in values and equipped with a Growth Mindset and EFS will be able to Learn for Life and be future ready. Together with our partners-in-education, let us continue to reassure our children that learning is not always associated with examination grades, quantifiable outcomes and pressure. Let us teach them that learning is about the process and the effort put in and that success comes from persistence, practice, hard work and the occasional failure. We should be mindful to emphasise that learning is not always about achievement or perfection, and that our children should embrace the joy of the learning process, develop a sense of purpose, take ownership over his/her learning, which are all key towards succeeding in life.</p>
-<p>Your partner-in-education<br/>
-Miss Ang Mui Khoong<br/>
+<p>Our Minister of Education, Mr Chan Chun Sing highlighted in his 2023 MOE Workplan Seminar speech that in order to be successful in this rapidly changing world, every student needs to be a creator, connector and contributor going forward. Success, hence, needs to be defined differently. Beyond personal achievements in examinations, having the skills to apply their knowledge, communicate views and ideas effectively with others and contribute back to the society is therefore important.</p>
+<table>
+<tbody>
+	<tr>
+		<td>Before my colleagues left for their well-deserved End-of-Year Protected Time, I had shared this holiday wish list with them and I think this wish list, not just for holidays, is apt for our students as well as for our home-school partnership.<br>Let me select a couple of wishes to elaborate for 2024. <i>More gratitude</i> … our Southviens should learn to be grateful for their family, friends and teachers; to be grateful for the opportunity to attend school which most students take for granted; and also be grateful to be able to pay it forward by contributing to our Values-in-Action (VIA) activities in line with the school vision ‘… <i>with a Heart to Serve</i>’ and through co-designing VIA activities, be creators and connectors with our community partners as well as contributors to the society.
+		</td>
+		<td>Testing
+		</td>
+	</tr>
+	</tbody>
+	</table>
+	<p>Less gifts, more memories … instead of physical gifts, let us work towards giving Southviens the Gift of Love, the Gift of Care, the Gift of Time and the Gift of Space to support them in their journey of learning, and creating memories with our Southviens in the form of authentic learning experiences from which they will learn, grow, enjoy and remember.<br><br>
+A new year is a time for fresh starts for your child – new class, new friends, new challenges and learning opportunities! In South View Primary, we would like to partner you as we grow and support your child to be a passionate learner with a heart to serve. We will continue to work with you and your child to embrace the joy of learning, discover their individual strengths and develop the core values, a Growth Mindset, Executive Functioning Skills as well as the 21st century competencies necessary for our Southviens to thrive and be future-ready.
+</p><p>Your partner-in-education<br>
+Miss Ang Mui Khoong<br>
 Principal</p>
