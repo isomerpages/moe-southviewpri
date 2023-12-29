@@ -48,28 +48,27 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">1 Tenacity</td>
-<td style="text-align: center;">Ms Siti Aisyah Bte Waris</td>
-<td style="text-align: center;">siti_aisyah_waris@moe.edu.sg</td>
+<td style="text-align: center;">Mdm Choung Hui Ming</td>
+<td style="text-align: center;">choung_hui_ming@moe.edu.sg
+</td>
 </tr>
 <tr>
 <td style="text-align: center;">1 Tenacity</td>
-<td style="text-align: center;">Mdm Guo Wei</td>
-<td style="text-align: center;">guo_wei@moe.edu.sg</td>
+<td style="text-align: center;">Ms Nanthiyni Selvaraja</td>
+<td style="text-align: center;">nanthiyni_selvaraja@moe.edu.sg
+</td>
 </tr>
 <tr>
 <td style="text-align: center;">1 Humility</td>
-<td style="text-align: center;">Mdm Law Gat Fai Jennifer</td>
-<td style="text-align: center;">jennifer_lim@moe.edu.sg</td>
+<td style="text-align: center;">Mrs Woo Mun Lan</td>
+<td style="text-align: center;">woo_mun_lan@moe.edu.sg
+</td>
 </tr>
 <tr>
 <td style="text-align: center;">1 Humility</td>
-<td style="text-align: center;">Mdm Lei Jiayan Jean</td>
-<td style="text-align: center;">lei_jiayan_jean@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;">1 Humility</td>
-<td style="text-align: center;">Mdm Sharifah Marziana Syed Zin</td>
-<td style="text-align: center;">sharifah_marziana_syed_zin@moe.edu.sg</td>
+<td style="text-align: center;">Ms Yu Naishan</td>
+<td style="text-align: center;">yu_naishan@moe.edu.sg
+</td>
 </tr>
 <tr>
 <td style="text-align: center;">1 Virtuous</td>
