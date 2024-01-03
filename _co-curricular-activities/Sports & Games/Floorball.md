@@ -11,4 +11,4 @@ variant: markdown
 <p><u><strong>Schedule</strong></u></p>
 <p><u>Thursdays</u><br>3.00 p.m. to 5.00 p.m.</p>
 
-<p>Page last updated on: 17 Jan 2023</p>
+<p>Page last updated on: 3 Jan 2024</p>
