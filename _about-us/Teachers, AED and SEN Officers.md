@@ -506,13 +506,15 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">5 Humility</td>
-<td style="text-align: center;">Mr Ng Chin Yong Ivan</td>
-<td style="text-align: center;">ng_chin_yong_ivan@moe.edu.sg</td>
+<td style="text-align: center;">Mr Tan Wei Da</td>
+<td style="text-align: center;">tan_wei_da@moe.edu.sg
+</td>
 </tr>
 <tr>
 <td style="text-align: center;">5 Humility</td>
-<td style="text-align: center;">Mdm Cheong May Ling Karen</td>
-<td style="text-align: center;">cheong_may_ling_karen@moe.edu.sg</td>
+<td style="text-align: center;">Mr Mohamad Sahrum B Yusof</td>
+<td style="text-align: center;">mohamad_sahrum_yusof@moe.edu.sg
+</td>
 </tr>
 <tr>
 <td style="text-align: center;">5 Virtuous</td>
