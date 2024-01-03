@@ -253,6 +253,103 @@ variant: markdown
 </tr>
 </tbody>
 </table>
+<h4><strong>2024 Primary 3 Form Teachers</strong></h4>
+<div>
+<div>
+<table>
+<tbody>
+<tr>
+<th style="text-align: center;">Class</th>
+<th style="text-align: center;">Form Teacher's Name</th>
+<th style="text-align: center;">Email address</th>
+</tr>
+<tr>
+<td style="text-align: center;">3 Steadfast</td>
+<td style="text-align: center;">Mdm New Chye Fong</td>
+<td style="text-align: center;">new_chye_fong@moe.edu.sg
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">3 Steadfast</td>
+<td style="text-align: center;">Mdm Nadiah Abdul Rahman</td>
+<td style="text-align: center;">nadiah_abdul_rahman@moe.edu.sg
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">3 Optimistic</td>
+<td style="text-align: center;">Ms Angelia Chew Yin Mui</td>
+<td style="text-align: center;">chew_yin_mui@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">3 Optimistic</td>
+<td style="text-align: center;">Mdm Wang Wei</td>
+<td style="text-align: center;">wang_wei_a@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">3 Unity</td>
+<td style="text-align: center;">Mdm Cheong Qi Li</td>
+<td style="text-align: center;">cheong_qi_li@moe.edu.sg
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">3 Unity</td>
+<td style="text-align: center;">Mdm Vjaya Lashmi D/O Tangavellu</td>
+<td style="text-align: center;">vjaya_lashmi_tangavellu@moe.edu.sg
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">3 Tenacity</td>
+<td style="text-align: center;">Mdm Fun Pei Fen</td>
+<td style="text-align: center;">fun_pei_fen@moe.edu.sg
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">3 Tenacity</td>
+<td style="text-align: center;">Ms Toh Sze Ying</td>
+<td style="text-align: center;">toh_sze_ying@moe.edu.sg
+</td>
+</tr>
+	<tr>
+<td style="text-align: center;">3 Tenacity</td>
+<td style="text-align: center;">Mdm Liu Qiuyi	</td>
+<td style="text-align: center;">liu_qiuyi@moe.edu.sg
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">3 Humility</td>
+<td style="text-align: center;">Mdm Goh Dishi</td>
+<td style="text-align: center;">goh_dishi@moe.edu.sg
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">3 Humility</td>
+<td style="text-align: center;">Mdm Amalina Bte Hussein</td>
+<td style="text-align: center;">amalina_hussein@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">3 Virtuous</td>
+<td style="text-align: center;">Mr Leow Wei Yuan</td>
+<td style="text-align: center;">leow_wei_yuan@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">3 Virtuous</td>
+<td style="text-align: center;">Ms Chua Chwee Tin Priscilla</td>
+<td style="text-align: center;">chua_chwee_tin_b@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">3 Inspiring</td>
+<td style="text-align: center;">Mdm Lee Yin Ping</td>
+<td style="text-align: center;">lee_yin_ping@moe.edu.sg
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">3 Inspiring</td>
+<td style="text-align: center;">Mr Ting Ming Chong Nicholas</td>
+<td style="text-align: center;">ting_ming_chong_nicholas@moe.edu.sg
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>2023 Primary 3 Form Teachers</strong></h4>
 <div>
 <div>
@@ -735,4 +832,4 @@ variant: markdown
 <p>Deployment is subjected to changes at the management's discretion according to school's needs. No prior notice will be given.<br>Page updated on: 4 July 2023</p>
 </div>
 </div>
-</div>
+</div></div></div>
