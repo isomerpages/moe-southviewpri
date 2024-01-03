@@ -748,6 +748,31 @@ variant: markdown
 <td style="text-align: center;">Mdm Chang Onn Nee</td>
 <td style="text-align: center;">chang_onn_nee@moe.edu.sg</td>
 </tr>
+	<tr>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Ms Cheung Mee Hoong Karen</td>
+<td style="text-align: center;">cheung_mee_hoong_karen@moe.edu.sg</td>
+</tr>
+		<tr>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Ms Rosnaini Bte Abdul Rasid</td>
+<td style="text-align: center;">rosnaini_abdul_rasid@moe.edu.sg</td>
+</tr>
+			<tr>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Ms Woo Yeong Chyi</td>
+<td style="text-align: center;">woo_yeong_chyi@moe.edu.sg</td>
+</tr>
+			<tr>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Mr Loh Yin Sheng Matthew</td>
+<td style="text-align: center;">matthew_loh_yin_sheng@moe.edu.sg</td>
+</tr>
+			<tr>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Mdm Mastura Bte Mohamed Yusoff</td>
+<td style="text-align: center;">mastura_mohamed_yusoff@moe.edu.sg</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>2023 Allied Educators</strong></h4>
@@ -780,7 +805,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p>Deployment is subjected to changes at the management's discretion according to school's needs. No prior notice will be given.<br>Page updated on: 4 July 2023</p>
+<p>Deployment is subjected to changes at the management's discretion according to school's needs. No prior notice will be given.<br>Page updated on: 3 Jan 2024</p>
 </div>
 </div>
 </div>
