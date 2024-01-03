@@ -163,6 +163,11 @@ variant: markdown
 <td style="text-align: center; height: 54px; width: 146.25px;">Mr Thomas Lim</td>
 <td style="text-align: center; height: 54px; width: 305.828px;">lim_yong_peng@moe.edu.sg</td>
 </tr>
+	<tr style="height: 54px;">
+<td style="text-align: center; height: 54px; width: 212.922px;">Operations Manager<br></td>
+<td style="text-align: center; height: 54px; width: 146.25px;">Mr Muhammad Azli Bin Mad Ali</td>
+<td style="text-align: center; height: 54px; width: 305.828px;">muhammad_azli_mad_ali@moe.edu.sg</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -208,11 +213,6 @@ variant: markdown
 <td style="text-align: center;">Senior Teacher<br>Social Studies</td>
 <td style="text-align: center;">Mrs Tan-Cheong May Ling Karen</td>
 <td style="text-align: center;">cheong_may_ling_karen@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;">Senior Teacher<br>Learning Needs</td>
-<td style="text-align: center;">Mdm Selena Akhbar</td>
-<td style="text-align: center;">selena_akhbar@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">Senior Teacher<br>Chinese Language</td>
