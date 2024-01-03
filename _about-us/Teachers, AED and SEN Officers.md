@@ -459,43 +459,50 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">5 Steadfast</td>
-<td style="text-align: center;">Mr Nazaruddin B Mohamed Isnin</td>
-<td style="text-align: center;">nazaruddin_mohamed_isnin@moe.edu.sg</td>
+<td style="text-align: center;">Mdm Siti Raudhah Bte Yusoff</td>
+<td style="text-align: center;">siti_raudhah_yusoff@moe.edu.sg
+</td>
 </tr>
 <tr>
 <td style="text-align: center;">5 Steadfast</td>
-<td style="text-align: center;">Mdm Teo Gee Hua Sylvia</td>
-<td style="text-align: center;">teo_gee_hua_sylvia@moe.edu.sg</td>
+<td style="text-align: center;">Mdm Boey Kah Lai</td>
+<td style="text-align: center;">boey_kah_lai@moe.edu.sg
+</td>
 </tr>
 <tr>
 <td style="text-align: center;">5 Optimistic</td>
-<td style="text-align: center;">Mdm Chong Lee Chen</td>
-<td style="text-align: center;">chong_lee_chen@moe.edu.sg</td>
+<td style="text-align: center;">Mdm Natasha Nadia Bte Mohd Hafizd</td>
+<td style="text-align: center;">natasha_nadia_mohd_hafizd@moe.edu.sg
+</td>
 </tr>
 <tr>
 <td style="text-align: center;">5 Optimistic</td>
-<td style="text-align: center;">Mdm Norzelawati Bte Shariff</td>
-<td style="text-align: center;">norzelawati_shariff@moe.edu.sg</td>
+<td style="text-align: center;">Mr Khor Tian Boon Nicholas</td>
+<td style="text-align: center;">khor_tian_boon_nicholas@moe.edu.sg
+</td>
 </tr>
 <tr>
 <td style="text-align: center;">5 Unity</td>
-<td style="text-align: center;">Mdm Noor Azlinah Bte Abdul Aziz</td>
-<td style="text-align: center;">noor_azlinah_abdul_aziz@moe.edu.sg</td>
+<td style="text-align: center;">Mdm Sim Yew Hong</td>
+<td style="text-align: center;">sim_yew_hong@moe.edu.sg
+</td>
 </tr>
 <tr>
 <td style="text-align: center;">5 Unity</td>
-<td style="text-align: center;">Ms Choy Yong En Carene</td>
-<td style="text-align: center;">choy_yong_en_carene@moe.edu.sg</td>
+<td style="text-align: center;">Mr Ong Wei Li Willy</td>
+<td style="text-align: center;">ong_wei_li_willy@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">5 Tenacity</td>
-<td style="text-align: center;">Mr Tong Zhi Loong Dominic</td>
-<td style="text-align: center;">tong_zhi_loong_dominic@moe.edu.sg</td>
+<td style="text-align: center;">Mr Koh Rensheng Andrew</td>
+<td style="text-align: center;">koh_rensheng_andrew@moe.edu.sg
+</td>
 </tr>
 <tr>
 <td style="text-align: center;">5 Tenacity</td>
-<td style="text-align: center;">Mr Ting Ming Chong Nicholas</td>
-<td style="text-align: center;">ting_ming_chong_nicholas@moe.edu.sg</td>
+<td style="text-align: center;">Mdm Ng Hwee Mian</td>
+<td style="text-align: center;">ng_hwee_main@moe.edu.sg
+</td>
 </tr>
 <tr>
 <td style="text-align: center;">5 Humility</td>
