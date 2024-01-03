@@ -518,23 +518,27 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">5 Virtuous</td>
-<td style="text-align: center;">Mr Lam Jun Jie James</td>
-<td style="text-align: center;">lam_jun_jie_james@moe.edu.sg</td>
+<td style="text-align: center;">Mr Quah Yan Teik Dominic</td>
+<td style="text-align: center;">quah_yan_teik_dominic@moe.edu.sg
+</td>
 </tr>
 <tr>
 <td style="text-align: center;">5 Virtuous</td>
-<td style="text-align: center;">Mdm Nafisah Nurraudhah Bte Sa'dollah</td>
-<td style="text-align: center;">nafisah_nurraudhah_sado@moe.edu.sg</td>
+<td style="text-align: center;">Mdm Haslinda Bte Othman</td>
+<td style="text-align: center;">haslinda_othman@moe.edu.sg
+</td>
 </tr>
 <tr>
 <td style="text-align: center;">5 Inspiring</td>
-<td style="text-align: center;">Ms Chin Hui Min Vanessa</td>
-<td style="text-align: center;">chin_hui_min_vanessa@moe.edu.sg</td>
+<td style="text-align: center;">Mdm Noor Azlinah Bte Abdul Aziz</td>
+<td style="text-align: center;">noor_azlinah_abdul_aziz@moe.edu.sg
+</td>
 </tr>
 <tr>
 <td style="text-align: center;">5 Inspiring</td>
-<td style="text-align: center;">Mdm Majeena Rosia D/O Abdullah</td>
-<td style="text-align: center;">majeena_rosia_abdullah@moe.edu.sg</td>
+<td style="text-align: center;">Ms Tan Jie Qi Denise</td>
+<td style="text-align: center;">tan_jie_qi_denise@moe.edu.sg
+</td>
 </tr>
 </tbody>
 </table>
