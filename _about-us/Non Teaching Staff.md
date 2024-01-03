@@ -152,11 +152,6 @@ variant: markdown
 <td style="text-align: center;">Ms Cheo Eve Lyn</td>
 <td style="text-align: center;">cheo_eve_lyn@moe.edu.sg</td>
 </tr>
-<tr>
-<td style="text-align: center;">Counsellor</td>
-<td style="text-align: center;">Mrs Chng Sai Tuan</td>
-<td style="text-align: center;">chng_sai_tuan@moe.edu.sg</td>
-</tr>
 </tbody>
 </table>
-<p>Page updated on: 10 Nov 2023</p>
+<p>Page updated on: 3 Jan 2024</p>
