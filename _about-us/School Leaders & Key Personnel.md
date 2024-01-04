@@ -83,6 +83,11 @@ variant: markdown
 <td style="text-align: center; height: 54px; width: 146.25px;">Mrs Jane Soon-Du Hui Jun</td>
 <td style="text-align: center; height: 54px; width: 305.828px;">du_hui_jun_jane@moe.edu.sg</td>
 </tr>
+	<tr style="height: 54px;">
+<td style="text-align: center; height: 54px; width: 212.922px;">Head of Department<br>PE, HE &amp; CCA</td>
+<td style="text-align: center; height: 54px; width: 146.25px;">Mrs Jane Soon-Du Hui Jun</td>
+<td style="text-align: center; height: 54px; width: 305.828px;">du_hui_jun_jane@moe.edu.sg</td>
+</tr>
 <tr style="height: 54px;">
 <td style="text-align: center; height: 54px; width: 212.922px;">School Staff Developer<br><br></td>
 <td style="text-align: center; height: 54px; width: 146.25px;">Mdm Jaida Goh Lay Choo</td>
@@ -90,7 +95,7 @@ variant: markdown
 </tr>
 <tr style="height: 54px;">
 <td style="text-align: center; height: 54px; width: 212.922px;">Year Head<br>Upper Primary</td>
-<td style="text-align: center; height: 54px; width: 146.25px;">&nbsp;Mrs Farzila Anuar</td>
+<td style="text-align: center; height: 54px; width: 146.25px;">Mrs Farzila Anuar</td>
 <td style="text-align: center; height: 54px; width: 305.828px;">farzila_fikri@moe.edu.sg</td>
 </tr>
 <tr style="height: 54px;">
@@ -119,7 +124,7 @@ variant: markdown
 <td style="text-align: center; height: 36px; width: 305.828px;">liu_qiuyi@moe.edu.sg</td>
 </tr>
 <tr style="height: 36px;">
-<td style="text-align: center; height: 36px; width: 212.922px;">Level Head<br>Curriculum &amp; Assessment</td>
+<td style="text-align: center; height: 36px; width: 212.922px;">Level Head<br>Mathematics</td>
 <td style="text-align: center; height: 36px; width: 146.25px;">Mdm Ng Hwee Mian</td>
 <td style="text-align: center; height: 36px; width: 305.828px;">ng_hwee_main@moe.edu.sg</td>
 </tr>
@@ -132,11 +137,6 @@ variant: markdown
 <td style="text-align: center; height: 54px; width: 212.922px;">Subject Head<br>PE &amp; CCA</td>
 <td style="text-align: center; height: 54px; width: 146.25px;">Mr Mohammed Fadzliegh Nordin</td>
 <td style="text-align: center; height: 54px; width: 305.828px;">mohammed_fadzliegh_nordin@moe.edu.sg</td>
-</tr>
-<tr style="height: 36px;">
-<td style="text-align: center; height: 36px; width: 212.922px;">Subject Head<br>PE &amp; CCA</td>
-<td style="text-align: center; height: 36px; width: 146.25px;">Mdm Damaria Sri Aminy Tumbuck</td>
-<td style="text-align: center; height: 36px; width: 305.828px;">damaria_sri_aminy_tumbuck@moe.edu.sg</td>
 </tr>
 <tr style="height: 36px;">
 <td style="text-align: center; height: 36px; width: 212.922px;">Subject Head<br>Character &amp; Citizenship Education</td>
