@@ -12,12 +12,6 @@ sections:
         - title: WE-STories 2023
           description: Click here for WE-STories 2023
           url: https://online.fliphtml5.com/obrr/qkde/#p=1
-        - title: Announcement - Closure of Gate 3
-          description: Until end of Dec 2023
-          url: /announcements/closure-of-gate-3-due-to-moe-kindergarten-mk-works/
-        - title: General Office (GO) operating hours during school holidays
-          description: Operating Hours for GO
-          url: /announcements/general-office-operating-hours-during-school-holidays/
         - title: P1 Orientation
           description: P1 Orientation Briefing
           url: /student-development/p1-transition-programme/p1-orientation/
