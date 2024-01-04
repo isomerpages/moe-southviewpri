@@ -87,6 +87,11 @@ variant: markdown
 <td style="text-align: center;">Mr Yee Chee Hor</td>
 <td style="text-align: center;">svps@moe.edu.sg</td>
 </tr>
+	<tr>
+<td style="text-align: center;">OSO</td>
+<td style="text-align: center;">Mdm Noraini Bte Mohammed Ali</td>
+<td style="text-align: center;">svps@moe.edu.sg</td>
+</tr>
 </tbody>
 </table>
 <h4><strong><u>School Support Staff</u></strong></h4>
