@@ -18,7 +18,7 @@ variant: markdown
 <td style="text-align: center;">
 <p>2024 Semester 1</p>
 </td>
-<td style="text-align: center;">Calendar<br>After-School Activities Schedule<br><a href="https://drive.google.com/file/d/1R82xX_kbxfIn2hELIjhrz4_kV-xvUThb/view?usp=sharing" target="_blank" rel="noopener">Overall CCA Schedule</a><br>
+<td style="text-align: center;">Calendar<br><a href="https://drive.google.com/file/d/1NtMqsVlqKPbvSVot6Tn57-P6WWsMGpX5/view?usp=sharing" target="_blank" rel="noopener">After-School Activities Schedule</a><br><a href="https://drive.google.com/file/d/1pKGcnVR8M0MCkhGWrLdcQV8TOJpkc1-T/view?usp=sharing" target="_blank" rel="noopener">Overall CCA Schedule</a><br>
 </td>
 </tr>
 <tr>
