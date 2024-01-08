@@ -5,3 +5,4 @@ variant: markdown
 description: ""
 third_nav_title: Parents Association
 ---
+<img src="/images/SVPA_Organisation_Chart.jpg">
