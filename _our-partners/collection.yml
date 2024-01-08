@@ -3,14 +3,14 @@ collections:
     output: true
     order:
       - School Advisory Committee.md
+      - Parents Association/.keep
+      - Parents Association/Parents Association.md
       - Parents Association/SVPA Organisation Chart.md
       - Parents Association/SVPA Logo.md
       - Parents Association/About SVPA.md
       - Parents Association/SVPA Activities.md
       - Parents Association/Annual General Meeting.md
       - Parents Association/Join Us.md
-      - Parents Association/Parents Association.md
-      - Parents Association/.keep
       - Family Matters @ SV.md
       - Alumni Association/.keep
       - Alumni Association/Alumni Association.md
