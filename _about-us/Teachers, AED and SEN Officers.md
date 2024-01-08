@@ -20,7 +20,7 @@ variant: markdown
 <tr>
 <td style="text-align: center;">1 Steadfast</td>
 <td style="text-align: center;">Ms Nur Hasinah Bte Mohammad Sidek</td>
-<td style="text-align: center;">hasinah_mohammad_sidek_a@moe.edu.sg</td>
+<td style="text-align: center;">nur_hasinah_mohammad_sidek_a@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">1 Optimistic</td>
