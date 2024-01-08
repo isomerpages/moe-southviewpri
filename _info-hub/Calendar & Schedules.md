@@ -18,7 +18,7 @@ variant: markdown
 <td style="text-align: center;">
 <p>2024 Semester 1</p>
 </td>
-<td style="text-align: center;">Calendar<br>After-School Activities Schedule<br>Overall CCA Schedule<br>
+<td style="text-align: center;">Calendar<br>After-School Activities Schedule<br><a href="https://drive.google.com/file/d/1R82xX_kbxfIn2hELIjhrz4_kV-xvUThb/view?usp=sharing" target="_blank" rel="noopener">Overall CCA Schedule</a><br>
 </td>
 </tr>
 <tr>
