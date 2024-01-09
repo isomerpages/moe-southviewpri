@@ -2,6 +2,7 @@
 title: School Advisory Committee
 permalink: /our-partners/school-advisory-committee/
 description: ""
+variant: markdown
 ---
 <table style="margin-left: auto; margin-right: auto;">
 <tbody>
@@ -31,7 +32,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">Member</td>
-<td style="text-align: center;">Miss Tan Zhen Ji (Hazel)</td>
+<td style="text-align: center;">Miss Tan Zhen Ji Hazel</td>
 </tr>
 <tr>
 <td style="text-align: center;">Member</td>
@@ -39,11 +40,15 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">Member</td>
-<td style="text-align: center;">Mr Sebastian Chng</td>
+<td style="text-align: center;">Mr Sebastian Chng Tshun Siong</td>
 </tr>
 <tr>
 <td style="text-align: center;">Member</td>
 <td style="text-align: center;">Mr Sik Joel</td>
+</tr>
+	<tr>
+<td style="text-align: center;">Member</td>
+<td style="text-align: center;">Mdm Yang Linlin</td>
 </tr>
 </tbody>
 </table>
