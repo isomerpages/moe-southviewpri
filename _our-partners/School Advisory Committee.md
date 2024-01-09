@@ -52,4 +52,4 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p>Page last updated on: 21 January 2022</p>
+<p>Page last updated on: 9 January 2024</p>
