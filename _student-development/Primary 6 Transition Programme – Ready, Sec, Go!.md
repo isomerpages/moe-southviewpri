@@ -10,9 +10,7 @@ variant: markdown
 </p><ol><li>To encourage students to be continual learners and create awareness of the viable education and career options through the provision of accurate and comprehensive information.</li>
 <li>To nurture students' confidence and social emotional skills to build positive relationships with others.</li>
 <li>To provide opportunities for students to develop growth mindset and GRIT to build up mental resilience to transit smoothly to the next phase of education journey.</li></ol><p></p>
-	<p><img style="width:70%" src="/images/PRSG1.jpg">
-	<img style="width:70%" src="/images/PRSG2.jpg">
-	<img style="width:70%" src="/images/PRSG3.jpg">
+	<p><img src="/images/P6T.jpg">
 </p>
 <p><u><strong>Useful links for students and parents</strong></u><br><br>
 	<strong>Education &amp; Career Guidance</strong><br>
