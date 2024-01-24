@@ -40,5 +40,5 @@ variant: markdown
 		</tr>
 	</tbody>
 	</table>
-	<img style="width: 50%" src="/images/Maths%20webpage.jpg">
+	<img src="/images/Maths_webpage.jpg">
 <p>Page last updated: 24 January 2024</p>
