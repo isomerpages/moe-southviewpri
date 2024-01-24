@@ -17,18 +17,7 @@ To nurture a joy of learning and develop an inquiring mind.</p>
 <p></p>
 <p><u><strong>Department belief</strong></u><br>
 Joy of learning is purposeful and meaningful learning.  It happens when a student understands the purpose of learning the subject and is able to make connection between what is learnt and in real life.</p>
-
-
-
-
-<p>We are preparing them to:</p>
-<ul>
-<li>develop skills, habits of mind and attitudes necessary for scientific inquiry&nbsp;</li>
-<li>use using scientific knowledge and methods in making personal decisions&nbsp;</li>
-<li>apply the knowledge they acquired to help them understand themselves and the world around them</li>
-</ul>
-<p><u><strong>Our department belief</strong><br></u>Joy of learning is purposeful and meaningful learning. This happens when a student understands the purpose of learning the subject and is able to make connection between what is learnt and how to connect and apply in real life.</p>
-<p><strong><u>Our Key Programmes</u></strong></p>
+<h4><u>Our programmes</u></h4>
 <table width="0">
 <tbody>
 <tr>
