@@ -2,9 +2,23 @@
 title: Science
 permalink: /departments/science/
 description: ""
+variant: markdown
 ---
 <img style="width: 100%;" src="/images/sci3.jpg">
-<p>The Science department aims to develop students to be curious learners who have the knowledge and skills to make connection between themselves and the world around them.</p>
+<p><u><strong>Vision</strong></u><br>
+Lifelong learners who have the spirit of inquiry.</p>
+<p><u><strong>Mission</strong></u><br>
+To nurture a joy of learning and develop an inquiring mind.</p>
+<p><u><strong>Aims <a> "https://www.moe.gov.sg/-/media/files/primary/syllabus/2023-primary-science.pdfhttps:/www.moe.gov.sg/-/media/files/primary/syllabus/2023-primary-science.pdf" (Source: CPDD)</a></strong></u><br>
+</p><ul><li>Build on students’ interest and stimulate their curiosity about themselves and their environment.</li>
+<li>Acquire basic scientific concepts to help students understand themselves and the world around them.</li>
+<li>Develop skills, dispositions, and attitudes for scientific inquiry.</li>
+<li>Apply scientific concepts and skills in making responsible decisions.</li><li>Appreciate how Science influences people and the environment.</li></ul>
+<p></p>
+
+
+
+
 <p>We are preparing them to:</p>
 <ul>
 <li>develop skills, habits of mind and attitudes necessary for scientific inquiry&nbsp;</li>
