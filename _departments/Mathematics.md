@@ -2,11 +2,13 @@
 title: Mathematics
 permalink: /departments/mathematics/
 description: ""
+variant: markdown
 ---
 <p>Our Mathematics programmes aims to:</p>
-<li>Introduce students to concepts, skills and thinking strategies that are essential in everyday life and support learning across the curriculum
-</li><li>Help students make sense of the numbers, patterns and shapes they see in the world around them, offers ways of handling data in an increasingly digital world 
-</li><li>Provide students with an opportunity to enrich their learning experiences beyond the core curriculum<br>
+<p></p><ul><li>Introduce students to concepts, skills and thinking strategies that are essential in everyday life and support learning across the curriculum</li>
+<li>Help students make sense of the numbers, patterns and shapes they see in the world around them, offers ways of handling data in an increasingly digital world</li>
+<li>Provide students with an opportunity to enrich their learning experiences beyond the core curriculum
+</li></ul><p></p>
 	<p><strong><u>Our Key Programmes</u></strong></p>
 <table>
 	<tbody>
@@ -43,4 +45,4 @@ description: ""
 	</tbody>
 	</table>
 	<img style="width: 50%" src="/images/Maths%20webpage.jpg">
-<p>Page last updated: 20 January 2023</p></li>
+<p>Page last updated: 20 January 2023</p>
