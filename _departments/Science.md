@@ -15,6 +15,8 @@ To nurture a joy of learning and develop an inquiring mind.</p>
 <li>Develop skills, dispositions, and attitudes for scientific inquiry.</li>
 <li>Apply scientific concepts and skills in making responsible decisions.</li><li>Appreciate how Science influences people and the environment.</li></ul>
 <p></p>
+<p><u><strong>Department belief</strong></u><br>
+Joy of learning is purposeful and meaningful learning.  It happens when a student understands the purpose of learning the subject and is able to make connection between what is learnt and in real life.</p>
 
 
 
