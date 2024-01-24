@@ -24,16 +24,12 @@ variant: markdown
 		</tr>
 		<tr>
 			<td>Math Journaling</td>
-			<td><ul><li>To enhance classroom learning and stimulate thinking regarding mathematics learning and enhance conceptual understanding</li></ul></td>
+			<td><ul><li>To enhance classroom learning and stimulate thinking regarding mathematics learning and enhance conceptual understanding</li>
+			<li>To give greater attention to the development of metacognitive skills</li></ul></td>
 			<td>Primary 1 - 5</td>
 		</tr>
 		<tr>
-			<td>Math Learning Day</td>
-			<td><ul><li>To sharpen the thinking skills of P3 students through hands-on activities</li><li>To provide an environment for team building and building of students’ social skills</li><li>To have an opportunity to tap on Mathematical knowledge learnt to real life situations</li></ul></td>
-			<td>Primary 3</td>
-		</tr>
-		<tr>
-			<td>Level Activity</td>
+			<td>Learning Space Activity</td>
 			<td><ul><li>To appreciate the use of Mathematics in real world</li><li>To enjoy Mathematics and develop patience and persistence in solving problems</li><li>To develop Mathematical curiosity</li></ul></td>
 			<td>All Level</td>
 		</tr>
@@ -45,4 +41,4 @@ variant: markdown
 	</tbody>
 	</table>
 	<img style="width: 50%" src="/images/Maths%20webpage.jpg">
-<p>Page last updated: 20 January 2023</p>
+<p>Page last updated: 24 January 2024</p>
