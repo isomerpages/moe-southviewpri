@@ -2,21 +2,27 @@
 title: Science
 permalink: /departments/science/
 description: ""
+variant: markdown
 ---
 <img style="width: 100%;" src="/images/sci3.jpg">
-<p>The Science department aims to develop students to be curious learners who have the knowledge and skills to make connection between themselves and the world around them.</p>
-<p>We are preparing them to:</p>
-<ul>
-<li>develop skills, habits of mind and attitudes necessary for scientific inquiry&nbsp;</li>
-<li>use using scientific knowledge and methods in making personal decisions&nbsp;</li>
-<li>apply the knowledge they acquired to help them understand themselves and the world around them</li>
-</ul>
-<p><u><strong>Our department belief</strong><br></u>Joy of learning is purposeful and meaningful learning. This happens when a student understands the purpose of learning the subject and is able to make connection between what is learnt and how to connect and apply in real life.</p>
-<p><strong><u>Our Key Programmes</u></strong></p>
-<table width="0">
+<p><u><strong>Vision</strong></u><br>
+Lifelong learners who have the spirit of inquiry.</p>
+<p><u><strong>Mission</strong></u><br>
+To nurture a joy of learning and develop an inquiring mind.</p>
+<p><u><strong>Aims <a href="https://www.moe.gov.sg/-/media/files/primary/syllabus/2023-primary-science.pdfhttps:/www.moe.gov.sg/-/media/files/primary/syllabus/2023-primary-science.pdf" target="_blank" rel="noopener">(Source: CPDD)</a></strong></u><br>
+</p><ul><li>Build on students’ interest and stimulate their curiosity about themselves and their environment.</li>
+<li>Acquire basic scientific concepts to help students understand themselves and the world around them.</li>
+<li>Develop skills, dispositions, and attitudes for scientific inquiry.</li>
+<li>Apply scientific concepts and skills in making responsible decisions.</li><li>Appreciate how Science influences people and the environment.</li></ul>
+<p></p>
+<p><u><strong>Department belief</strong></u><br>
+Joy of learning is purposeful and meaningful learning.  It happens when a student understands the purpose of learning the subject and is able to make connection between what is learnt and in real life.</p>
+<h4><u>Our programmes</u></h4>
+<h4><i>Do and Discover</i></h4><table width="0">
 <tbody>
-<tr>
-<td style="text-align: center;" width="103">
+<tr style="text-align: center;">
+	</tr>
+<tr><td style="text-align: center;" width="103">
 <p><strong>Name of Programmes</strong></p>
 </td>
 <td style="text-align: center;" width="386">
