@@ -6,7 +6,7 @@ third_nav_title: Parents Association
 variant: markdown
 ---
 <p><strong>2024 CALENDAR OF EVENTS</strong><br>
-*Calendar woll be updated shortly</p>
+*Calendar will be updated shortly</p>
 
 <p>Important Notes:&nbsp;</p>
 <ol>
