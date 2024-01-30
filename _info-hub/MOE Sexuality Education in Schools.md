@@ -6,17 +6,22 @@ variant: tiptap
 ---
 <p><strong>Moe Sexuality Education in Schools</strong>
 </p>
-<p>&nbsp;1. Sexuality Education (SEd) in schools aims to enable students
-to understand the physiological, social and emotional changes they experience
-as they mature, develop healthy and rewarding relationships with others,
-including those with members of the opposite sex, and make wise, informed
-and responsible decisions on sexuality matters. SEd is premised on the
-importance of the family as the basic unit of society. This means encouraging
-healthy, heterosexual marriages and stable nuclear family units with extended
-family support. The teaching and learning of SEd is based on respect for
-the values and beliefs of the different ethnic and religious communities
-in Singapore on sexuality issues.</p>
-<p>&nbsp;2. The <strong>Goals</strong> of Sexuality Education are:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Sexuality Education (SEd) in schools aims to enable students to understand
+the physiological, social and emotional changes they experience as they
+mature, develop healthy and rewarding relationships with others, including
+those with members of the opposite sex, and make wise, informed and responsible
+decisions on sexuality matters. SEd is premised on the importance of the
+family as the basic unit of society. This means encouraging healthy, heterosexual
+marriages and stable nuclear family units with extended family support.
+The teaching and learning of SEd is based on respect for the values and
+beliefs of the different ethnic and religious communities in Singapore
+on sexuality issues.</p>
+<p></p>
+</li>
+<li>
+<p>The <strong>Goals</strong> of Sexuality Education are:</p>
 <p>(a) Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships.</p>
 <p>(b) Guide students to make wise, informed and responsible decisions on
@@ -24,19 +29,23 @@ sexuality matters.</p>
 <p>(c) Help students develop a moral compass and respect for themselves and
 others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
-<p>&nbsp;3. The <strong>Key Messages</strong> of Sexuality Education are:</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and respect
-yourself as you love and respect others;</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build positive
-relationships based on love and respect (which are the foundation for strong
-families);</p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Make responsible
-decisions for yourself, your family and society; and</p>
-<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence before
-marriage is the best protection against STIs/HIV and unintended pregnancies.
-Casual sex can harm and hurt you and your loved ones.</p>
-<p>&nbsp;You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information
-on MOE Sexuality Education.</p>
+<p></p>
+</li>
+<li>
+<p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
+<p>(a) Love and respect yourself as you love and respect others;</p>
+<p>(b) Build positive relationships based on love and respect (which are
+the foundation for strong families);</p>
+<p>(c) Make responsible decisions for yourself, your family and society;
+and</p>
+<p>(d) Abstinence before marriage is the best protection against STIs/HIV
+and unintended pregnancies. Casual sex can harm and hurt you and your loved
+ones.</p>
+<p></p>
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information on MOE Sexuality Education.</p>
+</li>
+</ol>
 <p></p>
 <p><strong><u>OVERVIEW OF SOUTH VIEW PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024</u></strong>
 </p>
@@ -50,12 +59,12 @@ more information on the scope of Sexuality Education in the school curriculum.</
 </li>
 <li>
 <p>The subjects that incorporate topics on sexuality include:</p>
-</li>
-</ol>
 <p>a. Science</p>
 <p>b. Character and Citizenship Education (CCE)</p>
+</li>
+</ol>
 <p></p>
-<p><strong><u>Sexuality Education Lessons: </u></strong>
+<p><strong><u>Sexuality Education Lessons:</u></strong>
 </p>
 <ol start="6" data-tight="true" class="tight">
 <li>
@@ -87,16 +96,22 @@ from sexuality-related risks.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/SEP6.jpg">
 </div>
-<p><strong><u>Please Note:</u><br>*For <u>2023</u>, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.</strong>
+<p><strong><u>INFORMATION FOR PARENTS</u></strong>
 </p>
-<p><strong>INFORMATION FOR PARENTS</strong>
-</p>
-<p>8. Parents may opt their children out of Sexuality Education lessons,
-and/or supplementary Sexuality Education programmes by MOE-approved external
-providers.</p>
-<p>9. Parents who wish to opt their children out of the Sexuality Education
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p>Parents may opt their children out of Sexuality Education lessons, and/or
+supplementary Sexuality Education programmes by MOE-approved external providers.</p>
+</li>
+<li>
+<p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form via Parents Gateway. The completed
-opt-out form is to be submitted by 3rd February 2023.</p>
-<p>10. Parents can contact the school at 67697176 for discussion or to seek
-clarification about the school’s Sexuality Education programme.</p>
-<p>Page last updated on: 25 January 2023</p>
+opt-out form is to be submitted by 9 February 2024.</p>
+</li>
+<li>
+<p>Parents can contact the school at 67697176 for discussion or to seek clarification
+about the school’s Sexuality Education programme.</p>
+<p></p>
+</li>
+</ol>
+<p>Page last updated on: 30 January 2024</p>
