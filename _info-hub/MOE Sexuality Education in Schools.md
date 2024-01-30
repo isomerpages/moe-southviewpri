@@ -89,6 +89,7 @@ to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 </li>
 </ol>
+<p><strong>At South View Primary School, the following Sexuality Education lessons will be taught in 2024:</strong></p>
 <img src="/images/SEP5.jpg">
 <img src="/images/SEP6.jpg">
 <p><strong><u>INFORMATION FOR PARENTS</u></strong>
