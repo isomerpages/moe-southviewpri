@@ -4,7 +4,7 @@ permalink: /departments/science/
 description: ""
 variant: markdown
 ---
-<img style="width: 100%;" src="/images/sci3.jpg">
+<img style="width: 100%;" src="/images/SciM.png">
 <p><u><strong>Vision</strong></u><br>
 Lifelong learners who have the spirit of inquiry.</p>
 <p><u><strong>Mission</strong></u><br>
