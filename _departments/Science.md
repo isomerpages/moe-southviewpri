@@ -18,7 +18,7 @@ To nurture a joy of learning and develop an inquiring mind.</p>
 <p><u><strong>Department belief</strong></u><br>
 Joy of learning is purposeful and meaningful learning.  It happens when a student understands the purpose of learning the subject and is able to make connection between what is learnt and in real life.</p>
 <h4><u>Our programmes</u></h4>
-<img style="width: 150%;" src="/images/Sci1.png">
-<img style="width: 150%;" src="/images/Sci2.png">
-<img style="width: 150%;" src="/images/Sci3.png">
+<img style="width: 200%;" src="/images/Sci1.png">
+<img style="width: 200%;" src="/images/Sci2.png">
+<img style="width: 200%;" src="/images/Sci3.png">
 <p>Page last updated: 7 February 2024</p>
