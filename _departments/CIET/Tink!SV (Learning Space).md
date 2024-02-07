@@ -21,7 +21,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TinkSV_pg4.jpg">
 </div>
 <p></p>
-<p><strong><u>Teachers-in-charge</u></strong>
+<p><strong><u>Teachers-in-charge</u></strong> 
 <br>
 <br>Mdm Lee Li Peng
 <br>Mr Tong Zhi Loong Dominic
