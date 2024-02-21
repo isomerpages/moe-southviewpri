@@ -6,4 +6,4 @@ description: ""
 
 
 
-[Ready, Sec, Go!](https://moe-southviewpri-staging.netlify.app//departments/student-development/primary-6-transition-programme-ready-sec-go/)
+[Ready, Sec, Go!](//departments/student-development/primary-6-transition-programme-ready-sec-go/)
