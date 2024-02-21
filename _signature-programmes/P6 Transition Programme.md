@@ -6,4 +6,4 @@ description: ""
 
 
 
-[Ready, Sec, Go!](//departments/student-development/primary-6-transition-programme-ready-sec-go/)
+[Ready, Sec, Go!](/departments/student-development/primary-6-transition-programme-ready-sec-go/)
