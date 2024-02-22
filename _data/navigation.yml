@@ -1,0 +1,110 @@
+logo: /images/logo.png
+links:
+  - title: About Us
+    url: /about-us/message-for-school-website-2024/
+    sublinks:
+      - title: SVPS Message for 2024
+        url: /about-us/message-for-school-website-2024/
+      - title: Our Beliefs
+        url: /about-us/our-beliefs
+      - title: Our Identity
+        url: /about-us/our-identity
+      - title: School Leaders & Key Personnel
+        url: /about-us/school-leaders-n-key-personnel
+      - title: Teachers, AED and SEN Officers
+        url: /about-us/teachers-aed-and-sen-officers
+      - title: Non Teaching Staff
+        url: /about-us/non-teaching-staff
+      - title: School Rules
+        url: /about-us/school-rules
+  - title: Departments
+    url: /departments
+    sublinks:
+      - title: English Language
+        url: /departments/english-language
+      - title: Mathematics
+        url: /departments/mathematics
+      - title: Science
+        url: /departments/science
+      - title: Mother Tongue Languages
+        url: /departments/mother-tongue-languages
+      - title: PHE & Aesthetics
+        url: /departments/phe-n-aesthetics
+      - title: CIET
+        url: /departments/curriculum-innovation-n-educational-technology
+      - title: Pupil Well Being
+        url: /departments/pupil-well-being
+      - title: CCE
+        url: /departments/character-n-citizenship-education
+      - title: Student Development
+        url: /student-development/
+      - title: LPES
+        url: /departments/learner-profiles-and-educational-support
+  - title: Signature Programmes
+    url: /signature-programmes/
+    sublinks:
+      - title: (LLP) Love Dance, Love Life!
+        url: /signature-programmes/llp-love-dance-love-life/
+      - title: (ALP) Sustaining Gaia
+        url: /departments/ciet/alp-sustaining-gaia/
+      - title: P1 Transition Programme
+        url: /student-development/p1-transition-programme/
+      - title: P6 Transition Programme
+        url: /student-development/primary-6-transition-programme-ready-sec-go/
+      - title: GastroChef
+        url: /signature-programmes/physical-n-health-education-cca-n-aesthetics/gastrochef-with-a-cultural-twist
+  - title: CCAs
+    url: /co-curricular-activities
+    sublinks:
+      - title: Clubs & Societies
+        url: /co-curricular-activities/library-club/
+      - title: Sports & Games
+        url: /co-curricular-activities/badminton
+      - title: Uniformed Groups
+        url: /co-curricular-activities/boys-brigade-n-girls-brigade
+      - title: Visual & Performing Arts
+        url: /co-curricular-activities/art-club
+      - title: Student Leadership
+        url: /co-curricular-activities/student-leadership
+  - title: Our Partners
+    url: /our-partners/school-advisory-committee
+    sublinks:
+      - title: School Advisory Committee
+        url: /our-partners/school-advisory-committee
+      - title: Parents Association
+        url: /our-partners/parents-association/svpa-logo/
+      - title: Family Matters @ SV
+        url: /our-partners/family-matters-at-sv
+      - title: Alumni Association
+        url: /our-partners/alumni-association
+  - title: Info Hub
+    url: /info-hub/school-notification
+    sublinks:
+      - title: School Notification
+        url: /info-hub/school-notification
+      - title: Calendar / Schedules
+        url: /info-hub/calendar-schedules
+      - title: School related Services
+        url: /info-hub/school-related-services/school-related-services/
+      - title: School Bus Service
+        url: /info-hub/school-bus-service/
+      - title: School Canteen Advertisement
+        url: /info-hub/school-canteen-advertisement/
+      - title: SLS & Student iCON Matters
+        url: /info-hub/student-learning-space-and-student-icon-matters-general
+      - title: E-Forms
+        url: /info-hub/e-forms
+      - title: Road Safety and Security
+        url: /info-hub/road-safety-and-security
+      - title: School-Home-Partnership
+        url: /info-hub/school-home-partnership-homework-policy
+      - title: School Assessment Policy
+        url: /info-hub/school-assessment-policy
+      - title: MOE Sexuality Education
+        url: /departments/pupil-well-being/moe-sexuality-education-in-schools
+      - title: P1 Registration&40Hr PV scheme
+        url: /info-hub/p1-registration/p1-registration-exercise
+      - title: Contact Information
+        url: /info-hub/contact-information
+  - title: MOE Kindergarten
+    collection: moe-kindergarten

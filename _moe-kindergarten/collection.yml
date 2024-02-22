@@ -1,0 +1,7 @@
+collections:
+  moe-kindergarten:
+    output: true
+    order:
+      - MOE Kindergarten @ South View.md
+      - Information for Parents.md
+      - Open House.md

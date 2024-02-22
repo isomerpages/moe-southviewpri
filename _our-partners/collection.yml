@@ -1,0 +1,15 @@
+collections:
+  our-partners:
+    output: true
+    order:
+      - School Advisory Committee.md
+      - Parents Association/.keep
+      - Parents Association/SVPA Logo.md
+      - Parents Association/About SVPA.md
+      - Parents Association/SVPA Organisation Chart.md
+      - Parents Association/SVPA Activities.md
+      - Parents Association/Join Us.md
+      - Family Matters @ SV.md
+      - Alumni Association/.keep
+      - Alumni Association/Alumni Association.md
+      - Alumni Association/Organisation Chart.md

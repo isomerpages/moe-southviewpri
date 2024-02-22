@@ -1,0 +1,33 @@
+collections:
+  departments:
+    output: true
+    order:
+      - Departments.md
+      - English Language/.keep
+      - English Language/English Language.md
+      - English Language/School Library.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue Languages.md
+      - PHE & Aesthetics/.keep
+      - PHE & Aesthetics/Physical & Health Education.md
+      - PHE & Aesthetics/Aesthetics.md
+      - PHE & Aesthetics/Love Dance, Love Life!.md
+      - PHE & Aesthetics/GastroChef With A Cultural Twist.md
+      - PHE & Aesthetics/Values in Action (VIA) in CCA.md
+      - PHE & Aesthetics/Programme for Active Learning (PAL).md
+      - CIET/.keep
+      - CIET/Curriculum, Innovation & Educational Technology.md
+      - CIET/(ALP) Sustaining Gaia.md
+      - CIET/Tink!SV (Learning Space).md
+      - Pupil Well Being/.keep
+      - Pupil Well Being/Pupil Well Being.md
+      - Pupil Well Being/MOE Sexuality Education in Schools.md
+      - Pupil Well Being/Counselling.md
+      - Pupil Well Being/Modes of Communication with the School.md
+      - Pupil Well Being/Parents Gateway.md
+      - Pupil Well Being/Use of Photographs and Videos for School Publicity.md
+      - Pupil Well Being/The Oasis (Learning Space).md
+      - Character & Citizenship Education.md
+      - Student Development.md
+      - Learner Profiles and Educational Support.md
