@@ -13,6 +13,6 @@ variant: markdown
 	Ms Tay Hwee Hoon<br>
 	Ms Ong Shi Hui</p>
 <p><u><strong>Schedule</strong></u></p>
-<p><u>Mondays</u><br><strong>P3 to P6s</strong><br>4.00 p.m. to 6.00 p.m. (for NSG Team)</p>
+<p><u>Mondays</u><br><strong>P3, P4, P5 &amp; P6</strong><br>4.00 p.m. to 6.00 p.m. (for NSG Team)</p>
 <p><u>Thursdays</u><br>2.00 p.m. to 4.00 p.m.</p>
 <p>Page last updated on: 23 Feb 2024</p>
