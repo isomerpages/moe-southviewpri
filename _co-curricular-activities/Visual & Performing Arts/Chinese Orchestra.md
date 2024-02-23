@@ -10,5 +10,5 @@ variant: markdown
 <p><u><strong>Teachers-in-charge</strong></u></p>
 <p>Mr Tan Weida<br>Mdm Liu Yun<br>Ms Yu Naishan<br>Mdm Guo Wei</p>
 <p><u><strong>Schedule</strong></u></p>
-<p><u>Thursdays</u><br><em>(P4 - P6s)</em><br>2.00 p.m. to 4.00 p.m.</p>
+<p><u>Thursdays</u><br><em>(P4, P5 &amp; P6)</em><br>2.00 p.m. to 4.00 p.m.</p>
 <p>Page last updated on: 23 Feb 2024</p>
