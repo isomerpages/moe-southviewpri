@@ -15,12 +15,9 @@ Mdm See Lina</p>
 <p><u><strong>Schedule</strong></u></p>
 <p><u>Mondays</u><br>
 	<strong>P3 to P6s</strong><br>
-4 – 6 p.m.<br>
-ISH &amp; MPH</p>
+4.00 p.m. to 6.00 p.m.</p>
 <p><u>Thursdays</u><br>
 	<strong>P3 to P6s</strong><br>
-a) 2 – 4 p.m.<br>
-MPH (Development Team)<br><br>
-b) 4 - 6 p.m.<br>
-MPH (School Team)</p>
+a) 2.00 p.m. to 4.00 p.m. (Development Team)<br>
+b) 4.00 p.m. to 6.00 p.m. (School Team)</p>
 <p>Page last updated on: 23 Feb 2024</p>
