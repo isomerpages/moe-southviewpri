@@ -215,10 +215,10 @@ variant: markdown
 <td style="text-align: center;">cheong_may_ling_karen@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center;">Senior Teacher<br>Chinese Language</td>
+<td style="text-align: center;">Lead Teacher<br>Chinese Language</td>
 <td style="text-align: center;">Mr Lam Jun Jie James</td>
 <td style="text-align: center;">lam_jun_jie_james@moe.edu.sg</td>
 </tr>
 </tbody>
 </table>
-<p>Page updated on 4 January 2024</p>
+<p>Page updated on 1 March 2024</p>
