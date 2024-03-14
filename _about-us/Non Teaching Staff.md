@@ -144,14 +144,4 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<h4><strong><u>School Counsellor</u></strong></h4>
-<table>
-<tbody>
-<tr>
-<th style="text-align: center;">Designation</th>
-<th style="text-align: center;">Staff's Name</th>
-<th style="text-align: center;">Email address</th>
-</tr>
-</tbody>
-</table>
 <p>Page updated on: 14 Mar 2024</p>
