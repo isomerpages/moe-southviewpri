@@ -809,7 +809,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p>Deployment is subjected to changes at the management's discretion according to school's needs. No prior notice will be given.<br>Page updated on: 3 Jan 2024</p>
+<p>Deployment is subjected to changes at the management's discretion according to school's needs. No prior notice will be given.<br>Page updated on: 3 Mar 2024</p>
 </div>
 </div>
 </div>
