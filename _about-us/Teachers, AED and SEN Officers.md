@@ -802,9 +802,14 @@ variant: markdown
 <td style="text-align: center;">Ms Shidy Shariani Bte Mohamed Ishak</td>
 <td style="text-align: center;">shidy_shariani@moe.edu.sg</td>
 </tr>
+	<tr>
+<td style="text-align: center;">Counsellor</td>
+<td style="text-align: center;">Ms Cheo Eve Lyn</td>
+<td style="text-align: center;">cheo_eve_lyn@moe.edu.sg</td>
+</tr>
 </tbody>
 </table>
-<p>Deployment is subjected to changes at the management's discretion according to school's needs. No prior notice will be given.<br>Page updated on: 3 Jan 2024</p>
+<p>Deployment is subjected to changes at the management's discretion according to school's needs. No prior notice will be given.<br>Page updated on: 3 Mar 2024</p>
 </div>
 </div>
 </div>
