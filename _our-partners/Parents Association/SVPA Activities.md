@@ -6,7 +6,7 @@ third_nav_title: Parents Association
 variant: markdown
 ---
 <p><strong>2024 CALENDAR OF EVENTS</strong><br>
-<img style="width: 100%;" src="/images/SVPA_Calendar.png"></p>
+<img style="width: 80%;" src="/images/SVPA_Calendar.png"></p>
 <p><i>*Kindly be advised that the schedule of events is subject to changes. Thank you for your kind understanding!*</i><br><br>
 Important Notes:<br>
 	1. The above events are subjected to change to align with the school calendar without prior notice.<br>
