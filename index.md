@@ -17,5 +17,5 @@ sections:
           url: /student-development/p1-transition-programme/p1-orientation/
         - title: Announcements
           description: Application for 40Hr PV scheme
-          url: ""
+          url: /application-for-40hrs-pv/
 ---
