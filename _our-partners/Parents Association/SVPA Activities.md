@@ -7,4 +7,4 @@ variant: markdown
 ---
 <p><strong>2024 CALENDAR OF EVENTS</strong><br>
 <img style="width: 120%;" src="/images/SVPA_Calendar.png"></p>
-<p>Last update: 8 Jan 2023</p>
+<p>Last update: 3 April 2024</p>
