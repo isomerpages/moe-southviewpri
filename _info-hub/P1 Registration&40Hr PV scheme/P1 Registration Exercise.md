@@ -14,4 +14,4 @@ variant: markdown
 <p>Please note that South View Primary School will not be offering NTIL classes for the 2019 P1 cohort onwards. If you have any queries, please do not hesitate to contact the school.</p>
 <p><u>3. Application for 40 Hours Parent Volunteer (PV) scheme</u></p>
 <p>Application for 40 Hour Parent Volunteer (PV) scheme is now open till 30th Apr (Tue), 1 pm. This is applicable to parents whose child is born between 2nd Jan 2019 to 1st Jan 2020 for P1 registration in 2025 and thereafter enrolment in 2026.<br><br>
-Application for 40-Hour Parent Volunteer (PV) scheme is now open till 30th Apr, 1 pm. To apply click <a href="https://www.southviewpri.moe.edu.sg/application-for-40hrs-pv/" rel="noopener">HERE</a><br><br>Page last updated: 3 April 2024</p>
+<a href="https://www.southviewpri.moe.edu.sg/application-for-40hrs-pv/" rel="noopener">Application for 40-Hour Parent Volunteer (PV) scheme</a><br><br>Page last updated: 3 April 2024</p>
