@@ -12,7 +12,7 @@ For more information, please visit&nbsp;<a href="https://www.moe.gov.sg/primary/
 <p><u>1. Registration Phases and Procedures</u>
 </p>
 <p>For more details on registration phases and procedures, please visit&nbsp;
-<a href="https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates</u>
+<a href="https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates</u> 
 </a>.</p>
 <p><u>2. Non-Tamil Indian Languages (NTIL)&nbsp;Classes from 2019</u>
 </p>
