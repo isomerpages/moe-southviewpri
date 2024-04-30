@@ -37,4 +37,4 @@ born between 2nd Jan 2020 to 1st Jan 2021 for P1 registration in 2026 and
 enrolment in 2027.</p>
 <p>
 <br>
-<br>Page last updated: 3 April 2024</p>
+<br>Page last updated: 30 April 2024</p>
