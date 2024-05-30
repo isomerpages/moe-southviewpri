@@ -13,7 +13,7 @@ Mdm Waheeda Bte Mohamed Ibrahim P4<br>
 Mdm Chua Sze Ling P5<br>
 Mdm Wang Wei P5<br>
 Mr Ting Ming Chong, Nicholas P6<br>
-Mr Murad Taha P6</p>
+Mr Murad B Mohamad Taha P6</p>
 <p><u><strong>Schedule</strong></u></p>
 <p><u>Thursdays</u><br>2.00 p.m. to 4.00 p.m.</p>
 <p>Page last updated on: 23 Feb 2024</p>
