@@ -734,35 +734,15 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">Non-Form</td>
-<td style="text-align: center;">Mr Yap Beng Hui</td>
-<td style="text-align: center;">yap_beng_hui@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;">Non-Form</td>
-<td style="text-align: center;">Ms Ayeshah Bte Jamaldeen</td>
-<td style="text-align: center;">ayeshah_jamaldeen@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;">Non-Form</td>
 <td style="text-align: center;">Mdm Chang Onn Nee</td>
 <td style="text-align: center;">chang_onn_nee@moe.edu.sg</td>
-</tr>
-	<tr>
-<td style="text-align: center;">Non-Form</td>
-<td style="text-align: center;">Ms Cheung Mee Hoong Karen</td>
-<td style="text-align: center;">cheung_mee_hoong_karen@moe.edu.sg</td>
 </tr>
 		<tr>
 <td style="text-align: center;">Non-Form</td>
 <td style="text-align: center;">Ms Rosnaini Bte Abdul Rasid</td>
 <td style="text-align: center;">rosnaini_abdul_rasid@moe.edu.sg</td>
 </tr>
-			<tr>
-<td style="text-align: center;">Non-Form</td>
-<td style="text-align: center;">Ms Woo Yeong Chyi</td>
-<td style="text-align: center;">woo_yeong_chyi@moe.edu.sg</td>
-</tr>
-			<tr>
+	<tr>
 <td style="text-align: center;">Non-Form</td>
 <td style="text-align: center;">Mr Loh Yin Sheng Matthew</td>
 <td style="text-align: center;">matthew_loh_yin_sheng@moe.edu.sg</td>
@@ -809,7 +789,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p>Deployment is subjected to changes at the management's discretion according to school's needs. No prior notice will be given.<br>Page updated on: 3 Mar 2024</p>
+<p>Deployment is subjected to changes at the management's discretion according to school's needs. No prior notice will be given.<br>Page updated on: 30 May 2024</p>
 </div>
 </div>
 </div>
