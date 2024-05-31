@@ -60,7 +60,7 @@ Email: sales@khuniform.com<br>
 Monday : 8 am to 5.00pm<br>
 Tuesday - Thursday : 8 am to 5.30pm<br>
 				Lunch: 1-2pm<br><br>
-				<a href="https://drive.google.com/file/d/1oX8ofHZR1Mb-3qKPQct27M35xtC2e0Pn/view?usp=sharing" target="_blank" rel="noopener">"Dental Schedule"</a><br><br>
+				<a href="https://drive.google.com/file/d/1PQxYFAvnXz2ZX56BGWW-F5Xj2rQ8IuDJ/view?usp=drive_link" target="_blank" rel="noopener">"Dental Schedule"</a><br><br>
 In the event of dental emergencies such as trauma (broken tooth/knocked out), facial/gum swelling or severe toothache please contact School dental centre via email: <a href="mailto:Contact_YPS@hpb.gov.sg" target="_blank" rel="noopener">"Contact_YPS@hpb.gov.sg"</a><br>
 			</td>
 	<td>Telephone number:<br>
