@@ -2,6 +2,7 @@
 title: Contact Information
 permalink: /info-hub/contact-information/
 description: ""
+variant: markdown
 ---
 <table>
 <tbody>
@@ -19,9 +20,9 @@ description: ""
 	</td>
 </tr>
 <tr>
-<td>Tel:
+<td>Tel:<br>Contact number after office hours (5pm to 8am)
 </td>
-<td>67697176
+<td>67697176<br>98201176
 </td>
 </tr>
 <tr>
