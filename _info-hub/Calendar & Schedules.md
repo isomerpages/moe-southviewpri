@@ -27,10 +27,9 @@ variant: markdown
 </td>
 <td style="text-align: center;"><a href="https://drive.google.com/file/d/1FoQSpjwbkE63b5u9YCTYznqF5Chdd8av/view?usp=sharing" target="_blank" rel="noopener">Calendar</a><br><a href="https://drive.google.com/file/d/1QtkYIfdtCoua2nuQ5tdYpIR_1FwpGn5s/view?usp=sharing" target="_blank" rel="noopener">After-School Activities Schedule</a><br>Overall CCA Schedule<br>
 </td>
-
 </tr>
 </tbody>
 </table>
 <p></p>
 <p></p>
-<p>Page last updated: 7 Jan 2024</p>
+<p>Page last updated: 21 June 2024</p>
