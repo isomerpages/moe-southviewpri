@@ -128,6 +128,11 @@ variant: markdown
 <td style="text-align: center; height: 36px; width: 146.25px;">Mdm Ng Hwee Mian</td>
 <td style="text-align: center; height: 36px; width: 305.828px;">ng_hwee_main@moe.edu.sg</td>
 </tr>
+	<tr style="height: 36px;">
+<td style="text-align: center; height: 36px; width: 212.922px;">Level Head<br>English</td>
+<td style="text-align: center; height: 36px; width: 146.25px;">Mdm Ong Wenqi Wendy</td>
+<td style="text-align: center; height: 36px; width: 305.828px;">ong_wenqi_wendy@moe.edu.sg</td>
+</tr>
 <tr style="height: 54px;">
 <td style="text-align: center; height: 54px; width: 212.922px;">Subject Head<br>Aesthetics</td>
 <td style="text-align: center; height: 54px; width: 146.25px;">Mdm Peng Binglun</td>
@@ -143,10 +148,20 @@ variant: markdown
 <td style="text-align: center; height: 36px; width: 146.25px;">Ms Bibiana Wong Ying Ching</td>
 <td style="text-align: center; height: 36px; width: 305.828px;">wong_ying_ching_bibiana@moe.edu.sg</td>
 </tr>
+	<tr><td style="text-align: center; height: 36px; width: 212.922px;">Subject Head<br>Student Leadership</td>
+	<td style="text-align: center; height: 36px; width: 146.25px;">Mr Zainal Ariffin Bin Kassim</td>
+<td style="text-align: center; height: 36px; width: 305.828px;">zainal_ariffin_kassim@moe.edu.sg</td>
+</tr>
 <tr style="height: 54px;">
 <td style="text-align: center; height: 54px; width: 212.922px;">Assistant Year Head / P2<br></td>
 <td style="text-align: center; height: 54px; width: 146.25px;">Mrs Daphne Ng-Heng Pei Li</td>
 <td style="text-align: center; height: 54px; width: 305.828px;">heng_pei_li_daphne@moe.edu.sg</td>
+</tr>
+	
+<tr style="height: 54px;">
+<td style="text-align: center; height: 54px; width: 212.922px;">Assistant Year Head / P3<br></td>
+<td style="text-align: center; height: 54px; width: 146.25px;">Ms Angelia Chew Yin Mui</td>
+<td style="text-align: center; height: 54px; width: 305.828px;">chew_yin_mui@moe.edu.sg</td>
 </tr>
 <tr style="height: 54px;">
 <td style="text-align: center; height: 54px; width: 212.922px;">Assistant Year Head / P5<br></td>
