@@ -47,7 +47,8 @@ to read or download the respective letters.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jul</p>
+<p><a href="https://drive.google.com/file/d/1Tf90NCGEM98wA4zJIX_rB1MLo52VfJBA/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Jul</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Aug</p>
