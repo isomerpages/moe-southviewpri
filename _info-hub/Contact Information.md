@@ -20,9 +20,9 @@ variant: markdown
 	</td>
 </tr>
 <tr>
-<td>Tel:<br>Contact number after office hours (5pm to 8am)
+<td>Tel:
 </td>
-<td>67697176<br>98201176
+<td>67697176
 </td>
 </tr>
 <tr>
