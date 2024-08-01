@@ -51,7 +51,8 @@ to read or download the respective letters.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aug</p>
+<p><a href="https://drive.google.com/file/d/1Jywj9wWvP1y8J9bkdbUOKw9piwplGrxI/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Aug</a>
+</p>
 </td>
 </tr>
 <tr>
