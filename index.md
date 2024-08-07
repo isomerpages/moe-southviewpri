@@ -9,10 +9,10 @@ sections:
   - hero:
       background: /images/Main.jpg
       key_highlights:
-        - title: WE-STories 2023
-          description: Click here for WE-STories 2023
-          url: https://online.fliphtml5.com/obrr/qkde/#p=1
-        - title: P1 Orientation
-          description: P1 Orientation Briefing
-          url: /student-development/p1-transition-programme/p1-orientation/
+        - title: Teacher's Day Homecoming 2024
+          description: Click Here for more info
+          url: /announcement-for-homecoming/
+        - title: Teacher's Day messages & dedications
+          description: Please click here
+          url: /teachers-day-messages-and-dedications/
 ---
