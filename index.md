@@ -12,4 +12,7 @@ sections:
         - title: Teacher's Day Homecoming 2024
           description: Click Here for more info
           url: /announcement-for-homecoming/
+        - title: Teacher's Day messages & dedications
+          description: Please click here
+          url: /teachers-day-messages-and-dedications/
 ---
