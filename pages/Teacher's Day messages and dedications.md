@@ -5,9 +5,9 @@ variant: markdown
 description: ""
 ---
 <p>Click on the links provided below to access the padlet pages.<br>
-•P1: https://tinyurl.com/svpsP12024<br>
-•P2: https://tinyurl.com/svpsP22024<br>
-•P3: https://tinyurl.com/svpsP32024<br>
-•P4: https://tinyurl.com/svpsP42024<br>
-•P5: https://tinyurl.com/svpsP52024<br>
-•P6: https://tinyurl.com/svpsP62024</p>
+	<a href="https://tinyurl.com/svpsP12024" target="_blank" rel="noopener">• Primary 1</a><br>
+		<a href="https://tinyurl.com/svpsP22024" target="_blank" rel="noopener">• Primary 2</a><br>
+			<a href="https://tinyurl.com/svpsP32024" target="_blank" rel="noopener">• Primary 3</a><br>
+				<a href="https://tinyurl.com/svpsP42024" target="_blank" rel="noopener">• Primary 4</a><br>
+					<a href="https://tinyurl.com/svpsP52024" target="_blank" rel="noopener">• Primary 5</a><br>
+						<a href="https://tinyurl.com/svpsP62024" target="_blank" rel="noopener">• Primary 6</a></p>
