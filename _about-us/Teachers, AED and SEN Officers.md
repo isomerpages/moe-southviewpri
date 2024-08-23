@@ -724,7 +724,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">Non-Form</td>
-<td style="text-align: center;">Mdm Silva Dennis</td>
+<td style="text-align: center;">Mdm Silvia Dennis</td>
 <td style="text-align: center;">silvia_dennis@moe.edu.sg</td>
 </tr>
 <tr>
@@ -741,11 +741,6 @@ variant: markdown
 <td style="text-align: center;">Non-Form</td>
 <td style="text-align: center;">Ms Rosnaini Bte Abdul Rasid</td>
 <td style="text-align: center;">rosnaini_abdul_rasid@moe.edu.sg</td>
-</tr>
-	<tr>
-<td style="text-align: center;">Non-Form</td>
-<td style="text-align: center;">Mr Loh Yin Sheng Matthew</td>
-<td style="text-align: center;">matthew_loh_yin_sheng@moe.edu.sg</td>
 </tr>
 			<tr>
 <td style="text-align: center;">Non-Form</td>
