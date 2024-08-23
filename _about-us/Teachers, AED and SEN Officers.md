@@ -325,6 +325,11 @@ variant: markdown
 <td style="text-align: center;">Mdm Amalina Bte Hussein</td>
 <td style="text-align: center;">amalina_hussein@moe.edu.sg</td>
 </tr>
+	<tr>
+<td style="text-align: center;">3 Humility</td>
+<td style="text-align: center;">Ms Rosnaini Bte Abdul Rasid</td>
+<td style="text-align: center;">rosnaini_abdul_rasid@moe.edu.sg</td>
+</tr>
 <tr>
 <td style="text-align: center;">3 Virtuous</td>
 <td style="text-align: center;">Mr Leow Wei Yuan</td>
@@ -440,6 +445,11 @@ variant: markdown
 <td style="text-align: center;">4 Inspiring</td>
 <td style="text-align: center;">Mr Zainal Ariffin Bin Kassim</td>
 <td style="text-align: center;">zainal_ariffin_kassim@moe.edu.sg
+</td>
+	</tr><tr>
+<td style="text-align: center;">4 Inspiring</td>
+<td style="text-align: center;">Mr Isaac Francis S/O Benert</td>
+<td style="text-align: center;">isaac_francis_benert@moe.edu.sg
 </td>
 </tr>
 </tbody>
