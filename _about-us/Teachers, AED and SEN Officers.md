@@ -703,11 +703,6 @@ variant: markdown
 </tr>
 	<tr>
 <td style="text-align: center;">Non-Form</td>
-<td style="text-align: center;">Mdm Pang Kah Kah</td>
-<td style="text-align: center;">pang_kah_kah_a@moe.edu.sg</td>
-</tr>
-	<tr>
-<td style="text-align: center;">Non-Form</td>
 <td style="text-align: center;">Mdm Leow Eng Bee</td>
 <td style="text-align: center;">leow_eng_bee@moe.edu.sg</td>
 </tr>
@@ -746,15 +741,40 @@ variant: markdown
 <td style="text-align: center;">Mdm Chang Onn Nee</td>
 <td style="text-align: center;">chang_onn_nee@moe.edu.sg</td>
 </tr>
-		<tr>
-<td style="text-align: center;">Non-Form</td>
-<td style="text-align: center;">Ms Rosnaini Bte Abdul Rasid</td>
-<td style="text-align: center;">rosnaini_abdul_rasid@moe.edu.sg</td>
-</tr>
 			<tr>
 <td style="text-align: center;">Non-Form</td>
 <td style="text-align: center;">Mdm Mastura Bte Mohamed Yusoff</td>
 <td style="text-align: center;">mastura_mohamed_yusoff@moe.edu.sg</td>
+</tr>
+	<tr>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Mdm Jamilah Bte Haris</td>
+<td style="text-align: center;">jamilah_haris_a@moe.edu.sg</td>
+</tr>
+	<tr>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Ms Tay Hwee Bin Jareen</td>
+<td style="text-align: center;">tay_hwee_bin_jareen@moe.edu.sg</td>
+</tr>
+	<tr>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Ms Lim Xiao Ting</td>
+<td style="text-align: center;">lim_xiao_ting@moe.edu.sg</td>
+</tr>
+		<tr>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Mdm Nafisah Nurraudhah Bte Sa'dollah</td>
+<td style="text-align: center;">nafisah_nurraudhah_sado@moe.edu.sg</td>
+</tr>
+		<tr>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Mdm Shanmugam Shoba</td>
+<td style="text-align: center;">shanmugam_shoba@moe.edu.sg</td>
+</tr>
+		<tr>
+<td style="text-align: center;">Non-Form</td>
+<td style="text-align: center;">Ms Ong Xue Wen</td>
+<td style="text-align: center;">ong_xue_wen@moe.edu.sg</td>
 </tr>
 </tbody>
 </table>
@@ -793,7 +813,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p>Deployment is subjected to changes at the management's discretion according to school's needs. No prior notice will be given.<br>Page updated on: 30 May 2024</p>
+<p>Deployment is subjected to changes at the management's discretion according to school's needs. No prior notice will be given.<br>Page updated on: 23 Aug 2024</p>
 </div>
 </div>
 </div>
