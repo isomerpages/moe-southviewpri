@@ -162,7 +162,12 @@ variant: markdown
 <td style="text-align: center;">nur_ismadi_md_esa@moe.edu.sg
 </td>
 </tr>
-<tr>
+	<tr>
+<td style="text-align: center;">2 Unity</td>
+<td style="text-align: center;">Ms Ng Shi Qing Metis</td>
+<td style="text-align: center;">ng_shi_qing_metis@moe.edu.sg
+</td>
+</tr><tr>
 <td style="text-align: center;">2 Unity</td>
 <td style="text-align: center;">Mdm Jaida Goh Lay Choo</td>
 <td style="text-align: center;">goh_lay_choo_jaida@moe.edu.sg
@@ -182,8 +187,8 @@ variant: markdown
 </tr>
 	<tr>
 <td style="text-align: center;">2 Tenacity</td>
-<td style="text-align: center;">Ms Lim Xiao Ting</td>
-<td style="text-align: center;">lim_xiao_ting@moe.edu.sg</td>
+<td style="text-align: center;">Ms Lee Mui Lan, Linda</td>
+<td style="text-align: center;">lee_mui_lan_linda_a@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">2 Humility</td>
@@ -219,12 +224,6 @@ variant: markdown
 <td style="text-align: center;">2 Inspiring</td>
 <td style="text-align: center;">Mr Chua Keng Koon</td>
 <td style="text-align: center;">chua_keng_koon@moe.edu.sg
-</td>
-</tr>
-<tr>
-<td style="text-align: center;">2 Empathy</td>
-<td style="text-align: center;">Mdm Nafisah Nurraudhah Bte Sa'dollah</td>
-<td style="text-align: center;">nafisah_nurraudhah_sado@moe.edu.sg
 </td>
 </tr>
 <tr>
