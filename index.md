@@ -9,10 +9,10 @@ sections:
   - hero:
       background: /images/Main.jpg
       key_highlights:
-        - title: Teacher's Day Homecoming 2024
-          description: Click Here for more info
-          url: /announcement-for-homecoming/
-        - title: Teacher's Day messages & dedications
-          description: Please click here
-          url: /teachers-day-messages-and-dedications/
+        - title: Our Co Curricular Activities
+          description: ""
+          url: https://www.southviewpri.moe.edu.sg/co-curricular-activities/
+        - title: Our School Notification
+          description: ""
+          url: https://www.southviewpri.moe.edu.sg/info-hub/school-notification/
 ---
