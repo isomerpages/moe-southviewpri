@@ -11,5 +11,5 @@ variant: markdown
 <p><u><strong>Teachers-in-charge</strong></u></p>
 <p>Ms Choy Yong En Carene<br>Mrs Bernadine Dorett<br>Mrs Woo Mun Lan<br>Mr Lam Jun Jie James</p>
 <p><u><strong>Schedule</strong></u></p>
-<p><u>Thursdays</u><br><em>(P3, P4, P5 &amp; P6)</em><br>2.00 p.m. to 4.00 p.m.</p>
-<p>Page last updated on: 23 Feb 2024</p>
+<p><u>Thursdays</u><br><em>(P3, P4, P5 &amp; P6)</em><br>2.00 p.m. to 5.00 p.m.</p>
+<p>Page last updated on: 10 Sep 2024</p>
