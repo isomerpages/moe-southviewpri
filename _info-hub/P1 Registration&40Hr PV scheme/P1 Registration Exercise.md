@@ -21,7 +21,7 @@ Language (i.e. Bengali, Gujarati, Hindi, Panjabi or Urdu) in lieu of an
 official Mother Tongue Language (MTL).&nbsp;Application is to be submitted
 through the school for MOE’s approval.&nbsp;NTIL lessons are conducted
 by the NTIL community groups on Saturday mornings at designated schools.
-A list of these schools can be found on BTTSAL’s web site (<a href="http://www.bttsal.com/index.php/centres" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.bttsal.com/index.php/centres</u></a>).
+This is the link to access BTTSAL’s website (<a href="http://www.bttsal.com/index.php" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.bttsal.com/index.php</u></a>).
 All NTIL students should attend lessons at these centres as they are able
 to support the critical mass of NTIL learners needed to establish a richer
 environment for language learning.&nbsp;</p>
