@@ -20,14 +20,6 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">Member</td>
-<td style="text-align: center;">Dr Qian Zehui Melissa</td>
-</tr>
-<tr>
-<td style="text-align: center;">Member</td>
-<td style="text-align: center;">Mr Vijay Kumar Ganapathy</td>
-</tr>
-<tr>
-<td style="text-align: center;">Member</td>
 <td style="text-align: center;">Dr Saw Woon Ling</td>
 </tr>
 <tr>
