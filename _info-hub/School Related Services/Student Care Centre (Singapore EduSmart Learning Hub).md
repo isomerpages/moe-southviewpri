@@ -43,12 +43,12 @@ Singapore EduSmart Learning Hub by clicking this link <a href="https://singapore
 <br>
 <br>For parents who intend to enrol your child in the School-based Student
 Care Centre at South View Primary School, please apply to Singapore EduSmart
-Learning Hub via the following link: <a href="https://forms.zohopublic.com/edusmartlearninghubsouthview/form/P1StudentCareRegistration2025/formperma/uIVHQ_7zHDBGfu9JI0nrKyS40egIa_kmguUtN2a0Zjo" rel="noopener nofollow" target="_blank">P1 2025 ROI</a> by
-11 October 2024 (Friday). Please note that as SSC vacancies are limited,
-the school will give priority to families who are more in need of after-school
-care arrangements. The school will evaluate your child's need for the SSC
-services and inform you the outcome of your intent through our vendor,
-Singapore EduSmart Learning Hub, by 8 November 2024.</p>
+Learning Hub via the following link: <a href="https://forms.zohopublic.com/edusmartlearninghubsouthview/form/P1StudentCareRegistration2025/formperma/uIVHQ_7zHDBGfu9JI0nrKyS40egIa_kmguUtN2a0Zjo" rel="noopener nofollow" target="_blank">P1 2025 ROI</a> by <strong>11 October 2024 (Friday)</strong>.
+Please note that as SSC vacancies are limited, the school will give priority
+to families who are more in need of after-school care arrangements. The
+school will evaluate your child's need for the SSC services and inform
+you the outcome of your intent through our vendor, Singapore EduSmart Learning
+Hub, <strong>by 8 November 2024</strong>.</p>
 <p>If we are unable to enroll your child in our SSC, you may wish to consider
 an alternative Community-based Student Care Centre. You can search for
 other MSF-registered Student Care Centres by visiting the MSF website:
