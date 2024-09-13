@@ -56,7 +56,6 @@ other MSF-registered Student Care Centres by visiting the MSF website:
 </p>
 <p>No action is needed if you are not enrolling your child in our SCC.
 <br>
-<br>
 </p>
 <p><strong><u>Monthly SSC Fees</u></strong>
 <br>
