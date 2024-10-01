@@ -61,7 +61,8 @@ to read or download the respective letters.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Oct</p>
+<p><a href="https://drive.google.com/file/d/1h_yU0IlmUVx4avVTE0XHwFzH8xtyRgnz/view?usp=sharing" rel="noopener nofollow" target="_blank">Oct</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nov</p>
