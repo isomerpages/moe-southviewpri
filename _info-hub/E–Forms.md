@@ -10,4 +10,4 @@ variant: markdown
 <p><u><a href="https://drive.google.com/file/d/1YtKqfantZtSfiZZUiplIovYnx4IOT7d8/view?usp=sharing" target="_blank" rel="noopener">MOE FAS Application Form</a><br></u></p>
 <h4><strong><u>School Services</u></strong></h4>
 <p><u><a href="https://drive.google.com/file/d/1n3ENsGsF0GXpKrj0NqjcrlCW4awU77Oa/view?usp=sharing" target="_blank" rel="noopener">Bus Application Form</a></u></p>
-<p>Page last updated: 30 Nov 2023</p>
+<p>Page last updated: 4 Oct 2024</p>
