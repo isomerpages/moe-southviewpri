@@ -3,10 +3,11 @@ title: Join Us
 permalink: /our-partners/parents-association/about-svpa/join-us/
 description: ""
 third_nav_title: Parents Association
+variant: markdown
 ---
 <h4>Reasons to join SVPA</h4>
 <h4><a href="https://drive.google.com/file/d/13AfdHnjymsdb1qOWNAA2Q950EnYE9z9D/view?usp=sharing" target="_blank" rel="noopener">Click here to see what we do!</a></h4>
-<p><strong>For P1 parents, kindly download the cover letter&nbsp;<a href="https://drive.google.com/file/d/1ErzTZUUCfpQmkcIp81pLvBKIpj9m9oVU/view?usp=sharing" target="_blank" rel="noopener">here</a></strong></p>
+<p><strong>For P1 parents, kindly download the cover letter&nbsp;<a href="https://drive.google.com/file/d/1S9Flprird0A5P436Q6ggck8CE3juG8PC/view?usp=sharing" target="_blank" rel="noopener">here</a></strong></p>
 <p>South View Primary School Parents Association (SVPA) partners with the school to initiate and organise an exciting array of activities and events for parents and children. We stay united and committed to work with the school in bringing the best out of our child(ren).</p>
 <p>1. Acting as a voice for parents</p>
 <ul>
