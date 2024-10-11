@@ -438,7 +438,7 @@ variant: markdown
 <tr>
 <td style="text-align: center;">4 Inspiring</td>
 <td style="text-align: center;">Mrs Bernadine Dorett</td>
-<td style="text-align: center;">bernadine dorett@moe.edu.sg
+<td style="text-align: center;">bernadine_dorett@moe.edu.sg
 </td>
 </tr>
 <tr>
