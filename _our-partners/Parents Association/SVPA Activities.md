@@ -13,4 +13,4 @@ Important Notes:<br>
 	2. Event timings are subjected to change. Kindly look out for the email sent prior to each event.</p>
 <p>Kindly contact the following SVPA members should you need further clarifications.<br>
 1. Melanie Lim – Vice Chairman (<a href="mailto:melanielimsparkle@gmail.com" target="_blank" rel="noopener">Email:melanielimsparkle@gmail.com</a>)<br>2. Patricia Huang – Secretary (<a href="mailto:pathuang39@gmail.com" target="_blank" rel="noopener">Email:pathuang39@gmail.com</a>)</p>
-<p>Last update: 3 April 2024</p>
+<p>Last update: 11 October 2024</p>
