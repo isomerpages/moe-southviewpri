@@ -54,11 +54,6 @@ variant: markdown
 <td style="text-align: center;">6.30 am - 7.30 am<br>1.30 pm - 2.00 pm<br>4.00 pm - 4.30 pm</td>
 <td>&nbsp;</td>
 </tr>
-	<tr>
-<td style="text-align: center;">Gate no. 5 (Side Gate)</td>
-<td style="text-align: center;">6.45 am - 7.30 am</td>
-<td>&nbsp;</td>
-</tr>
 <tr>
 <td style="text-align: center;" colspan="3">Notice: Side Gates closed during school non-operating days / All Gates closed during Public Holidays</td>
 </tr>
