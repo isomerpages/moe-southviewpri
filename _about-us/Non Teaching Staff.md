@@ -32,10 +32,10 @@ variant: markdown
 <td style="text-align: center;">Mr Foo Kong Weng Daniel</td>
 <td style="text-align: center;">foo_kong_weng@moe.edu.sg</td>
 </tr>
-<tr>
-<td style="text-align: center;">Administrative Executive</td>
-<td style="text-align: center;">Mdm Joanne Pung Hong Eng</td>
-<td style="text-align: center;">joanne_pung_hong_eng@moe.edu.sg</td>
+	<tr>
+<td style="text-align: center;">ICT Manager</td>
+<td style="text-align: center;">Mr Aravindan s/o G Amaranthan</td>
+<td style="text-align: center;">aravindan_g_amaranthan@moe.edu.sg</td>
 </tr>
 	<tr>
 <td style="text-align: center;">Administrative Executive</td>
@@ -128,20 +128,10 @@ variant: markdown
 <td style="text-align: center;">svps@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center;">Security Guard</td>
-<td style="text-align: center;">Mr Manian Govindasamy</td>
-<td style="text-align: center;">svps@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;">Security Guard</td>
-<td style="text-align: center;">Mr Chan Choon Kek</td>
-<td style="text-align: center;">svps@moe.edu.sg</td>
-</tr>
-<tr>
 <td style="text-align: center;">Librarian</td>
 <td style="text-align: center;">Ms Leong Sheu Min</td>
 <td style="text-align: center;">svps@moe.edu.sg</td>
 </tr>
 </tbody>
 </table>
-<p>Page updated on: 14 Mar 2024</p>
+<p>Page updated on: 4 Nov 2024</p>
