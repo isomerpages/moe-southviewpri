@@ -71,7 +71,7 @@ In the event of dental emergencies such as trauma (broken tooth/knocked out), fa
 		</td></tr>
 	</tbody>
 	</table>
-</p><p><u><strong>Canteen<br></strong></u>In line with guidelines from MOE, the canteen stalls in the school will be only be selling set meals with one or two fixed items at a fixed price during recess and meal times. This will help in reducing wait time as well as relief congestion at the stalls. The menu for each stall please click&nbsp;<a href="https://drive.google.com/file/d/1B1LEG8gbvFc6DDp9R5QvH1gl93JYL9jz/view" target="_blank" rel="noopener">"Here"</a></p>
+</p><p><u><strong>Canteen<br></strong></u>In line with guidelines from MOE, the canteen stalls in the school will be only be selling set meals with one or two fixed items at a fixed price during recess and meal times. This will help in reducing wait time as well as relief congestion at the stalls. The menu for each stall please click&nbsp;<a href="https://drive.google.com/file/d/1-GiVM1M8VJ-4ZBRn8q45gjhqjHzPBS8h/view?usp=sharing" target="_blank" rel="noopener">"Here"</a></p>
 <p></p><p><u><strong>MOE FAS Pamphlets<br></strong></u>
 The Ministry of Education provides financial assistance to Singaporean students from our Government and Government-Aided Schools who need financial assistance for their studies. Click <a href="https://drive.google.com/drive/folders/1KvuDYSZeYQzkXneSZmPZVcLK0m4bBSNn?usp=sharing" target="_blank" rel="noopener">"HERE"</a> for more information.</p>
 <p>Page last updated: 11 Oct 2024</p>
