@@ -1,8 +1,9 @@
 ---
-title: "School Home Partnership: Homework Policy"
-permalink: /info-hub/school-home-partnership-homework-policy/
+title: Homework Policy
+permalink: /info-hub/school-home-partnership/homework-policy/
 description: ""
 variant: markdown
+third_nav_title: School Home Partnership
 ---
 <h4><strong><u>Value of Homework</u></strong></h4>
 <p>Homework is a valuable part of schooling. Daily homework assigned to students is intended as an out-of-class activity to consolidate and reinforce students’ learning in class. It provides opportunities for students to learn to plan and organise their time, and helps them to establish habits of study, concentration and self-discipline, and cultivate lifelong habits of independent and self-directed learning.</p>
