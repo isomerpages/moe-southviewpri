@@ -2,6 +2,7 @@ collections:
   info-hub:
     output: true
     order:
+      - School Home Partnership/Resources for Parents.md
       - School Home Partnership/Homework Policy.md
       - School Home Partnership/.keep
       - School Notification/.keep
