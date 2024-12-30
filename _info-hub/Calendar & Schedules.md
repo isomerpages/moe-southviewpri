@@ -18,14 +18,14 @@ variant: markdown
 <td style="text-align: center;">
 <p>2024 Semester 1</p>
 </td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1D7LgwcHKw3A_8NmJeXmeWVzYKxRyqYuM/view?usp=sharing" target="_blank" rel="noopener">Calendar</a><br><a href="https://drive.google.com/file/d/1NtMqsVlqKPbvSVot6Tn57-P6WWsMGpX5/view?usp=sharing" target="_blank" rel="noopener">After-School Activities Schedule</a><br><a href="https://drive.google.com/file/d/1pKGcnVR8M0MCkhGWrLdcQV8TOJpkc1-T/view?usp=sharing" target="_blank" rel="noopener">Overall CCA Schedule</a><br>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1D7LgwcHKw3A_8NmJeXmeWVzYKxRyqYuM/view?usp=sharing" target="_blank" rel="noopener">Calendar</a><br><a href="https://drive.google.com/file/d/12AfYLjXLBMKBU8PON2Ly9p2cssZZ-v7T/view?usp=sharing" target="_blank" rel="noopener">After-School Activities Schedule</a><br><a href="https://drive.google.com/file/d/1Zuf2Z4TOYOmEjmz1SRMEfMfOdiGKJm8U/view?usp=sharing" target="_blank" rel="noopener">Overall CCA Schedule</a><br>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;">
 <p>2024 Semester 2</p>
 </td>
-	<td style="text-align: center;"><a href="https://drive.google.com/file/d/1FoQSpjwbkE63b5u9YCTYznqF5Chdd8av/view?usp=sharing" target="_blank" rel="noopener">Calendar</a><br><a href="https://drive.google.com/file/d/1QtkYIfdtCoua2nuQ5tdYpIR_1FwpGn5s/view?usp=sharing" target="_blank" rel="noopener">After-School Activities Schedule</a><br><a href="https://drive.google.com/file/d/1_tw8mxec7VKCvynz9cOyWlv9Uys8gTsD/view?usp=sharing" target="_blank" rel="noopener">Overall CCA Schedule</a><br>
+	<td style="text-align: center;">Calendar<br>After-School Activities Schedule<br>Overall CCA Schedule<br>
 </td>
 </tr>
 </tbody>
