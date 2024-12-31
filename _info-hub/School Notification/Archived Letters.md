@@ -66,7 +66,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dec</p>
+<p>N.A.</p>
 </td>
 </tr>
 </tbody>
