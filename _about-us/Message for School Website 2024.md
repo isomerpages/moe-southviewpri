@@ -2,33 +2,58 @@
 title: Message for School Website 2024
 permalink: /about-us/message-for-school-website-2024/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<table>
-<tbody>
-	<tr><td style="text\-align: justify;">Our Minister of Education, Mr Chan Chun Sing highlighted in his 2023 MOE Workplan Seminar speech that in order to be successful in this rapidly changing world, every student needs to be a creator, connector and contributor going forward. Success, hence, needs to be defined differently. Beyond personal achievements in examinations, having the skills to apply their knowledge, communicate views and ideas effectively with others and contribute back to the society is therefore important.</td>
-		</tr>
-	</tbody>
-	</table><table>
-<tbody>
-		<tr><td style="text\-align: justify;">Before my colleagues left for their well-deserved End-of-Year Protected Time, I had shared this holiday wish list with them and I think this wish list, not just for holidays, is apt for our students as well as for our home-school partnership.<br><br>Let me select a couple of wishes to elaborate for 2024. <i>More gratitude</i> … our Southviens should learn to be grateful for their family, friends and teachers; to be grateful for the opportunity to attend school which most students take for granted; and also be grateful to be able to pay it forward by contributing to our Values-in-Action (VIA) activities in line with the school vision ‘… <i>with a Heart to Serve</i>’ and through co-designing VIA activities, be creators and connectors with our community partners as well as contributors to the society.
-			</td>
-	<td>
-		<img style="width: 150%;" src="/images/P_Pic.jpg">
-	</td>
-		</tr>
-	</tbody>
-	</table><table>
-<tbody>
-	<tr><td style="text\-align: justify;"><i>Less gifts, more memories</i> … instead of physical gifts, let us work towards giving Southviens the <strong><i>Gift of Love</i></strong>, the <strong><i>Gift of Care</i></strong>, the <strong><i>Gift of Time</i></strong> and the <strong><i>Gift of Space</i></strong> to support them in their journey of learning, and creating memories with our Southviens in the form of authentic learning experiences from which they will learn, grow, enjoy and remember.<br><br>
-A new year is a time for fresh starts for your child – new class, new friends, new challenges and learning opportunities! In South View Primary, we would like to partner you as we grow and support your child to be a passionate learner with a heart to serve. We will continue to work with you and your child to embrace the joy of learning, discover their individual strengths and develop the core values, a Growth Mindset, Executive Functioning Skills as well as the 21st century competencies necessary for our Southviens to thrive and be future-ready.
-</td>
-		</tr></tbody>
-	</table>
-<table>
-<tbody>
-	<tr><td>Your partner-in-education<br>
-Miss Ang Mui Khoong<br>
-Principal</td>
-		</tr></tbody>
-	</table>
+<p>Let me start off my 2025 message with a short story. A boy who has always
+loved going to school started making excuses such as “headache” and “stomachache”
+to not go to school for a few days within a week. His mother thought it
+was unusual of him and made a trip to the school to look for his form teacher
+to find out if anything had happened to the boy recently. Only then did
+the mother find out from the school that the boy’s form teacher Mr Hong
+had been seriously ill and warded in hospital for the past month. The mother
+went back home, sat the boy down and asked him “Are you worried for Mr
+Hong?” The boy looked up at his mother solemnly and tears flowed uncontrollably.
+“Yes, he was one teacher who really cared for me.”
+<br>
+<br>Urie Bronfenbrenner, a Russian-born American psychologist once said “Every
+child needs at least one adult who is irrationally crazy about him or her.”
+The love and care of this teacher for the boy and vice-versa is something
+that we hope to embrace our children in, here at South View Primary School.
+Only when our Southviens feel loved and cared for, can they find motivation
+and joy in learning.
+<br>
+<br>How about our educators? Our Minister for Education, Mr Chan Chun Sing
+highlighted in his 2024 MOE Workplan Seminar speech that quality teachers
+are the key to our education system, and it is important that we develop
+our people and create time and space for them to grow in their profession.
+We engender respect, so that our teachers are refreshed, and can better
+take care of our students.&nbsp;With the shared goal of raising a happy,
+confident and kind generation together, the three focus areas within the
+refreshed Guidelines for School-Home Partnership (Respectful Communication,
+Role Models and Real Connections) provide a common frame for parents and
+educators to align their needs and expectations for each other and to work
+towards a positive culture of partnerships.
+<br>
+<br>Before the start of the end-of-year vacation in 2024, I challenged my
+colleagues to think about “What is one thing I want to try or do differently
+next year (2025)?” Only when we are open to embrace a dare-to-try mindset,
+can we hone new skillsets to better connect with and guide our Southviens
+to develop a Growth Mindset, Executive Functioning Skills as well as the
+21st century competencies necessary for them to thrive and be future-ready.
+For you, parents, our cheerleaders of Southviens at home, MOE has also
+developed the <a href="https://file.go.gov.sg/pfw-toolbox-for-parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Parenting for Wellness toolbox</a>,
+packed with practical tips for parents to strengthen children’s mental
+well-being and emotional resilience and enable more effective parenting
+in this digital age. We will also be sharing snippets of these tips in
+our monthly school notifications in 2025, do keep a lookout for it.
+<br>
+<br>A new year is a time for fresh starts for your child – new class, new
+friends, new challenges and learning opportunities! To our cherished family
+of Southviens, alumni, parents, and local community, your engagement and
+support are invaluable. Let us continue to work hand in hand, shaping possibilities
+together to cultivate a generation of Southviens, who are passionate learners
+with a heart to serve, reflective and rooted in core values.
+<br>
+<br>Your partner-in-education
+<br>Miss Ang Mui Khoong
+<br>Principal</p>
