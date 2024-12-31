@@ -3,44 +3,118 @@ title: Archived Letters
 permalink: /info-hub/weekly-notification/archived-letters/
 description: ""
 third_nav_title: School Notification
-variant: markdown
+variant: tiptap
 ---
 <h4><strong>2023</strong></h4>
-<p><strong>2023 Weekly Letters</strong></p>
-<table>
+<p><strong>2023 Weekly Letters</strong>
+</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1VhV4Ac8Qwj_IzQXv0GEDmfUIHJJeitVu/view" target="_blank" rel="noopener">Week 0 / 29 Dec 2022</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1a8TDiUnzCCI-fdP3HCSuhpFhuguGiI5g/view" target="_blank" rel="noopener">Week 1 / 5 Jan 2023</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1labU3gWjR4goRjHlS2WUZly7-PDTVvk1/view" target="_blank" rel="noopener">Week 2 / 12 Jan 2023</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1kD16HdTrCLbSh-lpa_fSEf2UM57tb6KO/view?usp=sharing" target="_blank" rel="noopener">Week 3 / 19 Jan 2023</a></td>
-<td style="text-align: center;">N.A.</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1VhV4Ac8Qwj_IzQXv0GEDmfUIHJJeitVu/view" rel="noopener" target="_blank">Week 0 / 29 Dec 2022</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1a8TDiUnzCCI-fdP3HCSuhpFhuguGiI5g/view" rel="noopener" target="_blank">Week 1 / 5 Jan 2023</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1labU3gWjR4goRjHlS2WUZly7-PDTVvk1/view" rel="noopener" target="_blank">Week 2 / 12 Jan 2023</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1kD16HdTrCLbSh-lpa_fSEf2UM57tb6KO/view?usp=sharing" rel="noopener" target="_blank">Week 3 / 19 Jan 2023</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N.A.</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1gEbGsqJ6yWB4P009-vGmnR3xtc95pS5F/view?usp=sharing" target="_blank" rel="noopener">Week 5 / 2 Feb 2023</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1vd6CqUsPqAs2BTOVTkFP-8qHYLZABS74/view?usp=sharing" target="_blank" rel="noopener">Week 6 / 9 Feb 2023</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/11oSj-tIHEfnyqgtRAxdd5EOcsXfUtnYu/view?usp=sharing" target="_blank" rel="noopener">Week 7 / 16 Feb 2023</a></td>
-	<td style="text-align: center;"><a href="https://drive.google.com/file/d/1UzpI6nAMpbrUWAVSzvFN-3UxThk62nD0/view?usp=sharing" target="_blank" rel="noopener">Week 8 / 23 Feb 2023</a></td>
-	<td style="text-align: center;">N.A.</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1gEbGsqJ6yWB4P009-vGmnR3xtc95pS5F/view?usp=sharing" rel="noopener" target="_blank">Week 5 / 2 Feb 2023</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1vd6CqUsPqAs2BTOVTkFP-8qHYLZABS74/view?usp=sharing" rel="noopener" target="_blank">Week 6 / 9 Feb 2023</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/11oSj-tIHEfnyqgtRAxdd5EOcsXfUtnYu/view?usp=sharing" rel="noopener" target="_blank">Week 7 / 16 Feb 2023</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1UzpI6nAMpbrUWAVSzvFN-3UxThk62nD0/view?usp=sharing" rel="noopener" target="_blank">Week 8 / 23 Feb 2023</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N.A.</p>
+</td>
 </tr>
 </tbody>
 </table>
-<p><strong>2023 School Notification Letters</strong></p>
-<table>
+<p><strong>2023 School Notification Letters</strong>
+</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1dMsDNeDEjSH2KcLJrSZlxHvzyySnPl8O/view?usp=sharing" target="_blank" rel="noopener">Mar</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1IONuFpxGe6Vn5x6ED0dhoWCyLfdwrQVs/view?usp=sharing" target="_blank" rel="noopener">Apr</a></td>
-	<td style="text-align: center;"><a href="https://drive.google.com/file/d/1lKZrAmMfbobuoqOt66niP3RymsVsY3N8/view?usp=sharing" target="_blank" rel="noopener">May-Jun</a></td>
-<td style="text-align: center;">N.A.</td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/13aD3uoR-PNO8AqlLOUFjAg2Q1gBcxHaE/view?usp=sharing" target="_blank" rel="noopener">July</a></td>
-	</tr><tr>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1VNuOM5mIhTnpU1KMQKP9dd5r6hfpoOzp/view?usp=sharing" target="_blank" rel="noopener">Aug</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1PbbguhgRygH0rRAVL4g2BXiOPPakAi9C/view?usp=sharing" target="_blank" rel="noopener">Sep</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1fIivh93d45Gj8UCLNOjsA5DPVuGX7c8G/view?usp=sharing" target="_blank" rel="noopener">Oct</a></td>
-	<td style="text-align: center;"><a href="https://drive.google.com/file/d/17yUvF2Cw8Qur93_IHvlI2OVs2nSj4j8e/view?usp=sharing" target="_blank" rel="noopener">Nov</a></td>
-<td style="text-align: center;"><a href="https://drive.google.com/file/d/1c35yUD65BfJMxEh0hQWYab7-nxn2V1LV/view?usp=sharing" target="_blank" rel="noopener">Mid Nov-Dec</a></td>
-	</tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1dMsDNeDEjSH2KcLJrSZlxHvzyySnPl8O/view?usp=sharing" rel="noopener" target="_blank">Mar</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1IONuFpxGe6Vn5x6ED0dhoWCyLfdwrQVs/view?usp=sharing" rel="noopener" target="_blank">Apr</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1lKZrAmMfbobuoqOt66niP3RymsVsY3N8/view?usp=sharing" rel="noopener" target="_blank">May-Jun</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N.A.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/13aD3uoR-PNO8AqlLOUFjAg2Q1gBcxHaE/view?usp=sharing" rel="noopener" target="_blank">July</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1VNuOM5mIhTnpU1KMQKP9dd5r6hfpoOzp/view?usp=sharing" rel="noopener" target="_blank">Aug</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1PbbguhgRygH0rRAVL4g2BXiOPPakAi9C/view?usp=sharing" rel="noopener" target="_blank">Sep</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1fIivh93d45Gj8UCLNOjsA5DPVuGX7c8G/view?usp=sharing" rel="noopener" target="_blank">Oct</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/17yUvF2Cw8Qur93_IHvlI2OVs2nSj4j8e/view?usp=sharing" rel="noopener" target="_blank">Nov</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1c35yUD65BfJMxEh0hQWYab7-nxn2V1LV/view?usp=sharing" rel="noopener" target="_blank">Mid Nov-Dec</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>N.A. : No notification</p>
