@@ -57,21 +57,20 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td>
 1 Optimistic
-</td><td rowspan="1" colspan="1">
+</td><td>
 Mdm Rosnah Bte Rabu
-</td><td rowspan="1" colspan="1">
+</td><td>
 rosnah_rabu@moe.edu.sg
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>1 Optimistic</p>
-</td><td rowspan="1" colspan="1">
-<p>Ms Tan Si Yun</p>
-</td><td rowspan="1" colspan="1">
-<p>tan_si_yun@moe.edu.sg</p>
+<td>1 Optimistic
+</td><td>
+Ms Tan Si Yun
+</td><td>
+tan_si_yun@moe.edu.sg
 </td>
 </tr>
 <tr>
