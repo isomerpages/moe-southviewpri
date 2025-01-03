@@ -58,11 +58,11 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Optimistic</p>
+1 Optimistic
 </td><td rowspan="1" colspan="1">
-<p>Mdm Rosnah Bte Rabu</p>
+Mdm Rosnah Bte Rabu
 </td><td rowspan="1" colspan="1">
-<p>rosnah_rabu@moe.edu.sg</p>
+rosnah_rabu@moe.edu.sg
 </td>
 </tr>
 <tr>
