@@ -59,22 +59,18 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <p>1 Optimistic</p>
-</td>
-<td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
 <p>Mdm Rosnah Bte Rabu</p>
-</td>
-<td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
 <p>rosnah_rabu@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>1 Optimistic</p>
-</td>
-<td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
 <p>Ms Tan Si Yun</p>
-</td>
-<td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
 <p>tan_si_yun@moe.edu.sg</p>
 </td>
 </tr>
