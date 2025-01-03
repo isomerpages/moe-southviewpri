@@ -57,24 +57,24 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td>
 <p>1 Optimistic</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>Mdm Rosnah Bte Rabu</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>rosnah_rabu@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td>
 <p>1 Optimistic</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>Ms Tan Si Yun</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>tan_si_yun@moe.edu.sg</p>
 </td>
 </tr>
