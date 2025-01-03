@@ -13,65 +13,34 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Form Teacher's Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email address</p>
-</th>
+<th>Class</th>
+<th>Form Teacher's Name</th>
+<th>Email address</th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>1 Steadfast</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chua Sze Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chua_sze_ling@moe.edu.sg</p>
-</td>
+<td>1 Steadfast</td>
+<td>Ms Chua Sze Ling</td>
+<td>chua_sze_ling@moe.edu.sg</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>1 Steadfast</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Peng Binglun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>peng_binglun@moe.edu.sg</p>
-</td>
+<td>1 Steadfast</td>
+<td>Mdm Peng Binglun</td>
+<td>peng_binglun@moe.edu.sg</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>1 Steadfast</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Chia Wee Cheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chia_wee_cheng@moe.edu.sg</p>
-</td>
+<td>1 Steadfast</td>
+<td>Mdm Chia Wee Cheng</td>
+<td>chia_wee_cheng@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-1 Optimistic
-</td><td>
-Mdm Rosnah Bte Rabu
-</td><td>
-rosnah_rabu@moe.edu.sg
-</td>
+<td>1 Optimistic</td>
+	<td>Mdm Rosnah Bte Rabu</td>
+	<td>rosnah_rabu@moe.edu.sg</td>
 </tr>
 <tr>
-<td>1 Optimistic
-</td><td>
-Ms Tan Si Yun
-</td><td>
-tan_si_yun@moe.edu.sg
-</td>
+<td>1 Optimistic</td>
+	<td>Ms Tan Si Yun</td>
+	<td>tan_si_yun@moe.edu.sg</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
