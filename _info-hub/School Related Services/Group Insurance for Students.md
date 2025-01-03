@@ -10,5 +10,5 @@ the MOE Group Personal Accident (GPA) Insurance Plan for Students for your
 reference.</p>
 <p></p>
 <p>Information on MOE Group Insurance for MK and Primary students, how to
-make claims and FAQs, you may click here at <a rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>
+make claims and FAQs, you may click here at <a href="https://www.income.com.sg/studentgpa" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>
 </p>
