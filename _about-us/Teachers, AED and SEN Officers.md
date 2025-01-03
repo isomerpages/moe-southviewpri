@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <h4><strong>2024 Primary 1 Form Teachers</strong></h4>
-<table style="minWidth: 80px">
+<table style="minWidth: 75px">
 <colgroup>
 <col>
 <col>
@@ -242,7 +242,7 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>2024 Primary 2 Form Teachers</strong></h4>
-<table style="minWidth: 80px">
+<table style="minWidth: 75px">
 <colgroup>
 <col>
 <col>
@@ -483,7 +483,7 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>2024 Primary 3 Form Teachers</strong></h4>
-<table style="minWidth: 80px">
+<table style="minWidth: 75px">
 <colgroup>
 <col>
 <col>
@@ -680,7 +680,7 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>2024 Primary 4 Form Teachers</strong></h4>
-<table style="minWidth: 80px">
+<table style="minWidth: 75px">
 <colgroup>
 <col>
 <col>
@@ -899,7 +899,7 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>2024 Primary 5 Form Teachers</strong></h4>
-<table style="minWidth: 80px">
+<table style="minWidth: 75px">
 <colgroup>
 <col>
 <col>
@@ -1085,7 +1085,7 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>2024 Primary 6 Form Teachers</strong></h4>
-<table style="minWidth: 80px">
+<table style="minWidth: 75px">
 <colgroup>
 <col>
 <col>
@@ -1271,7 +1271,7 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>2024 Non-Form Teachers</strong></h4>
-<table style="minWidth: 80px">
+<table style="minWidth: 75px">
 <colgroup>
 <col>
 <col>
@@ -1490,7 +1490,7 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>2024 Allied Educators</strong></h4>
-<table style="minWidth: 80px">
+<table style="minWidth: 75px">
 <colgroup>
 <col>
 <col>
