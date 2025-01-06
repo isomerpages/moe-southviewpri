@@ -11,8 +11,6 @@ variant: markdown
 <p>Mr Nur Ismadi B Mohd Esa<br>Mr Eddie Quek<br>Mr Isaac Francis S/O Benert<br>Mr Lee Kim Joo</p>
 <p><u><strong>Schedule</strong></u><br>
 <em>Monday </em><br>4.00 p.m. to 6.00 p.m. (extra training for school team closer to competition period)</p> 
-
-
-Thursdays  
-3.00 p.m. to 5.00 p.m.
+<p>Thursdays<br>
+3.00 p.m. to 5.00 p.m.<br></p>
 <p>Page last updated on: 6 Jan 2025</p>
