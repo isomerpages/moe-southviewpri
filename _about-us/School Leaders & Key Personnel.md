@@ -563,18 +563,6 @@ variant: tiptap
 <p>cheong_may_ling_karen@moe.edu.sg</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher
-<br>Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lam Jun Jie James</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lam_jun_jie_james@moe.edu.sg</p>
-</td>
-</tr>
 </tbody>
 </table>
-<p>Page updated on 1 March 2024</p>
+<p>Page updated on 6 January 2025</p>
