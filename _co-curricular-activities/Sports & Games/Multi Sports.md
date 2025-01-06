@@ -10,7 +10,7 @@ variant: markdown
 
 Multi-sports CCA aims to expose students to various sports such as Basketball, Volleyball and other alternative sport. Besides learning sport-specific skills, strategies and rules, students will have the opportunities to participate in friendly games and through them, learn about Teamwork and Sportsmanship.</p>
 <p><u><strong>Teachers-in-charge</strong></u></p>
-<p>Mdm Shaan Gan<br>
+<p>Ms Shaan Gan<br>
 	Ms Lee Hui Zhi<br>
 	Ms Siti Aisyah</p>
 <p><u><strong>Schedule</strong></u></p>
