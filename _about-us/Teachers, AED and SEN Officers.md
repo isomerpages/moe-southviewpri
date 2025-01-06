@@ -243,191 +243,89 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th>
-Class
-</th>
-<th>
-Form Teacher's Name
-</th>
-<th>
-Email address
-</th>
+<th>Class</th>
+<th>Form Teacher's Name</th>
+<th>Email address</th>
 </tr>
 <tr>
-<td>
-3 Steadfast
-</td>
-<td>
-Ms Chin Hui Min Vanessa
-</td>
-<td>
-chin_hui_min_vanessa@moe.edu.sg
-</td>
+<td>3 Steadfast</td>
+<td>Ms Chin Hui Min Vanessa</td>
+<td>chin_hui_min_vanessa@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-3 Steadfast
-</td>
-<td>
-Mdm Liaw Bee Ling
-</td>
-<td>
-liaw_bee_ling@moe.edu.sg
-</td>
+<td>3 Steadfast</td>
+<td>Mdm Liaw Bee Ling</td>
+<td>liaw_bee_ling@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-3 Optimistic
-</td>
-<td>
-Ms Shaan Gan
-</td>
-<td>
-shaan_gan@moe.edu.sg
-</td>
+<td>3 Optimistic</td>
+<td>Ms Shaan Gan</td>
+<td>shaan_gan@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-3 Optimistic
-</td>
-<td>
-Mr Mohamad Hafees Bin Hanafi
-</td>
-<td>
-mohamad_hafees_hanafi_a@moe.edu.sg
-</td>
+<td>3 Optimistic</td>
+<td>Mr Mohamad Hafees Bin Hanafi</td>
+<td>mohamad_hafees_hanafi_a@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-3 Unity
-</td>
-<td>
-Mdm Cheong May Ling Karen
-</td>
-<td>
-cheong_may_ling_karen@moe.edu.sg
-</td>
+<td>3 Unity</td>
+<td>Mdm Cheong May Ling Karen</td>
+<td>cheong_may_ling_karen@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-3 Unity
-</td>
-<td>
-Ms Kelly Ng Mui Yin
-</td>
-<td>
-wang-ng_mui_yin@moe.edu.sg
-</td>
+<td>3 Unity</td>
+<td>Ms Kelly Ng Mui Yin</td>
+<td>wang-ng_mui_yin@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-3 Unity
-</td>
-<td>
-Mdm Ruhaya Bte Mohd Esa
-</td>
-<td>
-ruhaya_mohd_esa@moe.edu.sg
-</td>
+<td>3 Unity</td>
+<td>Mdm Ruhaya Bte Mohd Esa</td>
+<td>ruhaya_mohd_esa@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-3 Tenacity
-</td>
-<td>
-Ms Rosnaini Bte Abdul Rasid
-</td>
-<td>
-rosnaini_abdul_rasid@moe.edu.sg
-</td>
+<td>3 Tenacity</td>
+<td>Ms Rosnaini Bte Abdul Rasid</td>
+<td>rosnaini_abdul_rasid@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-3 Tenacity
-</td>
-<td>
-Ms Bibiana Wong Ying Ching
-</td>
-<td>
-wong_ying_ching_bibiana@moe.edu.sg
-</td>
+<td>3 Tenacity</td>
+<td>Ms Bibiana Wong Ying Ching</td>
+	<td>wong_ying_ching_bibiana@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-3 Tenacity
-</td>
-<td>
-Mr Chua Keng Koon
-</td>
-<td>
-chua_keng_koon@moe.edu.sg
-</td>
+<td>3 Tenacity</td>
+<td>Mr Chua Keng Koon</td>
+<td>chua_keng_koon@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-3 Humility
-</td>
-<td>
-Mr Isaac Francis S/O Benert
-</td>
-<td>
-isaac_francis_benert@moe.edu.sg
-</td>
+<td>3 Humility</td>
+<td>Mr Isaac Francis S/O Benert</td>
+<td>isaac_francis_benert@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-3 Humility
-</td>
-<td>
-Ms Kek Chiew Ching
-</td>
-<td>
-kek_chiew_ching@moe.edu.sg
-</td>
+<td>3 Humility</td>
+<td>Ms Kek Chiew Ching</td>
+<td>kek_chiew_ching@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-3 Virtuous
-</td>
-<td>
-Mrs Bernadine Dorett
-</td>
-<td>
-bernadine_dorett@moe.edu.sg
-</td>
+<td>3 Virtuous</td>
+<td>Mrs Bernadine Dorett</td>
+<td>bernadine_dorett@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-3 Virtuous
-</td>
-<td>
-Ms Ng Shi Qing Metis
-</td>
-<td>
-ng_shi_qing_metis@moe.edu.sg
-</td>
+<td>3 Virtuous</td>
+<td>Ms Ng Shi Qing Metis</td>
+<td>ng_shi_qing_metis@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-3 Inspiring
-</td>
-<td>
-Mr Zainal Ariffin Bin Kassim
-</td>
-<td>
-zainal_ariffin_kassim@moe.edu.sg
-</td>
+<td>3 Inspiring</td>
+<td>Mr Zainal Ariffin Bin Kassim</td>
+<td>zainal_ariffin_kassim@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-3 Inspiring
-</td>
-<td>
-Mdm Jeanette Yeo Yan Ting
-</td>
-<td>
-yeo_yan_ting_jeanette@moe.edu.sg
-</td>
+<td>3 Inspiring</td>
+<td>Mdm Jeanette Yeo Yan Ting</td>
+<td>yeo_yan_ting_jeanette@moe.edu.sg</td>
 </tr>
 </tbody>
 </table>
@@ -440,213 +338,99 @@ yeo_yan_ting_jeanette@moe.edu.sg
 </colgroup>
 <tbody>
 <tr>
-<th>
-Class
-</th>
-<th>
-Form Teacher's Name
-</th>
-<th>
-Email address
-</th>
+<th>Class</th>
+<th>Form Teacher's Name</th>
+<th>Email address</th>
 </tr>
 <tr>
-<td>
-4 Steadfast
-</td>
-<td>
-Mdm New Chye Fong
-</td>
-<td>
-new_chye_fong@moe.edu.sg
-</td>
+<td>4 Steadfast</td>
+<td>Mdm New Chye Fong</td>
+<td>new_chye_fong@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-4 Steadfast
-</td>
-<td>
-Mr Eddie Quek Joo Hin
-</td>
-<td>
-quek_joo_hin_eddie@moe.edu.sg
-</td>
+<td>4 Steadfast</td>
+<td>Mr Eddie Quek Joo Hin</td>
+<td>quek_joo_hin_eddie@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-4 Steadfast
-</td>
-<td>
-Mdm Nadiah Abdul Rahman
-</td>
-<td>
-nadiah_abdul_rahman@moe.edu.sg
-</td>
+<td>4 Steadfast</td>
+<td>Mdm Nadiah Abdul Rahman</td>
+<td>nadiah_abdul_rahman@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-4 Optimistic
-</td>
-<td>
-Mdm Neo Soh Eng Pamela
-</td>
-<td>
-neo_soh_eng_pamela@moe.edu.sg
-</td>
+<td>4 Optimistic</td>
+<td>Mdm Neo Soh Eng Pamela</td>
+<td>neo_soh_eng_pamela@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-4 Optimistic
-</td>
-<td>
-Mdm Wang Wei
-</td>
-<td>
-wang_wei_a@moe.edu.sg
-</td>
+<td>4 Optimistic</td>
+<td>Mdm Wang Wei</td>
+<td>wang_wei_a@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-4 Unity
-</td>
-<td>
-Mdm Cheong Qi Li
-</td>
-<td>
-cheong_qi_li@moe.edu.sg
-</td>
+<td>4 Unity</td>
+<td>Mdm Cheong Qi Li</td>
+<td>cheong_qi_li@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-4 Unity
-</td>
-<td>
-Ms Jiao Yujie
-</td>
-<td>
-jiao_yujie@moe.edu.sg
-</td>
+<td>4 Unity</td>
+<td>Ms Jiao Yujie</td>
+<td>jiao_yujie@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-4 Unity
-</td>
-<td>
-Mdm Mastura Bte Mohamed Yusoff
-</td>
-<td>
-mastura_mohamed_yusoff@moe.edu.sg
-</td>
+<td>4 Unity</td>
+<td>Mdm Mastura Bte Mohamed Yusoff</td>
+<td>mastura_mohamed_yusoff@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-4 Tenacity
-</td>
-<td>
-Ms Toh Sze Ying
-</td>
-<td>
-toh_sze_ying@moe.edu.sg
-</td>
+<td>4 Tenacity</td>
+<td>Ms Toh Sze Ying</td>
+<td>toh_sze_ying@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-4 Tenacity
-</td>
-<td>
-Mdm Liu Qiuyi
-</td>
-<td>
-liu_qiuyi@moe.edu.sg
-</td>
+<td>4 Tenacity</td>
+<td>Mdm Liu Qiuyi</td>
+<td>liu_qiuyi@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-4 Tenacity
-</td>
-<td>
-Mdm Singaravelu Rathai
-</td>
-<td>
-singaravelu_rathai_a@moe.edu.sg
-</td>
+<td>4 Tenacity</td>
+<td>Mdm Singaravelu Rathai</td>
+<td>singaravelu_rathai_a@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-4 Humility
-</td>
-<td>
-Mdm Goh Dishi
-</td>
-<td>
-goh_dishi@moe.edu.sg
-</td>
+<td>4 Humility</td>
+<td>Mdm Goh Dishi</td>
+<td>goh_dishi@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-4 Humility
-</td>
-<td>
-Mdm Amalina Bte Hussein
-</td>
-<td>
-amalina_hussein@moe.edu.sg
-</td>
+<td>4 Humility</td>
+<td>Mdm Amalina Bte Hussein</td>
+<td>amalina_hussein@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-4 Humility
-</td>
-<td>
-Mdm Amirtammal Lakshmana
-</td>
-<td>
-amirtammal_lakshmanan@moe.edu.sg
-</td>
+<td>4 Humility</td>
+<td>Mdm Amirtammal Lakshmana</td>
+<td>amirtammal_lakshmanan@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-4 Virtuous
-</td>
-<td>
-Mr Leow Wei Yuan
-</td>
-<td>
-leow_wei_yuan@moe.edu.sg
-</td>
+<td>4 Virtuous</td>
+<td>Mr Leow Wei Yuan</td>
+<td>leow_wei_yuan@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-4 Virtuous
-</td>
-<td>
-Ms Chua Chwee Tin Priscilla
-</td>
-<td>
-chua_chwee_tin_b@moe.edu.sg
-</td>
+<td>4 Virtuous</td>
+<td>Ms Chua Chwee Tin Priscilla</td>
+<td>chua_chwee_tin_b@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-4 Inspiring
-</td>
-<td>
-Mdm Lee Yin Ping
-</td>
-<td>
-lee_yin_ping@moe.edu.sg
-</td>
+<td>4 Inspiring</td>
+<td>Mdm Lee Yin Ping</td>
+<td>lee_yin_ping@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-4 Inspiring
-</td>
-<td>
-Ms Teo Wee Sim
-</td>
-<td>
-teo_wee_sim@moe.edu.sg
-</td>
+<td>4 Inspiring</td>
+<td>Ms Teo Wee Sim</td>
+<td>teo_wee_sim@moe.edu.sg</td>
 </tr>
 </tbody>
 </table>
