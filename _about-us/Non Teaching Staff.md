@@ -17,6 +17,11 @@ variant: markdown
 <td style="text-align: center;">Ms Phyllis Kee Bee Choo</td>
 <td style="text-align: center;">kee_bee_choo_phyllis@moe.edu.sg</td>
 </tr>
+	<tr>
+<td style="text-align: center;">Administration Manager</td>
+<td style="text-align: center;">Mr Muhammad Hafiz Bin Ma'arof</td>
+<td style="text-align: center;">muhammad_hafiz_maarof@moe.edu.sg</td>
+</tr>
 <tr>
 <td style="text-align: center;">Operations Manager</td>
 <td style="text-align: center;">Mr Thomas Lim Yong Peng</td>
@@ -46,11 +51,6 @@ variant: markdown
 <td style="text-align: center;">CSO</td>
 <td style="text-align: center;">Mdm Salbiah Mohamed</td>
 <td style="text-align: center;">salbiah_mohamed@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;">CSO</td>
-<td style="text-align: center;">Mdm Yvonne Teo Lay Kheng</td>
-<td style="text-align: center;">teo_lay_kheng_yvonne@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">CSO</td>
@@ -91,6 +91,10 @@ variant: markdown
 <td style="text-align: center;">OSO</td>
 <td style="text-align: center;">Mdm Noraini Bte Mohammed Ali</td>
 <td style="text-align: center;">svps@moe.edu.sg</td>
+			</tr><tr>
+<td style="text-align: center;">OSO</td>
+<td style="text-align: center;">Mdm Norsiah Bte Mohd Yusof</td>
+<td style="text-align: center;">svps@moe.edu.sg</td>
 </tr>
 </tbody>
 </table>
@@ -112,11 +116,6 @@ variant: markdown
 <td style="text-align: center;">Mr Nurhakim Bin Zamani</td>
 <td style="text-align: center;">svps@moe.edu.sg</td>
 </tr>
-		<tr>
-<td style="text-align: center;">AV/ICT cum Resource Support Officer</td>
-<td style="text-align: center;">Ms RosAtiqah Binte Ramli</td>
-<td style="text-align: center;">svps@moe.edu.sg</td>
-</tr>
 <tr>
 <td style="text-align: center;">Laboratory Assistant</td>
 <td style="text-align: center;">Mdm Sarimah Kamin</td>
@@ -134,4 +133,4 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p>Page updated on: 4 Nov 2024</p>
+<p>Page updated on: 6 January 2025</p>
