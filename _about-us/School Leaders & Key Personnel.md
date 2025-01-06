@@ -494,18 +494,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher
-<br>English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Pamela See Toh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>neo_soh_eng_pamela@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher
 <br>Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
