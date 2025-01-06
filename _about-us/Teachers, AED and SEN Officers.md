@@ -128,235 +128,109 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th>
-Class
-</th>
-<th>
-Form Teacher's Name
-</th>
-<th>
-Email address
-</th>
+<th>Class</th>
+<th>Form Teacher's Name</th>
+<th>Email address</th>
 </tr>
 <tr>
-<td>
-2 Steadfast
-</td>
-<td>
-Mdm Liu Yun
-</td>
-<td>
-liu_yun@moe.edu.sg
-</td>
+<td>2 Steadfast</td>
+<td>Mdm Liu Yun</td>
+<td>liu_yun@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-2 Steadfast
-</td>
-<td>
-Ms Nur Hasinah Bte Mohammad Sidek
-</td>
-<td>
-nur_hasinah_mohammad_sidek_a@moe.edu.sg
-</td>
+<td>2 Steadfast</td>
+<td>Ms Nur Hasinah Bte Mohammad Sidek</td>
+<td>nur_hasinah_mohammad_sidek_a@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-2 Optimistic
-</td>
-<td>
-Mdm Hamidah Bte Abdol Hamid
-</td>
-<td>
-hamidah_abdul_hamid@moe.edu.sg
-</td>
+<td>2 Optimistic</td>
+<td>Mdm Hamidah Bte Abdol Hamid</td>
+<td>hamidah_abdul_hamid@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-2 Optimistic
-</td>
-<td>
-Mdm Liang Xuexia
-</td>
-<td>
-liang_xuexia@moe.edu.sg
-</td>
+<td>2 Optimistic</td>
+<td>Mdm Liang Xuexia</td>
+<td>liang_xuexia@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-2 Unity
-</td>
-<td>
-Mdm Tang Mei Fong
-</td>
-<td>
-tang_mei_fong@moe.edu.sg
-</td>
+<td>2 Unity</td>
+<td>Mdm Tang Mei Fong</td>
+<td>tang_mei_fong@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-2 Unity
-</td>
-<td>
-Mr Nur Ismadi B Md Esa
-</td>
-<td>
-nur_ismadi_md_esa@moe.edu.sg
-</td>
+<td>2 Unity</td>
+<td>Mr Nur Ismadi B Md Esa</td>
+<td>nur_ismadi_md_esa@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-2 Unity
-</td>
-<td>
-Mdm Vjaya Lashmi d/o Tangavellu
-</td>
-<td>
-vjaya_lashmi_tangavellu@moe.edu.sg
-</td>
+<td>2 Unity</td>
+<td>Mdm Vjaya Lashmi d/o Tangavellu</td>
+<td>vjaya_lashmi_tangavellu@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-2 Tenacity
-</td>
-<td>
-Mdm Choung Hui Ming
-</td>
-<td>
-choung_hui_ming@moe.edu.sg
-</td>
+<td>2 Tenacity</td>
+<td>Mdm Choung Hui Ming</td>
+<td>choung_hui_ming@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-2 Tenacity
-</td>
-<td>
-Ms Nanthiyni Selvaraja
-</td>
-<td>
-nanthiyni_selvaraja@moe.edu.sg
-</td>
+<td>2 Tenacity</td>
+<td>Ms Nanthiyni Selvaraja</td>
+<td>nanthiyni_selvaraja@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-2 Humility
-</td>
-<td>
-Mrs Woo Mun Lan
-</td>
-<td>
-woo_mun_lan@moe.edu.sg
-</td>
+<td>2 Humility</td>
+<td>Mrs Woo Mun Lan</td>
+<td>woo_mun_lan@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-2 Humility
-</td>
-<td>
-Ms Yu Naishan
-</td>
-<td>
-yu_naishan@moe.edu.sg
-</td>
+<td>2 Humility</td>
+<td>Ms Yu Naishan</td>
+<td>yu_naishan@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-2 Virtuous
-</td>
-<td>
-Mdm Leow Siew Peng
-</td>
-<td>
-leow_siew_peng@moe.edu.sg
-</td>
+<td>2 Virtuous</td>
+<td>Mdm Leow Siew Peng</td>
+<td>leow_siew_peng@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-2 Virtuous
-</td>
-<td>
-Ms Ong Xue Wen
-</td>
-<td>
-ong_xue_wen@moe.edu.sg
-</td>
+<td>2 Virtuous</td>
+<td>Ms Ong Xue Wen</td>
+<td>ong_xue_wen@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-2 Inspiring
-</td>
-<td>
-Ms Jan Pang Nyuk Chin
-</td>
-<td>
-pang_nyuk_chin@moe.edu.sg
-</td>
+<td>2 Inspiring</td>
+<td>Ms Jan Pang Nyuk Chin</td>
+<td>pang_nyuk_chin@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-2 Inspiring
-</td>
-<td>
-Mdm See Lina
-</td>
-<td>
-see_lina@moe.edu.sg
-</td>
+<td>2 Inspiring</td>
+	<td>Mdm See Lina</td>
+<td>see_lina@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-2 Empathy
-</td>
-<td>
-Mrs Kunavathi Vijayan Kumaran
-</td>
-<td>
-kunavathi_marimuthu@moe.edu.sg
-</td>
+<td>2 Empathy</td>
+<td>Mrs Kunavathi Vijayan Kumaran</td>
+<td>kunavathi_marimuthu@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-2 Empathy
-</td>
-<td>
-Mdm Lau Yu Xuan Jaelyn
-</td>
-<td>
-lau_yu_xuan@moe.edu.sg
-</td>
+<td>2 Empathy</td>
+<td>Mdm Lau Yu Xuan Jaelyn</td>
+<td>lau_yu_xuan@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-2 Nobility
-</td>
-<td>
-Mdm Norzelawati Bte Shariff
-</td>
-<td>
-norzelawati_shariff@moe.edu.sg
-</td>
+<td>2 Nobility</td>
+<td>Mdm Norzelawati Bte Shariff</td>
+<td>norzelawati_shariff@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-2 Nobility
-</td>
-<td>
-Mdm Goh Kheen Yong
-</td>
-<td>
-goh_kheen_yong@moe.edu.sg
-</td>
+<td>2 Nobility</td>
+<td>Mdm Goh Kheen Yong</td>
+<td>goh_kheen_yong@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-2 Nobility
-</td>
-<td>
-Mdm Ong Wenqi Wendy
-</td>
-<td>
-ong_wenqi_wendy@moe.edu.sg
-</td>
+<td>2 Nobility</td>
+<td>Mdm Ong Wenqi Wendy</td>
+<td>ong_wenqi_wendy@moe.edu.sg</td>
 </tr>
 </tbody>
 </table>
