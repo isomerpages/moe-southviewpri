@@ -10,9 +10,9 @@ variant: markdown
 <p><u><strong>Teachers-in-charge</strong></u></p>
 <p>Pamela See Toh I/C<br>
 Mr Ting Ming Chong, Nicholas 2IC<br>
-Mr Murad B Mohamad Taha</p>
+Mr Murad B Mohamad Taha<br>
 Mdm Chua Sze Ling<br>
-Mdm Wang Wei<br>
+Mdm Wang Wei</p>
 <p><u><strong>Schedule</strong></u></p>
 <p><u>Thursdays</u><br>2.00 p.m. to 4.00 p.m.</p>
 <p>Page last updated on: 6 Jan 2025</p>
