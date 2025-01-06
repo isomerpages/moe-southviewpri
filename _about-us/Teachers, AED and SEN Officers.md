@@ -754,8 +754,8 @@ variant: markdown
 </tr>
 <tr>
 <td>SEN Officer</td>
-<td>chew_zhi_ting@moe.edu.sg</td>
 <td>Ms Chew Zhi Ting</td>
+	<td>chew_zhi_ting@moe.edu.sg</td>
 </tr>
 <tr>
 <td>Counsellor</td>
