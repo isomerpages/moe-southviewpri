@@ -663,126 +663,60 @@ variant: markdown
 	<td>farzila_fikri@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-Non-Form
-</td>
-<td>
-Mdm Daphne Heng Pei Li
-</td>
-<td>
-heng_pei_li_daphne@moe.edu.sg
-</td>
+<td>Non-Form</td>
+<td>Mdm Daphne Heng Pei Li</td>
+<td>heng_pei_li_daphne@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-Non-Form
-</td>
-<td>
-Mdm Hanita Bte Abd Aziz
-</td>
-<td>
-hanita_abd_aziz@moe.edu.sg
-</td>
+<td>Non-Form</td>
+<td>Mdm Hanita Bte Abd Aziz</td>
+<td>hanita_abd_aziz@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-Non-Form
-</td>
-<td>
-Mdm Jaida Goh Lay Choo
-</td>
-<td>
-goh_lay_choo_jaida@moe.edu.sg
-</td>
+<td>Non-Form</td>
+<td>Mdm Jaida Goh Lay Choo</td>
+<td>goh_lay_choo_jaida@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-Non-Form
-</td>
-<td>
-Mdm Lai Yishan Louisa
-</td>
-<td>
-lai_yishan_louisa@moe.edu.sg
-</td>
+<td>Non-Form</td>
+<td>Mdm Lai Yishan Louisa</td>
+<td>lai_yishan_louisa@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-Non-Form
-</td>
-<td>
-Ms Lee Hui Zhi
-</td>
-<td>
-lee_hui_zhi@moe.edu.sg
-</td>
+<td>Non-Form</td>
+<td>Ms Lee Hui Zhi</td>
+<td>lee_hui_zhi@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-Non-Form
-</td>
-<td>
-Mdm Leow Eng Bee
-</td>
-<td>
-leow_eng_bee@moe.edu.sg
-</td>
+<td>Non-Form</td>
+<td>Mdm Leow Eng Bee</td>
+<td>leow_eng_bee@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-Non-Form
-</td>
-<td>
-Ms Lim Xiao Ting
-</td>
-<td>
-lim_xiao_ting@moe.edu.sg
-</td>
+<td>Non-Form</td>
+<td>Ms Lim Xiao Ting</td>
+<td>lim_xiao_ting@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-Non-Form
-</td>
-<td>
-Mdm M'chelle Chan Kim Hong
-</td>
-<td>
-chan_kim_hong@moe.edu.sg
-</td>
+<td>Non-Form</td>
+<td>Mdm M'chelle Chan Kim Hong</td>
+<td>chan_kim_hong@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-Non-Form
-</td>
-<td>
-Ms Norhafiza Bte Mohd Zaini
-</td>
-<td>
-norhafiza_mohd_zaini@moe.edu.sg
-</td>
+<td>Non-Form</td>
+<td>Ms Norhafiza Bte Mohd Zaini</td>
+<td>norhafiza_mohd_zaini@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-Non-Form
-</td>
-<td>
-Mdm Ong Linne
-</td>
-<td>
-ong_linne@moe.edu.sg
-</td>
+<td>Non-Form</td>
+<td>Mdm Ong Linne</td>
+<td>ong_linne@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-Non-Form
-</td>
-<td>
-Mdm Tan Lee Sin
-</td>
-<td>
-tan_lee_sin@moe.edu.sg
-</td>
-</tr>
+<td>Non-Form</td>
+<td>Mdm Tan Lee Sin</td>
+<td>tan_lee_sin@moe.edu.sg</td>
+	</tr>
 </tbody>
 </table>
 <h4><strong>2025 Allied Educators</strong></h4>
@@ -794,84 +728,42 @@ tan_lee_sin@moe.edu.sg
 </colgroup>
 <tbody>
 <tr>
-<th>
-AED/Counsellor
-</th>
-<th>
-Name
-</th>
-<th>
-Email address
-</th>
+<th>AED/Counsellor</th>
+<th>Name</th>
+<th>Email address</th>
 </tr>
 <tr>
-<td>
-Senior AED (T&amp;L)
-</td>
-<td>
-Mdm Lee Li Peng
-</td>
-<td>
-lee_li_peng@moe.edu.sg
-</td>
+<td>Senior AED (T&amp;L)</td>
+<td>Mdm Lee Li Peng</td>
+	<td>lee_li_peng@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-SEN Officer
-</td>
-<td>
-Mdm Nurul Ashikin Bte Ismail
-</td>
-<td>
-nurul_ashikin_ismail@moe.edu.sg
-</td>
+<td>SEN Officer</td>
+<td>Mdm Nurul Ashikin Bte Ismail</td>
+<td>nurul_ashikin_ismail@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-SEN Officer
-</td>
-<td>
-Mr Ahmad Hakim Bin Ahmad
-</td>
-<td>
-ahmad_hakim_ahmad@moe.edu.sg
-</td>
+<td>SEN Officer</td>
+<td>Mr Ahmad Hakim Bin Ahmad</td>
+<td>ahmad_hakim_ahmad@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-SEN Officer
-</td>
-<td>
-Ms Shidy Shariani Bte Mohamed Ishak
-</td>
-<td>
-shidy_shariani@moe.edu.sg
-</td>
+<td>SEN Officer</td>
+<td>Ms Shidy Shariani Bte Mohamed Ishak</td>
+<td>shidy_shariani@moe.edu.sg</td>
 </tr>
 <tr>
-<td>
-SEN Officer
-</td>
-<td>
-chew_zhi_ting@moe.edu.sg
-</td>
-<td>
-Ms Chew Zhi Ting
-</td>
+<td>SEN Officer</td>
+<td>chew_zhi_ting@moe.edu.sg</td>
+<td>Ms Chew Zhi Ting</td>
 </tr>
 <tr>
-<td>
-Counsellor
-</td>
-<td>
-Ms Cheo Eve Lyn
-</td>
-<td>
-cheo_eve_lyn@moe.edu.sg
-</td>
+<td>Counsellor</td>
+<td>Ms Cheo Eve Lyn</td>
+<td>cheo_eve_lyn@moe.edu.sg</td>
 </tr>
 </tbody>
 </table>
 Deployment is subjected to changes at the management's discretion according
 to school's needs. No prior notice will be given.
-<br>Page updated on: 3 Jan 2025
+<br>Page updated on: 6 Jan 2025
