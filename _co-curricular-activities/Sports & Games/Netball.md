@@ -13,6 +13,6 @@ variant: markdown
 	Ms Tay Hwee Hoon<br>
 	Mdm Priscilla Ho Shi Shee</p>
 <p><u><strong>Schedule</strong></u></p>
-<p><u>Mondays</u><br><strong>P3, P4, P5 &amp; P6</strong><br>4.00 p.m. to 6.00 p.m. (for NSG Team)</p>
+<p><u>Mondays</u><br><strong></strong>3.30 p.m. to 5.30 p.m. (for selected students only)</p>
 <p><u>Thursdays</u><br>2.00 p.m. to 4.00 p.m.</p>
-<p>Page last updated on: 6 Jan 2025</p>
+<p>Page last updated on: 16 Jan 2025</p>
