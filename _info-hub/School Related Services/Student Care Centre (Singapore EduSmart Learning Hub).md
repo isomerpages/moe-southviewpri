@@ -17,21 +17,18 @@ Singapore EduSmart Learning Hub by clicking this link <a href="https://singapore
 </p>
 <p><strong>Daily Schedule</strong>
 <br><strong>• Primary 1</strong>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 150%;" height="auto" width="100%" src="/images/SCC1.png">
 </div>
 <p>
 <br><strong>• Primary 2 and Primary 3</strong>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 150%;" height="auto" width="100%" src="/images/SCC2.png">
 </div>
 <p>
 <br><strong>• Primary 4, Primary 5 and Primary 6</strong>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 150%;" height="auto" width="100%" src="/images/SCC3.png">
