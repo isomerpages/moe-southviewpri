@@ -17,21 +17,18 @@ Singapore EduSmart Learning Hub by clicking this link <a href="https://singapore
 </p>
 <p><strong>Daily Schedule</strong>
 <br><strong>• Primary 1</strong>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 150%;" height="auto" width="100%" src="/images/SCC1.png">
 </div>
 <p>
 <br><strong>• Primary 2 and Primary 3</strong>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 150%;" height="auto" width="100%" src="/images/SCC2.png">
 </div>
 <p>
 <br><strong>• Primary 4, Primary 5 and Primary 6</strong>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 150%;" height="auto" width="100%" src="/images/SCC3.png">
@@ -39,32 +36,28 @@ Singapore EduSmart Learning Hub by clicking this link <a href="https://singapore
 <p>
 <br>
 </p>
-<p><strong><u>Request for enrolment in EduSmart@ South View Primary School</u></strong>
+<p><a href="https://zfrmz.com/WTLPzNRU3e5ckMXgEI7T" rel="noopener noreferrer nofollow" target="_blank">EduSmart Student Care - Registration of Interest</a>
 <br>
 <br>For parents who intend to enrol your child in the School-based Student
 Care Centre at South View Primary School, please apply to Singapore EduSmart
-Learning Hub via the following link: <a href="https://forms.zohopublic.com/edusmartlearninghubsouthview/form/P1StudentCareRegistration2025/formperma/uIVHQ_7zHDBGfu9JI0nrKyS40egIa_kmguUtN2a0Zjo" rel="noopener nofollow" target="_blank">P1 2025 ROI</a> by <strong>30 October 2024 (Friday)</strong>.
-Please note that as SSC vacancies are limited, the school will give priority
-to families who are more in need of after-school care arrangements. The
-school will evaluate your child's need for the SSC services and inform
-you the outcome of your intent through our vendor, Singapore EduSmart Learning
-Hub, <strong>by 8 November 2024</strong>.</p>
-<p>If we are unable to enroll your child in our SSC, you may wish to consider
-an alternative Community-based Student Care Centre. You can search for
-other MSF-registered Student Care Centres by visiting the MSF website:
-<a href="https://www.msf.gov.sg/our-services/directories#studenttab" rel="noopener noreferrer nofollow" target="_blank">https://www.msf.gov.sg/our-services/directories#studenttab</a>
+Learning Hub via the following link:&nbsp;<a href="https://zfrmz.com/WTLPzNRU3e5ckMXgEI7T" rel="noopener noreferrer nofollow" target="_blank">EduSmart Student Care - Registration of Interest</a>&nbsp;by&nbsp;<strong>15th of the month </strong>in
+order to register for the next month. Registrations after the 15th will
+be considered for the following month. <em>(i.e. Submit registration by 15th Jan, registration considered for 1st February. Submit registration on 16th Jan, registration considered for 1st March)</em>&nbsp;Please
+note that as SSC vacancies are limited, the school will give priority to
+families who are more in need of after-school care arrangements. The school
+will evaluate your child's need for the SSC services and inform you the
+outcome of your intent through our vendor, Singapore EduSmart Learning
+Hub, <strong>by 22nd of the month.</strong>
 </p>
-<p>No action is needed if you are not enrolling your child in our SCC.
-<br>
-</p>
-<p><strong><u>Monthly SSC Fees</u></strong>
+<p>
+<br><strong><u>Monthly SSC Fees</u></strong>
 <br>
 <br>The monthly SSC fees in 2024 is $245.
 <br>
 <br>The initial upfront fee consists of 1 month fee, deposit of $245 and registration
 fee of $20. SSC T-shirt can be purchased at $11 per piece.
 <br>
-<br>Our full-day SSC surcharge is $3 per day.</p>
+<br>Our full-day SSC surcharge is <strong>$2 per day</strong>.</p>
 <p><strong><u>Assistance for needy families</u></strong>
 <br>
 <br>We will assist eligible parents to apply for Student Care Financial Assistance,
