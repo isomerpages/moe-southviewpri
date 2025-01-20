@@ -39,7 +39,7 @@ Singapore EduSmart Learning Hub by clicking this link <a href="https://singapore
 <p>
 <br>
 </p>
-<p><strong><u>Request for enrolment in EduSmart@ South View Primary School</u></strong>
+<p><a href="https://zfrmz.com/WTLPzNRU3e5ckMXgEI7T" rel="noopener noreferrer nofollow" target="_blank">EduSmart Student Care - Registration of Interest</a>
 <br>
 <br>For parents who intend to enrol your child in the School-based Student
 Care Centre at South View Primary School, please apply to Singapore EduSmart
