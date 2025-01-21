@@ -34,18 +34,18 @@ more information on MOE Sexuality Education.</p>
 </p>
 <ol start="4" data-tight="true" class="tight">
 <li>
-<p>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. </p><p>You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information on the scope of Sexuality Education in the school curriculum.</p>
+<p>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information on the scope of Sexuality Education in the school curriculum.</p>
 </li>
 <li>
-<p>The subjects that incorporate topics on sexuality include:</p>
-<p>a. Science</p>
-<p>b. Character and Citizenship Education (CCE)</p>
+<p>The subjects that incorporate topics on sexuality include:<br>
+a. Science<br>
+b. Character and Citizenship Education (CCE)</p>
 </li>
 </ol>
 <p></p>
 <p><strong><u>Sexuality Education Lessons:</u></strong>
 </p>
-<ol start="6" data-tight="true" class="tight">
+<ol start="4" data-tight="true" class="tight">
 <li>
 <p>The upper primary years mark the onset of puberty. With better nutrition
 and improved health care, children are reaching puberty at a younger age
