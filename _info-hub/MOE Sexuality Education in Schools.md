@@ -59,18 +59,14 @@ b. Character and Citizenship Education (CCE)</p>
 </p>
 <ol start="8" data-tight="true" class="tight">
 <li>
-<p>Parents may opt their children out of Sexuality Education lessons, and/or
-supplementary Sexuality Education programmes by MOE-approved external providers.</p>
+<p>Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</p>
 </li>
 <li>
-<p>Parents who wish to opt their children out of the Sexuality Education
-lessons need to complete an opt-out form via Parents Gateway. The completed
-opt-out form is to be submitted by 9 February 2024.</p>
+<p>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form via Parents Gateway. The completed opt-out form is to be submitted by 14th February 2025.</p>
 </li>
 <li>
-<p>Parents can contact the school at 67697176 for discussion or to seek clarification
-about the school’s Sexuality Education programme.</p>
+<p>Parents can contact the school at 67697176 for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
 <p></p>
 </li>
 </ol>
-<p>Page last updated on: 30 January 2024</p>
+<p>Page last updated on: 21 January 2025</p>
