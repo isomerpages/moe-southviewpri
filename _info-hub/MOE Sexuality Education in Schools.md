@@ -4,7 +4,7 @@ permalink: /departments/pupil-well-being/moe-sexuality-education-in-schools/
 description: ""
 variant: markdown
 ---
-<p><strong>Moe Sexuality Education in Schools</strong>
+<p><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -34,7 +34,7 @@ more information on MOE Sexuality Education.</p>
 </p>
 <ol start="4" data-tight="true" class="tight">
 <li>
-<p>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information on the scope of Sexuality Education in the school curriculum.</p>
+<p>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information on the scope of Sexuality Education in the school curriculum.</p>
 </li>
 <li>
 <p>The subjects that incorporate topics on sexuality include:<br>
