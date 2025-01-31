@@ -462,36 +462,32 @@ take one or more of the following actions when students misbehave.
 <li>
 <p><strong>FAIR conduct</strong>
 </p>
-</li>
-</ol>
 <p>When the student’s name is captured in the School Offence Module, he/
 she may be given a FAIR conduct grade depending on the severity of the
-offence committed.&nbsp;</p>
-<ol start="2" data-tight="true" class="tight">
+offence committed.</p>
+<p></p>
+</li>
 <li>
 <p><strong>Repeated Offences</strong>
 </p>
-</li>
-</ol>
 <p>Repeated offences will be recorded and captured in the School Offence
-Module in the School Cockpit System.
-<br>
-<br>The school may also implement measures such as <strong><u>counselling, caning and suspension for repeated offences and for Stage 2 and Stage 3 offences</u></strong>.
+Module in the School Cockpit System.</p>
+<p>The school may also implement measures such as <strong><u>counselling, caning and suspension for repeated offences and for Stage 2 and Stage 3 offences</u></strong>.
 The school will inform parents before proceeding with any of the measures.</p>
-<ol start="3">
+<p></p>
+</li>
 <li>
 <p><strong>Use of Electronic Devices (Mobile Phones and Smart Watches)</strong>
 </p>
-</li>
-</ol>
 <p>Unauthorised use of personal mobile phones/ smart watches (with camera
 and call functions) is not allowed during official school activities e.g.
-curriculum time, learning journeys, CCA, supplementary lessons, recess/lunch.
-<br>
-<br>These items will be confiscated and only returned to the parent(s) personally
+curriculum time, learning journeys, CCA, supplementary lessons, recess/lunch.</p>
+<p>These items will be confiscated and only returned to the parent(s) personally
 if unauthorised use is found. Students may be furthered barred from bringing
 such items to school. Repeated offenders from 2<sup>nd</sup> time onwards
 will sign a contract with school and the devices will be confiscated until
 end of semester.</p>
+</li>
+</ol>
 <p>
 <br>Page updated on: 31 January 2025</p>
