@@ -363,9 +363,7 @@ to school.</p>
 class, supplementary/ remedial lessons or play truant.</p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<p></p>
 <ol start="5" data-tight="true" class="tight">
 <li>
 <p><strong>School Property</strong>
@@ -385,9 +383,7 @@ with care and returned in good condition after use.</p>
 by a teacher.</p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<p></p>
 <ol start="6" data-tight="true" class="tight">
 <li>
 <p><strong>Examination Matters</strong>
@@ -468,6 +464,8 @@ to use them)&nbsp;</p>
 </li>
 <li>
 <p>Any other items which are deemed as a distraction or dangerous.</p>
+</li>
+</ul>
 <p></p>
 <ol start="10" data-tight="true" class="tight">
 <li>
@@ -475,8 +473,6 @@ to use them)&nbsp;</p>
 </p>
 </li>
 </ol>
-</li>
-</ul>
 <p>Students are not to use personal digital devices, including smartphones,
 during school hours including recess, CCA and after-school programmes (e.g.
 supplementary/ enrichment/remedial lessons). Students who bring such devices
@@ -494,6 +490,13 @@ camera and call functions at <u>all areas</u> as long as they are within
 the school compounds. Students found using these devices in school without
 valid reason will have the items confiscated. The confiscated items will
 be returned only to parents.</p>
+<p></p>
+<p><strong>Discipline Policy - Offences &amp; Consequences</strong>
+</p>
+<p>Discipline and good character are the hallmarks of a Southvien. The school
+categorises offences into 3 stages: Stage 1 for minor offences, Stage 2
+for major offences and Stage 3 for very serious offences. The school will
+take one or more of the following actions when students misbehave.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/SR6N.jpg">
 </div>
@@ -503,17 +506,42 @@ be returned only to parents.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/SR8N.jpg">
 </div>
-<p><strong>Additional Notes:<br>1. Repeated Offences<br></strong>Repeated
-offences will be recorded and captured in the School Offence Module in
-the School Cockpit System. The school may also implement measures such
-as <strong><u>counselling, caning and suspension for repeated offences and for Stage 2 and Stage 3 offences.</u></strong> The
-school will inform parents before proceeding with any of the measures.</p>
-<p><strong>2. Use of Electronic Devices (Mobile Phones and Smart Watches)<br></strong>Unauthorised
-use of personal mobile phones/ smart watches (with camera and call functions)
-is not allowed during official school activities e.g. curriculum time,
-learning journeys, CCA, supplementary lessons, recess/lunch.</p>
-<p>These items will be confiscated and only returned to the parent(s) personally
+<p><strong>Additional Notes:</strong>
+</p>
+<ol>
+<li>
+<p><strong>FAIR conduct</strong>
+</p>
+</li>
+</ol>
+<p>When the student’s name is captured in the School Offence Module, he/
+she may be given a FAIR conduct grade depending on the severity of the
+offence committed.&nbsp;</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>Repeated Offences</strong>
+</p>
+</li>
+</ol>
+<p>Repeated offences will be recorded and captured in the School Offence
+Module in the School Cockpit System.
+<br>
+<br>The school may also implement measures such as <strong><u>counselling, caning and suspension for repeated offences and for Stage 2 and Stage 3 offences</u></strong>.
+The school will inform parents before proceeding with any of the measures.</p>
+<ol start="3">
+<li>
+<p><strong>Use of Electronic Devices (Mobile Phones and Smart Watches)</strong>
+</p>
+</li>
+</ol>
+<p>Unauthorised use of personal mobile phones/ smart watches (with camera
+and call functions) is not allowed during official school activities e.g.
+curriculum time, learning journeys, CCA, supplementary lessons, recess/lunch.
+<br>
+<br>These items will be confiscated and only returned to the parent(s) personally
 if unauthorised use is found. Students may be furthered barred from bringing
-such items to school.</p>
+such items to school. Repeated offenders from 2<sup>nd</sup> time onwards
+will sign a contract with school and the devices will be confiscated until
+end of semester.</p>
 <p>
-<br>Page updated on: 26 January 2023</p>
+<br>Page updated on: 31 January 2025</p>
