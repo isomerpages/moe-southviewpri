@@ -105,67 +105,12 @@ granted by the school.</p>
 </li>
 <li>
 <p>Male students must be clean-shaven and neat in appearance.</p>
+<p></p>
 </li>
 </ul>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Boys</strong>
-</p>
-<ul>
-<li>
-<p>Beige shirt with dark blue shorts&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-</li>
-<li>
-<p>Nametag sewn above the shirt pocket</p>
-</li>
-<li>
-<p>Plain black socks above the ankle</p>
-</li>
-<li>
-<p>Plain black canvas shoes</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/SR1N.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SR1.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Girls</strong>
-</p>
-<ul>
-<li>
-<p>Beige shirt with dark blue skirt (knee length)</p>
-</li>
-<li>
-<p>Nametag sewn above the shirt pocket</p>
-</li>
-<li>
-<p>Plain black socks above the ankle</p>
-</li>
-<li>
-<p>Plain black canvas shoes</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/SR2N.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
 <p><strong>PE Attire</strong>
 </p>
 <ul>
@@ -183,12 +128,14 @@ granted by the school.</p>
 </ul>
 <ul>
 <li>
-<p>All students are to wear the PE attire during PE lessons and CCA sessions.</p>
+<p>All students are to wear the PE attire during PE lessons and CCA sessions.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SR2.png">
+</div>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width:90%" height="auto" width="100%" src="/images/SR34N.jpg">
-</div>
 <p><strong>Use of PE Attire</strong>
 </p>
 <ul>
@@ -273,10 +220,9 @@ band.</p>
 <p>Dyeing/highlighting of hair is strictly not allowed.</p>
 </li>
 </ul>
-<p><strong>Boys &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Girls</strong>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/SR5-1N.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SR3.png">
 </div>
 <ol start="4" data-tight="true" class="tight">
 <li>
@@ -496,15 +442,19 @@ be returned only to parents.</p>
 <p>Discipline and good character are the hallmarks of a Southvien. The school
 categorises offences into 3 stages: Stage 1 for minor offences, Stage 2
 for major offences and Stage 3 for very serious offences. The school will
-take one or more of the following actions when students misbehave.</p>
+take one or more of the following actions when students misbehave.
+<br>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/SR6N.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SR4.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/SR7N.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SR5.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/SR8N.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SR6.png">
 </div>
 <p><strong>Additional Notes:</strong>
 </p>
