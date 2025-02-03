@@ -3,16 +3,13 @@ title: "SLS: Getting Started"
 permalink: /info-hub/student-learning-space-and-student-icon-matters-general/sls-getting-started/
 description: ""
 third_nav_title: SLS and Student Icon Matters
+variant: markdown
 ---
+<p>The SLS is an online platform with tools and curriculum-aligned resources for all students to learn at their own pace and collaboratively, and can be accessed here: https://learning.moe.edu.sg/<br><br>
+With SLS, students can take greater ownership of their learning and pick up skills and habits that prepare them for lifelong learning. Teachers will also use the SLS to complement classroom teaching and learning.</p>
+<p>Your child/ward will be able to login to SLS using the following:
+</p><ul>- SLS username and password<br><br>
+- MIMS username and password</ul><p></p>
+<p>Note: For students, the MIMS username is the same as the student’s iCON email address, ending with @students.edu.sg.</p>
+<p>SLS and Student iCON are key platforms used by the school to support students in their learning. If your child/ward encounters issues accessing SLS, please follow the steps shown in the SLS recovery poster below.</p>
 
-<h4><strong>Initial Login</strong></h4>
-<p>1. SLS can be accessed from&nbsp;<a href="https://learning.moe.edu.sg/" target="_blank" rel="noopener">https://learning.moe.edu.sg</a>.</p>
-<img src="/images/sls1.jpeg">
-<p>Figure 1a: Login page</p>
-<p>2. During the<strong>&nbsp;FIRST</strong>&nbsp;login, you will be prompted to change your password (refer to Fig. 1b). You will need to key in your new password twice. Please note that the password must contain alphanumeric characters and is case-sensitive. It should:&nbsp;<br />a. be<strong>&nbsp;8 characters or longer</strong>;<br />b. contain&nbsp;<strong>at least 1 letter and 1 number</strong>; and<br />c. be<strong>&nbsp;changed every 90 days</strong>&nbsp;(you will be directed to the change password page automatically)</p>
-<img src="/images/sls2.jpeg">
-<p>Figure 1b: 'Change password' page</p>
-<p>3. After you have changed your password, you will be prompted with an option to enter your email address in the &ldquo;<strong>Password Reset Email Address</strong>&rdquo; field (refer to Fig. 1c). A verification email will be sent to this email address.</p>
-<img src="/images/sls3.jpeg">
-<p>Figure 1c: 'Password reset email' page</p>
-<p>4. The next step would be to set up the Security Questions. You will need to answer these Questions to verify that you are the legitimate account holder, when you need to perform a password reset via self-help or by calling Helpdesk.</p>
