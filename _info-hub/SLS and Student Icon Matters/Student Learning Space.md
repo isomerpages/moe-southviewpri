@@ -13,13 +13,9 @@ be accessed here: https://learning.moe.edu.sg/
 up skills and habits that prepare them for lifelong learning. Teachers
 will also use the SLS to complement classroom teaching and learning.</p>
 <p>Your child/ward will be able to login to SLS using the following:</p>
-<ul data-tight="true" class="tight">
-<li>
 <p>- SLS username and password
 <br>
 <br>- MIMS username and password</p>
-</li>
-</ul>
 <p></p>
 <p>Note: For students, the MIMS username is the same as the student’s iCON
 email address, ending with @students.edu.sg.</p>
