@@ -3,7 +3,7 @@ title: Student iCON
 permalink: /info-hub/sls-and-student-icon-matters/student-icon/
 description: ""
 third_nav_title: SLS and Student Icon Matters
-variant: tiptap
+variant: markdown
 ---
 <p>Students are provided with a student iCON (Google) account in his/her
 course of education in school until the end of secondary/ JC.
@@ -31,7 +31,7 @@ follow the steps shown in the student iCON/MIMS recovery poster below.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/SI3.png">
+<img style="width: 60%;" height="auto" width="100%" src="/images/SI3.jpg">
 </div>
 <p>
 <br>
@@ -62,7 +62,7 @@ follow the steps shown in the student iCON/MIMS recovery poster below.
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/SLS3.png">
+<img style="width: 100%" height="auto" width="100%" src="/images/SI4.png">
 </div>
 </td>
 </tr>
@@ -76,7 +76,7 @@ follow the steps shown in the student iCON/MIMS recovery poster below.
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/SLS4.png">
+<img style="width: 100%" height="auto" width="100%" src="/images/SI5.png">
 </div>
 </td>
 </tr>
