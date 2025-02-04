@@ -14,3 +14,26 @@ Apps available for Primary 4 to 6:<br>
 If your child/ward encounters issues accessing student iCON/MIMS, please follow the steps shown in the student iCON/MIMS recovery poster below.<br>
 		<img src="/images/SI3.jpeg"><br>
 </p>
+	<table>
+	<tbody>
+		<tr>
+			<td><strong>Useful Information</strong></td>
+			<td><strong>Quick Links/Guides</strong>
+			</td></tr>
+		<tr>
+			<td><u>How to reset MIMS password</u><br><br>
+Who?<br><br>
+Only if challenge questions have been set up previously.
+</td>
+			<td><img src="/images/SLS3.png">
+			</td></tr>
+		<tr>
+			<td><u>Setting up answers to challenge questions</u><br><br>
+Why?<br><br>
+Your child/ward will be able to perform a password self-reset.</td>
+			<td><img src="/images/SLS4.png">
+			</td></tr>
+		</tbody>
+	</table>
+	<p><strong>Support</strong><br>
+	For school technical support for SLS and student iCON/MIMs accounts, complete <a href="http://bit.ly/svpsreset" target="_blank" rel="noopener">form</a></p>
