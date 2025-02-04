@@ -20,7 +20,7 @@ With SLS, students can take greater ownership of their learning and pick up skil
 			</td></tr>
 		<tr>
 			<td><u>Navigating the New SLS Homepage</u></td>
-			<td><br>
+			<td><img src="/images/SLS3.jpg<br">
 			</td></tr>
 		<tr>
 			<td><u>Navigating Within an SLS Assignment</u></td>
