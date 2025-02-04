@@ -16,8 +16,6 @@ If your child/ward encounters issues accessing student iCON/MIMS, please follow 
 </p>
 	<table>
 	<tbody>
-		<tr><td></td>
-		<td></td></tr>
 		<tr>
 			<td><strong>Useful Information</strong></td>
 			<td><strong>Quick Links/Guides</strong>
@@ -35,8 +33,6 @@ Why?<br><br>
 Your child/ward will be able to perform a password self-reset.</td>
 			<td><img src="/images/SLS4.png">
 			</td></tr>
-		<tr><td></td>
-		<td></td></tr>
 		</tbody>
 	</table>
 	<p><strong>Support</strong><br>
