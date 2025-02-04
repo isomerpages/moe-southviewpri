@@ -20,13 +20,13 @@ will also use the SLS to complement classroom teaching and learning.</p>
 <p>Note: For students, the MIMS username is the same as the student’s iCON
 email address, ending with @students.edu.sg.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/SLS1.jpg">
+<img style="width: 80%;" height="auto" width="100%" src="/images/SLS1.jpg">
 </div>
 <p>SLS and Student iCON are key platforms used by the school to support students
 in their learning. If your child/ward encounters issues accessing SLS,
 please follow the steps shown in the SLS recovery poster below.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/SLS2.jpg">
+<img style="width: 80%;" height="auto" width="100%" src="/images/SLS2.jpg">
 </div>
 <p></p>
 <table style="minWidth: 50px">
