@@ -40,5 +40,10 @@ Why?<br><br>
 Your child/ward will be able to perform a password self-reset.</td>
 			<td><a href="https://www.learning.moe.edu.sg/student-user-guide/customise/update-answers-to-security-questions/" target="_blank" rel="noopener">"https://www.learning.moe.edu.sg/student-user-guide/customise/update-answers-to-security-questions/"</a>
 			</td></tr>
+		<tr>
+					<td><u>Recommended Operating Systems and Browsers</u><br><br>
+SLS is accessible through internet browsers on Windows PC, Mac, tablets and mobile devices.</td>
+			<td><a href="https://go.gov.sg/slsosbrowser" target="_blank" rel="noopener">"https://go.gov.sg/slsosbrowser"</a>
+			</td></tr>
 	</tbody>
 	</table>
