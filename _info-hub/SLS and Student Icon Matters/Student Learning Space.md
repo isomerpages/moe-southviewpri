@@ -47,3 +47,5 @@ SLS is accessible through internet browsers on Windows PC, Mac, tablets and mobi
 			</td></tr>
 	</tbody>
 	</table>
+	<p><strong>Support</strong><br>
+	For school technical support for SLS and student iCON/MIMs accounts, complete <a href="http://bit.ly/svpsreset" target="_blank" rel="noopener">form</a></p>
