@@ -31,7 +31,7 @@ follow the steps shown in the student iCON/MIMS recovery poster below.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/SI3.png">
+<img style="width: 60%;" height="auto" width="100%" src="/images/SI3.jpg">
 </div>
 <p>
 <br>
