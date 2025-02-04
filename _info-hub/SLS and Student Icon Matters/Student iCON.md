@@ -62,7 +62,7 @@ follow the steps shown in the student iCON/MIMS recovery poster below.
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/SLS3.png">
+<img style="width: 100%" height="auto" width="100%" src="/images/SI4.png">
 </div>
 </td>
 </tr>
@@ -76,7 +76,7 @@ follow the steps shown in the student iCON/MIMS recovery poster below.
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/SLS4.png">
+<img style="width: 100%" height="auto" width="100%" src="/images/SI5.png">
 </div>
 </td>
 </tr>
