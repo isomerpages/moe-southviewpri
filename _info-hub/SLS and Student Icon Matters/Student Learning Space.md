@@ -28,6 +28,7 @@ please follow the steps shown in the SLS recovery poster below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/SLS2.jpg">
 </div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
