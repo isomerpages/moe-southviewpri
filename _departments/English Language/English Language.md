@@ -112,7 +112,7 @@ Term 1
 	<td>EL Oracy Competition</td>
 <td>
 EL Oracy Competition is a platform to help build the speaking and communication skills of Southviens. It is an additional platform that allows our pupils to apply the skills they have learnt from Speak Up Speak Out and gain confidence in public speaking or in front of an audience. Any interested Southvien can be part of this.<br>
-	<img src="/images/EL1.jpg" style="width: 35%"><img src="/images/EL2.jpg" style="width: 35%">
+	<img src="/images/EL1.jpg" style="width: 35%">
 </td>
 <td style="text-align: center;">
 Primary 1 - 4
@@ -153,7 +153,7 @@ Primary 1 - 3
 			<tr>
 	<td>Read@SV (Storytelling Sessions)</td>
 <td>
-To foster a love for reading, storytelling sessions are held every Monday morning for P1 to P3 students. During these sessions, teachers and student librarians share engaging short stories. After which, students are invited to share their thoughts and reflections on Padlet. Another storytelling session where students can immerse themselves in more captivating tales, takes place during the P1 to P3 recesses. This is hosted by our very own ‘Mrs. Flutters’ at the library, <img src="/images/EL3.png"></td>
+To foster a love for reading, storytelling sessions are held every Monday morning for P1 to P3 students. During these sessions, teachers and student librarians share engaging short stories. After which, students are invited to share their thoughts and reflections on Padlet. Another storytelling session where students can immerse themselves in more captivating tales, takes place during the P1 to P3 recesses. This is hosted by our very own ‘Mrs. Flutters’ at the library, <img src="/images/EL2.png"></td>
 <td style="text-align: center;">
 Primary 1 - 3
 </td>
@@ -173,5 +173,4 @@ Primary 4 - 6
 		</tr>
 		</tbody>
 	</table>
-
 <p>Page last updated: 6 Feb 2025</p></li>
