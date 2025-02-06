@@ -112,7 +112,7 @@ Term 1
 	<td>EL Oracy Competition</td>
 <td>
 EL Oracy Competition is a platform to help build the speaking and communication skills of Southviens. It is an additional platform that allows our pupils to apply the skills they have learnt from Speak Up Speak Out and gain confidence in public speaking or in front of an audience. Any interested Southvien can be part of this.<br>
-	<img src="/images/EL1.jpg" style="width: 35%">
+	<img src="/images/EL1.jpg" style="width: 85%">
 </td>
 <td style="text-align: center;">
 Primary 1 - 4
