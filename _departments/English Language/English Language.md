@@ -111,15 +111,26 @@ Term 1
 <tr>
 	<td>EL Oracy Competition</td>
 <td>
-EL Oracy Competition is a platform to help build the speaking and communication skills of Southviens. It is an additional platform that allows our pupils to apply the skills they have learnt from Speak Up Speak Out and gain confidence in public speaking or in front of an audience. Any interested Southvien can be part of this.
+EL Oracy Competition is a platform to help build the speaking and communication skills of Southviens. It is an additional platform that allows our pupils to apply the skills they have learnt from Speak Up Speak Out and gain confidence in public speaking or in front of an audience. Any interested Southvien can be part of this.<br>
+	<img src="/images/el2.jpg" style="width: 80%">
 </td>
 <td style="text-align: center;">
 Primary 1 - 4
 </td>
-<td style="text-align: center;">Term 2 - 3</td>
+<td style="text-align: center;">Term 2 - 3
+	</td>
+		</tr>
+	<tr>
+	<td>EL SPARK</td>
+<td>
+The EL SPARK programme is designed to enrich the learning for students who demonstrate passion, interest and ability in the English Language. Through activities like reading circles, drama and debate, it aims to stretch and develop creativity in higher progress, verbally talented students. It also nurtures 21st century competencies like critical and inventive thinking and communication skills.</td>
+<td style="text-align: center;">
+Selected P3-P5 students
+</td>
+<td style="text-align: center;">Term 2 - 4
+	</td>
 		</tr>
 		</tbody>
 	</table>
-<img src="/images/el2.jpg" style="width: 50%">
 
 <p>Page last updated: 17 Jan 2023</p></li>
