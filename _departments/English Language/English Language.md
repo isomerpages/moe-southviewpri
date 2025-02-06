@@ -3,6 +3,7 @@ title: English Language
 permalink: /departments/english-language/
 description: ""
 third_nav_title: English Language
+variant: markdown
 ---
 <p>The English Language programmes aim to nurture positive learning dispositions, skills and attitudes in our Southviens.</p>
 <p>We are preparing them to:</p>
@@ -25,8 +26,8 @@ third_nav_title: English Language
 </th>
 </tr>
 <tr>
-<td>Write Connection</td>
-<td>Write Connection equips pupils with:
+<td>Writing Curriculum</td>
+<td>Writing Curriculum equips pupils with:
 <li> creative writing techniques
 	</li><li> skills to take on different perspectives
 	</li><li> the ability to identify purpose, audience and context and write different text types
@@ -98,7 +99,7 @@ Term 2
 		<tr>
 <td>Speak Up, Speak Out – Debate</td>
 <td>
-Teach debate structure and crafting of arguments to support the motion
+Teach debating skills that include crafting of arguments and rebuttals, which fosters critical thinkers and compelling speakers.
 </td>
 <td style="text-align: center;">
 Primary 6
@@ -108,9 +109,9 @@ Term 1
 </td>
 </tr>
 <tr>
-	<td>Speaking Sparkle</td>
+	<td>EL Oracy Competition</td>
 <td>
-Speaking Sparkle is a platform to help build the speaking and communication skills of Southviens. It is an additional platform that allows our pupils to apply the skills they have learnt from Speak Up Speak Out and gain confidence in public speaking or in front of an audience. Any interested Southvien can be part of this.
+EL Oracy Competition is a platform to help build the speaking and communication skills of Southviens. It is an additional platform that allows our pupils to apply the skills they have learnt from Speak Up Speak Out and gain confidence in public speaking or in front of an audience. Any interested Southvien can be part of this.
 </td>
 <td style="text-align: center;">
 Primary 1 - 4
