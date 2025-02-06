@@ -130,6 +130,47 @@ Selected P3-P5 students
 <td style="text-align: center;">Term 2 - 4
 	</td>
 		</tr>
+		<tr>
+	<td>Read@SV (Little Red Dot)</td>
+<td>
+As part of our Read@SV programme to mould our students to be discerning readers and creative inquirers, P5 and P6 students will use The Straits Times Little Red Dot as a tool, along with an activity booklet, to engage deeply with the articles. It aims to develop critical thinking and foster global literacy as students gain insights into current events, global issues and multiple perspectives.</td>
+<td style="text-align: center;">
+Primary 5 - 6
+</td>
+<td style="text-align: center;">Term 1 - 4
+	</td>
+		</tr>
+			<tr>
+	<td>Read@SV (Storytelling Sessions)</td>
+<td>
+To foster a love for reading, storytelling sessions are held every Monday morning for P1 to P3 students. During these sessions, teachers and student librarians share engaging short stories. After which, students are invited to share their thoughts and reflections on Padlet.</td>
+<td style="text-align: center;">
+Primary 1 - 3
+</td>
+<td style="text-align: center;">Term 1 - 4
+	</td>
+		</tr>
+			<tr>
+	<td>Read@SV (Storytelling Sessions)</td>
+<td>
+To foster a love for reading, storytelling sessions are held every Monday morning for P1 to P3 students. During these sessions, teachers and student librarians share engaging short stories. After which, students are invited to share their thoughts and reflections on Padlet. Another storytelling session where students can immerse themselves in more captivating tales, takes place during the P1 to P3 recesses. This is hosted by our very own ‘Mrs. Flutters’ at the library, <img src="/images/el2.jpg" style="width: 80%"></td>
+<td style="text-align: center;">
+Primary 1 - 3
+</td>
+<td style="text-align: center;">Term 1 - 4
+	</td>
+		</tr>
+				<tr>
+	<td>Read@SV (Book Talks)
+</td>
+<td>
+P4 to P5 students volunteer to present book talks to their peers during recess at the library. They can select their own stories for the sessions and those who participate are recognised with tokens of appreciation for their contributions.</td>
+<td style="text-align: center;">
+Primary 4 - 6
+</td>
+<td style="text-align: center;">Term 1 - 4
+	</td>
+		</tr>
 		</tbody>
 	</table>
 
