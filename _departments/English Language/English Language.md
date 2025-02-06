@@ -143,16 +143,6 @@ Primary 5 - 6
 			<tr>
 	<td>Read@SV (Storytelling Sessions)</td>
 <td>
-To foster a love for reading, storytelling sessions are held every Monday morning for P1 to P3 students. During these sessions, teachers and student librarians share engaging short stories. After which, students are invited to share their thoughts and reflections on Padlet.</td>
-<td style="text-align: center;">
-Primary 1 - 3
-</td>
-<td style="text-align: center;">Term 1 - 4
-	</td>
-		</tr>
-			<tr>
-	<td>Read@SV (Storytelling Sessions)</td>
-<td>
 To foster a love for reading, storytelling sessions are held every Monday morning for P1 to P3 students. During these sessions, teachers and student librarians share engaging short stories. After which, students are invited to share their thoughts and reflections on Padlet. Another storytelling session where students can immerse themselves in more captivating tales, takes place during the P1 to P3 recesses. This is hosted by our very own ‘Mrs. Flutters’ at the library, <img src="/images/EL2.png"></td>
 <td style="text-align: center;">
 Primary 1 - 3
