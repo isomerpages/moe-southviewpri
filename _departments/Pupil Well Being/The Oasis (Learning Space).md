@@ -16,9 +16,11 @@ variant: markdown
 		<th>Timeframe</th>
 		</tr>
 		<tr>
-			<td><strong>Recess@Oasis</strong><br>Students can read and play games in the Oasis with friends during recess.</td>
-			<td>P1 - P6</td>
+			<td><strong>Recess@Oasis</strong><br>Students can read and play games in the Oasis with friends during recess.<br>
+			</td><td>P1 - P6</td>
 			<td>P1 to P6 Recess</td>
 		</tr>
 	</tbody>
 	</table>
+	<img style="width:80%" src="/images/Oasis2.jpg">
+	<p>Updated on 7 Feb 2025</p>
