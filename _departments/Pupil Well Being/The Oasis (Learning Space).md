@@ -23,4 +23,4 @@ variant: markdown
 	</tbody>
 	</table>
 	<img style="width:80%" src="/images/Oasis2.jpg">
-	<p>Updated on 7 Feb 2025</p>
+	<p>Page last updated: 7 Feb 2025</p>
