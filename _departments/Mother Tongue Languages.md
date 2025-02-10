@@ -20,14 +20,14 @@ Beyond the national curriculum, our department offers a variety of programmes an
 <p><strong><u>Chinese Department</u></strong></p>
 <p>Each year, themes such as "Traditional Games" or "Traditional Food" are brought to life through hands-on workshops, static displays, and interactive activities. These experiences build students' linguistic and cultural foundations while sparking curiosity and enjoyment.</p>
 <p><strong><u>Malay Department</u></strong></p>
-<p>1. Hands-on Activities for Cultural Learning:<br>
+<p><strong>1. Hands-on Activities for Cultural Learning:</strong><br>
 •	Through interactive, hands-on activities, students can immerse themselves in the Malay culture. Engaging in these activities helps students connect with the culture in a meaningful and enjoyable way, allowing them to see how traditions have evolved over time.</p>
-<p>2.	Connecting with Families:<br>
+<p><strong>2.	Connecting with Families:</strong><br>
 •	The program encourages students to bring knowledge home, allowing them to converse with family members and share what they have learnt. This helps to bridge the gap between school and home, ensuring that cultural traditions are kept alive within families and across generations.</p>
-<p>3.	Performance-Based Activities:<br>
+<p><strong>3.	Performance-Based Activities:</strong><br>
 •	Engaging in poetry recitals, skits, or role-playing activities encourages pupils to practice speaking Malay in a fun and confident manner. This informal setting removes the pressure of formal classroom learning and gives students the chance to experiment with the language.<br>
 •	Students perform in groups or individually, which also promotes teamwork and peer motivation. Working with others encourages collaboration, helps build confidence, and makes the learning experience more dynamic.</p>
-<p>4.	Building Confidence in Using the Language:<br>
+<p><strong>4.	Building Confidence in Using the Language:</strong><br>
 •	By participating in both cultural and language activities, students become more confident to use Spoken Malay in everyday conversations. They learn to speak with fluency and confidence in informal settings, which helps them transit to using the language in more formal situations.
 </p>
 
