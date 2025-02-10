@@ -39,6 +39,22 @@ By fostering a more inclusive and supportive learning environment, SENSE complem
 <p>Whole year</p>
 </td>
 </tr>
+	<tr>
+<td width="186">
+<p>P1 TRANSIT</p>
+</td>
+<td width="300">
+<ul>
+<li>Support for identified Primary 1 students with social and behavioural needs to help them develop independence through learning foundational self-management skills</li>
+</ul>
+</td>
+<td style="text-align: center;" width="84">
+<p>Identified P1 students</p>
+</td>
+<td style="text-align: center;" width="96">
+<p>Term 1 – Term 3</p>
+</td>
+</tr>
 <tr>
 <td width="186">
 <p>School-based Dyslexia Remediation Programme (SDR) &amp; Reading Remediation Programme (RRP)</p>
@@ -61,7 +77,7 @@ By fostering a more inclusive and supportive learning environment, SENSE complem
 </td>
 <td width="300">
 <ul>
-<li>Transition support for students with learning, behavioural and/or social- emotional needs</li>
+<li>Transition support (to the next level) for identified students with learning, behavioural and/or social- emotional needs</li>
 </ul>
 </td>
 <td style="text-align: center;" width="84">
@@ -77,7 +93,7 @@ By fostering a more inclusive and supportive learning environment, SENSE complem
 </td>
 <td width="300">
 <ul>
-<li>Customised academic and befriending programmes carried out in collaboration with community partners and/or external organisations</li>
+<li>Befriender and academic support provided in collaboration with community partners and/or external organisations</li>
 </ul>
 </td>
 <td style="text-align: center;" width="84">
