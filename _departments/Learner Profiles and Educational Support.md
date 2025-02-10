@@ -2,9 +2,10 @@
 title: Learner Profiles and Educational Support
 permalink: /departments/learner-profiles-and-educational-support/
 description: ""
+variant: markdown
 ---
-<p>The Learner Profiles and Educational Support Department aims to complement existing school-based efforts by enhancing the coordination and communication between the different stakeholders through customised programme interventions to strengthen high needs students’ and high progress learners’ educational and developmental outcomes.</p>
-<img src="/images/LPES PC.jpg">
+<p>The Special Education Needs and Support in Education (SENSE) Department plays a vital role in enhancing the educational experience of our students with additional needs.<br><br>
+By fostering a more inclusive and supportive learning environment, SENSE complements the school's efforts to ensure that every student, regardless of their individual needs, has the opportunity to thrive holistically, including personal growth and academic advancement.</p>
 <p><strong><u>Our key programmes</u></strong></p>
 <table width="0">
 <tbody>
@@ -86,38 +87,6 @@ description: ""
 <p>Whole year</p>
 </td>
 </tr>
-<tr>
-<td width="186">
-<p>Case Management Team (CMT)</p>
-</td>
-<td width="300">
-<ul>
-<li>Closely monitors the needs of students and designs intervention strategies in consultation with school leaders, teachers, parents and/or external agencies</li>
-</ul>
-</td>
-<td style="text-align: center;" width="84">
-<p>Identified P1-P6 students</p>
-</td>
-<td style="text-align: center;" width="96">
-<p>Whole year</p>
-</td>
-</tr>
-<tr>
-<td width="186">
-<p>SPARK Programme</p>
-</td>
-<td width="300">
-<ul>
-<li>Extends students' learning beyond the curriculum coverage and nurtures 21st century competencies such as critical and inventive thinking and effective communication skills for students who demonstrate passion, interest and ability in English Language, Chinese Language, Mathematics or Science</li>
-</ul>
-</td>
-<td style="text-align: center;" width="84">
-<p>Identified P3-P5 students</p>
-</td>
-<td style="text-align: center;" width="96">
-<p>Whole year</p>
-</td>
-</tr>
 </tbody>
 </table>
-<p>Page last updated: 6 February 2023</p>
+<p>Page last updated: 10 February 2025</p>
