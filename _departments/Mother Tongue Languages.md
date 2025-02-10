@@ -55,9 +55,12 @@ Beyond the national curriculum, our department offers a variety of programmes an
 	</table>
 	<p><strong><u>Tamil Department</u></strong></p>
 	<p><strong>Thematic Based Approach</strong><br>
-	As part of the cultural experience, students were introduced to thematic based hands-on activities during the Mother Tongue Fortnight week. For instance, they learnt about clay painting, using various colors to bring about the joy of Deepavali celebrations. They also explored various dances from the different states of India. In addition, they learnt about the costumes and props used during this session.<br><img src="/images/MT8.jpg"></p>
+	As part of the cultural experience, students were introduced to thematic based hands-on activities during the Mother Tongue Fortnight week. For instance, they learnt about clay painting, using various colors to bring about the joy of Deepavali celebrations. They also explored various dances from the different states of India. In addition, they learnt about the costumes and props used during this session.</p>
+	<p><img src="/images/MT8.jpg"></p>
 		<p><strong>Embracing 21st CC Skills</strong><br>
-To inculcate 21st CC skills, P5 students tried Podcast by sharing their views about contemporary issues. They brainstormed ideas in pairs and had a dialogue session with their partner. This was a good opportunity for them to apply their Spoken Interaction skills.<br><img src="/images/MT9.jpg"></p>
+To inculcate 21st CC skills, P5 students tried Podcast by sharing their views about contemporary issues. They brainstormed ideas in pairs and had a dialogue session with their partner. This was a good opportunity for them to apply their Spoken Interaction skills.</p>
+<p><img src="/images/MT9.jpg"></p>
 	<p><strong>Embracing Nature using Tamil Language</strong><br>
-Developing language skills can enhance one’s ability to express their connection with nature, fostering a deeper appreciation and respect for the environment. As such, our P2 students read a big book on conserving trees, and they tried bark shading, followed by a discussion about the different textures of tree bark. As part of exploring Indian spices, they decorated photo frames with Indian spices such as star anise, cardamom and cinnamon.<br><img src="/images/MT10.jpg"></p>
+Developing language skills can enhance one’s ability to express their connection with nature, fostering a deeper appreciation and respect for the environment. As such, our P2 students read a big book on conserving trees, and they tried bark shading, followed by a discussion about the different textures of tree bark. As part of exploring Indian spices, they decorated photo frames with Indian spices such as star anise, cardamom and cinnamon.</p>
+<p><img src="/images/MT10.jpg"></p>
 <p>Page last updated: 10 February 2025</p>
