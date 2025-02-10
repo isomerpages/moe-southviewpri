@@ -77,8 +77,9 @@ These competitions not only enhance students’ language skills but also inspire
 <p><strong><u>Malay Department</u></strong></p>
 <p><strong>Spelling Bee Competition (Raja Eja):</strong><br>
 The termly spelling bee competition is a great initiative to reinforce the vocabulary learned in the syllabus.</p>
-<p><strong>Key Features of the Raja Eja Competition:</strong><br>
-</p><p></p><li><strong>Focus on Vocabulary:</strong><br>
+
+<p><strong>Key Features of the Raja Eja Competition:</strong></p>
+<p></p><li><strong>Focus on Vocabulary:</strong><br>
 The competition focuses on the vocabulary from the syllabus, ensuring that students are not just memorizing words, but also understanding their meanings and proper usage.</li>
 <li><strong>Active Learning:</strong><br>
 By participating in the competition, students actively engage with the vocabulary, which helps them remember the words more effectively. The process of spelling and recalling the definitions reinforces both spelling and comprehension.</li>
@@ -86,8 +87,8 @@ By participating in the competition, students actively engage with the vocabular
 The competition aspect motivates students to challenge themselves and perform to the best of their abilities. It creates a fun and engaging environment where students can take pride in their vocabulary knowledge.</li>
 	<li><strong>Increased Confidence:</strong><br>
 Students who perform well in the competition may gain confidence in their ability to use the vocabulary effectively, which can encourage them to use the words in their daily conversations and writing.</li>
-		<li><strong>Encouraging Parental Involvement:</strong><br>
-	Parents are encouraged to support their children in learning spelling from the list given, which can further strengthen the vocabulary learning process.</li>
+		<p><strong>Encouraging Parental Involvement:</strong>
+	Parents are encouraged to support their children in learning spelling from the list given, which can further strengthen the vocabulary learning process.</p>
 <li><strong>Creative Writing Competition (Bicara Pena):</strong><br>
 The writing competition for upper primary students is an avenue to foster a love for writing while also honing their writing skills.</li><p></p>
 <p><strong>Key Features of the Writing Competition:</strong><br>
