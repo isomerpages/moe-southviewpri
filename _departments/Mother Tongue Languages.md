@@ -5,36 +5,15 @@ description: ""
 variant: markdown
 ---
 <p><strong>Mother Tongue Languages (MTL) Department </strong>is dedicated to nurturing students in three key areas, laying a strong foundation for their growth and development:</p>
-<p><strong>Communication </strong>- By mastering the MTL, students acquire essential 21st Century Competencies for effective expression, building the groundwork for confident communication.</p>
-<p><strong>Chinese Department</strong></p><table>
-<tbody>
-<tr>
-<td>
-<strong>Communication</strong>
-</td>
-<td>
-- By mastering the MTL, students acquire essential 21st Century Competencies for effective expression, building the groundwork for confident communication.
-</td>
-</tr>
-	<tr>
-<td>
-<strong>Culture</strong>
-</td>
-<td>
-	- Through immersive cultural experiences, students develop a strong sense of pride and appreciation for the MTL culture, an integral part of Singapore’s national identity.
-</td>
-</tr>
-		<tr>
-<td>
-<strong>Connection </strong>
-</td>
-<td>
-- By exploring their heritage, students strengthen their connections to their roots and build meaningful bridges to communities across Asia and the world.
-</td>
-</tr>
-
-
-</tbody></table><table>
+<p><strong><u>Communication</u></strong><br>
+- By mastering the MTL, students acquire essential 21st Century Competencies for effective expression, building the groundwork for confident communication.<br><br>
+<strong><u>Culture</u></strong><br>
+	- Through immersive cultural experiences, students develop a strong sense of pride and appreciation for the MTL culture, an integral part of Singapore’s national identity.<br><br>
+<strong><u>Connection</u></strong><br>
+- By exploring their heritage, students strengthen their connections to their roots and build meaningful bridges to communities across Asia and the world.<br><br>
+Beyond the national curriculum, our department offers a variety of programmes and competitions to ignite a love for their Mother Tongue languages and foster a deeper understanding of its cultural significance.</p>
+<p><strong>Chinese Department</strong></p>
+<table>
 <tbody>
 <tr>
 <td>
