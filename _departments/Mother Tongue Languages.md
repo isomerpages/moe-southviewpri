@@ -91,8 +91,7 @@ Students who perform well in the competition may gain confidence in their abilit
 <p><strong>Creative Writing Competition (Bicara Pena):</strong><br>
 The writing competition for upper primary students is an avenue to foster a love for writing while also honing their writing skills.</p>
 <p><strong>Key Features of the Writing Competition:</strong><br>
-	
-</p><p></p><li><strong>Exposure to Different Writing Styles:</strong><br>
+	</p><li><strong>Exposure to Different Writing Styles:</strong><br>
 The competition focuses on the vocabulary from the syllabus, ensuring that students are not just memorizing words, but also understanding their meanings and proper usage.</li>
 <li><strong>Increased Creativity and Expression:</strong><br>
 By participating in the competition, students actively engage with the vocabulary, which helps them remember the words more effectively. The process of spelling and recalling the definitions reinforces both spelling and comprehension.</li>
