@@ -34,21 +34,21 @@ Beyond the national curriculum, our department offers a variety of programmes an
 <p><strong>Chinese Department</strong></p><table>
 	<tbody>
 		<tr>
-			<td><strong>Primary 1</strong><br>Students learnt about the traditional game, Gasing.<br><img src="/images/MTLFP1.jpg">
+			<td><strong>Primary 1</strong><br>Students learnt about the traditional game, Gasing.<br><img src="/images/MT2.jpg">
 			</td>
-			<td><strong>Primary 2</strong><br>Silat is Malay traditional martial arts that is still active in the Malay community. By learning the basics will be more encouraged to preserve this traditional martial art.<br><img src="/images/MTLFP1.jpg">
-			</td>
-		</tr>
-			<tr>
-			<td><strong>Primary 3</strong><br>Students learnt how to make bunga rampai using the traditional ingredients.<br><img src="/images/MTLFP1.jpg">
-			</td>
-			<td><strong>Primary 4</strong><br>Students learnt about the traditional Wau.<br><img src="/images/MTLFP1.jpg">
+			<td><strong>Primary 2</strong><br>Silat is Malay traditional martial arts that is still active in the Malay community. By learning the basics will be more encouraged to preserve this traditional martial art.<br><img src="/images/MT3.jpg">
 			</td>
 		</tr>
 			<tr>
-			<td><strong>Primary 5</strong><br>Students learnt about wayang kulit.<br><img src="/images/MTLFP1.jpg">
+			<td><strong>Primary 3</strong><br>Students learnt how to make bunga rampai using the traditional ingredients.<br><img src="/images/MT4.jpg">
 			</td>
-			<td><strong>Primary 6</strong><br>Students learnt to make designs using Batik.<br><img src="/images/MTLFP1.jpg">
+			<td><strong>Primary 4</strong><br>Students learnt about the traditional Wau.<br><img src="/images/MT5.jpg">
+			</td>
+		</tr>
+			<tr>
+			<td><strong>Primary 5</strong><br>Students learnt about wayang kulit.<br><img src="/images/MT6.jpg">
+			</td>
+			<td><strong>Primary 6</strong><br>Students learnt to make designs using Batik.<br><img src="/images/MT7.jpg">
 			</td>
 		</tr>
 	</tbody>
