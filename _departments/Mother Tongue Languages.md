@@ -87,9 +87,9 @@ The competition aspect motivates students to challenge themselves and perform to
 	<li><strong>Increased Confidence:</strong><br>
 Students who perform well in the competition may gain confidence in their ability to use the vocabulary effectively, which can encourage them to use the words in their daily conversations and writing.</li>
 		<li><strong>Encouraging Parental Involvement:</strong><br>
-	Parents are encouraged to support their children in learning spelling from the list given, which can further strengthen the vocabulary learning process.</li><p></p>
-<p><strong>Creative Writing Competition (Bicara Pena):</strong><br>
-The writing competition for upper primary students is an avenue to foster a love for writing while also honing their writing skills.</p>
+	Parents are encouraged to support their children in learning spelling from the list given, which can further strengthen the vocabulary learning process.</li>
+<li><strong>Creative Writing Competition (Bicara Pena):</strong><br>
+The writing competition for upper primary students is an avenue to foster a love for writing while also honing their writing skills.</li><p></p>
 <p><strong>Key Features of the Writing Competition:</strong><br>
 </p><li><strong>Exposure to Different Writing Styles:</strong><br>
 The competition focuses on the vocabulary from the syllabus, ensuring that students are not just memorizing words, but also understanding their meanings and proper usage.</li>
