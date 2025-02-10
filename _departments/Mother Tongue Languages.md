@@ -63,4 +63,10 @@ To inculcate 21st CC skills, P5 students tried Podcast by sharing their views ab
 	<p><strong>Embracing Nature using Tamil Language</strong><br>
 Developing language skills can enhance one’s ability to express their connection with nature, fostering a deeper appreciation and respect for the environment. As such, our P2 students read a big book on conserving trees, and they tried bark shading, followed by a discussion about the different textures of tree bark. As part of exploring Indian spices, they decorated photo frames with Indian spices such as star anise, cardamom and cinnamon.</p>
 <p><img src="/images/MT10.jpg"></p>
+<h4>2. Competitions</h4>
+<p><strong><u>Chinese Department</u></strong></p>
+<p>The level wide competitions provide students with opportunities to:<br>
+</p><ul><li>Deepen their proficiency in listening, speaking, reading, and writing.</li>
+<li>Showcase their language skills through activities tailored to their developmental stage and language proficiency.</li></ul>
+
 <p>Page last updated: 10 February 2025</p>
