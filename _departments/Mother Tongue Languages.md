@@ -72,5 +72,6 @@ Developing language skills can enhance one’s ability to express their connecti
 <strong>Primary 2: Singing</strong> – Builds confidence and enhances tone and articulation through melodic expression.<br>
 <strong>Primary 3: Text Recital</strong> – Strengthens reading fluency, pronunciation, and emotional expression.<br>
 <strong>Primary 4: Letter Writing</strong> – Develops foundational writing skills and the ability to articulate thoughts clearly.<br>
-<strong>Primary 5: Poetry Writing</strong> – Encourages creativity and appreciation for the beauty and rhythm of the Chinese language.<br>
-</p><p>Page last updated: 10 February 2025</p>
+<strong>Primary 5: Poetry Writing</strong> – Encourages creativity and appreciation for the beauty and rhythm of the Chinese language.<br><br>
+These competitions not only enhance students’ language skills but also inspire them to value the richness of the Chinese language and its culture.</p>
+<p></p><p>Page last updated: 10 February 2025</p>
