@@ -2,10 +2,39 @@
 title: Mother Tongue Languages
 permalink: /departments/mother-tongue-languages/
 description: ""
+variant: markdown
 ---
-<p><strong><u>Our Key Programmes</u></strong></p>
-<p><strong><u>Chinese Department</u></strong></p>
-<table>
+<p><strong>Mother Tongue Languages (MTL) Department </strong>is dedicated to nurturing students in three key areas, laying a strong foundation for their growth and development:</p>
+<p><strong>Communication </strong>- By mastering the MTL, students acquire essential 21st Century Competencies for effective expression, building the groundwork for confident communication.</p>
+<p><strong>Chinese Department</strong></p><table>
+<tbody>
+<tr>
+<td>
+<strong>Communication</strong>
+</td>
+<td>
+- By mastering the MTL, students acquire essential 21st Century Competencies for effective expression, building the groundwork for confident communication.
+</td>
+</tr>
+	<tr>
+<td>
+<strong>Culture</strong>
+</td>
+<td>
+	- Through immersive cultural experiences, students develop a strong sense of pride and appreciation for the MTL culture, an integral part of Singapore’s national identity.
+</td>
+</tr>
+		<tr>
+<td>
+<strong>Connection </strong>
+</td>
+<td>
+- By exploring their heritage, students strengthen their connections to their roots and build meaningful bridges to communities across Asia and the world.
+</td>
+</tr>
+
+
+</tbody></table><table>
 <tbody>
 <tr>
 <td>
