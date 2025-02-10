@@ -19,6 +19,7 @@ Beyond the national curriculum, our department offers a variety of programmes an
 <li>Apply theme-related vocabulary through engaging cultural activities.</li></ul><p></p><br>
 <p><strong><u>Chinese Department</u></strong></p>
 <p>Each year, themes such as "Traditional Games" or "Traditional Food" are brought to life through hands-on workshops, static displays, and interactive activities. These experiences build students' linguistic and cultural foundations while sparking curiosity and enjoyment.</p>
+<img src="/images/MT1.jpg">
 <p><strong><u>Malay Department</u></strong></p>
 <p><strong>1. Hands-on Activities for Cultural Learning:</strong><br>
 •	Through interactive, hands-on activities, students can immerse themselves in the Malay culture. Engaging in these activities helps students connect with the culture in a meaningful and enjoyable way, allowing them to see how traditions have evolved over time.</p>
