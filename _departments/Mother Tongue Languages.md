@@ -30,6 +30,26 @@ Beyond the national curriculum, our department offers a variety of programmes an
 <p><strong>4.	Building Confidence in Using the Language:</strong><br>
 •	By participating in both cultural and language activities, students become more confident to use Spoken Malay in everyday conversations. They learn to speak with fluency and confidence in informal settings, which helps them transit to using the language in more formal situations.
 </p>
+<p><strong>Chinese Department</strong></p><table>
+	<tbody>
+		<tr>
+			<td><strong>Primary 1</strong><br>Students learnt about the traditional game, Gasing.<br><img>
+			</td>
+			<td><strong>Primary 2</strong><br>Silat is Malay traditional martial arts that is still active in the Malay community. By learning the basics will be more encouraged to preserve this traditional martial art.<br><img>
+			</td>
+		</tr>
+			<tr>
+			<td><strong>Primary 3</strong><br>Students learnt how to make bunga rampai using the traditional ingredients.<br><img>
+			</td>
+			<td><strong>Primary 4</strong><br>Students learnt about the traditional Wau.<br><img>
+			</td>
+		</tr>
+			<tr>
+			<td><strong>Primary 3</strong><br>Students learnt how to make bunga rampai using the traditional ingredients.<br><img>
+			</td>
+			<td><strong>Primary 4</strong><br>Students learnt about the traditional Wau.<br><img>
+			</td>
+		</tr>
 
 
 
@@ -42,8 +62,9 @@ Beyond the national curriculum, our department offers a variety of programmes an
 
 
 
-<p><strong>Chinese Department</strong></p>
-<table>
+
+
+</tbody></table><table>
 <tbody>
 <tr>
 <td>
