@@ -87,11 +87,11 @@ The competition aspect motivates students to challenge themselves and perform to
 	<li><strong>Increased Confidence:</strong><br>
 Students who perform well in the competition may gain confidence in their ability to use the vocabulary effectively, which can encourage them to use the words in their daily conversations and writing.</li>
 		<li><strong>Encouraging Parental Involvement:</strong><br>
-•	Parents are encouraged to support their children in learning spelling from the list given, which can further strengthen the vocabulary learning process.</li><p></p>
+	Parents are encouraged to support their children in learning spelling from the list given, which can further strengthen the vocabulary learning process.</li><p></p>
 <p><strong>Creative Writing Competition (Bicara Pena):</strong><br>
 The writing competition for upper primary students is an avenue to foster a love for writing while also honing their writing skills.</p>
 <p><strong>Key Features of the Writing Competition:</strong><br>
-	</p><li><strong>Exposure to Different Writing Styles:</strong><br>
+</p><li><strong>Exposure to Different Writing Styles:</strong><br>
 The competition focuses on the vocabulary from the syllabus, ensuring that students are not just memorizing words, but also understanding their meanings and proper usage.</li>
 <li><strong>Increased Creativity and Expression:</strong><br>
 By participating in the competition, students actively engage with the vocabulary, which helps them remember the words more effectively. The process of spelling and recalling the definitions reinforces both spelling and comprehension.</li>
@@ -101,4 +101,5 @@ The competition aspect motivates students to challenge themselves and perform to
 Recognizing students’ hard work through awards or public acknowledgment can boost their confidence. It fosters a sense of pride in their writing and encourages them to continue improving.</li>
 		<li><strong>Encouraging Parental Involvement:</strong><br>
 Parents can support their children by helping them brainstorm ideas, reviewing drafts, or providing a quiet space for focused writing. Encouragement from home can boost students’ motivation to participate and excel in their writing.</li><p></p>
+<p><strong><u>Tamil Department</u></strong></p>
 <p>Page last updated: 10 February 2025</p>
