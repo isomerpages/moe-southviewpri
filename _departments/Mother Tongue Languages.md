@@ -67,6 +67,10 @@ Developing language skills can enhance one’s ability to express their connecti
 <p><strong><u>Chinese Department</u></strong></p>
 <p>The level wide competitions provide students with opportunities to:<br>
 </p><ul><li>Deepen their proficiency in listening, speaking, reading, and writing.</li>
-<li>Showcase their language skills through activities tailored to their developmental stage and language proficiency.</li></ul>
-
-<p>Page last updated: 10 February 2025</p>
+<li>Showcase their language skills through activities tailored to their developmental stage and language proficiency.</li></ul><p></p>
+<p><strong>Primary 1: Story-telling</strong> –  Cultivates active listening and nurtures expressive oral skills.<br>
+<strong>Primary 2: Singing</strong> – Builds confidence and enhances tone and articulation through melodic expression.<br>
+<strong>Primary 3: Text Recital</strong> – Strengthens reading fluency, pronunciation, and emotional expression.<br>
+<strong>Primary 4: Letter Writing</strong> – Develops foundational writing skills and the ability to articulate thoughts clearly.<br>
+<strong>Primary 5: Poetry Writing</strong> – Encourages creativity and appreciation for the beauty and rhythm of the Chinese language.<br>
+</p><p>Page last updated: 10 February 2025</p>
