@@ -19,7 +19,7 @@ Beyond the national curriculum, our department offers a variety of programmes an
 <li>Apply theme-related vocabulary through engaging cultural activities.</li></ul><p></p><br>
 <p><strong><u>Chinese Department</u></strong></p>
 <p>Each year, themes such as "Traditional Games" or "Traditional Food" are brought to life through hands-on workshops, static displays, and interactive activities. These experiences build students' linguistic and cultural foundations while sparking curiosity and enjoyment.</p>
-<img src="/images/MT1.jpg">
+<img src="/images/MT1.png">
 <p><strong><u>Malay Department</u></strong></p>
 <p><strong>1. Hands-on Activities for Cultural Learning:</strong><br>
 •	Through interactive, hands-on activities, students can immerse themselves in the Malay culture. Engaging in these activities helps students connect with the culture in a meaningful and enjoyable way, allowing them to see how traditions have evolved over time.</p>
@@ -34,21 +34,21 @@ Beyond the national curriculum, our department offers a variety of programmes an
 <table>
 	<tbody>
 		<tr>
-			<td><strong>Primary 1</strong><br>Students learnt about the traditional game, Gasing.<br><img src="/images/MT2.jpg">
+			<td><strong>Primary 1</strong><br>Students learnt about the traditional game, Gasing.<br><img src="/images/MT2.png">
 			</td>
-			<td><strong>Primary 2</strong><br>Silat is Malay traditional martial arts that is still active in the Malay community. By learning the basics will be more encouraged to preserve this traditional martial art.<br><img src="/images/MT3.jpg">
-			</td>
-		</tr>
-			<tr>
-			<td><strong>Primary 3</strong><br>Students learnt how to make bunga rampai using the traditional ingredients.<br><img src="/images/MT4.jpg">
-			</td>
-			<td><strong>Primary 4</strong><br>Students learnt about the traditional Wau.<br><img src="/images/MT5.jpg">
+			<td><strong>Primary 2</strong><br>Silat is Malay traditional martial arts that is still active in the Malay community. By learning the basics will be more encouraged to preserve this traditional martial art.<br><img src="/images/MT3.png" style="width: 55%">
 			</td>
 		</tr>
 			<tr>
-			<td><strong>Primary 5</strong><br>Students learnt about wayang kulit.<br><img src="/images/MT6.jpg">
+			<td><strong>Primary 3</strong><br>Students learnt how to make bunga rampai using the traditional ingredients.<br><img src="/images/MT4.png">
 			</td>
-			<td><strong>Primary 6</strong><br>Students learnt to make designs using Batik.<br><img src="/images/MT7.jpg">
+			<td><strong>Primary 4</strong><br>Students learnt about the traditional Wau.<br><img src="/images/MT5.png" style="width: 50%">
+			</td>
+		</tr>
+			<tr>
+			<td><strong>Primary 5</strong><br>Students learnt about wayang kulit.<br><img src="/images/MT6.png">
+			</td>
+			<td><strong>Primary 6</strong><br>Students learnt to make designs using Batik.<br><img src="/images/MT7.png" style="width: 50%">
 			</td>
 		</tr>
 	</tbody>
@@ -56,13 +56,13 @@ Beyond the national curriculum, our department offers a variety of programmes an
 	<p><strong><u>Tamil Department</u></strong></p>
 	<p><strong>Thematic Based Approach</strong><br>
 	As part of the cultural experience, students were introduced to thematic based hands-on activities during the Mother Tongue Fortnight week. For instance, they learnt about clay painting, using various colors to bring about the joy of Deepavali celebrations. They also explored various dances from the different states of India. In addition, they learnt about the costumes and props used during this session.</p>
-	<p><img src="/images/MT8.jpg"></p>
+	<p><img src="/images/MT8.png" style="width: 80%"></p>
 		<p><strong>Embracing 21st CC Skills</strong><br>
 To inculcate 21st CC skills, P5 students tried Podcast by sharing their views about contemporary issues. They brainstormed ideas in pairs and had a dialogue session with their partner. This was a good opportunity for them to apply their Spoken Interaction skills.</p>
-<p><img src="/images/MT9.jpg"></p>
+<p><img src="/images/MT9.png" style="width:80%"></p>
 	<p><strong>Embracing Nature using Tamil Language</strong><br>
 Developing language skills can enhance one’s ability to express their connection with nature, fostering a deeper appreciation and respect for the environment. As such, our P2 students read a big book on conserving trees, and they tried bark shading, followed by a discussion about the different textures of tree bark. As part of exploring Indian spices, they decorated photo frames with Indian spices such as star anise, cardamom and cinnamon.</p>
-<p><img src="/images/MT10.jpg"></p>
+<p><img src="/images/MT10.png" style="width: 80%"></p>
 <h4>2. Competitions</h4>
 <p><strong><u>Chinese Department</u></strong></p>
 <p>The level wide competitions provide students with opportunities to:<br>
@@ -74,6 +74,7 @@ Developing language skills can enhance one’s ability to express their connecti
 <strong>Primary 4: Letter Writing</strong> – Develops foundational writing skills and the ability to articulate thoughts clearly.<br>
 <strong>Primary 5: Poetry Writing</strong> – Encourages creativity and appreciation for the beauty and rhythm of the Chinese language.<br><br>
 These competitions not only enhance students’ language skills but also inspire them to value the richness of the Chinese language and its culture.</p>
+<p><img src="/images/MT11.png" style="width: 100%"></p>
 <p><strong><u>Malay Department</u></strong></p>
 <p><strong>Spelling Bee Competition (Raja Eja):</strong><br>
 The termly spelling bee competition is a great initiative to reinforce the vocabulary learned in the syllabus.</p>
@@ -104,13 +105,13 @@ Parents can support their children by helping them brainstorm ideas, reviewing d
 <p><strong><u>Tamil Department</u></strong></p>
 <p><strong>Significance of Tamil Literature through Competitions</strong><br>
 	Tamil epics and literature plays an important role in Tamil Language learning. Due to modernization, our students tend to neglect the moral values and culture that are prominent in Indian epics. Keeping this in mind, we encouraged students to take part in role play competitions as part of our internal competitions. This served as a good opportunity for them to research about Thiruvalluvar and Mahakavi to prepare themselves for the competition.</p>
-	<p><img src="/images/MT11.jpg"></p>
+	<p><img src="/images/MT12.png" style="width: 80%"></p>
 	<p><strong>Pongal Competition (by Mediacorp)</strong><br>
 	Students displayed their creativity and enthusiasm by drawing Pongal pots &amp; writing essays about their Pongal experience. Our student received certificates for their participation. Kudos to Hareni from 4 Inspiring,  as she won in the essay writing competition! </p>
-	<p><img src="/images/MT12.jpg"></p>
+	<p><img src="/images/MT13.png" style="width: 80%"></p>
 	<h4>3. Cultural Performance Exposure Scheme (CPES)</h4>
 	<p></p><ol>The Cultural Performance Exposure Scheme (CPES) provides students with opportunities to:<br>
 <li>Experience cultural performances by local and international arts groups, fostering a deeper appreciation for the richness of diverse cultures.<br>
 </li><li>Enjoy authentic theatre experience by attending performances in professional theatre settings, enhancing their understanding of the performing arts.</li></ol><p></p>
-<p><img src="/images/MT13.jpg"></p>
+<p><img src="/images/MT14.png" style="width: 80%"></p>
 <p>Page last updated: 10 February 2025</p>
