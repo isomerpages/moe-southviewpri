@@ -34,21 +34,21 @@ Beyond the national curriculum, our department offers a variety of programmes an
 <table>
 	<tbody>
 		<tr>
-			<td><strong>Primary 1</strong><br>Students learnt about the traditional game, Gasing.<br><img src="/images/MT2.png">
+			<td style="width: 50%"><strong>Primary 1</strong><br>Students learnt about the traditional game, Gasing.<br><img src="/images/MT2.png" style="width: 55%">
 			</td>
-			<td><strong>Primary 2</strong><br>Silat is Malay traditional martial arts that is still active in the Malay community. By learning the basics will be more encouraged to preserve this traditional martial art.<br><img src="/images/MT3.png" style="width: 55%">
-			</td>
-		</tr>
-			<tr>
-			<td><strong>Primary 3</strong><br>Students learnt how to make bunga rampai using the traditional ingredients.<br><img src="/images/MT4.png">
-			</td>
-			<td><strong>Primary 4</strong><br>Students learnt about the traditional Wau.<br><img src="/images/MT5.png" style="width: 50%">
+			<td style="width: 50%"><strong>Primary 2</strong><br>Silat is Malay traditional martial arts that is still active in the Malay community. By learning the basics will be more encouraged to preserve this traditional martial art.<br><img src="/images/MT3.png" style="width: 55%">
 			</td>
 		</tr>
 			<tr>
-			<td><strong>Primary 5</strong><br>Students learnt about wayang kulit.<br><img src="/images/MT6.png">
+			<td style="width: 50%"><strong>Primary 3</strong><br>Students learnt how to make bunga rampai using the traditional ingredients.<br><img src="/images/MT4.png" style="width: 55%">
 			</td>
-			<td><strong>Primary 6</strong><br>Students learnt to make designs using Batik.<br><img src="/images/MT7.png" style="width: 50%">
+			<td style="width: 50%"><strong>Primary 4</strong><br>Students learnt about the traditional Wau.<br><img src="/images/MT5.png" style="width: 50%">
+			</td>
+		</tr>
+			<tr>
+			<td style="width: 50%"><strong>Primary 5</strong><br>Students learnt about wayang kulit.<br><img src="/images/MT6.png" style="width: 55%">
+			</td>
+			<td style="width: 50%"><strong>Primary 6</strong><br>Students learnt to make designs using Batik.<br><img src="/images/MT7.png" style="width: 50%">
 			</td>
 		</tr>
 	</tbody>
@@ -114,4 +114,4 @@ Parents can support their children by helping them brainstorm ideas, reviewing d
 <li>Experience cultural performances by local and international arts groups, fostering a deeper appreciation for the richness of diverse cultures.<br>
 </li><li>Enjoy authentic theatre experience by attending performances in professional theatre settings, enhancing their understanding of the performing arts.</li></ul><p></p>
 <p><img src="/images/MT14.png" style="width: 80%"></p>
-<p>Page last updated: 10 February 2025</p>
+<p>Page last updated: 11 February 2025</p>
