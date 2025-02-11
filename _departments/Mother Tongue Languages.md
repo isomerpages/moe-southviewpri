@@ -110,8 +110,8 @@ Parents can support their children by helping them brainstorm ideas, reviewing d
 	Students displayed their creativity and enthusiasm by drawing Pongal pots &amp; writing essays about their Pongal experience. Our student received certificates for their participation. Kudos to Hareni from 4 Inspiring,  as she won in the essay writing competition! </p>
 	<p><img src="/images/MT13.png" style="width: 80%"></p>
 	<h4>3. Cultural Performance Exposure Scheme (CPES)</h4>
-	<p></p><ol>The Cultural Performance Exposure Scheme (CPES) provides students with opportunities to:<br>
+	<p></p><ul>The Cultural Performance Exposure Scheme (CPES) provides students with opportunities to:<br>
 <li>Experience cultural performances by local and international arts groups, fostering a deeper appreciation for the richness of diverse cultures.<br>
-</li><li>Enjoy authentic theatre experience by attending performances in professional theatre settings, enhancing their understanding of the performing arts.</li></ol><p></p>
+</li><li>Enjoy authentic theatre experience by attending performances in professional theatre settings, enhancing their understanding of the performing arts.</li></ul><p></p>
 <p><img src="/images/MT14.png" style="width: 80%"></p>
 <p>Page last updated: 10 February 2025</p>
