@@ -104,13 +104,13 @@ Parents can support their children by helping them brainstorm ideas, reviewing d
 <p><strong><u>Tamil Department</u></strong></p>
 <p><strong>Significance of Tamil Literature through Competitions</strong><br>
 	Tamil epics and literature plays an important role in Tamil Language learning. Due to modernization, our students tend to neglect the moral values and culture that are prominent in Indian epics. Keeping this in mind, we encouraged students to take part in role play competitions as part of our internal competitions. This served as a good opportunity for them to research about Thiruvalluvar and Mahakavi to prepare themselves for the competition.</p>
-	<p><img src="/images/MT9.jpg"></p>
+	<p><img src="/images/MT11.jpg"></p>
 	<p><strong>Pongal Competition (by Mediacorp)</strong><br>
 	Students displayed their creativity and enthusiasm by drawing Pongal pots &amp; writing essays about their Pongal experience. Our student received certificates for their participation. Kudos to Hareni from 4 Inspiring,  as she won in the essay writing competition! </p>
-	<p><img src="/images/MT10.jpg"></p>
+	<p><img src="/images/MT12.jpg"></p>
 	<h4>3. Cultural Performance Exposure Scheme (CPES)</h4>
 	<p></p><ol>The Cultural Performance Exposure Scheme (CPES) provides students with opportunities to:<br>
 <li>Experience cultural performances by local and international arts groups, fostering a deeper appreciation for the richness of diverse cultures.<br>
 </li><li>Enjoy authentic theatre experience by attending performances in professional theatre settings, enhancing their understanding of the performing arts.</li></ol><p></p>
-<p><img src="/images/MT11.jpg"></p>
+<p><img src="/images/MT13.jpg"></p>
 <p>Page last updated: 10 February 2025</p>
