@@ -153,8 +153,8 @@ traditional martial art.
 <p></p>
 <p><strong><u>Tamil Department</u></strong>
 </p>
-<p><strong>Thematic Based Approach</strong>
-<br>As part of the cultural experience, students were introduced to thematic
+<p><strong>Thematic Based Approach</strong></p>
+<p>As part of the cultural experience, students were introduced to thematic
 based hands-on activities during the Mother Tongue Fortnight week. For
 instance, they learnt about clay painting, using various colors to bring
 about the joy of Deepavali celebrations. They also explored various dances
@@ -163,8 +163,8 @@ costumes and props used during this session.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%" height="auto" width="100%" src="/images/MT8.png">
 </div>
-<p><strong>Embracing 21st CC Skills</strong>
-<br>To inculcate 21st CC skills, P5 students tried Podcast by sharing their
+<p><strong>Embracing 21st CC Skills</strong></p>
+<p>To inculcate 21st CC skills, P5 students tried Podcast by sharing their
 views about contemporary issues. They brainstormed ideas in pairs and had
 a dialogue session with their partner. This was a good opportunity for
 them to apply their Spoken Interaction skills.</p>
