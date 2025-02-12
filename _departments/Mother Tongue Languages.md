@@ -171,8 +171,8 @@ them to apply their Spoken Interaction skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/MT9.png">
 </div>
-<p><strong>Embracing Nature using Tamil Language</strong>
-<br>Developing language skills can enhance one’s ability to express their
+<p><strong>Embracing Nature using Tamil Language</strong></p>
+<p>Developing language skills can enhance one’s ability to express their
 connection with nature, fostering a deeper appreciation and respect for
 the environment. As such, our P2 students read a big book on conserving
 trees, and they tried bark shading, followed by a discussion about the
