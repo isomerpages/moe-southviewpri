@@ -150,6 +150,7 @@ traditional martial art.
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong><u>Tamil Department</u></strong>
 </p>
 <p><strong>Thematic Based Approach</strong>
