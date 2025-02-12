@@ -53,7 +53,7 @@ Beyond the national curriculum, our department offers a variety of programmes an
 		</tr>
 	</tbody>
 	</table>
-	<p><strong><u>Tamil Department</u></strong></p>
+	<p><strong><u>Tamil Department</u></strong></p><p></p>
 	<p><strong>Thematic Based Approach</strong><br>
 	As part of the cultural experience, students were introduced to thematic based hands-on activities during the Mother Tongue Fortnight week. For instance, they learnt about clay painting, using various colors to bring about the joy of Deepavali celebrations. They also explored various dances from the different states of India. In addition, they learnt about the costumes and props used during this session.</p>
 	<p><img src="/images/MT8.png" style="width: 80%"></p>
