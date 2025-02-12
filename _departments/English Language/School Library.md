@@ -16,4 +16,4 @@ variant: markdown
 <p>To search for available books in our school library, you may access the school library’s online catalogue (OPAC) using this link: <a href="https://schoolibrary.moe.edu.sg/southviewpri/" target="_blank" rel="noopener">(https://schoolibrary.moe.edu.sg/southviewpri/)</a>
 </p>
 <p>Students can also explore our own reading site at <a href="https://readsv.my.canva.site/readsv" target="_blank" rel="noopener">(https://readsv.my.canva.site/readsv)</a> for more reading activities.
-</p><p>Page last updated: 19 January 2023</p>
+</p><p>Page last updated: 12 February 2025</p>
