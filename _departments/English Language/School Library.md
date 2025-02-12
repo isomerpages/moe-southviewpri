@@ -3,6 +3,7 @@ title: School Library
 permalink: /departments/english-language/school-library/
 description: ""
 third_nav_title: English Language
+variant: markdown
 ---
 <p>Students visit the school library to read and borrow books from a variety of genres. There are reference books they can refer to, as well as monthly magazines and periodicals that they can read. Monthly book displays and library activities created by the school librarian and library CCA members encourage Southviens to read from a variety of genres and topics. Through physical and online activities, the pupils can read and find out more from the range of books. From non-fiction books to works by local authors, students can take part in activities to win tokens.</p>
 
@@ -14,4 +15,5 @@ third_nav_title: English Language
 
 <p>To search for available books in our school library, you may access the school library’s online catalogue (OPAC) using this link: <a href="https://schoolibrary.moe.edu.sg/southviewpri/" target="_blank" rel="noopener">(https://schoolibrary.moe.edu.sg/southviewpri/)</a>
 </p>
-<p>Page last updated: 19 January 2023</p>
+<p>Students can also explore our own reading site at <a href="https://readsv.my.canva.site/readsv" target="_blank" rel="noopener">(https://readsv.my.canva.site/readsv)</a> for more reading activities.
+</p><p>Page last updated: 19 January 2023</p>
