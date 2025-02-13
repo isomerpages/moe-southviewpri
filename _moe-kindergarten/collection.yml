@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Information for Parents/Purchasing MK Uniforms.md
       - Information for Parents/MK Uniforms.md
       - Information for Parents/Information for Parents.md
       - Information for Parents/.keep
