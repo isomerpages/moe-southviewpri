@@ -37,3 +37,62 @@ mumps, measles, rubella, chicken pox</p>
 adult supervision) until the arrival of his/her parent/guardian. Children
 are strongly encouraged to visit a medical practitioner to receive medical
 treatment.</p>
+<p>Children who return to kindergarten after recovering from an infectious
+disease but ate still showing symptoms of illness (after the expiry of
+medical certification), will need to produce a certificate of health from
+the medical practitioner for the child to return to the kindergarten.</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>1</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>3</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Scenario</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Child displays no symptoms of illness and MC has expired.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Child displays symptoms of illness, but MC has expired.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Child displays no symptoms of illness, but MC has not expired.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Actions Needed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Child can return to the kindergarten</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Child will be sent home and may return to the kindergarten with a certificate
+of health (doctor’s memo)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Child may return to the kindergarten with a certificate of health doctor’s
+memo)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
