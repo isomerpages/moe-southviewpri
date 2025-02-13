@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - MK@South View (MK@SV)/KCare @ South View.md
       - MK@South View (MK@SV)/Our Learning Environment.md
       - MK@South View (MK@SV)/Our MK@SV Team.md
       - MK@South View (MK@SV)/.keep
