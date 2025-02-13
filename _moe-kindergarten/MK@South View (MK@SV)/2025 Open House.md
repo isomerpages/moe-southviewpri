@@ -9,7 +9,8 @@ third_nav_title: MK@South View (MK@SV)
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MKSV_Open_House_Poster_2025.png">
 </div>
-<p>MOE Kindergarten 2025 Open House &amp; Registration Exercise</p>
+<p><strong><u>MOE Kindergarten 2025 Open House &amp; Registration Exercise</u></strong>
+</p>
 <p>Are you looking for a quality and affordable kindergarten programme for
 your preschool child?</p>
 <p>At MOE Kindergarten, we believe that children are joyful, curious, active
