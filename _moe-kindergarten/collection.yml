@@ -2,11 +2,6 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - Information for Parents/.keep
-      - Information for Parents/Information for Parents.md
-      - Information for Parents/MK Uniforms.md
-      - Information for Parents/Purchasing MK Uniforms.md
-      - Information for Parents/When Child is Unwell.md
       - MK@South View (MK@SV)/.keep
       - MK@South View (MK@SV)/MOE Kindergarten @ South View.md
       - MK@South View (MK@SV)/2025 Open House.md
@@ -16,4 +11,9 @@ collections:
       - MK@South View (MK@SV)/KCare @ South View.md
       - MK@South View (MK@SV)/Waitlist Registration.md
       - MK@South View (MK@SV)/Contact Us.md
+      - Information for Parents/.keep
+      - Information for Parents/Information for Parents.md
+      - Information for Parents/MK Uniforms.md
+      - Information for Parents/Purchasing MK Uniforms.md
+      - Information for Parents/When Child is Unwell.md
       - MK Resources.md
