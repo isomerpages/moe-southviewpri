@@ -22,5 +22,4 @@ variant: markdown
 		</tr>
 	</tbody>
 	</table>
-	<p><img src="/images/Oasis2.jpg" style="width:80%"></p>
 	<p>Page last updated: 7 Feb 2025</p>
