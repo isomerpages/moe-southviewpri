@@ -5,4 +5,5 @@ variant: tiptap
 description: ""
 third_nav_title: MK@South View (MK@SV)
 ---
-<p>Coming Soon!</p>
+<h2>Coming Soon!</h2>
+<p></p>
