@@ -95,4 +95,5 @@ memo)</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>The kindergarten will not administer medicine, vitamins, or supplements
+to your child.</p>
