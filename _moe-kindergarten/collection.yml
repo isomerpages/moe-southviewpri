@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Information for Parents/Information for Parents.md
       - Information for Parents/.keep
       - MK@South View (MK@SV)/.keep
       - MK@South View (MK@SV)/MOE Kindergarten @ South View.md
