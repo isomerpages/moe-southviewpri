@@ -4,8 +4,9 @@ permalink: /departments/science/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/SciM.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci1.png">
 </div>
 <p><strong><u>Vision</u></strong>
 </p>
@@ -34,13 +35,31 @@ and the world around them.</p>
 <p>Appreciate how Science influences people and the environment.</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sci2.png">
+</div>
 <p><strong><u>Department belief</u></strong>
 </p>
 <p>Joy of learning is purposeful and meaningful learning.&nbsp; It happens
 when students understand the purpose of learning the subject and can make
 connection between what is learnt and in real life.</p>
 <h3><strong><u>Our programmes</u></strong></h3>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci5.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci6.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci7.png">
+</div>
 <p><strong>Instil love for Science: Some ideas for parents</strong>
 </p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/story/how-do-you-make-kids-love-science-you-don-t/</a>
