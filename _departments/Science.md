@@ -9,11 +9,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci1.png">
 </div>
 <p><strong><u>Vision</u></strong>
-</p>
-<p>Lifelong learners who have the spirit of inquiry.</p>
+<br>Lifelong learners who have the spirit of inquiry.</p>
 <p><strong><u>Mission</u></strong>
-</p>
-<p>To nurture a joy of learning and develop an inquiring mind.</p>
+<br>To nurture a joy of learning and develop an inquiring mind.</p>
 <p><strong><u>Aims (Source: </u><a href="https://www.moe.gov.sg/-/media/files/primary/syllabus/2023-primary-science.pdf" rel="noopener noreferrer nofollow" target="_blank">Science Syllabus</a><u>)</u></strong>
 </p>
 <ul data-tight="true" class="tight">
