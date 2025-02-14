@@ -8,11 +8,12 @@ variant: tiptap
 <img style="width: 100%;" height="auto" width="100%" src="/images/SciM.png">
 </div>
 <p><strong><u>Vision</u></strong>
-<br>Lifelong learners who have the spirit of inquiry.</p>
+</p>
+<p>Lifelong learners who have the spirit of inquiry.</p>
 <p><strong><u>Mission</u></strong>
-<br>To nurture a joy of learning and develop an inquiring mind.</p>
-<p><strong><u>Aims </u><a href="https://www.moe.gov.sg/-/media/files/primary/syllabus/2023-primary-science.pdf" rel="noopener" target="_blank"><u>(Source: CPDD)</u></a></strong>
-<br>
+</p>
+<p>To nurture a joy of learning and develop an inquiring mind.</p>
+<p><strong><u>Aims (Source: </u><a href="https://www.moe.gov.sg/-/media/files/primary/syllabus/2023-primary-science.pdf" rel="noopener noreferrer nofollow" target="_blank">Science Syllabus</a><u>)</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -33,16 +34,17 @@ and the world around them.</p>
 <p>Appreciate how Science influences people and the environment.</p>
 </li>
 </ul>
-<p></p>
 <p><strong><u>Department belief</u></strong>
-<br>Joy of learning is purposeful and meaningful learning. It happens when
-a student understands the purpose of learning the subject and is able to
-make connection between what is learnt and in real life.</p>
-<h4><u>Our programmes</u></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 200%;" height="auto" width="100%" src="/images/Sci1.png">
-</div><a class="isomer-image-wrapper" href="https://www.nparks.gov.sg/learning/programmes-for-schools/every-child-a-seed"><img style="width: 200%;" height="auto" width="100%" src="/images/Sci2.png"></a>
-<div class="isomer-image-wrapper">
-<img style="width: 200%;" height="auto" width="100%" src="/images/Sci3.png">
-</div>
+</p>
+<p>Joy of learning is purposeful and meaningful learning.&nbsp; It happens
+when students understand the purpose of learning the subject and can make
+connection between what is learnt and in real life.</p>
+<h3><strong><u>Our programmes</u></strong></h3>
+<p></p>
+<p><strong>Instil love for Science: Some ideas for parents</strong>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/story/how-do-you-make-kids-love-science-you-don-t/</a>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/whats-on/engaging-and-fun-ways-to-inspire-your-child's-love-for-science</a>
+</p>
 <p>Page last updated: 7 February 2024</p>
