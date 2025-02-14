@@ -4,15 +4,15 @@ permalink: /departments/science/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/SciM.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci1.png">
 </div>
 <p><strong><u>Vision</u></strong>
 <br>Lifelong learners who have the spirit of inquiry.</p>
 <p><strong><u>Mission</u></strong>
 <br>To nurture a joy of learning and develop an inquiring mind.</p>
-<p><strong><u>Aims </u><a href="https://www.moe.gov.sg/-/media/files/primary/syllabus/2023-primary-science.pdf" rel="noopener" target="_blank"><u>(Source: CPDD)</u></a></strong>
-<br>
+<p><strong><u>Aims (Source: </u><a href="https://www.moe.gov.sg/-/media/files/primary/syllabus/2023-primary-science.pdf" rel="noopener noreferrer nofollow" target="_blank">Science Syllabus</a><u>)</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -34,15 +34,31 @@ and the world around them.</p>
 </li>
 </ul>
 <p></p>
-<p><strong><u>Department belief</u></strong>
-<br>Joy of learning is purposeful and meaningful learning. It happens when
-a student understands the purpose of learning the subject and is able to
-make connection between what is learnt and in real life.</p>
-<h4><u>Our programmes</u></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 200%;" height="auto" width="100%" src="/images/Sci1.png">
-</div><a class="isomer-image-wrapper" href="https://www.nparks.gov.sg/learning/programmes-for-schools/every-child-a-seed"><img style="width: 200%;" height="auto" width="100%" src="/images/Sci2.png"></a>
-<div class="isomer-image-wrapper">
-<img style="width: 200%;" height="auto" width="100%" src="/images/Sci3.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sci2.png">
 </div>
-<p>Page last updated: 7 February 2024</p>
+<p><strong><u>Department belief</u></strong>
+</p>
+<p>Joy of learning is purposeful and meaningful learning.&nbsp; It happens
+when students understand the purpose of learning the subject and can make
+connection between what is learnt and in real life.</p>
+<h3><strong><u>Our programmes</u></strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci5.png">
+</div><a class="isomer-image-wrapper" href="https://www.nparks.gov.sg/learn/programmes/every-child-seed#:~:text=2024%2F10%2F11&amp;text=Each%20year%20since%202013%2C%20every,Every%20Child%20a%20Seed%20programme.&amp;text=The%20programme%20is%20supported%20by,our%20nutritional%20needs%20by%202030.&amp;text=Tailored%20to%20complement%20the%20Primary,a%20Seed%20programme%20aims%20to%3A&amp;text=Teach%20students%20about%20the%20life,plant%20parts%20and%20their%20functions."><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci6.png"></a>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci7.png">
+</div>
+<p><strong>Instil love for Science: Some ideas for parents</strong>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/story/how-do-you-make-kids-love-science-you-don-t/</a>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/whats-on/engaging-and-fun-ways-to-inspire-your-child's-love-for-science</a>
+</p>
+<p>Page last updated: 14 February 2025</p>
