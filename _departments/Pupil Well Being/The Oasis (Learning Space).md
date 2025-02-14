@@ -11,14 +11,8 @@ and life skills in our students through school- and self-organised activities.</
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" src="/images/Oasis1.jpg">
 </div>
-<p><strong><u>Teachers-in-charge</u></strong>
-<br>Mdm Sim Yew Hong
-<br>Mr Nur Ismadi Bin Mohd Esa
-<br>Ms Toh Sze Ying
-<br>Ms Zurainah Bte Ahmid
-<br>
 <br><strong><u>Our Key Programmes</u></strong>
-</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
