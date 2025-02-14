@@ -53,10 +53,7 @@ connection between what is learnt and in real life.</p>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci5.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci6.png">
-</div>
+</div><a class="isomer-image-wrapper" href="https://www.nparks.gov.sg/learn/programmes/every-child-seed#:~:text=2024%2F10%2F11&amp;text=Each%20year%20since%202013%2C%20every,Every%20Child%20a%20Seed%20programme.&amp;text=The%20programme%20is%20supported%20by,our%20nutritional%20needs%20by%202030.&amp;text=Tailored%20to%20complement%20the%20Primary,a%20Seed%20programme%20aims%20to%3A&amp;text=Teach%20students%20about%20the%20life,plant%20parts%20and%20their%20functions."><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci6.png"></a>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci7.png">
 </div>
