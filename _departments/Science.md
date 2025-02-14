@@ -63,4 +63,4 @@ connection between what is learnt and in real life.</p>
 </p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/whats-on/engaging-and-fun-ways-to-inspire-your-child's-love-for-science</a>
 </p>
-<p>Page last updated: 7 February 2024</p>
+<p>Page last updated: 14 February 2025</p>
