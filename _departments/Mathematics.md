@@ -25,7 +25,12 @@ beyond the core curriculum</p>
 <p></p>
 <p><strong><u>Our Key Programmes</u></strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -125,4 +130,4 @@ work, puzzles, etc</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths_webpage.jpg">
 </div>
 <p></p>
-<p>Page last updated: 24 January 2024</p>
+<p>Page last updated: 21 February 2025</p>
