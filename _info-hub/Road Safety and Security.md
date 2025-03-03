@@ -41,7 +41,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">Main Gate no. 1</td>
-<td style="text-align: center;">6.30 am - 6.30 pm<br>1.45 pm - 2.00 pm (for pick-up at foyer)<br>4.00 pm - 4.30 pm (for pick-up at foyer)</td>
+<td style="text-align: center;">6.30 am - 7.30 am<br>1.45 pm - 2.00 pm (for pick-up at foyer)<br>5.45 pm - 6.45 pm (for pick-up at foyer)</td>
 <td>&nbsp;</td>
 </tr>
 <tr>
