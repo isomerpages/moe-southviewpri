@@ -44,7 +44,7 @@ variant: markdown
 <td style="text-align: center;">6.30 am - 7.30 am<br>1.45 pm - 2.00 pm (for pick-up at foyer)<br>5.45 pm - 6.45 pm (for pick-up at foyer)</td>
 <td>&nbsp;</td>
 </tr>
-<tr>
+<tr style="visibility: collapse;">
 <td style="text-align: center;">Gate no. 3 (Side Gate)</td>
 <td style="text-align: center;">6.30 am - 7.30 am<br>1.30 pm - 2.00 pm<br>4.00 pm - 4.30 pm</td>
 <td>&nbsp;</td>
