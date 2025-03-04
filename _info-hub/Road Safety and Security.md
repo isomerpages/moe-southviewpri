@@ -36,7 +36,7 @@ variant: markdown
 <tbody>
 <tr>
 <th style="text-align: center;">Gates opening during school's daily operations days</th>
-<th style="text-align: center;">Opening/Closing Hours</th>
+<th style="text-align: center;">Opening Hours</th>
 <th style="text-align: center;">Remarks</th>
 </tr>
 <tr>
