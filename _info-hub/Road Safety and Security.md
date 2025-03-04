@@ -22,7 +22,7 @@ variant: markdown
 <li>Even with the above arrangement, we expect some congestion between 7.00 am and 7.15 am. We would like to appeal to parents to be patient while waiting to drop off their children. Please DO NOT overtake the vehicle in front of you while in the school compound. We have had a few near miss accidents due to impatient parents overtaking and cutting into paths of other vehicles.</li>
 <li>Please refrain from taking too long to drop off your children too. We had observed parents changing seats, getting down from their vehicles to carry the bags for their children and giving pocket money, water bottle etc to their children while the rest of the vehicles are waiting behind to drop off their children. If you must get down from your vehicle, please park your car in the nearby HDB parking lots outside the school and walk your child to school.</li>
 </ul>
-<p><strong>Driving and dropping off children at Gates 3 and 4:</strong></p>
+<p><strong>Driving and dropping off children at Gates 4:</strong></p>
 <ul>
 <li>We would like to remind parents to refrain from using your vehicle’s horn unless due to safety reasons so as not to unnecessarily disturb our neighbours in the nearby estate.</li>
 <li>Please refrain from stopping your vehicle on the zebra crossings to drop off your children. The zebra crossing is meant for pedestrians and by stopping on the zebra crossings, you are obstructing and endangering the safety of pedestrians.</li>
@@ -44,9 +44,8 @@ variant: markdown
 <td style="text-align: center;">6.30 am - 7.30 am<br>1.45 pm - 2.00 pm (for pick-up at foyer)<br>5.45 pm - 6.45 pm (for pick-up at foyer)</td>
 <td>&nbsp;</td>
 </tr>
-<tr style="visibility: collapse;">
-<td style="text-align: center;">Gate no. 3 (Side Gate)</td>
-<td style="text-align: center;">6.30 am - 7.30 am<br>1.30 pm - 2.00 pm<br>4.00 pm - 4.30 pm</td>
+<tr><td style="text-align: center;">Gate no. 3 (Side Gate)</td>
+<td style="text-align: center;">6.30 am - 7.30 am<br>1.30 pm - 2.00 pm<br>3.45 pm - 4.45 pm</td>
 <td>&nbsp;</td>
 </tr>
 <tr>
