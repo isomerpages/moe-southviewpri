@@ -115,7 +115,7 @@ granted by the school.</p>
 </p>
 <ul>
 <li>
-<p>he PE attire comprises:</p>
+<p>The PE attire comprises:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>School PE T-shirt with nametag sewn above the school crest; and</p>
