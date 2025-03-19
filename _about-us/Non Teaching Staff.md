@@ -44,8 +44,13 @@ variant: markdown
 </tr>
 	<tr>
 <td style="text-align: center;">Administrative Executive</td>
-<td style="text-align: center;">Ms Nurhidayu Bte Mustafa</td>
-<td style="text-align: center;">nurhidayu_mustafa@moe.edu.sg</td>
+<td style="text-align: center;">Mdm Zaleha Binte Sallai</td>
+<td style="text-align: center;">zaleha_sallai@moe.edu.sg</td>
+</tr>
+		<tr>
+<td style="text-align: center;">Administrative Executive</td>
+<td style="text-align: center;">Ms Wong Jingwei</td>
+<td style="text-align: center;">wong_jingwei@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">CSO</td>
@@ -133,4 +138,4 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p>Page updated on: 6 January 2025</p>
+<p>Page updated on: 19 March 2025</p>
