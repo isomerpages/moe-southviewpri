@@ -30,11 +30,16 @@ for the 2019 P1 cohort onwards. If you have any queries, please do not
 hesitate to contact the school.</p>
 <p><u>3. Application for 40 Hours Parent Volunteer (PV) scheme</u>
 </p>
-<p>Application for 40 Hours Parent Volunteer (PV) Scheme in 2024 (for P1
-enrolment in 2026) is already closed.</p>
-<p>The next PV application will open in Apr 2025 and it is meant for children
-born between 2nd Jan 2020 to 1st Jan 2021 for P1 registration in 2026 and
-enrolment in 2027.</p>
-<p>
+<p>The application period for Parent Volunteer Scheme 2025 is now open for
+children born between 2 Jan 2020 and 1 Jan 2021 (both dates inclusive)
+till 30 Apr 2025 (1 pm).
+<br>Please note that applications submitted without a clear proposal will
+not be considered and <u>appeals for late submission after closing will not be entertained</u>.
+<br>This scheme provides eligibility to register at South View Primary School
+under Phase 2B of the P1 Registration Exercise. While completion of the
+scheme qualifies you for Phase 2B registration, please note that it does
+NOT guarantee a place in the school.
+<br>Please read through the requirements carefully and click on the <a href="/files/2025_PV40_Application.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a> in
+the document to apply.
 <br>
-<br>Page last updated: 30 April 2024</p>
+<br>Page last updated: 28 March 2025</p>
