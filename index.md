@@ -4,7 +4,7 @@ title: South View Primary School
 description: An Isomer site of the Singapore Government
 image: /images/crest.gif
 permalink: /
-notification: ""
+notification: Parent Volunteer Scheme is now open for application till 30 Apr 2025 (1 pm).
 sections:
   - hero:
       background: /images/Main.jpg
