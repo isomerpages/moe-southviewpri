@@ -132,10 +132,10 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Head of Department
-<br>Student Development</p>
+<br>Motivation and Engagement</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lai Yishan Louisa</p>
+<p>Mrs Oh-Lai Yishan Louisa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lai_yishan_louisa@moe.edu.sg</p>
