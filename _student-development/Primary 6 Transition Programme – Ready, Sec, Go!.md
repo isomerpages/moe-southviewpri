@@ -10,8 +10,7 @@ variant: markdown
 </p>1. To encourage students to be continual learners and create awareness of the viable education and career options through the provision of accurate and comprehensive information.<br><br>
 2. To nurture students' confidence and social emotional skills to build positive relationships with others.<br><br>
 3. To provide opportunities for students to develop growth mindset and GRIT to build up mental resilience to transit smoothly to the next phase of education journey.<p></p>
-	<p><img src="/images/P6T.jpg">
-</p>
+<img src="/images/P6T.jpg">
 <p><u><strong>Useful links for students and parents</strong></u><br><br>
 	<strong>Education &amp; Career Guidance</strong><br>
 It is an online portal that facilitates education and career development among the pupils. It also helps the pupils discover their identity through awareness, exploration and planning.<br>
