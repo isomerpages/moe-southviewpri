@@ -14,7 +14,7 @@ to instil sound values, nurture curiosity, foster confident thinking and
 expression in students. The approach and key objectives of the programme
 are:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/NYAA2.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/NYAA2.png">
 </div>
 <table style="minWidth: 25px">
 <colgroup>
