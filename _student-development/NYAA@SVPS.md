@@ -44,7 +44,7 @@ School is specifically designed for students aged 10 to 12 (Primary 4 -
 </tbody>
 </table>
 <p>Click on this link for examples of activities for each of the 4 components:
-<a rel="noopener noreferrer nofollow" target="_blank">https://shorturl.at/quzKW</a>
+<a href="https://shorturl.at/quzKW" rel="noopener noreferrer nofollow" target="_blank">https://shorturl.at/quzKW</a>
 </p>
 <p><strong>How can Southviens participate in NYAA@SVPS?</strong>
 </p>
@@ -63,5 +63,5 @@ School is specifically designed for students aged 10 to 12 (Primary 4 -
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/NYAA7.png">
 </div>
 <p>If you have any further questions regarding NYAA@SVPS, please contact
-Mr Zainal at <a rel="noopener noreferrer nofollow" target="_blank">zainal_ariffin_kassim@moe.edu.sg</a>
+Mr Zainal at <a href="mailto:zainal_ariffin_kassim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zainal_ariffin_kassim@moe.edu.sg</a>
 </p>
