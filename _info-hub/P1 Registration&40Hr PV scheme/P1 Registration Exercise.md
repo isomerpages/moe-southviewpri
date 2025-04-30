@@ -31,8 +31,8 @@ hesitate to contact the school.</p>
 <p><u>3. Application for 40 Hours Parent Volunteer (PV) scheme</u>
 </p>
 <p>The 40H PV scheme application for 2025 is already closed.</p>
-<p>The next application window will open again is Apr 2026 for children born
-between 2 Jan 2021 and 1 Jan 2022 (both dates inclusive) for Primary 1
-registration in 2027 and thereafter enrolment in 2028.
+<p>The next application window will be in Apr 2026 for children born between
+2 Jan 2021 and 1 Jan 2022 (both dates inclusive) for Primary 1 registration
+in 2027 and thereafter enrolment in 2028.
 <br>
 <br>Page last updated: 30 April 2025</p>
