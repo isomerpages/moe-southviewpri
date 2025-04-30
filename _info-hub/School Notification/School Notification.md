@@ -39,10 +39,8 @@ to read or download the respective letters.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Jun</p>
+<p><a href="https://drive.google.com/file/d/1cc-5viG6vJJPvu6ZcO4yFoONsekIKuQZ/view?usp=sharing" rel="noopener nofollow" target="_blank">May-Jun</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jul</p>
@@ -50,11 +48,11 @@ to read or download the respective letters.</p>
 <td rowspan="1" colspan="1">
 <p>Aug</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Sep</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Oct</p>
 </td>
@@ -63,6 +61,9 @@ to read or download the respective letters.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NA</p>
 </td>
 </tr>
 </tbody>
