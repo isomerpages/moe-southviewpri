@@ -15,7 +15,4 @@ sections:
         - title: Our School Notification
           description: ""
           url: https://www.southviewpri.moe.edu.sg/info-hub/school-notification/
-        - title: Application for 40H Parent Volunteer (PV) Scheme
-          description: ""
-          url: /application-for-40hrs-pv/
 ---
