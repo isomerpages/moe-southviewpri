@@ -14,10 +14,9 @@ Mdm See Lina<br>
 Ms Ng Shi Qing Metis</p>
 <p><u><strong>Schedule</strong></u></p>
 <p><u>Mondays</u><br>
-	<strong>P3, P4, P5 &amp; P6</strong><br>
-4.00 p.m. to 6.00 p.m.</p>
+4.00 p.m. to 6.00 p.m. (Girls Team)</p>
 <p><u>Thursdays</u><br>
-	<strong>P3, P4, P5 &amp; P6</strong><br>
-a) 2.00 p.m. to 4.00 p.m. (Development Team)<br>
-b) 4.00 p.m. to 6.00 p.m. (School Team)</p>
-<p>Page last updated on: 6 Jan 2025</p>
+a) 2.00 p.m. to 3.00 p.m. (Girls Team)<br>
+b) 3.00 p.m. to 6.00 p.m. (Boys Team)<br>
+c) 2.00 p.m. to 4.00 p.m. (Development Team)</p>
+<p>Page last updated on: 13 May 2025</p>
