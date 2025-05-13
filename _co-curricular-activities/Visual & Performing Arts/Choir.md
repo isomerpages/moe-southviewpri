@@ -14,5 +14,6 @@ Mrs Woo Mun Lan<br>
 Mdm Ou Wen Lien<br>
 Mdm Kelly Ng Mui Yin</p>
 <p><u><strong>Schedule</strong></u></p>
+<p><u>Monday</u><br>4.00 p.m. to 5.30 p.m. (Extra training for some students to prepare for competition)</p>
 <p><u>Thursdays</u><br><em>(P3, P4, P5 &amp; P6)</em><br>2.00 p.m. to 5.00 p.m.</p>
-<p>Page last updated on: 6 Jan 2025</p>
+<p>Page last updated on: 13 May 2025</p>
