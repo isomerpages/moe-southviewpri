@@ -10,7 +10,7 @@ variant: markdown
 <p><u><strong>Teachers-in-charge</strong></u></p>
 <p>Mr Nur Ismadi B Mohd Esa<br>Mr Eddie Quek<br>Mr Isaac Francis S/O Benert<br>Mr Lee Kim Joo</p>
 <p><u><strong>Schedule</strong></u><br>
-<em>Monday </em><br>4.00 p.m. to 6.00 p.m. (extra training for school team closer to competition period)</p> 
+<em>Monday </em><br>4.00 p.m. to 5.30 p.m. (extra training for school team closer to competition period)</p> 
 <p>Thursdays<br>
-3.00 p.m. to 5.00 p.m.<br></p>
-<p>Page last updated on: 6 Jan 2025</p>
+3.00 p.m. to 5.00 p.m. (For all players)<br></p>
+<p>Page last updated on: 13 May 2025</p>
