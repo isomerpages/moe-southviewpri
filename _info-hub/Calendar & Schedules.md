@@ -23,8 +23,8 @@ variant: tiptap
 <p>Calendar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1nlywYXAZV7SvuV3xb3vKDMXQZFRzINUh/view?usp=sharing" rel="noopener" target="_blank">Term 1</a>
-<br><a href="https://drive.google.com/file/d/1XiKmZQfNhC4DJV16HcBy03KqE09pq8Ka/view?usp=sharing" rel="noopener nofollow" target="_blank">Term 2</a>
+<p><a href="https://drive.google.com/drive/folders/13TSl3v5NLQiS5Ur9VfKthXInOY-f7Wdh?usp=sharing" rel="noopener" target="_blank">Term 1</a>
+<br><a href="https://drive.google.com/drive/folders/1YskAHYKgol0KieuSZ3zxFEuwr8DVHF04?usp=sharing" rel="noopener nofollow" target="_blank">Term 2</a>
 <br>Term 3
 <br>Term 4</p>
 </td>
