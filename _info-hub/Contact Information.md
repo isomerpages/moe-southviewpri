@@ -22,7 +22,13 @@ variant: markdown
 <tr>
 <td>Tel:
 </td>
-<td>67697176
+<td>67697176<br>
+	</td>
+</tr>
+	<tr>
+<td>Tel:
+</td>
+<td><strong>98201176</strong> (after office hours (5pm to 8am) in case parents need to reach their children for emergencies - <strong>For P5 Camp ONLY</strong>)
 </td>
 </tr>
 <tr>
