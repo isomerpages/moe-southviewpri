@@ -23,40 +23,36 @@ ingredient to create a dish.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Food Security</strong>
-</p>
+<br>Staple food for more than half the world’s population, particularly in
+Asia, providing a major source of calories and nutrition</p>
 </li>
 </ul>
-<p>Staple food for more than half the world’s population, particularly in
-Asia, providing a major source of calories and nutrition</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Nutritional Value</strong>
-</p>
+<br>Good source of carbohydrates and essential nutrients, making it a vital
+component of a balanced diet</p>
 </li>
 </ul>
-<p>Good source of carbohydrates and essential nutrients, making it a vital
-component of a balanced diet</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Economic Importance</strong>
-</p>
+<br>Rice cultivation supports the livelihoods of millions of people worldwide,
+from farmers to traders.</p>
 </li>
 </ul>
-<p>Rice cultivation supports the livelihoods of millions of people worldwide,
-from farmers to traders.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Cultural Significance</strong>
-</p>
-</li>
-</ul>
-<p>Rice plays a significant role in many cultures and traditions, shaping
+<br>Rice plays a significant role in many cultures and traditions, shaping
 culinary practices, rituals and social customs. Particularly for Singapore,
 where the majority of our different races have rice as our staple food
 everyday!</p>
+</li>
+</ul>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gastrochef1.png">
