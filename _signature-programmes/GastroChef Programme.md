@@ -4,9 +4,6 @@ permalink: /signature-programmes/physical-n-health-education-cca-n-aesthetics/ga
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/gastro1.jpg">
-</div>
 <p>The GastroChef Programme supports the development of emerging 21st Century
 Competencies (e21CC), such as adaptive and inventive thinking, creativity
 and collaboration. Through hands-on meal preparation, students learn essential
@@ -60,11 +57,10 @@ from farmers to traders.</p>
 culinary practices, rituals and social customs. Particularly for Singapore,
 where the majority of our different races have rice as our staple food
 everyday!</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/gastro2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gastrochef1.png">
 </div>
-<p><strong>Culture Focus&nbsp;</strong>
-</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -239,21 +235,19 @@ improve on.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Cleaning Up</strong>
-</p>
-</li>
-</ul>
-<p>Clean-up is as much a part of the cooking process as meal preparation
+<br>Clean-up is as much a part of the cooking process as meal preparation
 and is important to include students. Students learn how to work in a group
 with special tasks given to respective individuals so that they can contribute
 to the group.</p>
+</li>
+</ul>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Reflection</strong>
-</p>
-</li>
-</ul>
-<p>At the end of the lesson, students reflect on the skills, experiences
+<br>At the end of the lesson, students reflect on the skills, experiences
 and how they have applied the Growth Mindset and Executive Functioning
 skills.</p>
+</li>
+</ul>
 <p>Page last updated: 2 June 2025</p>
