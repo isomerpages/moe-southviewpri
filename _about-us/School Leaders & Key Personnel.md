@@ -102,7 +102,7 @@ variant: tiptap
 <p>Mdm M'chelle Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chan_kim_hong@moe.edu.sg</p>
+<p>mchelle_chan_kim_hong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
