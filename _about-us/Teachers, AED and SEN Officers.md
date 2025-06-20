@@ -700,7 +700,7 @@ variant: markdown
 <tr>
 <td>Non-Form</td>
 <td>Mdm M'chelle Chan Kim Hong</td>
-<td>chan_kim_hong@moe.edu.sg</td>
+<td>mchelle_chan_kim_hong@moe.edu.sg</td>
 </tr>
 <tr>
 <td>Non-Form</td>
