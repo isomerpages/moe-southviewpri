@@ -34,10 +34,9 @@ variant: tiptap
 <p>After-School Activities Schedule</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1AqfkcvwUw1_yC4EAUDOUK_Q7Vhwd2uAD/view?usp=sharing" rel="noopener nofollow" target="_blank">Term 1</a>
-<br><a href="https://drive.google.com/file/d/12AfYLjXLBMKBU8PON2Ly9p2cssZZ-v7T/view?usp=sharing" rel="noopener nofollow" target="_blank">Term 2</a>
-<br>Term 3
-<br>Term 4</p>
+<p><a href="https://drive.google.com/file/d/12AfYLjXLBMKBU8PON2Ly9p2cssZZ-v7T/view?usp=sharing" rel="noopener nofollow" target="_blank">Semester 1</a>
+<br><a href="https://drive.google.com/file/d/1l0De9GmLgNMBKFI0fV8DGJt554-8uc8b/view?usp=sharing" rel="noopener nofollow" target="_blank">Semester 2</a>
+</p>
 </td>
 </tr>
 <tr>
