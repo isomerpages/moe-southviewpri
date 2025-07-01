@@ -92,4 +92,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Page last updated on: 9 January 2024</p>
+<p>Page last updated on: 1 July 2025</p>
