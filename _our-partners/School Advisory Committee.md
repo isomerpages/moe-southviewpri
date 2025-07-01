@@ -2,45 +2,93 @@
 title: School Advisory Committee
 permalink: /our-partners/school-advisory-committee/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<table style="margin-left: auto; margin-right: auto;">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th style="text-align: center;">Committee</th>
-<th style="text-align: center;">Name</th>
+<th rowspan="1" colspan="1">
+<p>Committee</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
 </tr>
 <tr>
-<td style="text-align: center;">Chairman</td>
-<td style="text-align: center;">Dr Loke Chok Kang</td>
+<td rowspan="1" colspan="1">
+<p>Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Loke Chok Kang</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center;">Vice-Chairman</td>
-<td style="text-align: center;">Mr Tan Hon Kee</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Hon Kee</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center;">Member</td>
-<td style="text-align: center;">Dr Saw Woon Ling</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Saw Woon Ling</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center;">Member</td>
-<td style="text-align: center;">Miss Tan Zhen Ji Hazel</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Tan Zhen Ji Hazel</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center;">Member</td>
-<td style="text-align: center;">Dr Sintia Teddy-Ang</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Sintia Teddy-Ang</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center;">Member</td>
-<td style="text-align: center;">Mr Sebastian Chng Tshun Siong</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sebastian Chng Tshun Siong</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center;">Member</td>
-<td style="text-align: center;">Mr Sik Joel</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Yang Linlin</p>
+</td>
 </tr>
-	<tr>
-<td style="text-align: center;">Member</td>
-<td style="text-align: center;">Mdm Yang Linlin</td>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ang Poh Hoon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Yu Shilong</p>
+</td>
 </tr>
 </tbody>
 </table>
