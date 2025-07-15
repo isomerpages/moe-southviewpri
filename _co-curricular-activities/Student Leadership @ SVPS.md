@@ -5,6 +5,9 @@ description: ""
 variant: tiptap
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL1.png">
+</div>
 <p><strong>Student Leadership (SLD) Vision</strong>
 </p>
 <p>Every student leader to be a good role model who can <em>Lead by Example, Serve with Humility &amp;&nbsp; Communicate with Confidence </em>and&nbsp;
@@ -49,7 +52,9 @@ make a positive impact on the school and community.</p>
 Leadership Challenge Model (LCM). Through this model, students cultivate
 leadership skills by actively engaging in the Five Practices of Exemplary
 Leadership:</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL2.png">
+</div>
 <p>(Adapted from Kouzes &amp; Posner’s Leadership Challenge Model)</p>
 <p>&nbsp;</p>
 <p>These five practices form the foundation of our leadership training. Explicit
