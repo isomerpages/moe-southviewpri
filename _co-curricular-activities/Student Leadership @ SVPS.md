@@ -64,7 +64,6 @@ leaders are purposefully aligned with these practices to support the development
 of exemplary leadership behaviours.</p>
 <p></p>
 <p><strong><u>Teachers-in-charge</u></strong>
-<br>
 <br>Mr Zainal Ariffin Bin Kassim
 <br>Mr Koh Rensheng Andrew
 <br>Ms Tay Hwee Hoon
