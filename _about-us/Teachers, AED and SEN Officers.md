@@ -562,6 +562,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>3 Optimistic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Shafeeka Aine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>shafeeka_aine@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>3 Unity</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -737,17 +748,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Steadfast</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nadiah Abdul Rahman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>nadiah_abdul_rahman@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>4 Optimistic</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -766,6 +766,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>wang_wei_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Optimistic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Hui Zhi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lee_hui_zhi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -795,10 +806,10 @@ variant: tiptap
 <p>4 Unity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Mastura Bte Mohamed Yusoff</p>
+<p>Mdm Rupiah Bte Hamzah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mastura_mohamed_yusoff@moe.edu.sg</p>
+<p>rupiah_hamzah@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -817,10 +828,10 @@ variant: tiptap
 <p>4 Tenacity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Liu Qiuyi</p>
+<p>Mdm Rajamani d/o R Mariappan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>liu_qiuyi@moe.edu.sg</p>
+<p>rajamani_r_mariappan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -828,10 +839,10 @@ variant: tiptap
 <p>4 Tenacity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Singaravelu Rathai</p>
+<p>Ms Lim Xiao Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>singaravelu_rathai_a@moe.edu.sg</p>
+<p>lim_xiao_ting@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -850,10 +861,10 @@ variant: tiptap
 <p>4 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Amalina Bte Hussein</p>
+<p>Ms Norhafiza Binte Mohd Zaini</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>amalina_hussein@moe.edu.sg</p>
+<p>norhafiza_mohd_zaini@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
