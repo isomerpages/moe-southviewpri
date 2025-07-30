@@ -2,7 +2,6 @@ collections:
   info-hub:
     output: true
     order:
-      - POSB Smart Buddy.md
       - School Notification/.keep
       - School Notification/School Notification.md
       - School Notification/Archived Letters.md
@@ -12,6 +11,7 @@ collections:
       - School Related Services/Group Insurance for Students.md
       - School Related Services/Student Care Centre (Singapore EduSmart Learning
         Hub).md
+      - POSB Smart Buddy.md
       - School Bus Service.md
       - School Canteen Advertisement.md
       - SLS and Student Icon Matters/.keep
