@@ -1,6 +1,6 @@
 ---
 title: POSB Smart Buddy
-permalink: /posb-smart-buddy/
+permalink: /info-hub/posb-smart-buddy/
 variant: tiptap
 description: ""
 ---
