@@ -55,6 +55,33 @@ subsidies, no configuration of the watch/card is required.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>POSB Smart Buddy Registration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1P4fp57AlaUdYYwaynJeh_gnwuaXQSXIK/view?usp=sharing" rel="noopener nofollow" target="_blank">Smart Buddy Registration</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>POSB Smart Buddy_Intro Deck for Parents</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1EgRF4oN9J0CbtU6MDflTVGneBdhdS9nk/view?usp=sharing" rel="noopener nofollow" target="_blank">Smart Buddy_Intro Deck</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SVPS Smart Buddy Downtime Poster</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1Ot9ZM3L8wLber1BsuUkNvSt5xqyIcCBg/view?usp=sharing" rel="noopener nofollow" target="_blank">Downtown Poster</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>What is POSB Smart Buddy all about?</p>
 </td>
 <td rowspan="1" colspan="1">
