@@ -1596,4 +1596,4 @@ variant: tiptap
 </table>
 <p>Deployment is subjected to changes at the management's discretion according
 to school's needs. No prior notice will be given.
-<br>Page updated on: 6 Jan 2025</p>
+<br>Page updated on: 12 Aug 2025</p>
