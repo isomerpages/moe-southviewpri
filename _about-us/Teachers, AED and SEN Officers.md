@@ -1014,10 +1014,10 @@ variant: tiptap
 <p>5 Unity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Yian Loo</p>
+<p>Mdm Liu Qiuyi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_yian_loo@moe.edu.sg</p>
+<p>liu_qiuyi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
