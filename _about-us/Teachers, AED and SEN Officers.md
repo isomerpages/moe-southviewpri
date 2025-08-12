@@ -967,6 +967,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>5 Steadfast</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chew Phui Lea</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chew_phui_lea@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>5 Optimistic</p>
 </td>
 <td rowspan="1" colspan="1">
