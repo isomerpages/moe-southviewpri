@@ -2,8 +2,8 @@
 title: Our Identity
 permalink: /about-us/our-identity/
 description: ""
+variant: markdown
 ---
-<div><video preload="none" autoplay="autoplay" muted="" width="580" height="368" data-mce-fragment="1"></div></video>
 <p><strong><u>Our History</u></strong></p>
 <p>Nam San School was founded on 2nd February 1946, with students housed in three separate locations: temple, wayang stage and warehouse. Under the first principal Mr. Kua Chu Yan, the student population was a mere 157.</p>
 <p>In June 1946, Mr Ong Koh Bee, a community leader, initiated a fund-raising project to build a school. Villagers contributed generously towards the fund. Eventually $13,000 was raised, together with a donation of 1.75 acres of land. By 27th March 1947, the building for Nam San School was built at 12 miles Choa Chu Kang Road. The building had only 5 classrooms.</p>
@@ -51,7 +51,7 @@ description: ""
 </tbody>
 </table>
 <p><strong><u>School Crest</u></strong></p>
-<img style="width: 25%;" src="/images/crest.gif" />
+<img style="width: 25%;" src="/images/crest.gif">
 <p>The logo, a diamond formed by the initials "S" and "V" for South View, is a symbol of quality education. Blue symbolises an unpolished diamond. Yellow represents the shine and glitter of a polished diamond. A child who first enters school is like an unpolished diamond. By the time he leaves school, learning has polished him that he shines with aspiration and knowledge.</p>
 <p><strong><u>School Song</u></strong></p>
 <div>March forward, South View Primary</div>
@@ -71,7 +71,7 @@ description: ""
 <div>Keep our school flag flying high</div>
 <div>Let us treasure our school days</div>
 <div>Excel in all we do</div>
-<p><em>Lyrics by Thomas Yeo Chin Hee<br />Music by JJ de Souza</em></p>
+<p><em>Lyrics by Thomas Yeo Chin Hee<br>Music by JJ de Souza</em></p>
 <p><strong><u>SOUTHVIENS Creed</u></strong></p>
 <p>We, the pupils of South View Primary School, pledge to...</p>
 <div>Always be&nbsp;<strong><u>S</u>TEADFAST</strong>&nbsp;in everything that we do,</div>
