@@ -19,6 +19,7 @@ variant: markdown
 <tbody>
 <tr>
 <td><img style="width: 95%;" src="/images/OB3.jpg"></td>
+	<td><img style="width: 95%;" src="/images/OB3.png"></td>
 <td><img style="width: 95%;" src="/images/OB4.jpg"></td>
 </tr>
 <tr>
