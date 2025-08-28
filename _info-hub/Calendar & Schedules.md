@@ -45,7 +45,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://drive.google.com/file/d/1Zuf2Z4TOYOmEjmz1SRMEfMfOdiGKJm8U/view?usp=sharing" rel="noopener nofollow" target="_blank">Semester 1</a>
-<br>Semester 2</p>
+<br><a href="https://drive.google.com/file/d/1uQyIk71RC82V4RIHUZ9C1-3SirdV7FJs/view?usp=sharing" rel="noopener nofollow" target="_blank">Semester 2</a>
+</p>
 </td>
 </tr>
 </tbody>
