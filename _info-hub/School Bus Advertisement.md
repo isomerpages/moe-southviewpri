@@ -16,7 +16,7 @@ Procedure below.
 <p>&nbsp;</p>
 <p><strong>Application Procedure</strong>
 </p>
-<p>1. Complete the <a href="https://drive.google.com/file/d/1utA3OuL2QK5nKHzXwKBJ5ns-0Dg75sXm/view?usp=sharing" rel="noopener nofollow" target="_blank">Call for Proposal</a>.</p>
+<p>1. Complete the <a href="https://drive.google.com/file/d/1utA3OuL2QK5nKHzXwKBJ5ns-0Dg75sXm/view?usp=sharing" rel="noopener nofollow" target="_blank">Call for Proposal - Annex A</a>.</p>
 <p>2. Submit the completed Call for Proposal by 12 Sep 2025, 4 p.m. to the
 School’s General Office.</p>
 <ul data-tight="true" class="tight">
@@ -30,7 +30,8 @@ School’s General Office.</p>
 <p>Tel: +65 67697176</p>
 </li>
 <li>
-<p>Contact Person: Administration Manager, Mr Muhammad Hafiz</p>
+<p>Contact Person: <a href="mailto:Muhammad_hafiz_maarof@schools.gov.sg" rel="noopener nofollow" target="_blank">Administration Manager, Mr Muhammad Hafiz</a>
+</p>
 </li>
 </ul>
 <p></p>
