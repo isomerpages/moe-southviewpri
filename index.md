@@ -12,6 +12,9 @@ sections:
         - title: Our Co Curricular Activities
           description: ""
           url: https://www.southviewpri.moe.edu.sg/co-curricular-activities/
+        - title: Gate 3 Closure
+          description: Click here for more info
+          url: ""
         - title: Our School Notification
           description: ""
           url: https://www.southviewpri.moe.edu.sg/info-hub/school-notification/
