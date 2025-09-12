@@ -26,7 +26,8 @@ variant: tiptap
 <p><a href="https://drive.google.com/drive/folders/13TSl3v5NLQiS5Ur9VfKthXInOY-f7Wdh?usp=sharing" rel="noopener" target="_blank">Term 1</a>
 <br><a href="https://drive.google.com/drive/folders/1YskAHYKgol0KieuSZ3zxFEuwr8DVHF04?usp=sharing" rel="noopener nofollow" target="_blank">Term 2</a>
 <br><a href="https://drive.google.com/drive/folders/1UWsu77afqc5YqBuFuLA1AGa2WeRg1nlG?usp=sharing" rel="noopener nofollow" target="_blank">Term 3</a>
-<br>Term 4</p>
+<br><a href="https://drive.google.com/drive/folders/11QKscFZYnbCyUMhVVqGUqyulFMx5fUYJ?usp=sharing" rel="noopener nofollow" target="_blank">Term 4</a>
+</p>
 </td>
 </tr>
 <tr>
