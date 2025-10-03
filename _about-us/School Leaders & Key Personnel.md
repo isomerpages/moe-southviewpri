@@ -242,7 +242,7 @@ variant: tiptap
 <br>Middle Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Mdm Leow Eng Bee</p>
+<p>&nbsp;Mrs Yip-Leow Eng Bee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>leow_eng_bee@moe.edu.sg</p>
