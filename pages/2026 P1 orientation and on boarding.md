@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 ---
 <p>Dear Parents/Guardians,</p>
-<p>&nbsp;</p>
 <p>We are pleased to welcome your child/ward to South View Primary School.</p>
 <p>The P1 Admin and Orientation details will be sent to you through the Parents’
 Gateway (PG) app sometime in mid-October. We look forward to partnering
