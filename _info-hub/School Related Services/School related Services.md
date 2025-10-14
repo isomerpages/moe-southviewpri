@@ -20,7 +20,9 @@ access and download 2025 Uniform for Primary 2 to Primary 6</p>
 </p>
 <p></p>
 <p>Click <a href="https://drive.google.com/file/d/1Ks7OMQwV6b2AZXEUOSMnxZAoDjSBM12N/view?usp=sharing" rel="noopener" target="_blank">here</a> to
-access and download 2026 Booklist for Primary 1
+access and download 2026 Booklist for Primary 1</p>
+<p>Click <a href="https://drive.google.com/file/d/13HVaULNRug1Ei_qPv_5vx-ZMQDanqdmz/view?usp=sharing" rel="noopener" target="_blank">here</a> to
+access and download 2026 Uniform for Primary 1
 <br>
 </p>
 <p><strong>LIST OF SCHOOL VENDORS<br></strong>
