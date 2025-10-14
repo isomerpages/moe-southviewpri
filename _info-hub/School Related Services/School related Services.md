@@ -15,7 +15,12 @@ access and download 2025 Booklist for Primary 2 to Primary 6</p>
 access and download 2025 Uniform for Primary 1</p>
 <p>Click <a href="https://drive.google.com/file/d/1E-2Qme8I8nQTM_UFWBjqWwpa_tnE_ndT/view?usp=sharing" rel="noopener" target="_blank">here</a> to
 access and download 2025 Uniform for Primary 2 to Primary 6</p>
-<p>
+<p></p>
+<p><strong>2026 SOUTH VIEW PRIMARY SCHOOL - BOOKLIST &amp; UNIFORM</strong>
+</p>
+<p></p>
+<p>Click <a href="https://drive.google.com/file/d/1Ks7OMQwV6b2AZXEUOSMnxZAoDjSBM12N/view?usp=sharing" rel="noopener" target="_blank">here</a> to
+access and download 2026 Booklist for Primary 1
 <br>
 </p>
 <p><strong>LIST OF SCHOOL VENDORS<br></strong>
