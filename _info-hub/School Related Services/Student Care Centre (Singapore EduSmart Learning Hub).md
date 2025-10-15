@@ -36,18 +36,21 @@ Singapore EduSmart Learning Hub by clicking this link <a href="https://singapore
 <p>
 <br>
 </p>
-<p><a href="https://zfrmz.com/WTLPzNRU3e5ckMXgEI7T" rel="noopener noreferrer nofollow" target="_blank">EduSmart Student Care - Registration of Interest</a>
+<p><a href="https://forms.zohopublic.com/edusmartlearninghubsouthview/form/P1EduSmartStudentCareRegistrationofInterest2026/formperma/YMCXg7IVyIsgz0Rbaw6wkrW0uCjxmM8poZ2nukdtcFA" rel="noopener noreferrer nofollow" target="_blank">EduSmart Student Care - Registration of Interest</a>
 <br>
-<br>For parents who intend to enrol your child in the School-based Student
-Care Centre at South View Primary School, please apply to Singapore EduSmart
-Learning Hub via the following link:&nbsp;<a href="https://zfrmz.com/WTLPzNRU3e5ckMXgEI7T" rel="noopener noreferrer nofollow" target="_blank">EduSmart Student Care - Registration of Interest</a>&nbsp;by&nbsp;<strong>15th of the month </strong>in
-order to register for the next month. Registrations after the 15th will
-be considered for the following month. <em>(i.e. Submit registration by 15th Jan, registration considered for 1st February. Submit registration on 16th Jan, registration considered for 1st March)</em>&nbsp;Please
-note that as SSC vacancies are limited, the school will give priority to
-families who are more in need of after-school care arrangements. The school
-will evaluate your child's need for the SSC services and inform you the
-outcome of your intent through our vendor, Singapore EduSmart Learning
-Hub, <strong>by 22nd of the month.</strong>
+<br>For parents For parents who intend to enroll your child in the School-based <strong>S</strong>tudent <strong>C</strong>are <strong>C</strong>entre
+at South View Primary School, please apply to Singapore Edu Smart Learning
+Hub via the following link: <a href="https://forms.zohopublic.com/edusmartlearninghubsouthview/form/P1EduSmartStudentCareRegistrationofInterest2026/formperma/YMCXg7IVyIsgz0Rbaw6wkrW0uCjxmM8poZ2nukdtcFA" rel="noopener noreferrer nofollow" target="_blank">P1 2026 ROI</a> by <strong>31 October 2025</strong>.</p>
+<p>Please note that as SCC vacancies are limited, the school will accord
+priority to families who are more in need of after-school care arrangements.</p>
+<p>The school will evaluate your child's need for the SSC services and inform
+you the outcome through our vendor, Singapore Edu Smart Learning Hub, <strong>by 14 November 2025.</strong>
+</p>
+<p>No action is needed if you are not enrolling your child in our SCC.</p>
+<p>If we are unable to enroll your child in our SCC, you can consider nearby
+alternative Community-based Student Care Centre.&nbsp; The list of nearby
+MSF-registered Student Care Centres can be found at the MSF website at&nbsp;
+<a href="https://www.msf.gov.sg/our-services/directories#studenttab" rel="noopener noreferrer nofollow" target="_blank">MSF | Directories</a>
 </p>
 <p>
 <br><strong><u>Monthly SSC Fees</u></strong>
