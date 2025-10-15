@@ -5,17 +5,6 @@ description: ""
 third_nav_title: School Related Services
 variant: tiptap
 ---
-<p><strong>2025 SOUTH VIEW PRIMARY SCHOOL - BOOKLIST &amp; UNIFORM<br></strong>
-</p>
-<p>Click <a href="https://drive.google.com/file/d/1OsJ07sPn6KmJHIyHh7IG3zskWyfAEA2e/view?usp=sharing" rel="noopener" target="_blank">here</a> to
-access and download 2025 Booklist for Primary 1</p>
-<p>Click <a href="https://drive.google.com/drive/folders/12mphKYKhA9xLeZLCaZs7uyxxpypWFbSc?usp=sharing" rel="noopener" target="_blank">here</a> to
-access and download 2025 Booklist for Primary 2 to Primary 6</p>
-<p>Click <a href="https://drive.google.com/file/d/19kzsvllbxHxU5giU1E1_LilyDI6ouNOB/view?usp=sharing" rel="noopener" target="_blank">here</a> to
-access and download 2025 Uniform for Primary 1</p>
-<p>Click <a href="https://drive.google.com/file/d/1E-2Qme8I8nQTM_UFWBjqWwpa_tnE_ndT/view?usp=sharing" rel="noopener" target="_blank">here</a> to
-access and download 2025 Uniform for Primary 2 to Primary 6</p>
-<p></p>
 <p><strong>2026 SOUTH VIEW PRIMARY SCHOOL - BOOKLIST &amp; UNIFORM</strong>
 </p>
 <p></p>
