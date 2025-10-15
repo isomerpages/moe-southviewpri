@@ -44,7 +44,7 @@ Hub via the following link: <a href="https://forms.zohopublic.com/edusmartlearni
 <p>Please note that as SCC vacancies are limited, the school will accord
 priority to families who are more in need of after-school care arrangements.</p>
 <p>The school will evaluate your child's need for the SSC services and inform
-you the outcome through our vendor, Singapore Edu Smart Learning Hub, <strong>by 14 November 2025.</strong>
+you the outcome through our vendor, Singapore Edu Smart Learning Hub, <strong>by 30 November 2025.</strong>
 </p>
 <p>No action is needed if you are not enrolling your child in our SCC.</p>
 <p>If we are unable to enroll your child in our SCC, you can consider nearby
