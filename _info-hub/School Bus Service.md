@@ -13,4 +13,10 @@ and will commence operations in 2026.</p>
 </p>
 <p>Kindly note that you would need to sign in to your google account for
 submitting the form.</p>
+<p>For more enquiries, please contact DKJ Transport Service:</p>
+<p><strong><u>Vendor details</u></strong>
+<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">dkjtransport.southview@gmail.com</a>
+<br>Contact: Ms Grace (+65 8068 0085)</p>
+<p><strong>Note: Parents/Guardians please highlight to the bus vendor &amp; driver if your child/ward is under MOE/School-Based FAS.</strong>
+</p>
 <p>Thanks!</p>
