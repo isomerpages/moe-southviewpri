@@ -2,7 +2,6 @@ collections:
   info-hub:
     output: true
     order:
-      - School Policies/.keep
       - School Notification/.keep
       - School Notification/School Notification.md
       - School Notification/Archived Letters.md
@@ -24,6 +23,7 @@ collections:
       - School Home Partnership/.keep
       - School Home Partnership/Homework Policy.md
       - School Home Partnership/Resources for Parents.md
+      - School Policies/.keep
       - School Assessment Policy.md
       - MOE Sexuality Education in Schools.md
       - P1 Registration&40Hr PV scheme/.keep
