@@ -2,6 +2,7 @@ collections:
   info-hub:
     output: true
     order:
+      - School Policies/.keep
       - School Notification/.keep
       - School Notification/School Notification.md
       - School Notification/Archived Letters.md
