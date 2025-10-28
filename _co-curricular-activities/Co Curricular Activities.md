@@ -114,3 +114,48 @@ or Performing Arts, or Clubs &amp; Societies.</p>
 </tbody>
 </table>
 <p></p>
+<h4><strong><u>Uniformed Groups</u></strong></h4>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Badminton<br></strong>
+</p>
+<p><a href="https://www.southviewpri.moe.edu.sg/co-curricular-activities/environmental-science-club/" rel="noopener nofollow" target="_blank">read more</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Floorball</strong>
+</p>
+<p><a href="https://www.southviewpri.moe.edu.sg/co-curricular-activities/library-club/" rel="noopener nofollow" target="_blank">read more</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Football</strong>
+</p>
+<p><strong><a href="https://www.southviewpri.moe.edu.sg/co-curricular-activities/media-club/" rel="noopener nofollow" target="_blank">read more</a></strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong>Multi Sports</strong>
+</p>
+<p><strong><a href="https://www.southviewpri.moe.edu.sg/co-curricular-activities/robotics-club/" rel="noopener nofollow" target="_blank">read more</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Netball</strong>
+</p>
+<p><strong><a href="https://www.southviewpri.moe.edu.sg/co-curricular-activities/media-club/" rel="noopener nofollow" target="_blank">read more</a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
