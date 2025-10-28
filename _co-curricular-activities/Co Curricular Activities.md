@@ -69,7 +69,7 @@ or Performing Arts, or Clubs &amp; Societies.</p>
 </tbody>
 </table>
 <p></p>
-<p>Sports &amp; Games</p>
+<h4><strong><u>Sports &amp; Games</u></strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
