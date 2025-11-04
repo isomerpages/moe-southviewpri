@@ -65,7 +65,7 @@ to read or download the respective letters.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dec</p>
+<p>NA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NA</p>
