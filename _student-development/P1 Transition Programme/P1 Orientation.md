@@ -5,7 +5,11 @@ description: ""
 third_nav_title: P1 Transition Programme
 variant: tiptap
 ---
-<p>Please refer to the following letters regarding Primary 1 in 2026.
-<br>1) Primary One Administration and Orientation Letter (15 October 2025)
-"<a href="https://drive.google.com/file/d/1itnjl4NaOmPqfqNP3shG4G-hV_LtRWUT/view?usp=sharing" rel="noopener nofollow" target="_blank">Click Here</a>"</p>
-<p>Page last updated: 4 November 2025</p>
+<p><strong><u>P1 Orientation Briefing for 2026 P1 Cohort</u></strong>
+</p>
+<p>Upcoming slides will be shared after P1 Orientation Briefing on 21 November
+2025</p>
+<p>1) P1 Orientation Slides (MPH)</p>
+<p>2) P1 Parents Engagement Slides (Classrooms)</p>
+<p>3) 2026 P1 Information on First Week of school</p>
+<p>4) FAQs</p>
