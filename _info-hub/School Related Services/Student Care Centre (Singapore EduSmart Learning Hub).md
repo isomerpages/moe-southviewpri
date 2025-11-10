@@ -38,13 +38,12 @@ Singapore EduSmart Learning Hub by clicking this link <a href="https://singapore
 </p>
 <p><a href="https://forms.zohopublic.com/edusmartlearninghubsouthview/form/P1EduSmartStudentCareRegistrationofInterest2026/formperma/YMCXg7IVyIsgz0Rbaw6wkrW0uCjxmM8poZ2nukdtcFA" rel="noopener noreferrer nofollow" target="_blank">EduSmart Student Care - Registration of Interest</a>
 <br>
-<br>For parents For parents who intend to enroll your child in the School-based <strong>S</strong>tudent <strong>C</strong>are <strong>C</strong>entre
-at South View Primary School, please apply to Singapore Edu Smart Learning
-Hub via the following link: <a href="https://forms.zohopublic.com/edusmartlearninghubsouthview/form/P1EduSmartStudentCareRegistrationofInterest2026/formperma/YMCXg7IVyIsgz0Rbaw6wkrW0uCjxmM8poZ2nukdtcFA" rel="noopener noreferrer nofollow" target="_blank">P1 2026 ROI</a> by <strong>31 October 2025</strong>.</p>
-<p>Please note that as SCC vacancies are limited, the school will accord
-priority to families who are more in need of after-school care arrangements.</p>
-<p>The school will evaluate your child's need for the SSC services and inform
-you the outcome through our vendor, Singapore Edu Smart Learning Hub, <strong>by 30 November 2025.</strong>
+<br>Registration for EduSmart Student Care 2026 (Primary 1) has now closed,
+and SCC is at full capacity atm for 2026 Primary One intake.</p>
+<p>If you would like your child to be considered should a vacancy arise,
+please register your interest via the link below by 17 November 2025. EduSmart
+Student Care will contact you if an opening becomes available. Please register
+your interest with the following link: <a href="https://zfrmz.com/ySdQAngFGOCbdvD9Vcqh" rel="noopener noreferrer nofollow" target="_blank">https://zfrmz.com/ySdQAngFGOCbdvD9Vcqh</a>
 </p>
 <p>No action is needed if you are not enrolling your child in our SCC.</p>
 <p>If we are unable to enroll your child in our SCC, you can consider nearby
