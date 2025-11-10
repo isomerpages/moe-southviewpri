@@ -14,11 +14,8 @@ variant: tiptap
 </a><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1mI6g9pj_Nlw-aHAfO4zgB-LbOjxnsW8M/view?usp=drive_link"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/5__Packing_my_bag_myself.png"></a>
 <a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1i0fSzb78zHLy_KKI8ScogQMPDeZbnkyU/view?usp=drive_link">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/6__Maintaining_good_hygience.png">
-</a>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7__Managing_expectations.png">
-</div><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1RiYCNser63_ntsDpjbduPzXbZF0cZJen/view?usp=drive_link"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/8__Sharing_feelings.png"></a>
-<a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1kr5t72SrPF7DNaCHxEh-K8pfl2cTbZTP/view?usp=drive_link">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/9__Preparing_for_school.png">
-</a>
+</a><a class="isomer-image-wrapper" href="https://www.schoolbag.edu.sg/story/5-practical-tips-on-setting-realistic-parenting-expectations/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/7__Managing_expectations.png"></a>
+<a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1RiYCNser63_ntsDpjbduPzXbZF0cZJen/view?usp=drive_link">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8__Sharing_feelings.png">
+</a><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1kr5t72SrPF7DNaCHxEh-K8pfl2cTbZTP/view?usp=drive_link"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/9__Preparing_for_school.png"></a>
 <p></p>
