@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/robotics 2025.png">
 </div>
@@ -37,4 +36,4 @@ future, one robot at a time.</p>
 </p>
 <p><u>Thursdays</u>
 <br>2.00 p.m. to 4.00 p.m.</p>
-<p>Page last updated on: 6 Jan 2025</p>
+<p>Page last updated on: 10 November 2025</p>
