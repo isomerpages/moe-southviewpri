@@ -192,18 +192,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Head of Department
-<br>Special Projects</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Yian Loo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_yian_loo@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Department
 <br>PE, HE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
