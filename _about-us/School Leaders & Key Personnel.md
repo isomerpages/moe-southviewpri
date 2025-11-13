@@ -413,50 +413,6 @@ variant: tiptap
 <p>chan_yee_ling@moe.edu.sg</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Administration Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Phyllis Kee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>kee_bee_choo_phyllis@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Administration Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Hafiz Bin Ma'arof</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>muhammad_hafiz_maarof@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Thomas Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_yong_peng@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Azli Bin Mad Ali</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>muhammad_azli_mad_ali@moe.edu.sg</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p><strong><u>Teacher Leaders</u></strong>
