@@ -7,9 +7,9 @@ variant: tiptap
 ---
 <p><strong><u>P1 Orientation Briefing for 2026 P1 Cohort</u></strong>
 </p>
-<p>Upcoming slides will be shared after P1 Orientation Briefing on 21 November
-2025</p>
-<p>1) P1 Orientation Slides (MPH)</p>
-<p>2) P1 Parents Engagement Slides (Classrooms)</p>
-<p>3) 2026 P1 Information on First Week of school</p>
-<p>4) FAQs</p>
+<p>Please click on the links below to read the documents that were shared
+during P1 Orientation Briefing on 21 November 2025.</p>
+<p>1) <a href="https://drive.google.com/file/d/1FX-jK7QjTD4UDhyreDUuFXsydGUwDDZV/view?usp=sharing" rel="noopener nofollow" target="_blank">P1 Orientation Slides (MPH)</a>
+</p>
+<p>2) <a href="https://docs.google.com/document/d/12EwSjc241CYbGbdszPBuGt10eGhxsNNU/edit" rel="noopener nofollow" target="_blank">FAQs</a>
+</p>
