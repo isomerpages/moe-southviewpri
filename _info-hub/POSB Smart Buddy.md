@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p>Dear Parents/Guardians</p>
-<p>Our school had implemented the POSB Smart Buddy e-payment system at the
-school canteen in Term 3.</p>
-<p><strong><u>For Students on MOE FAS scheme</u></strong>
+<p>We are pleased to announce that POSB Smart Buddy e-payment option is offered
+at the school canteen from Term 3/2025, alongside cash payments.</p>
+<p><strong><u>For Students on MOE FAS Scheme</u></strong>
 </p>
 <p>While School Smart Concession Card is the default option for School Meal
 Subsidy, parents may opt and apply through POSB for your child/children
