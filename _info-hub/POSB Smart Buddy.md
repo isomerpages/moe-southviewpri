@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p>Dear Parents/Guardians</p>
-<p>Our school had implemented the POSB Smart Buddy e-payment system at the
-school canteen in Term 3.</p>
-<p><strong><u>For Students on MOE FAS scheme</u></strong>
+<p>We are pleased to announce that POSB Smart Buddy e-payment option is offered
+at the school canteen from Term 3/2025, alongside cash payments.</p>
+<p><strong>For Students on MOE FAS Scheme</strong>
 </p>
 <p>While School Smart Concession Card is the default option for School Meal
 Subsidy, parents may opt and apply through POSB for your child/children
@@ -22,7 +22,7 @@ Meal Subsidy allocation.</p>
 <p>Balance readers are installed around the school canteen where your child
 can tap his/her registered card/ watch to check the amount of school meal
 subsidy balance allocation.</p>
-<p><strong><u>Lost of concession Card/Watch</u></strong>
+<p><strong><u>Lost of Concession Card/Watch</u></strong>
 </p>
 <p>Students would need to make a replacement promptly or can bring along
 an unused Adult Ezlink card to the General Office for configuration. <strong>(Please see </strong>
@@ -30,7 +30,7 @@ an unused Adult Ezlink card to the General Office for configuration. <strong>(Pl
 </p>
 <p>For students who forget to bring their watch/card, they will be provided
 with refreshments e.g. biscuits/bottled water.</p>
-<p><strong><u>For non-MOE FAS Students</u></strong>
+<p><strong><u>For Non-MOE FAS Students</u></strong>
 </p>
 <p>Parents may apply for the Smart Buddy watch/card and receive the pack
 at the registered address. Since non-MOE FAS students do not receive meal
