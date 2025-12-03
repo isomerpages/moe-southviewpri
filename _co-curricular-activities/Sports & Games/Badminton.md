@@ -40,4 +40,27 @@ to participate in the yearly National School Games.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton.png">
 </div>
+<p><strong>Achievements (2025-2024)</strong>
+</p>
+<p>2025</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Senior Girls National School Games League 2 4th place</p>
+</li>
+<li>
+<p>Senior Boys National School Games League 5 3rd place</p>
+</li>
+</ul>
+<p>2024</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Senior Girls National School Games League 4 3rd place</p>
+</li>
+<li>
+<p>Senior Boys National School Games League 5 5th place</p>
+</li>
+<li>
+<p>Junior Girls Champion (Tier 3 and 4)</p>
+</li>
+</ul>
 <p>Page last updated on: 3 Dec 2025</p>
