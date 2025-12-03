@@ -36,8 +36,31 @@ well as offensive and defensive structures of player positioning.</p>
 to join the school team to participate in competitions.</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball.png">
 </div>
+<p><strong>Achievements (2025-2024)</strong>
+</p>
+<p>2025</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>National School Games Pool Round 3rd place</p>
+</li>
+<li>
+<p>National School Games Tier 3 Round 2nd place</p>
+</li>
+<li>
+<p>Canberra Community Sports Network Basketball Schools’ Invitation (Boys
+Double) - 2nd Place</p>
+</li>
+</ul>
+<p>2024</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>National School Games Pool Round 4th place</p>
+</li>
+<li>
+<p>National School Games Tier 4 Round 3rd place</p>
+</li>
+</ul>
 <p></p>
