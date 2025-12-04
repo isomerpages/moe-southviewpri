@@ -22,4 +22,4 @@ an appreciation for Science.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Environmental_Science_Club.png">
 </div>
-<p>Page last updated on: 4 Dec 2025</p>
+<p>Page last updated on: 4 December 2025</p>
