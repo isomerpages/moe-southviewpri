@@ -63,4 +63,4 @@ to participate in the yearly National School Games.</p>
 <p>Junior Girls Champion (Tier 3 and 4)</p>
 </li>
 </ul>
-<p>Page last updated on: 3 Dec 2025</p>
+<p>Page last updated on: 3 December 2025</p>
