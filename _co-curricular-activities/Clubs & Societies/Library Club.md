@@ -3,13 +3,44 @@ title: Library Club
 permalink: /co-curricular-activities/library-club/
 description: ""
 third_nav_title: Clubs & Societies
-variant: markdown
+variant: tiptap
 ---
-<img style="width: 50%;" src="/images/library.jpeg">
-<p>Through this CCA, pupil librarians get to learn and hone their public speaking skills which include clear articulation, engagement and appropriate body gestures. By developing these skills, our pupil librarians will have the confidence to speak well while doing their book-talks to their peers in school as well as visitors to the library.</p>
-<p>Pupil librarians have a chance to showcase what they have learnt during library activities such as book promotions. They will also design and promote the habit of reading as well as good reads to their peers to be inspired. Part of the ICT skills they will hone include the use of PowerPoint slides for presentation. They will also work on script-writing skills to promote their activities during pre-assembly slots. Pupil librarians will also have the opportunity to take part in external competitions such as the National Literacy Quiz organised by National Library Board where they pit their literary world knowledge against pupils from both other schools. Such platforms and exposure will help develop their public speaking skills and boost their confidence.</p>
-<p><u><strong>Teachers-in-charge</strong></u></p>
-<p>Mdm Widyawati Bte Mudai<br>Mdm Hanita Bte Abdul Aziz<br>Mdm Tang Mei Fong</p>
-<p><u><strong>Schedule</strong></u></p>
-<p><u>Thursdays</u><br>2.00 p.m. to 4.00 p.m.</p>
-<p>Page last updated on: 6 Jan 2025</p>
+<p><strong>Objectives</strong>
+</p>
+<p><em>Media Resource Library: Where Stories Come Alive</em>
+</p>
+<p>In our dynamic Library &amp; Media Club, students discover the powerful
+synergy between storytelling and visual communication. This unique CCA
+transforms enthusiastic beginners into confident communicators who can
+both craft compelling narratives and capture them through stunning visuals.</p>
+<p>Our pupil librarians develop public speaking skills through engaging book-talks,
+creative presentation design, and script writing for school assemblies.
+They inspire reading habits among peers while building confidence. Meanwhile,
+Media Club members embrace the philosophy that "skill in photography is
+acquired by practice and not by purchase," mastering composition, lighting,
+and video production through hands-on experience.</p>
+<p>The magic happens when these two groups collaborate during major school
+events, commemorations and festivities—where librarians create engaging
+content while media members capture these precious moments. Students participate
+in local and international competitions, building resilience and technical
+expertise along the way.</p>
+<p>Through real-world applications and service to the school community, our
+members graduate as well-rounded leaders equipped with presentation skills,
+technical expertise, and creative vision. They learn that every story matters,
+every image speaks, and every student has a unique voice worth sharing.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Library.png">
+</div>
+<p><strong>Achievements (2025-2024)</strong>
+</p>
+<p>Write-up</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Completion of Book Talk module organized by NLB</p>
+</li>
+<li>
+<p>Participation in Read for Books 2025 organized by NLB</p>
+</li>
+</ul>
+<p>Page last updated on: 4 December 2025</p>
