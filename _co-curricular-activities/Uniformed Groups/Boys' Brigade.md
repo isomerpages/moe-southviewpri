@@ -85,6 +85,10 @@ the younger ones.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Boys__Brigade.png">
+</div>
 <p><strong>Achievements (2025-2024)</strong>
 </p>
 <p><strong>2025</strong>
