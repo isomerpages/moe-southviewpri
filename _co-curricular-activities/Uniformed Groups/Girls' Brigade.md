@@ -78,4 +78,4 @@ where they engage with and serve the communities in the neighbourhood.</p>
 <p>The Girls’ Brigade Company Award 76<sup>th</sup> P Bronze</p>
 </li>
 </ul>
-<p></p>
+<p>Page last updated on: 4 December 2025</p>
