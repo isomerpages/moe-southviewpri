@@ -17,6 +17,10 @@ development of sporting excellence, we also seek to inspire others by being
 exemplary sportsman exhibiting good character and values.</p>
 <p><strong>Main Activities</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Football.png">
+</div>
 <p>
 <br><strong>Achievements (2025-2024)</strong>
 </p>
