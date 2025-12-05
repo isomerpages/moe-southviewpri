@@ -3,22 +3,54 @@ title: Cultural Dance
 permalink: /co-curricular-activities/cultural-dance/
 description: ""
 third_nav_title: Visual & Performing Arts
-variant: markdown
+variant: tiptap
 ---
-<img style="width: 35%;" src="/images/cca18.jpg">
-<img style="width: 35%;" src="/images/cca16.jpg">
-<img style="width: 65%;" src="/images/chinese dance.jpg">
-<p>At SV Cultural Dance, students will be given the opportunity to explore and fulfill their passion in dance. They will have cross-cultural dance experiences through exploration of various dance genres including Chinese Dance, Indian Dance, Malay Dance and Fusion Dance. They will also be provided with opportunities to hone their creativity by having opportunities to contribute ideas and share in the creative process of choreography.</p>
-<p>SV Cultural Dance actively participate in many performances such as Singapore Youth Festival (SYF), Open Call, SV’s biennial Arts Showcase, internal and external events/competitions. Through these opportunities, students work towards a common goal of attaining excellence, values and forming bonds by inculcating a growth mindset that will continue in all aspects of their life. Students also develop life skills and the ability to lead and be led to take on different roles in a team.</p>
-<p><u><strong>Teachers-in-charge</strong></u></p>
-<p>Mdm Choung Hui Ming<br>
-Mdm New Chye Fong<br>
-Mdm Vjaya Lashmi D/O Tangavellu<br>
-Mdm Norzelawati Binte Shariff<br>
-Ms Teo Wee Sim<br>
-Ms Jiao Yu Jie<br>
-Mdm Liang Xuexia<br>
-Mdm Haslinda Binte Othman</p>
-<p><u><strong>Schedule</strong></u></p>
-<p><u>Thursdays</u><br><em>(P4, P5 &amp; P6)</em><br>2.00 p.m. to 5.00 p.m.</p>
-<p>Page last updated on: 13 May 2025</p>
+<p><strong>Objectives</strong>
+</p>
+<p>Cultural dance is a form of expression that reflects the traditions, beliefs,
+and stories of different communities from around the world. Each dance
+style is unique and is often performed during school celebrations, and
+community events. Learning about cultural dance helps students appreciate
+diversity and understand the values of different cultures. It encourages
+respect, curiosity, and open-mindedness. Dancing can also be a fun way
+to stay active, build teamwork, and boost confidence!</p>
+<p><strong>Main Activities</strong>
+</p>
+<p>Pupils will be showcasing their dance skills in these performances:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>SYF Dance Showcase</strong> - Singapore Youth Festival (SYF) Arts
+Presentation features a wide range of performing arts disciplines and genres,
+reflecting Singapore's rich multicultural heritage.</p>
+</li>
+<li>
+<p><strong>SYF Celebration</strong> - It is for pupils to demonstrate their
+passion in dance to engage with the community through the arts. Pupils
+expressed their perspectives on Singapore's identity and rich cultural
+heritage.</p>
+</li>
+<li>
+<p><strong>School Celebrations</strong> - Our school stage came alive with
+colorful costumes, rhythmic music, and energetic movements as students
+performed dances representing various cultures during celebrations such
+as CNY, Hari Raya &amp; Deepavali. Each performance was a heartfelt tribute
+to the unique customs and stories that make our school community so special.</p>
+</li>
+<li>
+<p><strong>Values in Action</strong> - Pupils believe dance is a universal
+language that bridges generations. Our passionate dancers are dedicated
+not only to perfecting their craft, but also to giving back—using their
+skills to inspire and uplift both the young and the young at heart.</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cultural_Dance.png">
+</div>
+<p><strong>Achievements (2025-2024)</strong>
+</p>
+<p>2024 - SYF Arts Presentations
+<br>Indian Dance - Accomplished
+<br>Malay Dance - Distinction
+<br>Chinese Dance - Distinction</p>
+<p>Page last updated on: 5 December 2025</p>
