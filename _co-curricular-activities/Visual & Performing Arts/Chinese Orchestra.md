@@ -3,15 +3,32 @@ title: Chinese Orchestra
 permalink: /co-curricular-activities/chinese-orchestra/
 description: ""
 third_nav_title: Visual & Performing Arts
-variant: markdown
+variant: tiptap
 ---
-<img style="width: 50%;" src="/images/co.jpeg">
-<p>Passionate about the Arts, Chinese Orchestra members delve deep into the rich heritage of Chinese music. Provided with opportunities to develop their musical talents and cultural awareness in the performing arts, we aim to build our students’ character.  Through showcases, performance opportunities, learning journeys as well as leadership opportunities, our members develop Respect and Resilience while pursuing their interest.</p>
-<p><u><strong>Teachers-in-charge</strong></u></p>
-<p>Mr Tan Weida<br>
-Ms Yu Naishan<br>
-Mdm Liu Yun<br>
-Mdm Guo Wei</p>
-<p><u><strong>Schedule</strong></u></p>
-<p><u>Thursdays</u><br><em>(P4, P5 &amp; P6)</em><br>2.00 p.m. to 4.00 p.m.</p>
-<p>Page last updated on: 6 Jan 2025</p>
+<p><strong>Objectives</strong>
+</p>
+<p>The South View Chinese Orchestra aims to nurture pupils’ appreciation
+for traditional Chinese music and culture while developing their musicality,
+discipline, and teamwork. Through learning and performing on a variety
+of traditional instruments, pupils build perseverance, confidence, and
+collaboration skills. The CCA also seeks to cultivate character and leadership
+by providing opportunities for pupils to perform, serve, and contribute
+meaningfully to the school and community through music.</p>
+<p><strong>Main Activities</strong>
+</p>
+<p>Members of the Chinese Orchestra participate in weekly sectional and ensemble
+practices, focusing on both foundational techniques and group performance
+skills. Throughout the year, pupils prepare for school events such as the
+Chinese New Year concert, VIA performances, and major arts showcases including
+the Singapore Youth Festival (SYF) Arts Presentation. They also take part
+in internal performances, enrichment workshops, and peer-led mentoring
+sessions where senior members guide juniors in learning new pieces. These
+activities allow pupils to grow as confident performers and dedicated team
+players.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Chinese_Orchestra.png">
+</div>
+<p><strong>Achievements (2025-2024)</strong>
+<br>2024 - SYF Arts Presentations - Accomplished</p>
+<p>Page last updated on: 5 December 2025</p>
