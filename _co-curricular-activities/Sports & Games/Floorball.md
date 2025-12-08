@@ -53,4 +53,8 @@ and Senior) and/or friendly matches with floorball teams from other schools.</p>
 Round Champions
 <br><strong>2024 - </strong>National School Games (Junior Division) Tier 3
 Round 3rd Place</p>
+<p><strong><u>Schedule</u></strong>
+<br><u>Thursdays</u>
+<br>2.00 p.m. to 5.00 p.m.</p>
+<p></p>
 <p>Page last updated on: 3 December 2025</p>
