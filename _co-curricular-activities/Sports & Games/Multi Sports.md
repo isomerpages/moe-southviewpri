@@ -1,6 +1,6 @@
 ---
 title: Multi Sports
-permalink: /co-curricular-activities/multi-sports/
+permalink: /permalink/
 description: ""
 third_nav_title: Sports & Games
 variant: markdown

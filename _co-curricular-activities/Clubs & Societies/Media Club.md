@@ -1,6 +1,6 @@
 ---
 title: Media Club
-permalink: /co-curricular-activities/media-club/
+permalink: /permalink/
 description: ""
 third_nav_title: Clubs & Societies
 variant: markdown
