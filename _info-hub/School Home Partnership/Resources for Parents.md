@@ -26,7 +26,7 @@ third_nav_title: School Home Partnership
 <p>Full Subject Based Banding (Full SBB)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a>
+<p><a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a>
 </p>
 </td>
 </tr>
@@ -35,7 +35,7 @@ third_nav_title: School Home Partnership
 <p>Direct School Admission (DSA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>&nbsp;</p>
+<p><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -43,7 +43,7 @@ third_nav_title: School Home Partnership
 <p>PSLE Scoring System</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html</a>
+<p><a href="https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html</a>
 </p>
 </td>
 </tr>
@@ -52,7 +52,8 @@ third_nav_title: School Home Partnership
 <p>Posting to Secondary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/posting-to-secondary-school/main.html</a>&nbsp;</p>
+<p><a href="https://www.moe.gov.sg/microsites/psle-fsbb/posting-to-secondary-school/main.html" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/posting-to-secondary-school/main.html&nbsp;</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -60,7 +61,7 @@ third_nav_title: School Home Partnership
 <p>MOE Cyberwellness Portal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness</a>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness</a>
 </p>
 </td>
 </tr>
@@ -69,7 +70,7 @@ third_nav_title: School Home Partnership
 <p>Social and Emotional learning: Resources for parents</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/social-and-emotional-learning/sel-resources-for-parents</a>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/social-and-emotional-learning/sel-resources-for-parents" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/social-and-emotional-learning/sel-resources-for-parents</a>
 </p>
 </td>
 </tr>
@@ -78,7 +79,7 @@ third_nav_title: School Home Partnership
 <p>Schoolbag - The Education News Site</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/</a>
+<p><a href="https://www.schoolbag.edu.sg/" rel="noopener nofollow" target="_blank">https://www.schoolbag.edu.sg/</a>
 </p>
 </td>
 </tr>
