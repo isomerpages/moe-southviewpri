@@ -49,7 +49,7 @@ or Performing Arts, or Clubs &amp; Societies.</p>
 <th rowspan="1" colspan="1">
 <p><strong>Media Resource Library Club</strong>
 </p>
-<p><a href="https://www.southviewpri.moe.edu.sg/co-curricular-activities/library-club/" rel="noopener nofollow" target="_blank">read more</a>
+<p><a href="https://www.southviewpri.moe.edu.sg/co-curricular-activities/media-resource-library-club/" rel="noopener nofollow" target="_blank">read more</a>
 </p>
 </th>
 <td rowspan="1" colspan="1">
@@ -76,7 +76,7 @@ or Performing Arts, or Clubs &amp; Societies.</p>
 <th rowspan="1" colspan="1">
 <p><strong>Badminton</strong>
 </p>
-<p><a href="https://www.southviewpri.moe.edu.sg/co-curricular-activities/environmental-science-club/" rel="noopener nofollow" target="_blank">read more</a>
+<p><a href="https://www.southviewpri.moe.edu.sg/co-curricular-activities/badminton/" rel="noopener nofollow" target="_blank">read more</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
