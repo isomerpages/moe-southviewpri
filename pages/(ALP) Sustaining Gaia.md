@@ -1,8 +1,7 @@
 ---
 title: (ALP) Sustaining Gaia
-permalink: /departments/ciet/alp-sustaining-gaia/
+permalink: /permalink/
 description: ""
-third_nav_title: CIET
 variant: markdown
 ---
 <p><strong><u>Applied Learning Programme - Project Work (PW)<br></u></strong>
