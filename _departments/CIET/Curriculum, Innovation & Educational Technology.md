@@ -64,6 +64,42 @@ and completing their ALP projects on sustainability.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Code for Fun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students learn about:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Computational thinking as a problem-solving technique, and how it can
+be applied to other aspects of their life.</p>
+</li>
+<li>
+<p>Logical thinking and how to solve problems using computational thinking
+techniques such as breaking down big problems into more manageable, bite-sized
+ones.</p>
+</li>
+<li>
+<p>Basic programming concepts such as variables, loops, functions and events,
+through hands-on learning with the Sphero robot.</p>
+</li>
+<li>
+<p>Collaborative learning through planning and programming a group dance
+using their Sphero robots.</p>
+</li>
+<li>
+<p>An introduction to emerging technology and the uses of AI and Gen AI,
+as well as awareness on the ethical use of AI.</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4, Term 1 (end of the term)</p>
+<p></p>
+<p>P6, Term 4 (post PSLE)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>ICT Familiarisation</p>
 </td>
 <td rowspan="1" colspan="1">
