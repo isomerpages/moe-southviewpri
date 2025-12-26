@@ -2,7 +2,6 @@
 title: Multi Sports
 permalink: /permalink/
 description: ""
-third_nav_title: Sports & Games
 variant: markdown
 ---
 <img style="width: 65%;" src="/images/multi.jpeg">

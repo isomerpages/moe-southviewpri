@@ -1,6 +1,6 @@
 ---
 title: Basketball
-permalink: /basketball/
+permalink: /co-curricular-activities/basketball/
 variant: tiptap
 description: ""
 third_nav_title: Sports & Games

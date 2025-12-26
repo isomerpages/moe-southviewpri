@@ -2,7 +2,6 @@
 title: Media Club
 permalink: /permalink/
 description: ""
-third_nav_title: Clubs & Societies
 variant: markdown
 ---
 <img style="width: 50%;" src="/images/media.jpeg">
