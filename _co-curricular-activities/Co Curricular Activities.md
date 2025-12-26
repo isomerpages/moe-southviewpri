@@ -81,25 +81,25 @@ or Performing Arts, or Clubs &amp; Societies.</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Basketball</p>
-<p><a href="https://www.southviewpri.moe.edu.sg/co-curricular-activities/library-club/" rel="noopener nofollow" target="_blank">read more</a>
+<p><a href="/co-curricular-activities/basketball/" rel="noopener nofollow" target="_blank">read more</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Floorball</strong>
 </p>
-<p><a href="https://www.southviewpri.moe.edu.sg/co-curricular-activities/library-club/" rel="noopener nofollow" target="_blank">read more</a>
+<p><a href="/co-curricular-activities/floorball/" rel="noopener nofollow" target="_blank">read more</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Football</strong>
 </p>
-<p><strong><a href="https://www.southviewpri.moe.edu.sg/co-curricular-activities/media-club/" rel="noopener nofollow" target="_blank">read more</a></strong>
+<p><strong><a href="/co-curricular-activities/football/" rel="noopener nofollow" target="_blank">read more</a></strong>
 </p>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>Netball</strong>
 </p>
-<p><strong><a href="https://www.southviewpri.moe.edu.sg/co-curricular-activities/media-club/" rel="noopener nofollow" target="_blank">read more</a></strong>
+<p><strong><a href="/co-curricular-activities/netball/" rel="noopener nofollow" target="_blank">read more</a></strong>
 </p>
 </td>
 </tr>
