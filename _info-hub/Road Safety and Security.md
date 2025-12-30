@@ -152,7 +152,7 @@ meet your children.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.30 am - 7.30 am
-<br>1.30 pm - 2.00 pm
+<br>1.30 pm - 2.30 pm
 <br>3.45 pm - 4.45 pm</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -165,7 +165,7 @@ meet your children.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.30 am - 7.30 am
-<br>1.30 pm - 2.00 pm
+<br>1.30 pm - 2.30 pm
 <br>4.00 pm - 4.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
