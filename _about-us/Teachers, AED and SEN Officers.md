@@ -4,7 +4,7 @@ permalink: /about-us/teachers-aed-and-sen-officers/
 description: ""
 variant: tiptap
 ---
-<h4><strong>2025 Primary 1 Form Teachers</strong></h4>
+<h4><strong>2026 Primary 1 Form Teachers</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -245,7 +245,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>2025 Primary 2 Form Teachers</strong></h4>
+<h4><strong>2026 Primary 2 Form Teachers</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -475,7 +475,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>2025 Primary 3 Form Teachers</strong></h4>
+<h4><strong>2026 Primary 3 Form Teachers</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -683,7 +683,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>2025 Primary 4 Form Teachers</strong></h4>
+<h4><strong>2026 Primary 4 Form Teachers</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -902,7 +902,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>2025 Primary 5 Form Teachers</strong></h4>
+<h4><strong>2026 Primary 5 Form Teachers</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1099,7 +1099,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>2025 Primary 6 Form Teachers</strong></h4>
+<h4><strong>2026 Primary 6 Form Teachers</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1285,7 +1285,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>2025 Non-Form Teachers</strong></h4>
+<h4><strong>2026 Non-Form Teachers</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1485,7 +1485,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>2025 Allied Educators</strong></h4>
+<h4><strong>2026 Allied Educators</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1503,17 +1503,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Email address</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior AED (T&amp;L)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lee Li Peng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee_li_peng@moe.edu.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
