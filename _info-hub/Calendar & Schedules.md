@@ -23,7 +23,7 @@ variant: tiptap
 <p>Calendar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1
+<p><a href="https://drive.google.com/drive/folders/1NvFx2Lbs4W-ya_R9KnV6Pejjo2rGJ-u_?usp=sharing" rel="noopener nofollow" target="_blank">Calendar</a>
 <br>Term 2
 <br>Term 3
 <br>Term 4</p>
@@ -34,7 +34,7 @@ variant: tiptap
 <p>After-School Activities Schedule</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Semester 1
+<p><a href="https://drive.google.com/file/d/1NkN0NGX0VzyTDyQ5PTqr95Ct7M9wtx9A/view?usp=sharing" rel="noopener nofollow" target="_blank">Semester 1</a>
 <br>Semester 2</p>
 </td>
 </tr>
@@ -51,4 +51,4 @@ variant: tiptap
 </table>
 <p></p>
 <p></p>
-<p>Page last updated: 8 December 2025</p>
+<p>Page last updated: 31 December 2025</p>
