@@ -61,4 +61,16 @@ netball carnivals, and</p>
 <br>National School Games (Senior Division) League Round (League 3) - 2nd
 <br>National School Games (Junior Division) Pool Round (Group C) - 3rd
 <br>National School Games (Junior Division) Tiered Round (Tier 3) - 1st</p>
-<p>Page last updated on: 4 December 2025</p>
+<p><strong>Schedule</strong>
+</p>
+<p><strong><u>Mondays<br></u></strong>4 p.m. to 5.30 p.m. (NSG School Team)</p>
+<p><strong><u>Thursdays</u></strong>
+</p>
+<p>2 p.m to 4 p.m (School &amp; Development Team)</p>
+<p><strong>CCA teachers</strong>
+</p>
+<p>1.&nbsp; &nbsp; &nbsp; I/C: Mdm Hamidah Bte Abdul Hamid
+<br>2.&nbsp; &nbsp; &nbsp; 2 I/C: Ms Ong Shi Hui
+<br>3.&nbsp; &nbsp; &nbsp; Ms Tay Hwee Hoon
+<br>4.&nbsp; &nbsp; &nbsp; Mdm Priscilla Ho Shi Shee</p>
+<p>Page last updated on: 3 January 2026</p>
