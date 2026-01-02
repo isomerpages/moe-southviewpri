@@ -43,4 +43,23 @@ every image speaks, and every student has a unique voice worth sharing.</p>
 <p>Participation in Read for Books 2025 organized by NLB</p>
 </li>
 </ul>
+<p><strong>Schedule</strong>
+</p>
+<p><strong><u>Thursdays</u></strong>
+</p>
+<p>2.00 p.m. to 4.00 p.m.
+<br>*Please refer to the respective CCA Welcome Letter for the full schedule
+of dates.</p>
+<p><strong>CCA Teachers</strong>
+</p>
+<p>1.&nbsp; &nbsp; &nbsp; I/C: Mdm Widyawati Bte Mudai
+<br>2.&nbsp; &nbsp; &nbsp;2 I/C: Mdm Hanita Bte Abdul Aziz
+<br>3.&nbsp; &nbsp; &nbsp;Ms Tang Mei Fong
+<br>4.&nbsp; &nbsp; &nbsp;Ms Lee Hui Zhi
+<br>5.&nbsp; &nbsp; &nbsp;Mdm Majeena Rosia d/o Abdullah
+<br>6.&nbsp; &nbsp; &nbsp;Mdm Mastura Bte Mohamed Yusoff
+<br>7.&nbsp; &nbsp; Ms Sarmila Sri D/O Srideran&nbsp;</p>
+<p>
+<br>
+</p>
 <p>Page last updated on: 4 December 2025</p>

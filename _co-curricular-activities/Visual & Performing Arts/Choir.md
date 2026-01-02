@@ -38,4 +38,18 @@ to bring joy to others, reinforce the spirit of service and gratitude</p>
 </p>
 <p>2024 - SYF Arts Presentation - Distinction
 <br>2025 - Singapore International Choral Festival - Silver</p>
+<p><strong>Schedule</strong>
+</p>
+<p><strong><u>Mondays<br></u></strong> 4.00 p.m. to 5.30 p.m</p>
+<p><strong><u>Thursdays</u></strong>
+</p>
+<p>2.00 p.m to 4.00 p.m</p>
+<p>Please refer to the respective CCA Welcome Letter for the full schedule
+of dates.&nbsp;</p>
+<p><strong>CCA Teachers</strong>
+</p>
+<p>1.&nbsp; &nbsp; &nbsp; I/C: Ms Choy Yong En Carene
+<br>2.&nbsp; &nbsp; &nbsp; 2 I/C: Mrs Woo Mun Lan
+<br>3.&nbsp; &nbsp; &nbsp; Mdm Ou Wen Lien
+<br>4.&nbsp; &nbsp; &nbsp; Ms Kelly Ng Mui Yin</p>
 <p>Page last updated on: 5 December 2025</p>

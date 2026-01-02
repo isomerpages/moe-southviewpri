@@ -53,4 +53,33 @@ skills to inspire and uplift both the young and the young at heart.</p>
 <br>Indian Dance - Accomplished
 <br>Malay Dance - Distinction
 <br>Chinese Dance - Distinction</p>
-<p>Page last updated on: 5 December 2025</p>
+<p><strong>Schedule</strong>
+</p>
+<p><strong><u>Mondays<br></u></strong> 4.00 p.m. to 5.30 p.m (SYF Preparation
+Training)</p>
+<p><strong><u>Thursdays</u></strong>
+</p>
+<p>2.00 p.m to 5.00 p.m</p>
+<p>Please refer to the respective CCA Welcome Letter for the full schedule
+of dates.&nbsp;</p>
+<p><strong><u>CCA Teachers</u></strong>
+</p>
+<p><strong><u>Chinese Genre</u></strong>
+</p>
+<ol>
+<li>
+<p>OIC: Choung Hui Ming</p>
+</li>
+</ol>
+<p>2.&nbsp; &nbsp; &nbsp;2 I/C: Mdm New Chye Fong&nbsp;</p>
+<p>3. &nbsp; &nbsp; Mdm Liang Xuexia</p>
+<p>4. &nbsp; &nbsp; Ms Jiao Yu Jie</p>
+<p><strong><u>India Genre</u></strong>
+</p>
+<p>1.&nbsp; &nbsp; 2 I/C: Mdm Vjaya Lashmi</p>
+<p>2.&nbsp; &nbsp; Ms Teo Wee Sim</p>
+<p><strong><u>Malay Genre</u></strong>
+</p>
+<p>1.&nbsp; &nbsp; &nbsp; 2 I/C: Mdm Norzelawati Binte Shariff</p>
+<p>2. &nbsp; &nbsp; Mdm Haslinda Bte Othman</p>
+<p>Page last updated on: 2 January 2026</p>

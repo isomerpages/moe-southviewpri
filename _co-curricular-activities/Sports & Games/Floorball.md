@@ -55,6 +55,13 @@ Round Champions
 Round 3rd Place</p>
 <p><strong><u>Schedule</u></strong>
 <br><u>Thursdays</u>
-<br>2.00 p.m. to 5.00 p.m.</p>
-<p></p>
-<p>Page last updated on: 3 December 2025</p>
+<br>2.00 p.m. to 4.00 p.m.</p>
+<p>&nbsp;*Please refer to the respective CCA Welcome Letter for the full
+schedule of dates.</p>
+<p><strong>CCA Teachers</strong>
+</p>
+<p>1.&nbsp; &nbsp; &nbsp; I/C: Mdm Siti Raudhah Bte Yusof
+<br>2.&nbsp; &nbsp; &nbsp; 2 I/C: Ms Kek Chiew Ching
+<br>3.&nbsp; &nbsp; &nbsp; Mdm Nafisah Nurraudhah
+<br>4.&nbsp; &nbsp; &nbsp; Mdm Anthea Chua</p>
+<p>Page last updated on: 2 January 2026</p>

@@ -117,4 +117,15 @@ the younger ones.</p>
 <p>BB Adventure Quest - Participation</p>
 </li>
 </ul>
-<p>Page last updated on: 4 December 2025</p>
+<p><strong>Schedule</strong>
+</p>
+<p><strong><u>Thursdays</u></strong>
+</p>
+<p>2.00 p.m. to 4.00 p.m.
+<br>*Please refer to the respective CCA Welcome Letter for the full schedule
+of dates.</p>
+<p><strong>CCA teachers</strong>
+</p>
+<p>1.&nbsp; &nbsp; &nbsp; I/C: Mr Nicholas Khor
+<br>2.&nbsp; &nbsp; &nbsp; 2 I/C: Ms Ong Shi Qi Denise</p>
+<p>Page last updated on: 2 December 2026</p>

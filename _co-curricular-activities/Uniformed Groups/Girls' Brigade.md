@@ -78,4 +78,15 @@ where they engage with and serve the communities in the neighbourhood.</p>
 <p>The Girls’ Brigade Company Award 76<sup>th</sup> P Bronze</p>
 </li>
 </ul>
-<p>Page last updated on: 4 December 2025</p>
+<p><strong>Schedule</strong>
+</p>
+<p><strong><u>Thursdays</u></strong>
+</p>
+<p>2.00 p.m. to 4.00 p.m.
+<br>*Please refer to the respective CCA Welcome Letter for the full schedule
+of dates.</p>
+<p><strong>CCA teachers</strong>
+</p>
+<p>1. &nbsp; I/C: Mrs Ser-Goh Siew Ngor
+<br>2. &nbsp;2IC: Mdm Lee Yin Ping</p>
+<p>Page last updated on: 2 January 2026</p>

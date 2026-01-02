@@ -31,4 +31,18 @@ players.</p>
 </div>
 <p><strong>Achievements (2025-2024)</strong>
 <br>2024 - SYF Arts Presentations - Accomplished</p>
-<p>Page last updated on: 5 December 2025</p>
+<p><strong>Schedule</strong>
+</p>
+<p><strong><u>Mondays<br></u></strong> 4.00 p.m. to 5.30 p.m</p>
+<p><strong><u>Thursdays</u></strong>
+</p>
+<p>2.00 p.m to 4.00 p.m</p>
+<p>Please refer to the respective CCA Welcome Letter for the full schedule
+of dates.</p>
+<p><strong>CCA Teachers</strong>
+</p>
+<p>1.&nbsp; &nbsp; &nbsp; I/C: Mr Tan Wei Da
+<br>2.&nbsp; &nbsp; &nbsp; 2 I/C: Ms Yu Naishan
+<br>3.&nbsp; &nbsp; &nbsp; Mdm Guo Wei
+<br>4.&nbsp; &nbsp; &nbsp; Mdm Liu Yun&nbsp;&nbsp;</p>
+<p>Page last updated on: 2 January 2026</p>

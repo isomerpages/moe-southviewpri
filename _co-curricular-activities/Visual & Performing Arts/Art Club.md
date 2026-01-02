@@ -18,7 +18,7 @@ the SYF exhibition, museum learning journey and community involvement programmes
 also serves to enrich and broaden their experience.</p>
 <p><strong>Main Activities</strong>
 </p>
-<p><u>Media and techniques </u>
+<p><u>Media and techniques</u>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -89,4 +89,17 @@ Award
 <br>2024: Fo Guang Shan Art Competition 2024 - Erin Ee (3 Acts of Goodness
 Award)
 <br>2024: SOTA Primary 6 Art Competition - Avery Johannes Tan (Top 50 Winner)</p>
-<p>Page last updated on: 4 December 2025</p>
+<p><strong>Schedule</strong>
+</p>
+<p><strong><u>Thursdays</u></strong>
+</p>
+<p>2.00 p.m. to 4.00 p.m.
+<br>*Please refer to the respective CCA Welcome Letter for the full schedule
+of dates.</p>
+<p><strong>CCA Teachers</strong>
+</p>
+<p>1.&nbsp; &nbsp; &nbsp; I/C: Ms Zurainah Binte Ahmid
+<br>2.&nbsp; &nbsp; &nbsp; 2 I/C: Mdm Rosnah Bte Rabu
+<br>3.&nbsp; &nbsp; &nbsp; Mrs Low Siew Peng
+<br>4.&nbsp; &nbsp; &nbsp; Ms Tan Si Yun</p>
+<p>Page last updated on: 2 January 2026</p>
