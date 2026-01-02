@@ -24,16 +24,18 @@ National Robotics Competition, demonstrating innovation and teamwork in
 action.</p>
 <p>The Robotics Club embodies the spirit of young innovators — building the
 future, one robot at a time.</p>
-<p></p>
-<p><strong><u>Teachers-in-charge</u></strong>
+<p><strong>Schedule</strong>
 </p>
-<p>Mdm Neo Soh Eng Pamela
-<br>Mr Ting Ming Chong, Nicholas
-<br>Mr Murad B Mohamad Taha
-<br>Mdm Chua Sze Ling
-<br>Mdm Wang Wei</p>
-<p><strong><u>Schedule</u></strong>
+<p><strong><u>Thursdays</u></strong>
 </p>
-<p><u>Thursdays</u>
-<br>2.00 p.m. to 4.00 p.m.</p>
-<p>Page last updated on: 10 November 2025</p>
+<p>2.00 p.m. to 4.00 p.m.
+<br>*Please refer to the respective CCA Welcome Letter for the full schedule
+of dates.</p>
+<p><strong>CCA Teachers</strong>
+</p>
+<p>1.&nbsp; &nbsp; &nbsp; I/C: Mrs Neo Soh Eng Pamela
+<br>2.&nbsp; &nbsp; &nbsp; 2 I/C: Mr Quek Joo Hin Eddie
+<br>3.&nbsp; &nbsp; &nbsp; Mr Nicholas Ting Ming Chong
+<br>4.&nbsp; &nbsp; &nbsp; Mr Murad Mohamad Taha
+<br>5.&nbsp; &nbsp; &nbsp; Mdm Wang Wei</p>
+<p>Page last updated on: 2 January 2026</p>
