@@ -42,10 +42,10 @@ invite all parents, alumni and community partners to join us in these celebratio
 as your support is integral to making this milestone a memorable and meaningful
 one. More details will follow in our school notifications and school website,
 and we look forward to celebrating with you!</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Email_banner.jpg">
-</div>
 <p>Your partner-in-education
 <br>Miss Ang Mui Khoong
 <br>Principal</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Email_banner.jpg">
+</div>
+<p></p>
