@@ -4,56 +4,48 @@ permalink: /about-us/message-for-school-website-2025/
 description: ""
 variant: tiptap
 ---
-<p>Let me start off my 2025 message with a short story. A boy who has always
-loved going to school started making excuses such as “headache” and “stomachache”
-to not go to school for a few days within a week. His mother thought it
-was unusual of him and made a trip to the school to look for his form teacher
-to find out if anything had happened to the boy recently. Only then did
-the mother find out from the school that the boy’s form teacher Mr Hong
-had been seriously ill and warded in hospital for the past month. The mother
-went back home, sat the boy down and asked him “Are you worried for Mr
-Hong?” The boy looked up at his mother solemnly and tears flowed uncontrollably.
-“Yes, he was one teacher who really cared for me.”
-<br>
-<br>Urie Bronfenbrenner, a Russian-born American psychologist once said “Every
-child needs at least one adult who is irrationally crazy about him or her.”
-The love and care of this teacher for the boy and vice-versa is something
-that we hope to embrace our children in, here at South View Primary School.
-Only when our Southviens feel loved and cared for, can they find motivation
-and joy in learning.
-<br>
-<br>How about our educators? Our Minister for Education, Mr Chan Chun Sing
-highlighted in his 2024 MOE Workplan Seminar speech that quality teachers
-are the key to our education system, and it is important that we develop
-our people and create time and space for them to grow in their profession.
-We engender respect, so that our teachers are refreshed, and can better
-take care of our students.&nbsp;With the shared goal of raising a happy,
-confident and kind generation together, the three focus areas within the
-refreshed Guidelines for School-Home Partnership (Respectful Communication,
-Role Models and Real Connections) provide a common frame for parents and
-educators to align their needs and expectations for each other and to work
-towards a positive culture of partnerships.
-<br>
-<br>Before the start of the end-of-year vacation in 2024, I challenged my
-colleagues to think about “What is one thing I want to try or do differently
-next year (2025)?” Only when we are open to embrace a dare-to-try mindset,
-can we hone new skillsets to better connect with and guide our Southviens
-to develop a Growth Mindset, Executive Functioning Skills as well as the
-21st century competencies necessary for them to thrive and be future-ready.
-For you, parents, our cheerleaders of Southviens at home, MOE has also
-developed the <a href="https://file.go.gov.sg/pfw-toolbox-for-parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Parenting for Wellness toolbox</a>,
-packed with practical tips for parents to strengthen children’s mental
-well-being and emotional resilience and enable more effective parenting
-in this digital age. We will also be sharing snippets of these tips in
-our monthly school notifications in 2025, do keep a lookout for it.
-<br>
-<br>A new year is a time for fresh starts for your child – new class, new
-friends, new challenges and learning opportunities! To our cherished family
-of Southviens, alumni, parents, and local community, your engagement and
-support are invaluable. Let us continue to work hand in hand, shaping possibilities
-together to cultivate a generation of Southviens, who are passionate learners
-with a heart to serve, reflective and rooted in core values.
-<br>
-<br>Your partner-in-education
+<p>Welcome back to a brand-new school year, filled with new beginnings, new
+adventures and learning opportunities for Southviens. At South View, we
+aspire to develop Passionate Learners with a Heart to Serve, through inspiring
+their young minds, holding the space for their curiosity and moulding their
+characters to be a gracious and humble future generation.</p>
+<p>In this volatile world that we are living in today, we are facing many
+challenges brought on by geopolitical shifts, revolutionising technology
+and even climate changes. The future will bring many changes that we cannot
+foresee today. However, we can embrace these challenges by making the most
+of new opportunities and to do so, developing independence and fostering
+a sense of agency in our young children is important.&nbsp;As our children
+learn to complete tasks and make decisions without constant help and guidance
+from trusted adults, they develop self-efficacy and confidence in their
+abilities to learn, grow and contribute to others.&nbsp;As they are continually
+motivated to positively influence their own lives and the world around
+them, our children will grow to lead a meaningful and purposeful life,
+which keeps them anchored in core values, regardless of the new realities
+the future may bring.</p>
+<p>In school, we will continue to incorporate opportunities for our Southviens
+to demonstrate their student agency and independence through our daily
+lived experiences and signature school programmes. We also value our Home-School
+Partnership to raise a “Happy, Kind and Confident Generation Together”.
+Let us maintain respectful communications between educators and parents,
+role-model the skills and values our children need to learn and foster
+real connections through building bonds to support the emotional and mental
+wellbeing of our children.</p>
+<p>In 2026, we celebrate our school’s 80<sup>th</sup> anniversary – “Celebrating
+Memories, Creating Dreams”, a milestone that reflects decades of learning,
+growth and character building as a community, from Nam San School and Ama
+Keng School, and finally merging into South View Primary School in 1990.
+To commemorate this very special occasion, we have refreshed several learning
+spaces to showcase the school’s rich history and incorporated new elements
+to enrich students’ learning experiences and also planned for a series
+of celebrations aligned to our SV80 theme throughout the year. We warmly
+invite all parents, alumni and community partners to join us in these celebrations,
+as your support is integral to making this milestone a memorable and meaningful
+one. More details will follow in our school notifications and school website,
+and we look forward to celebrating with you!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Email_banner.jpg">
+</div>
+<p>Your partner-in-education
 <br>Miss Ang Mui Khoong
 <br>Principal</p>
