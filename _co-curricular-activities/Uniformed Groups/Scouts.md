@@ -30,6 +30,10 @@ in Scouting skills (Progress badges), personal skills (Proficiency badges),
 as well as commemorative badges for key area events (such as campfires,
 hikes, or Founders Day celebrations). Hence, they have the opportunity
 to interact beyond their pack.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Scouts.png">
+</div>
 <p><strong>Achievements (2025-2024)</strong>
 </p>
 <p>2023 - Frank Cooper Sands Best Unit Award
