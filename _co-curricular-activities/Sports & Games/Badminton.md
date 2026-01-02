@@ -65,8 +65,8 @@ to participate in the yearly National School Games.</p>
 </ul>
 <p><strong>Schedule</strong>
 </p>
-<p><strong><u>Mondays<br></u></strong> 4.00 p.m. to 6.00 p.m. (Girls Team)</p>
-<p><strong><u>Thursdays<br></u></strong> a) 2.00 p.m. to 3.00 p.m. (Girls
+<p><strong><u>Mondays<br></u></strong>4.00 p.m. to 6.00 p.m. (Girls Team)</p>
+<p><strong><u>Thursdays<br></u></strong>a) 2.00 p.m. to 3.00 p.m. (Girls
 Team)
 <br>b) 3.00 p.m. to 6.00 p.m. (Boys Team)
 <br>c) 2.00 p.m. to 4.00 p.m. (Development Team)</p>
