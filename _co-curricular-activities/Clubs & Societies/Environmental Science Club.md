@@ -22,4 +22,19 @@ an appreciation for Science.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Environmental_Science_Club.png">
 </div>
-<p>Page last updated on: 4 December 2025</p>
+<p><strong>Schedule</strong>
+</p>
+<p><strong><u>Thursdays</u></strong>
+</p>
+<p>2.00 p.m. to 4.00 p.m.
+<br>*Please refer to the respective CCA Welcome Letter for the full schedule
+of dates.</p>
+<p><strong>CCA Teachers</strong>
+</p>
+<p>1.&nbsp; &nbsp; &nbsp; I/C: Mrs Tan Pei Fen
+<br>2.&nbsp; &nbsp; &nbsp; 2 I/C: Mdm Sharifah Marziana
+<br>3.&nbsp; &nbsp; &nbsp; Mrs Sylvia Loo-Teo Gee Hua
+<br>4.&nbsp; &nbsp; &nbsp; Mdm Goh Dishi
+<br>5.&nbsp; &nbsp; &nbsp; Mdm Noor Azlinah Binte Abdul Aziz
+<br>6.&nbsp; &nbsp; &nbsp; Mdm Cheong Qi Li&nbsp;&nbsp;&nbsp;</p>
+<p>Page last updated on: 2 January 2026</p>
