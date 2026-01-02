@@ -127,6 +127,10 @@ National</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Robotics.png">
+</div>
 <p><strong>Achievements</strong>
 </p>
 <p>2024 National Game and Coding Hackathon
