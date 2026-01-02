@@ -63,4 +63,20 @@ to participate in the yearly National School Games.</p>
 <p>Junior Girls Champion (Tier 3 and 4)</p>
 </li>
 </ul>
+<p><strong>Schedule</strong>
+</p>
+<p><strong><u>Mondays<br></u></strong> 4.00 p.m. to 6.00 p.m. (Girls Team)</p>
+<p><strong><u>Thursdays<br></u></strong> a) 2.00 p.m. to 3.00 p.m. (Girls
+Team)
+<br>b) 3.00 p.m. to 6.00 p.m. (Boys Team)
+<br>c) 2.00 p.m. to 4.00 p.m. (Development Team)</p>
+<p>*Please refer to the respective CCA Welcome Letter for the full schedule
+of dates.</p>
+<p><strong>CCA Teachers</strong>
+</p>
+<p>1. Ms Ng Shi Ting Metis
+<br>2. Mdm Boey Kah Lai
+<br>3. Mrs Lim-Goh Kheen Yong
+<br>4. Mdm See Lina
+<br>5. Siti Aisyah bte Waris</p>
 <p>Page last updated on: 3 December 2025</p>
