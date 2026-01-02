@@ -29,4 +29,19 @@ exemplary sportsman exhibiting good character and values.</p>
 <p><strong>2024</strong>
 <br>National School Games (Senior Division) Pool Round (Group C) - 6th
 <br>National School Games (Junior Division) Tiered Round 3 - 2nd</p>
-<p>Page last updated on: 4 December 2025</p>
+<p><strong>Schedule</strong>
+</p>
+<p><strong><u>Mondays<br></u></strong> 4.00 p.m. to 5.30 p.m. (School Team)</p>
+<p><strong><u>Thursdays</u></strong>
+</p>
+<p>2.45 p.m to 5.15 p.m (School &amp; Development Team)</p>
+<p>*CCA training will be conducted at SAFRA CCK in Semester 1. Please refer
+to the respective CCA Welcome Letter for the full schedule of dates.</p>
+<p><strong>CCA Teachers</strong>
+</p>
+<p>1.&nbsp; &nbsp; &nbsp; I/C: Mr Nur Ismadi Bte Mohd Esa
+<br>2.&nbsp; &nbsp; &nbsp;2IC: Mr James Lee Kim Joo
+<br>3.&nbsp; &nbsp; &nbsp;Mr Isaac Francis
+<br>4. &nbsp; &nbsp; Ms Shafeeka Aine</p>
+<p>
+<br>Page last updated on: 3 January 2026</p>
