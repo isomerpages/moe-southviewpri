@@ -12,9 +12,6 @@ sections:
         - title: Our Co Curricular Activities
           description: ""
           url: https://www.southviewpri.moe.edu.sg/co-curricular-activities/
-        - title: 2026 P1 orientation and on boarding
-          description: ""
-          url: /2026-p1-orientation-and-on-boarding/
         - title: Our School Notification
           description: ""
           url: https://www.southviewpri.moe.edu.sg/info-hub/school-notification/
