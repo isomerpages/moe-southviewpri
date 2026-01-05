@@ -17,7 +17,7 @@ start. Our holistic curriculum and programmes nurture children’s confidence,
 social skills, bilingualism and build a good foundation in literacy and
 numeracy.</p>
 <p>At the physical Open House, parents are welcomed to tour the learning
-environment and speak to the MK Educators in person. To find out more on
-the MK website (<a href="http://www.moe.gov.sg/mk" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/mk</a>).
-We look forward to seeing you!</p>
+environment and speak to the MK Educators in person. MK Open House details
+will be announced at later date. To find out more on the MK website (
+<a href="http://www.moe.gov.sg/mk" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/mk</a>).</p>
 <p></p>
