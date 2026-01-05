@@ -5,8 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: MK@South View (MK@SV)
 ---
-<p></p>
-<p></p>
 <p><strong><u>MOE Kindergarten Open House &amp; Registration Exercise</u></strong>
 </p>
 <p>Are you looking for a quality and affordable kindergarten programme for
