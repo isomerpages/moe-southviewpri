@@ -11,29 +11,13 @@ care services for children who have enrolled for the full-day services.</p>
 <p>For enquiries, kindly get in touch with EduSMART Learning Hub at:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Contact Person:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Ms Shiva (KCare Supervisor)/Ms Latha (Senior Programme Staff)</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Email:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="mailto:southview_kcareops@singaporeedusmart.edu.sg" rel="noopener noreferrer nofollow" target="_blank">southview_kcareops@singaporeedusmart.edu.sg</a>
+<p>Email:
+<br><a href="mailto:southview_kcareops@singaporeedusmart.edu.sg" rel="noopener noreferrer nofollow" target="_blank">southview_kcareops@singaporeedusmart.edu.sg</a>
 </p>
 </li>
-</ul>
-</li>
 <li>
-<p>Phone:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>9295 1386</p>
-</li>
-</ul>
+<p>Phone:
+<br>9295 1386</p>
 </li>
 </ul>
 <p></p>
