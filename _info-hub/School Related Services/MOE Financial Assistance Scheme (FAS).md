@@ -87,9 +87,9 @@ contact the school’s General Office at 6769 7176.</p>
 <p>Families with students on MOE Financial Assistance Scheme can get subsidies
 for home Wi-Fi, plus a laptop or tablet.
 <br>For comprehensive details about the subsidies, eligibility criteria and
-to submit your application, please visit the IMDA website at <a rel="noopener noreferrer nofollow" target="_blank">https://www.imda.gov.sg/dah</a>
+to submit your application, please visit the IMDA website at <a href="https://www.imda.gov.sg/dah" rel="noopener noreferrer nofollow" target="_blank">https://www.imda.gov.sg/dah</a>
 <br>For more information, you may view the informative 3-minute explainer
-video at <a rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/A8vGvbk7GhQ?si=nqoa3Bdtzv9-jtLY</a>.
+video at <a href="https://youtu.be/A8vGvbk7GhQ?si=nqoa3Bdtzv9-jtLY" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/A8vGvbk7GhQ?si=nqoa3Bdtzv9-jtLY</a>.
 <br>Should you require further assistance, please feel free to contact IMDA
-at <a rel="noopener noreferrer nofollow" target="_blank">digitalaccess@imda.gov.sg</a>,
-6377 3800 or via Live Chat (Ask Codi) on <a rel="noopener noreferrer nofollow" target="_blank">https://www.imda.gov.sg/dah</a>.</p>
+at <a href="mailto:digitalaccess@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">digitalaccess@imda.gov.sg</a>,
+6377 3800 or via Live Chat (Ask Codi) on <a href="https://www.imda.gov.sg/dah" rel="noopener noreferrer nofollow" target="_blank">https://www.imda.gov.sg/dah</a>.</p>
