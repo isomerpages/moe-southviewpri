@@ -157,7 +157,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SAT</p>
+<p>AED Admin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Li Peng</p>
