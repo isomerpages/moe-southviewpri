@@ -157,6 +157,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>SAT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Li Peng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lee_li_peng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>OSO</p>
 </td>
 <td rowspan="1" colspan="1">
