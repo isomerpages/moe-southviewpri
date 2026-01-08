@@ -74,8 +74,8 @@ Team)
 of dates.</p>
 <p><strong>CCA Teachers</strong>
 </p>
-<p>1. Ms Ng Shi Ting Metis
-<br>2. Mdm Boey Kah Lai
+<p>1. I/C Ms Ng Shi Ting Metis
+<br>2. 2 I/C Mdm Boey Kah Lai
 <br>3. Mrs Lim-Goh Kheen Yong
 <br>4. Mdm See Lina
 <br>5. Siti Aisyah bte Waris</p>
