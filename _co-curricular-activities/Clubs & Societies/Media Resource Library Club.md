@@ -12,23 +12,47 @@ variant: tiptap
 <p>In our dynamic Library &amp; Media Club, students discover the powerful
 synergy between storytelling and visual communication. This unique CCA
 transforms enthusiastic beginners into confident communicators who can
-both craft compelling narratives and capture them through stunning visuals.</p>
-<p>Our pupil librarians develop public speaking skills through engaging book-talks,
-creative presentation design, and script writing for school assemblies.
-They inspire reading habits among peers while building confidence. Meanwhile,
-Media Club members embrace the philosophy that "skill in photography is
-acquired by practice and not by purchase," mastering composition, lighting,
-and video production through hands-on experience.</p>
-<p>The magic happens when these two groups collaborate during major school
-events, commemorations and festivities—where librarians create engaging
-content while media members capture these precious moments. Students participate
-in local and international competitions, building resilience and technical
-expertise along the way.</p>
-<p>Through real-world applications and service to the school community, our
-members graduate as well-rounded leaders equipped with presentation skills,
-technical expertise, and creative vision. They learn that every story matters,
-every image speaks, and every student has a unique voice worth sharing.</p>
-<p></p>
+both craft compelling narratives and capture them through stunning visuals.
+Our students serve the school community by contributing meaningfully to
+key events and commemorations, growing into confident, well-rounded leaders
+who believe that every story matters and every voice deserves to be heard.</p>
+<p><strong>Main Activities</strong>
+</p>
+<p><strong>Communication &amp; Collaboration</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Conduct book talks and storytelling sessions to engage audiences and promote
+a strong reading culture</p>
+</li>
+<li>
+<p>Plan and support large-scale school events such as the Reading Fiesta
+and Character Parade through teamwork and shared roles</p>
+</li>
+</ul>
+<p><strong>Critical &amp; Inventive Thinking</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Design creative presentations, scripts, and narratives for events and
+assemblies</p>
+</li>
+<li>
+<p>Apply imaginative thinking to storytelling, thematic displays, and event
+content creation</p>
+</li>
+</ul>
+<p><strong>Information, Media &amp; Digital Literacy</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Capture and curate moments from events such as the Reading Fiesta and
+Character Parade through photography and video production</p>
+</li>
+<li>
+<p>Apply media skills responsibly to communicate messages clearly and effectively</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Library.png">
 </div>
