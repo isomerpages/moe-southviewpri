@@ -116,7 +116,7 @@ to Friday between 2.00pm to 3.00pm ONLY.</p>
 <br>Tuesday - Thursday : 8 am to 5.30pm
 <br>Lunch: 1-2pm
 <br>
-<br><a href="https://drive.google.com/file/d/1PQxYFAvnXz2ZX56BGWW-F5Xj2rQ8IuDJ/view?usp=drive_link" rel="noopener" target="_blank">"Dental Schedule"</a>
+<br><a href="https://drive.google.com/file/d/1dMrPc6uZ0f3iDO1EEOvdla1UK2x5oq6r/view?usp=sharing" rel="noopener" target="_blank">"Dental Schedule"</a>
 <br>
 <br>In the event of dental emergencies such as trauma (broken tooth/knocked
 out), facial/gum swelling or severe toothache please contact School dental
