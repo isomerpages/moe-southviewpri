@@ -358,6 +358,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Subject Head
+<br>HAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chew Yin Mui Angelia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chew_yin_mui@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Assistant Year Head / P1</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -481,6 +493,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>cheong_may_ling_karen@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher
+<br>Music</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Choy Yong En Carene</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>choy_yong_en_carene@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
