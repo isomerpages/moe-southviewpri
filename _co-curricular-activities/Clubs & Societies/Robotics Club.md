@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: tiptap
 ---
+<p><strong>Objectives</strong>
+</p>
 <p>In the Robotics Club, our creative, inquisitive and passionate young innovators
 are driven by a desire to explore the latest advancements in robotics technology
 that contribute positively to the environment and humankind.</p>
