@@ -96,18 +96,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Head of Department
-<br>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm M'chelle Chan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>mchelle_chan_kim_hong@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Department
 <br>Mother Tongue Languages</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -147,10 +135,10 @@ variant: tiptap
 <br>Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jaelyn Lau Yu Xuan</p>
+<p>Mdm Nor Hazilah Bte Hasan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lau_yu_xuan@moe.edu.sg</p>
+<p>nor_hazilah_hasan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -370,7 +358,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head / P2</p>
+<p>Subject Head
+<br>HAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chew Yin Mui Angelia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chew_yin_mui@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head / P1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chong Yu Pei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chong_yu_pei@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head / P3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Daphne Ng-Heng Pei Li</p>
@@ -381,18 +392,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head / P3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Angelia Chew Yin Mui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chew_yin_mui@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head / P5</p>
+<p>Assistant Year Head / P6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Koh-Chan Yee Ling</p>
@@ -493,6 +493,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>cheong_may_ling_karen@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher
+<br>Music</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Choy Yong En Carene</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>choy_yong_en_carene@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
