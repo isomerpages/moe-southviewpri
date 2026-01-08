@@ -63,9 +63,8 @@ or Performing Arts, or Clubs &amp; Societies.</p>
 </table>
 <p></p>
 <h4><strong><u>Sports &amp; Games</u></strong></h4>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -77,11 +76,6 @@ or Performing Arts, or Clubs &amp; Societies.</p>
 <p><strong>Badminton</strong>
 </p>
 <p><a href="https://www.southviewpri.moe.edu.sg/co-curricular-activities/badminton/" rel="noopener nofollow" target="_blank">read more</a>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Basketball</p>
-<p><a href="https://www.southviewpri.moe.edu.sg/co-curricular-activities/basketball/" rel="noopener nofollow" target="_blank">read more</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
