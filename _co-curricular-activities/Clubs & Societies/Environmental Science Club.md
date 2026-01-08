@@ -18,7 +18,22 @@ in learning journeys. Through these activities and interaction, we aim
 to provide the platform for building personal character and fostering interpersonal
 skills and strengthen the creative and innovative spirit, as well as promote
 an appreciation for Science.</p>
-<p></p>
+<p><strong>Main Activities</strong>
+</p>
+<ul>
+<li>
+<p>STEM challenges</p>
+</li>
+<li>
+<p>Research and presentations&nbsp;</p>
+</li>
+<li>
+<p>Upcycling projects</p>
+</li>
+<li>
+<p>Learning journeys&nbsp;</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Environmental_Science_Club.png">
 </div>
