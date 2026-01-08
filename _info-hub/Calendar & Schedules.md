@@ -51,4 +51,4 @@ variant: tiptap
 </table>
 <p></p>
 <p></p>
-<p>Page last updated: 31 December 2025</p>
+<p>Page last updated: 8 January 2026</p>
