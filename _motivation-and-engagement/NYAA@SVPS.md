@@ -1,6 +1,6 @@
 ---
 title: NYAA@SVPS
-permalink: /student-development/nyaa-svps/
+permalink: /motivation-and-engagement/nyaa-svps/
 variant: tiptap
 description: ""
 ---

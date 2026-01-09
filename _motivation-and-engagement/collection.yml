@@ -1,0 +1,6 @@
+collections:
+  motivation-and-engagement:
+    output: true
+    order:
+      - Student Leadership @ SVPS.md
+      - NYAA@SVPS.md

@@ -1,6 +1,6 @@
 ---
 title: Student Leadership @ SVPS
-permalink: /co-curricular-activities/student-leadership-svps/
+permalink: /motivation-and-engagement/student-leadership-svps/
 description: ""
 variant: tiptap
 ---
