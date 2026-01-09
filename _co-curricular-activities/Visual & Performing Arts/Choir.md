@@ -43,7 +43,7 @@ to bring joy to others, reinforce the spirit of service and gratitude</p>
 <p><strong><u>Mondays<br></u></strong> 4.00 p.m. to 5.30 p.m</p>
 <p><strong><u>Thursdays</u></strong>
 </p>
-<p>2.00 p.m to 4.00 p.m</p>
+<p>2.00 p.m to 5.00 p.m</p>
 <p>Please refer to the respective CCA Welcome Letter for the full schedule
 of dates.&nbsp;</p>
 <p><strong>CCA Teachers</strong>
