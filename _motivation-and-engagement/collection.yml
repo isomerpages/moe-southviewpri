@@ -1,4 +1,5 @@
 collections:
   motivation-and-engagement:
     output: true
-    order: []
+    order:
+      - Student Leadership @ SVPS.md
