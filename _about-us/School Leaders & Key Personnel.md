@@ -206,10 +206,10 @@ variant: tiptap
 <br>Upper Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Farzila Anuar</p>
+<p>&nbsp;Mrs Yip-Leow Eng Bee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>farzila_fikri@moe.edu.sg</p>
+<p>leow_eng_bee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -218,10 +218,10 @@ variant: tiptap
 <br>Middle Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Mrs Yip-Leow Eng Bee</p>
+<p>Mrs Farzila Anuar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>leow_eng_bee@moe.edu.sg</p>
+<p>farzila_fikri@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
