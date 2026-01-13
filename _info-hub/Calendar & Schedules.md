@@ -23,10 +23,14 @@ variant: tiptap
 <p>Calendar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/1NvFx2Lbs4W-ya_R9KnV6Pejjo2rGJ-u_?usp=sharing" rel="noopener nofollow" target="_blank">Term 1</a>
-<br>Term 2
-<br>Term 3
-<br>Term 4</p>
+<p><a href="https://drive.google.com/file/d/1BWQN2sKqO5fQwDgPF3ztLyWk6caTbrmz/view?usp=drive_link" rel="noopener nofollow" target="_blank">All levels</a>
+<br><a href="https://drive.google.com/file/d/1wUwm7C9YC2StNT1BI82RaR-J6Uyshjjl/view?usp=drive_link" rel="noopener nofollow" target="_blank">Primary 1</a>
+<br><a href="https://drive.google.com/file/d/1085t-cIo4lTsVlFnk2oHCIXUL5U1FZUb/view?usp=drive_link" rel="noopener nofollow" target="_blank">Primary 2</a>
+<br><a href="https://drive.google.com/file/d/14ObneEugKcFOpePjAhcNdwtRUBkXZCHW/view?usp=drive_link" rel="noopener nofollow" target="_blank">Primary 3</a>
+<br><a href="https://drive.google.com/file/d/1WTndaQivd2M3aagD84WLpgo2FEF2qdJR/view?usp=drive_link" rel="noopener nofollow" target="_blank">Primary 4</a>
+<br><a href="https://drive.google.com/file/d/1KtDP3sFmFh1OFEH3cR0-X_1OUKdMtESV/view?usp=drive_link" rel="noopener nofollow" target="_blank">Primary 5</a>
+<br><a href="https://drive.google.com/file/d/1kKWgAoAt-oSVUPE-Ia6so4qqXyBeeb5k/view?usp=drive_link" rel="noopener nofollow" target="_blank">Primary 6</a>
+</p>
 </td>
 </tr>
 <tr>
