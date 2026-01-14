@@ -50,7 +50,7 @@ variant: tiptap
 <p>P1 Optimistic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Woo Mun Lan</p>
+<p>Mdm Kwok Mun Lan (Mrs Woo)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>woo_mun_lan@moe.edu.sg</p>
