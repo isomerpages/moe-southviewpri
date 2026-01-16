@@ -139,6 +139,6 @@ centre via email: <a href="mailto:Contact_YPS@hpb.gov.sg" rel="noopener" target=
 canteen stalls in the school will be only be selling set meals with one
 or two fixed items at a fixed price during recess and meal times. This
 will help in reducing wait time as well as relief congestion at the stalls.
-The menu for each stall please click&nbsp;<a href="https://drive.google.com/file/d/1-GiVM1M8VJ-4ZBRn8q45gjhqjHzPBS8h/view?usp=sharing" rel="noopener" target="_blank">"Here"</a>
+The menu for each stall please click&nbsp;<a href="https://drive.google.com/file/d/1Kn5hvxszbLu1TBkNaT4iWE591sOJInmn/view?usp=drive_link" rel="noopener" target="_blank">"Here"</a>
 </p>
-<p>Page last updated: 28 Oct 2025</p>
+<p>Page last updated: 16 Jan 2026</p>
