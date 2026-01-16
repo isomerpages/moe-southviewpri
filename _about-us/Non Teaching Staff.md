@@ -5,6 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h4><strong><u>Executive &amp; Administrative Staff</u></strong></h4>
+<h4><strong><u>School Support Staff</u></strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -50,10 +51,10 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Yok Song Gabriel</p>
+<p>Mr Muhammad Azli Bin Mad Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_yok_song_gabriel_a@moe.edu.sg</p>
+<p>muhammad_azli_mad_ali@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -61,10 +62,10 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Azli Bin Mad Ali</p>
+<p>Mr Tan Yok Song Gabriel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>muhammad_azli_mad_ali@moe.edu.sg</p>
+<p>tan_yok_song_gabriel_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -234,7 +235,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong><u>School Support Staff</u></strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -310,4 +310,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Page updated on: 19 March 2025</p>
+<p>Page updated on: 16 January 2025</p>
