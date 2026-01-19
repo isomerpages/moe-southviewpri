@@ -125,7 +125,17 @@ work, puzzles, etc</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><strong><u>SPARK Mathematics Enrichment Programme</u></strong>
+</p>
+<p>The Mathematics SPARK programme is designed to enrich the learning of
+students who demonstrate mathematical aptitude and high learning readiness
+with opportunities to explore Mathematics beyond the curriculum.</p>
+<p>The programme adopts an inquiry based approach which encourages students
+to strengthen their mathematical reasoning, deepen their conceptual understanding
+through mathematical investigations, engage in collaborative problem-solving,
+and conceptual exploration. Through the programme, we aim to develop 21st
+century competencies such as critical and inventive thinking and effective
+communication skills in our learners.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths_webpage.jpg">
 </div>
