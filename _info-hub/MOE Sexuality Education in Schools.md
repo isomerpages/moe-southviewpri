@@ -4,9 +4,7 @@ permalink: /departments/pupil-well-being/moe-sexuality-education-in-schools/
 description: ""
 variant: tiptap
 ---
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">SOUTH VIEW PRIMARY SCHOOL</a></strong>
-</p>
-<p><strong>&nbsp;Moe Sexuality Education in Schools</strong>
+<p><strong>Moe Sexuality Education in Schools</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
