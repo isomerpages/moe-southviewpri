@@ -60,6 +60,38 @@ Training)</p>
 <p><strong><u>Thursdays</u></strong>
 </p>
 <p>2.00 p.m to 5.00 p.m</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Indian Dance</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Malay Dance</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Chinese Dance</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.00 p.m. to 5.00 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00 p.m. to 5.00 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Non SYF dancers: 2.00 p.m. to 4.00 p.m.
+<br>SYF dancers: 2.00 p.m. to 6.00 p.m.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Please refer to the respective CCA Welcome Letter for the full schedule
 of dates.&nbsp;</p>
 <p><strong><u>CCA Teachers</u></strong>
