@@ -59,7 +59,6 @@ skills to inspire and uplift both the young and the young at heart.</p>
 Training)</p>
 <p><strong><u>Thursdays</u></strong>
 </p>
-<p>2.00 p.m to 5.00 p.m</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
