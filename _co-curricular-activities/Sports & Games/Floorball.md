@@ -55,7 +55,8 @@ Round Champions
 Round 3rd Place</p>
 <p><strong><u>Schedule</u></strong>
 <br><u>Thursdays</u>
-<br>2.00 p.m. to 4.00 p.m.</p>
+<br>a) 2.00 p.m. to 4.00 p.m. (P4 &amp; 5 members)
+<br>b) 2.00 p.m. to 5.00 p.m. (P6 members)</p>
 <p>&nbsp;*Please refer to the respective CCA Welcome Letter for the full
 schedule of dates.</p>
 <p><strong>CCA Teachers</strong>
