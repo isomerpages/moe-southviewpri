@@ -103,7 +103,9 @@ to the ones that make sense.</p>
 <td rowspan="1" colspan="1">
 <p>Teach debating skills that include the crafting of arguments and rebuttals,
 which foster critical thinkers and compelling speakers.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/EL1.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Primary 6</p>
@@ -217,7 +219,7 @@ their contributions.</p>
 </tbody>
 </table>
 <p></p>
-<p>Page last updated: 6 Feb 2025</p>
+<p>Page last updated: 20 Jan 2026</p>
 </li>
 </ul>
 <p></p>
