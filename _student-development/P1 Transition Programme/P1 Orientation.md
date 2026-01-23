@@ -11,5 +11,5 @@ variant: tiptap
 during P1 Orientation Briefing on 21 November 2025.</p>
 <p>1) <a href="https://drive.google.com/file/d/1FX-jK7QjTD4UDhyreDUuFXsydGUwDDZV/view?usp=sharing" rel="noopener nofollow" target="_blank">P1 Orientation Slides (MPH)</a>
 </p>
-<p>2) <a href="https://docs.google.com/document/d/12EwSjc241CYbGbdszPBuGt10eGhxsNNU/edit" rel="noopener nofollow" target="_blank">FAQs</a>
+<p>2) <a href="https://drive.google.com/file/d/1i2umARA20EBmeotgg5HPoqO6ppWMeqrm/view?usp=drive_link" rel="noopener nofollow" target="_blank">FAQs</a>
 </p>
