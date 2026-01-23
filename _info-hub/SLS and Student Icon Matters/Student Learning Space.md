@@ -109,5 +109,5 @@ and mobile devices.</p>
 </table>
 <p><strong>Support</strong>
 <br>For school technical support for SLS and student iCON/MIMs accounts, complete
-<a href="http://bit.ly/svpsreset" rel="noopener" target="_blank">form</a>
+<a href="https://form.gov.sg/687da77f9c9dd84439f54af5" rel="noopener" target="_blank">form</a>
 </p>
