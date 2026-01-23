@@ -100,23 +100,6 @@ or Performing Arts, or Clubs &amp; Societies.</p>
 </tbody>
 </table>
 <p></p>
-<h4><strong><u>Student Leadership @ SVPS</u></strong></h4>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Student Leadership @ SVPS</strong>
-</p>
-<p><a href="https://www.southviewpri.moe.edu.sg/co-curricular-activities/student-leadership-svps/" rel="noopener nofollow" target="_blank">read more</a>
-</p>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
 <h4><strong><u>Uniformed Groups</u></strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
