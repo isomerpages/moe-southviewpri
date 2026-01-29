@@ -2,6 +2,7 @@
 title: School Canteen Advertisement
 permalink: /info-hub/school-canteen-advertisement/
 description: ""
+variant: markdown
 ---
 <h4><strong>School Canteen Advertisement</strong></h4>
 <table>
@@ -46,7 +47,7 @@ description: ""
 	</p><li>Address: 6 Choa Chu Kang Central, Singapore 689762</li>
 <li>Contact No: 67697176</li>
 <li>Email: svps@moe.edu.sg</li>
-<li>Contact Person: Mr Thomas Lim</li><p></p>
+<li>Contact Person: Mr Gabriel Tan</li><p></p>
 <p><strong>How to get there?</strong>
 	</p><li>Nearest MRT: Chua Chu Kang MRT (NS4 line) – 10 minutes walking distance</li>
 <li>Bus number: 307/307T - 3 minutes walking distance</li>
