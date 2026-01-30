@@ -73,7 +73,6 @@ of exemplary leadership behaviours.</p>
 <br>Ms Kek Chiew Ching
 <br>Ms Tay Hwee Hoon
 <br>Ms Nanthiyni Selvaraja
-<br>Mdm Lee Yin Ping
 <br>Mr Leow Wei Yuan
 <br>
 <br><strong><u>Schedule</u></strong>
