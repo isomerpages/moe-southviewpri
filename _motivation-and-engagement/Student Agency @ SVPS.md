@@ -22,5 +22,20 @@ elements:&nbsp;</p>
 <p>The Power to Act</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/SA1.png">
+</div>
 <p><u>Examples of Student Agency Initiatives @ SVPS</u>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/SA2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SA3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SA4.png">
+</div>
+<p></p>
