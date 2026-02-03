@@ -2,6 +2,7 @@ collections:
   motivation-and-engagement:
     output: true
     order:
+      - Power in Me Day.md
       - Motivation And Engagement.md
       - Student Agency @ SVPS.md
       - Student Leadership @ SVPS.md
