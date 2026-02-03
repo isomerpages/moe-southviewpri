@@ -33,12 +33,6 @@ variant: markdown
 			<td>Primary 6</td>
 			<td> Term 4 - 4 week programm eafter PSLE</td>
 			</tr>
-		<tr>
-			<td><a href="/student-development/nyaa-svps/" target="">NYAA@SVPS</a></td>
-			<td>The NYAA Junior Programme - The Butterfly Award in South View Primary School aims to instil sound values, nurture curiosity, foster confident thinking and expression in students. The programme promotes family bonding, healthy living, service learning and outdoor appreciation among students.</td>
-			<td>Primary 4-6</td>
-			<td>-</td>
-			</tr>
 </tbody>
 	</table>
 <p>For more details on the programmes, please click on the links.<br>
