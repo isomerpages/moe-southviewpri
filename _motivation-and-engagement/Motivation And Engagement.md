@@ -68,7 +68,8 @@ to Southviens, driven by their interests, giving them voice and choice.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Power in Me Day</p>
+<p><a href="https://www.southviewpri.moe.edu.sg/motivation-and-engagement/power-in-me-day/" rel="noopener nofollow" target="_blank">Power in Me Day</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Power in Me Day is a day dedicated for Southviens to experience and learn
