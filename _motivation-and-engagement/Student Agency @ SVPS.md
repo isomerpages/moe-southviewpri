@@ -1,6 +1,6 @@
 ---
 title: Student Agency @ SVPS
-permalink: /student-agency-svps/
+permalink: /motivation-and-engagement/student-agency-svps/
 variant: tiptap
 description: ""
 ---

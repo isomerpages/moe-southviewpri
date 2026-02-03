@@ -1,5 +1,5 @@
 ---
-title: NYAA@SVPS
+title: NYAA @ SVPS
 permalink: /motivation-and-engagement/nyaa-svps/
 variant: tiptap
 description: ""
