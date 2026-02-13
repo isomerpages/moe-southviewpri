@@ -4,7 +4,7 @@ permalink: /open-house/
 variant: markdown
 description: ""
 ---
-<p>MOE Kindergarten – Our Happy Place</p>
+<p></p><center>MOE Kindergarten – Our Happy Place</center><p></p>
 <p>We warmly invite you to join us for our Open House on Saturday, 7 March
 2026!</p>
 <p>Come and discover our children’s learning spaces and meet with our dedicated
