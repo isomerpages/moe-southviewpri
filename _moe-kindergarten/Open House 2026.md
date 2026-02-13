@@ -4,17 +4,30 @@ permalink: /open-house/
 variant: tiptap
 description: ""
 ---
-<p><strong><u>MOE Kindergarten Open House &amp; Registration Exercise</u></strong>
+<p>MOE Kindergarten – Our Happy Place</p>
+<p>We warmly invite you to join us for our Open House on Saturday, 7 March
+2026!</p>
+<p>Come and discover our children’s learning spaces and meet with our dedicated
+educators to find out more about our engaging curriculum and programmes.</p>
+<p>Our holistic curriculum nurtures:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Confidence</p>
+</li>
+<li>
+<p>Social skills</p>
+</li>
+<li>
+<p>Bilingualism</p>
+</li>
+<li>
+<p>Literacy &amp; Numeracy foundations</p>
+</li>
+</ul>
+<p>Join our physical Open House to check out our space and chat with educators!&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/qr_code.png">
+</div>
+<p>
+<br>
 </p>
-<p>Are you looking for a quality and affordable kindergarten programme for
-your preschool child?</p>
-<p>At MOE Kindergarten, we believe that children are joyful, curious, active
-and competent learners and we are committed to giving every child a strong
-start. Our holistic curriculum and programmes nurture children’s confidence,
-social skills, bilingualism and build a good foundation in literacy and
-numeracy.</p>
-<p>At the physical Open House, parents are welcomed to tour the learning
-environment and speak to the MK Educators in person. MK Open House details
-will be announced at later date. To find out more on the MK website (
-<a href="http://www.moe.gov.sg/mk" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/mk</a>).</p>
-<p></p>
