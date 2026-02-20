@@ -28,6 +28,8 @@ educators to find out more about our engaging curriculum and programmes.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/qr_code.png">
 </div>
+<p></p><center>Or <a href="https://www.youtube.com/watch?v=QXvV21a-TqE" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+	to access the link</center><p></p>
 <p>
 <br>
 </p>
