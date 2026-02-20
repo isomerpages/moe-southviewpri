@@ -28,7 +28,7 @@ educators to find out more about our engaging curriculum and programmes.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/qr_code.png">
 </div>
-<p></p><center>Or <a href="https://www.youtube.com/watch?v=QXvV21a-TqE" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+<p></p><center>Or <a href="https://mksv-oh2026.app.entry.gov.sg/form/1b2b669b-e691-4a66-8c7c-03498183e733" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
 	to access the link</center><p></p>
 <p>
 <br>
