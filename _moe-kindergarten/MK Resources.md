@@ -1,7 +1,7 @@
 ---
 title: MK Resources
 permalink: /moe-kindergarten/mk-resources/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <p>MK Resources:</p>
