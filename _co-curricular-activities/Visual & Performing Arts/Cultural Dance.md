@@ -55,8 +55,6 @@ skills to inspire and uplift both the young and the young at heart.</p>
 <br>Chinese Dance - Distinction</p>
 <p><strong>Schedule</strong>
 </p>
-<p><strong><u>Mondays<br></u></strong> 4.00 p.m. to 5.30 p.m (SYF Preparation
-Training)</p>
 <p><strong><u>Thursdays</u></strong>
 </p>
 <table style="minWidth: 75px">
