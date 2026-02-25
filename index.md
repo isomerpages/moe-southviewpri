@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Foyer_SV80.jpg
+      background: /images/foy_web.png
       key_highlights:
         - title: Our Co Curricular Activities
           description: ""
@@ -15,4 +15,7 @@ sections:
         - title: Our School Notification
           description: ""
           url: https://www.southviewpri.moe.edu.sg/info-hub/school-notification/
+        - title: SV80
+          description: Stay Tuned!
+          url: ""
 ---
