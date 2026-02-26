@@ -12,7 +12,7 @@ variant: tiptap
 <br>Lifelong learners who have the spirit of inquiry.</p>
 <p><strong><u>Mission</u></strong>
 <br>To nurture a joy of learning and develop an inquiring mind.</p>
-<p><strong><u>Aims</u></strong>
+<p><strong><u>Aims (Source: </u></strong><a href="https://www.moe.gov.sg/api/media/ba3562d3-5b31-4459-8693-45cde7b97273/Primary-Science-Syllabus-2023.pdf" rel="noopener nofollow" target="_blank">SCIENCE TEACHING &amp; LEARNING SYLLABUS</a><strong><u>)</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
