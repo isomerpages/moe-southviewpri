@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Foyer_SV80.jpg
+      background: /images/Screenshot_2026_02_23_111746.png
       key_highlights:
         - title: Our Co Curricular Activities
           description: ""
