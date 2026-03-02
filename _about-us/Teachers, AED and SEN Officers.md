@@ -127,10 +127,10 @@ variant: tiptap
 <p>P1 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jasmine Lau Jiamin</p>
+<p>Mrs Kunavathi Vijayan Kumaran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jasmine_lau_jiamin_b@moe.edu.sg</p>
+<p>kunavathi_marimuthu@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
