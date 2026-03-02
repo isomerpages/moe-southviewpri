@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/foy.jpg
+      background: /images/Main.jpg
       key_highlights:
         - title: Our Co Curricular Activities
           description: ""
