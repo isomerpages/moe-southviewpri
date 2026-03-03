@@ -26,10 +26,13 @@ educators to find out more about our engaging curriculum and programmes.</p>
 </ul>
 <p>Join our physical Open House to check out our space and chat with educators!&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/qr_code.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MKSV_Open_House_2026_Poster.jpg">
 </div>
-<p></p><center>Or <a href="https://mksv-oh2026.app.entry.gov.sg/form/1b2b669b-e691-4a66-8c7c-03498183e733" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
-	to access the link</center><p></p>
-<p>
+<p></p><center>2027 K1 Admissions – Online Registration Exercise
+The Online Open Admissions (OA) registration for 2027 K1 admissions will be:<br>
 <br>
-</p>
+Opened: 9.00am, Monday, 23 March 2026<br>
+Closed: 4.30pm, Tuesday, 31 March 2026<br>
+<br>
+We look forward to welcoming you and your child to our Happy Place!
+	</center><p></p>
