@@ -40,9 +40,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="https://drive.google.com/file/d/1NkN0NGX0VzyTDyQ5PTqr95Ct7M9wtx9A/view?usp=sharing" rel="noopener nofollow" target="_blank">Term 1</a>
 <br><a href="https://drive.google.com/file/d/1UlApHz8QjENi9tGpM9zjtc7ueYgq8ZZc/view?usp=sharing" rel="noopener nofollow" target="_blank">Term 2</a>
-</p>
-<p>Term 3</p>
-<p>Term 4</p>
+<br>Term 3
+<br>Term 4</p>
 </td>
 </tr>
 <tr>
