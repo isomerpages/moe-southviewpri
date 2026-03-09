@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Home_page_header2__res_.jpg
       key_highlights:
-        - title: Our Co Curricular Activities
+        - title: 40 Hours Parent Volunteer (PV) scheme
           description: ""
-          url: https://www.southviewpri.moe.edu.sg/co-curricular-activities/
+          url: /application-for-40hrs-pv/
         - title: Our School Notification
           description: ""
           url: https://www.southviewpri.moe.edu.sg/info-hub/school-notification/
