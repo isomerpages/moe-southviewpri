@@ -26,7 +26,7 @@ educators to find out more about our engaging curriculum and programmes.</p>
 </ul>
 <p>Join our physical Open House to check out our space and chat with educators!&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MKSV_Open_House_2026_Poster.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MKSV_Open_House_2026_Slide_Poster.jpg">
 </div>
 <p></p><center>2027 K1 Admissions – Online Registration Exercise
 The Online Open Admissions (OA) registration for 2027 K1 admissions will be:<br>
