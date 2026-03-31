@@ -40,7 +40,7 @@ be entertained.</p>
 under Phase 2B of the P1 Registration Exercise. While completion of the
 scheme qualifies you for Phase 2B registration, please note that it does
 NOT guarantee a place in the school.</p>
-<p>Please read through the requirements carefully and click on the link in
+<p>Please read through the requirements carefully and click on the <a href="https://drive.google.com/file/d/1d2nVUsTkr51x_AO-Dqsa_wKVGqwYfrGJ/view?usp=drive_link" rel="noopener nofollow" target="_blank">link</a> in
 the document to apply.
 <br>
 <br>Page last updated: 31 March 2026</p>
