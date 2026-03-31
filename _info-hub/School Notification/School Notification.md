@@ -33,7 +33,8 @@ to read or download the respective letters.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Apr</p>
+<p><a href="https://go.gov.sg/sn04-2026" rel="noopener nofollow" target="_blank">Apr</a>
+</p>
 </td>
 </tr>
 <tr>
