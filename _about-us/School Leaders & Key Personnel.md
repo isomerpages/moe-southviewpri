@@ -359,7 +359,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Subject Head
-<br>High Ability Learners</p>
+<br>Students with Academic Strength</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chew Yin Mui Angelia</p>
@@ -509,4 +509,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Page updated on 6 January 2025</p>
+<p>Page updated on 8 April 2026</p>
