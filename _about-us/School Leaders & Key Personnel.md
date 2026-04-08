@@ -359,7 +359,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Subject Head
-<br>High Ability Learners</p>
+<br>Students with Academic Strength</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chew Yin Mui Angelia</p>
