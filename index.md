@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Home_page_header2__res_.jpg
+      background: /images/Home_page_header2_V2_small.jpg
       key_highlights:
         - title: 40 Hours Parent Volunteer (PV) scheme
           description: ""
