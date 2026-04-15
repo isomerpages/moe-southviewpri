@@ -16,6 +16,6 @@ sections:
           description: ""
           url: https://www.southviewpri.moe.edu.sg/info-hub/school-notification/
         - title: SV80
-          description: Stay Tuned!
-          url: ""
+          description: Click🖱️or Tap 👆 to visit!
+          url: https://go.gov.sg/sv80
 ---
