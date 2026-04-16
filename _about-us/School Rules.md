@@ -254,62 +254,142 @@ maintain discipline in school (Responsibility)</p>
 letter (up to 5 per semester) from his/her parent/guardian to his/her form
 teacher on the day he/she returns to school. Alternatively, parents can
 submit reasons for their child’s absence and upload medical certificates
-or other supporting documents through the PG app. ● Parents are also encouraged
-to give the school a call or, send an email or message to inform of their
-child’s absence. ● Absence from examinations and tests must be covered
-by a medical certificate or other relevant official documents. Doctors
-will need to include the diagnosis of illness in the medical certificate.
-Late for School/Late for Class/Skipping lesson ● A student will be considered
-late for school if he/she arrives in school after 7.30 am. All students
-are strongly encouraged to be in school by 7.30 am. ● Students must remain
-within the school grounds once they have reported to school. ● Disciplinary
-action will be taken against students who are late for school, class, supplementary/
-remedial lessons or play truant. 5. School Property ● All books, sports
-equipment and items loaned from the school must be handled with care and
-returned in good condition after use. ● Students are not allowed to enter
-any rooms unless accompanied by a teacher. ● Students are not allowed to
-bring home school property unless given permission by a teacher. 6. Examination
-Matters ● Possession of notes, copying from others or allowing others to
-copy during examinations or tests is a very serious offence. Students found
-cheating or attempting to cheat during tests or examinations will be dealt
-with severely. ● Students are not allowed to bring their mobile phones/devices
-to school during examination/PSLE days. Such devices will be collected
-and returned to the student at the end of the day.. 7. Care for Personal
-Belongings Students are responsible for their own personal belongings and
-should avoid bringing valuables or excessive amounts of money to school.
-8. Possession of Weapons Students are not allowed to have any weapons in
-their possession. They are also not allowed to bring any weapon-like items
-which can be used or intended to be used to cause harm to others. Examples
-of such items: ● Pen knife/Knife ● Metal ruler ● Comb with pointed end
-● Scissors (school will provide students with scissors if there is a need
-to use them) 9. Items Prohibited in School The following items must not
-be brought to school: ● iPads/Tablets ● Portable gaming console ● Card
-games/trading cards ● Laser pointers ● Matches/Lighters ● Any other items
-which are deemed as a distraction or dangerous. 10.Electronics Devices
-(Smartphones and Smartwatches) Students are not to use personal digital
-devices, including smartphones, during school hours including recess, CCA
-and after-school programmes (e.g. supplementary/ enrichment/remedial lessons).
-Students who bring such devices are to put them in their school bags before
-school start time. The devices must be switched off when the students are
-in school. Students should bear responsibility for safekeeping of devices.
-The school will not be held responsible for any loss of smart devices.
-Students wearing smartwatches, with camera and call functions, are to keep
-them in the school bag during curriculum hours. They will only be allowed
-to wear it if the camera and call functions are disabled. Students are
-not allowed to use his/her smartphones or the smartwatches’ camera and
-call functions at all areas as long as they are within the school compounds.
-Students found using these devices in school without valid reason will
-have the items confiscated. The confiscated items will be returned only
-to parents. Discipline Policy - Offences &amp; Consequences Discipline
-and good character are the hallmarks of a Southvien. The school categorises
-offences into 3 stages: Stage 1 for minor offences, Stage 2 for serious
-offences and Stage 3 for very serious offences. The school will take one
-or more of the actions detailed in the table and baseline consequences
-shown on Page 18-22 will be meted out when students commit any of the offences.
-<br>
-</p>
+or other supporting documents through the PG app.</p>
+</li>
+<li>
+<p>Parents are also encouraged to give the school a call or, send an email
+or message to inform of their child’s absence.</p>
+</li>
+<li>
+<p>Absence from examinations and tests must be covered by a medical certificate
+or other relevant official documents. Doctors will need to include the
+diagnosis of illness in the medical certificate.</p>
+<p></p>
 </li>
 </ul>
+<p><strong>Late for School/Late for Class/Skipping lesson</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A student will be considered late for school if he/she arrives in school
+after 7.30 am. All students are strongly encouraged to be in school by
+7.30 am.</p>
+</li>
+<li>
+<p>Students must remain within the school grounds once they have reported
+to school.</p>
+</li>
+<li>
+<p>Disciplinary action will be taken against students who are late for school,
+class, supplementary/ remedial lessons or play truant.</p>
+<p></p>
+</li>
+</ul>
+<p>5. <strong>School Property</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>All books, sports equipment and items loaned from the school must be handled
+with care and returned in good condition after use.</p>
+</li>
+<li>
+<p>Students are not allowed to enter any rooms unless accompanied by a teacher.</p>
+</li>
+<li>
+<p>Students are not allowed to bring home school property unless given permission
+by a teacher.</p>
+</li>
+</ul>
+<p>6. <strong>Examination Matters</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Possession of notes, copying from others or allowing others to copy during
+examinations or tests is a very serious offence. Students found cheating
+or attempting to cheat during tests or examinations will be dealt with
+severely.</p>
+</li>
+<li>
+<p>Students are not allowed to bring their mobile phones/devices to school
+during examination/PSLE days. Such devices will be collected and returned
+to the student at the end of the day.</p>
+</li>
+</ul>
+<p>7. <strong>Care for Personal Belongings</strong>
+</p>
+<p>Students are responsible for their own personal belongings and should
+avoid bringing valuables or excessive amounts of money to school.</p>
+<p>8. <strong>Possession of Weapons</strong>
+</p>
+<p>Students are not allowed to have any weapons in their possession. They
+are also not allowed to bring any weapon-like items which can be used or
+intended to be used to cause harm to others.</p>
+<p>Examples of such items:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Pen knife/Knife</p>
+</li>
+<li>
+<p>Metal ruler</p>
+</li>
+<li>
+<p>Comb with pointed end</p>
+</li>
+<li>
+<p>Scissors (school will provide students with scissors if there is a need
+to use them)</p>
+</li>
+</ul>
+<p>9. <strong>Items Prohibited in School</strong>
+</p>
+<p>The following items must not be brought to school:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>iPads/Tablets</p>
+</li>
+<li>
+<p>Portable gaming console</p>
+</li>
+<li>
+<p>Card games/trading cards</p>
+</li>
+<li>
+<p>Laser pointers</p>
+</li>
+<li>
+<p>Matches/Lighters</p>
+</li>
+<li>
+<p>Any other items which are deemed as a distraction or dangerous.</p>
+</li>
+</ul>
+<p>10.<strong>Electronics Devices (Smartphones and Smartwatches)</strong>
+</p>
+<p>Students are not to use personal digital devices, including smartphones,
+during school hours including recess, CCA and after-school programmes (e.g.
+supplementary/ enrichment/remedial lessons). Students who bring such devices
+are to put them in their school bags before school start time. The devices
+must be <u>switched off</u> when the students are in school. Students should
+bear responsibility for safekeeping of devices. The school will not be
+held responsible for any loss of smart devices.</p>
+<p>Students wearing smartwatches, with camera and call functions, are to
+keep them in the school bag during curriculum hours. They will only be
+allowed to wear it if the camera and call functions are disabled.</p>
+<p>Students are not allowed to use his/her smartphones or the smartwatches’
+camera and call functions at all areas as long as they are within the school
+compounds. Students found using these devices in school without valid reason
+will have the items confiscated. The confiscated items will be returned
+only to parents.</p>
+<p><strong>Discipline Policy - Offences &amp; Consequences</strong>
+</p>
+<p>Discipline and good character are the hallmarks of a Southvien. The school
+categorises offences into 3 stages: Stage 1 for minor offences, Stage 2
+for serious offences and Stage 3 for very serious offences. The school
+will take one or more of the actions detailed in the table and baseline
+consequences shown on Page 18-22 will be meted out when students commit
+any of the offences.
+<br>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SR4.png">
 </div>
