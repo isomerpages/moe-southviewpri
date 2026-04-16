@@ -174,7 +174,7 @@ to produce beautiful, harmonious music.</p>
 <p></p>
 <p><strong><u>Tamil Department</u></strong>
 </p>
-<p><strong>⮚	Embracing Cultural Identity</strong>
+<p><strong>⮚ Embracing Cultural Identity</strong>
 </p>
 <p>At South View, we believe that language is most alive when it is felt,
 heard, and tasted. Our Tamil Language department recently organized a series
@@ -189,160 +189,145 @@ are discovering that learning Tamil is a journey of the senses.</p>
 <h4><strong>Competitions</strong></h4>
 <p><strong><u>Chinese Department</u></strong>
 </p>
-<p>The level wide competitions provide students with opportunities to:
-<br>
-</p>
+<p>The level wide competitions provide students with opportunities to:</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deepen
+their proficiency in listening, speaking, reading, and writing.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Showcase
+their language skills through activities tailored to their developmental
+stage and language proficiency.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Deepen their proficiency in listening, speaking, reading, and writing.</p>
+<p><strong>Primary 1: Story-telling</strong> –&nbsp; Cultivates active listening
+and nurtures expressive oral<strong> </strong>skills.</p>
 </li>
 <li>
-<p>Showcase their language skills through activities tailored to their developmental
-stage and language proficiency.</p>
+<p><strong>Primary 2: Singing</strong> – Builds confidence and enhances tone
+and articulation<strong> </strong>through melodic expression.</p>
+</li>
+<li>
+<p><strong>Primary 3: Text Recital</strong> – Strengthens reading fluency,
+pronunciation, and<strong> </strong>emotional expression.</p>
+</li>
+<li>
+<p><strong>Primary 4: Letter Writing</strong> – Develops foundational writing
+skills and the ability to<strong> </strong>articulate thoughts clearly.</p>
+</li>
+<li>
+<p><strong>Primary 5/6: Poetry Writing</strong> – Encourages creativity and
+appreciation for the beauty and rhythm of the Chinese language.</p>
+<p></p>
+<p>These competitions not only enhance students’ language skills but also
+inspire them to value the richness of the Chinese language and its culture.</p>
 </li>
 </ul>
-<p></p>
-<p><strong>Primary 1: Story-telling</strong> – Cultivates active listening
-and nurtures expressive oral skills.
-<br><strong>Primary 2: Singing</strong> – Builds confidence and enhances tone
-and articulation through melodic expression.
-<br><strong>Primary 3: Text Recital</strong> – Strengthens reading fluency,
-pronunciation, and emotional expression.
-<br><strong>Primary 4: Letter Writing</strong> – Develops foundational writing
-skills and the ability to articulate thoughts clearly.
-<br><strong>Primary 5: Poetry Writing</strong> – Encourages creativity and
-appreciation for the beauty and rhythm of the Chinese language.
-<br>
-<br>These competitions not only enhance students’ language skills but also
-inspire them to value the richness of the Chinese language and its culture.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/MT11.png">
 </div>
+<p></p>
 <p><strong><u>Malay Department</u></strong>
 </p>
-<p><strong>Spelling Bee Competition (Raja Eja):</strong>
-<br>The termly spelling bee competition is a great initiative to reinforce
-the vocabulary learned in the syllabus.</p>
-<p><strong><u>Key Features of the Raja Eja Competition:</u></strong>
+<p><strong><u>Spelling Bee Competition (Raja Eja):</u></strong>
 </p>
-<p></p>
+<p>The termly spelling bee competition is a great initiative to reinforce
+the vocabulary learned in the syllabus.</p>
+<p><strong>Key Features of the Raja Eja Competition:</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Focus on Vocabulary</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Focus on Vocabulary:</strong>
-<br>The competition focuses on the vocabulary from the syllabus, ensuring
+<p>The competition focuses on the vocabulary from the syllabus, ensuring
 that students are not just memorizing words, but also understanding their
 meanings and proper usage.</p>
 </li>
+</ul>
+</li>
 <li>
-<p><strong>Active Learning:</strong>
-<br>By participating in the competition, students actively engage with the
+<p><strong>Active Learning</strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>By participating in the competition, students actively engage with the
 vocabulary, which helps them remember the words more effectively. The process
 of spelling and recalling the definitions reinforces both spelling and
 comprehension.</p>
 </li>
+</ul>
+</li>
 <li>
-<p><strong>Healthy Competition:</strong>
-<br>The competition aspect motivates students to challenge themselves and
+<p><strong>Healthy Competition</strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The competition aspect motivates students to challenge themselves and
 perform to the best of their abilities. It creates a fun and engaging environment
 where students can take pride in their vocabulary knowledge.</p>
 </li>
+</ul>
+</li>
 <li>
-<p><strong>Increased Confidence:</strong>
-<br>Students who perform well in the competition may gain confidence in their
+<p><strong>Increased Confidence</strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students who perform well in the competition may gain confidence in their
 ability to use the vocabulary effectively, which can encourage them to
 use the words in their daily conversations and writing.</p>
 </li>
 </ul>
-<p><strong>Encouraging Parental Involvement:</strong> Parents are encouraged
-to support their children in learning spelling from the list given, which
-can further strengthen the vocabulary learning process.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Creative Writing Competition (Bicara Pena):</strong>
-<br>The writing competition for upper primary students is an avenue to foster
-a love for writing while also honing their writing skills.</p>
 </li>
-</ul>
-<p></p>
-<p><strong><u>Key Features of the Writing Competition:</u></strong>
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Exposure to Different Writing Styles:</strong>
-<br>The competition focuses on the vocabulary from the syllabus, ensuring
-that students are not just memorizing words, but also understanding their
-meanings and proper usage.</p>
-</li>
-<li>
-<p><strong>Increased Creativity and Expression:</strong>
-<br>By participating in the competition, students actively engage with the
-vocabulary, which helps them remember the words more effectively. The process
-of spelling and recalling the definitions reinforces both spelling and
-comprehension.</p>
-</li>
-<li>
-<p><strong>Incorporating Feedback:</strong>
-<br>The competition aspect motivates students to challenge themselves and
-perform to the best of their abilities. It creates a fun and engaging environment
-where students can take pride in their vocabulary knowledge.</p>
-</li>
-<li>
-<p><strong>Celebrating Achievements:</strong>
-<br>Recognizing students’ hard work through awards or public acknowledgment
-can boost their confidence. It fosters a sense of pride in their writing
-and encourages them to continue improving.</p>
-</li>
-<li>
+</ol>
 <p><strong>Encouraging Parental Involvement:</strong>
-<br>Parents can support their children by helping them brainstorm ideas, reviewing
-drafts, or providing a quiet space for focused writing. Encouragement from
-home can boost students’ motivation to participate and excel in their writing.</p>
-</li>
-</ul>
+</p>
+<p>Parents are encouraged to support their children in learning spelling
+from the list given, which can further strengthen the vocabulary learning
+process.</p>
+<p></p>
+<p><strong>Key Features of the Sahibba Competition:</strong>
+</p>
+<p>The Scrabble competition challenged students to apply their vocabulary
+and spelling skills while thinking strategically in a competitive yet enjoyable
+environment.</p>
 <p></p>
 <p><strong><u>Tamil Department</u></strong>
 </p>
-<p><strong>Significance of Tamil Literature through Competitions</strong>
-<br>Tamil epics and literature plays an important role in Tamil Language learning.
-Due to modernization, our students tend to neglect the moral values and
-culture that are prominent in Indian epics. Keeping this in mind, we encouraged
-students to take part in role play competitions as part of our internal
-competitions. This served as a good opportunity for them to research about
-Thiruvalluvar and Mahakavi to prepare themselves for the competition.</p>
+<p><strong>Shining Bright at the SG60 Cluster Tamil Language Competitions</strong>
+</p>
+<p>We are thrilled to announce the stellar performance of our South View
+Primary School pupils at the recent W6 Cluster Tamil Language Competitions.
+This annual event brings together the brightest talents from schools within
+the W6 cluster to showcase their linguistic prowess, creativity, and deep-rooted
+love for the Tamil language.Our students rose to the challenge, demonstrating
+not only their mastery of the language but also the confidence and oratorical
+skills they have cultivated through their dedicated practice.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%" height="auto" width="100%" src="/images/MT12.png">
 </div>
-<p><strong>Pongal Competition (by Mediacorp)</strong>
-<br>Students displayed their creativity and enthusiasm by drawing Pongal pots
-&amp; writing essays about their Pongal experience. Our student received
-certificates for their participation. Kudos to Hareni from 4 Inspiring,
-as she won in the essay writing competition!</p>
+<p>⮚&nbsp;&nbsp;&nbsp;&nbsp; <strong><u>SV 80th Anniversary Competitions</u></strong>
+</p>
+<p>&nbsp;As South View Primary School marks its momentous <strong>80th Anniversary</strong>,
+our Tamil Language department joined the festivities by hosting a series
+of vibrant competitions. These events weren't just about winning prizes;
+they were a heartfelt tribute to eight decades of learning, growth, and
+community spirit at South View. Our pupils took center stage, using their
+linguistic skills to share their personal stories and their deep connection
+to the school we call home.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%" height="auto" width="100%" src="/images/MT13.png">
 </div>
 <h4>3. Cultural Performance Exposure Scheme (CPES)</h4>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
 <p>The Cultural Performance Exposure Scheme (CPES) provides students with
-opportunities to:
-<br>
-</p>
-</li>
+opportunities to:</p>
+<ol data-tight="true" class="tight">
 <li>
 <p>Experience cultural performances by local and international arts groups,
-fostering a deeper appreciation for the richness of diverse cultures.
-<br>
-</p>
+fostering a deeper appreciation for the richness of diverse cultures.</p>
 </li>
 <li>
 <p>Enjoy authentic theatre experience by attending performances in professional
 theatre settings, enhancing their understanding of the performing arts.</p>
 </li>
-</ul>
+</ol>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%" height="auto" width="100%" src="/images/MT14.png">
 </div>
-<p>Page last updated: 11 February 2025</p>
+<p>Page last updated: 16 April 2026</p>
