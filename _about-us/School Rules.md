@@ -51,7 +51,7 @@ late for school.</p>
 </p>
 </li>
 </ol>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>All students must attend the daily flag-raising ceremony.</p>
 </li>
@@ -62,31 +62,14 @@ take the Pledge.</p>
 <li>
 <p>Students will take the pledge with the right fist over the heart.</p>
 </li>
-<li>
+</ul>
 <p>All students are to stand at attention:</p>
+<p>− when the flag is raised or lowered,</p>
+<p>− when the National Anthem is being sung, and</p>
+<p>− during pledge-taking.</p>
+<p>3. <strong>Personal Appearance School Uniform</strong>
+</p>
 <ul data-tight="true" class="tight">
-<li>
-<p>when the flag is raised or lowered,</p>
-</li>
-<li>
-<p>when the National Anthem is being sung, and</p>
-</li>
-<li>
-<p>during pledge-taking.</p>
-</li>
-</ul>
-</li>
-</ul>
-<p></p>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p><strong>Personal Appearance</strong>
-</p>
-</li>
-</ol>
-<p><strong>School Uniform</strong>
-</p>
-<ul>
 <li>
 <p>Students must attend school and all school activities in proper school
 uniform.</p>
@@ -105,64 +88,56 @@ granted by the school.</p>
 </li>
 <li>
 <p>Male students must be clean-shaven and neat in appearance.</p>
-<p></p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SR1.png">
 </div>
 <p><strong>PE Attire</strong>
 </p>
-<ul>
-<li>
-<p>The PE attire comprises:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>School PE T-shirt with nametag sewn above the school crest; and</p>
+<p>The PE attire comprises:</p>
+<p>− School PE T-shirt with nametag sewn above the school crest; and</p>
+<p>− school running shorts/ skort (for girls)</p>
 </li>
 <li>
-<p>School running shorts/ skort (for girls)</p>
+<p>All students are to wear the PE attire during PE lessons and CCA sessions.</p>
 </li>
 </ul>
-</li>
-</ul>
-<ul>
-<li>
-<p>All students are to wear the PE attire during PE lessons and CCA sessions.
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SR2.png">
 </div>
-</li>
-</ul>
 <p><strong>Use of PE Attire</strong>
 </p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Students are allowed to wear their PE attire for the whole day if there
 is PE for the day.</p>
 </li>
 <li>
 <p>PE t-shirt must be tucked in at all times.</p>
+<p></p>
 </li>
 </ul>
-<p><strong>Fingernails</strong>
+<p><strong>Finger Nails</strong>
 </p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<p>Fingernails must be kept short and clean.&nbsp;</p>
+<p>Finger nails must be kept short and clean.</p>
 </li>
 <li>
 <p>Use of nail polish is not allowed.</p>
+<p></p>
 </li>
 </ul>
 <p><strong>Accessories</strong>
 </p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<p>Students are only allowed to wear spectacles with clear lenses. Outlandish
-coloured spectacle frames are not allowed.</p>
+<p>Students are only allowed to wear spectacles with clear lenses.</p>
 </li>
 <li>
 <p>No jewellery or any form or adornment is to be worn in school.</p>
@@ -173,34 +148,36 @@ coloured spectacle frames are not allowed.</p>
 <li>
 <p>Girls are allowed to wear only one pair of gold/silver studs. Fanciful
 studs are not allowed.</p>
+<p></p>
 </li>
 </ul>
 <p><strong>Hairstyle</strong>
 </p>
 <p><strong>Boys</strong>
 </p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Hair should be kept short and neat and must not touch the ears and collar.</p>
 </li>
 <li>
-<p>Fringe should not fall on the forehead nor touch the eyebrows.&nbsp;</p>
+<p>Fringe should not fall on the forehead nor touch the eyebrows.</p>
 </li>
 <li>
 <p>Extreme hairstyles and dyeing/highlighting of hair are strictly not allowed.</p>
 </li>
 <li>
 <p>Boys must be clean shaven; beards, moustaches and long side-burns are
-not allowed.&nbsp;</p>
+not allowed.</p>
 </li>
 <li>
 <p>“Skin-head” haircut is not allowed unless permission has been granted
 by the school.</p>
+<p></p>
 </li>
 </ul>
 <p><strong>Girls</strong>
 </p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Hair should be kept neat and tidy.</p>
 </li>
@@ -227,12 +204,10 @@ band.</p>
 </li>
 </ol>
 <p>Students are expected to:</p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Be honest (Integrity)</p>
 </li>
-</ul>
-<ul>
 <li>
 <p>Show care and concern to others (Care and Concern)</p>
 </li>
@@ -245,12 +220,12 @@ band.</p>
 <li>
 <p>Behave at all times and cooperate with teachers/staff and prefects to
 maintain discipline in school (Responsibility)</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <p><strong>Behaviour in the canteen</strong>
 </p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Queue when buying food/drinks in the canteen.</p>
 </li>
@@ -268,179 +243,73 @@ maintain discipline in school (Responsibility)</p>
 </li>
 <li>
 <p>Do a wipe down after eating.</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <p><strong>Absence from School</strong>
 </p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>A student who is absent must submit either a medical certificate or a
-letter (up to 5 per semester) from his parent/guardian to his/her form
-teacher on the day he/she returns to school. Parents are also encouraged
+letter (up to 5 per semester) from his/her parent/guardian to his/her form
+teacher on the day he/she returns to school. Alternatively, parents can
+submit reasons for their child’s absence and upload medical certificates
+or other supporting documents through the PG app. ● Parents are also encouraged
 to give the school a call or, send an email or message to inform of their
-child’s absence.</p>
-</li>
-<li>
-<p>Absence from examinations and tests must be covered by a medical certificate
-or other relevant official documents. Doctors will need to include the
-diagnosis of illness in the medical certificate.</p>
-</li>
-</ul>
-<p>
-<br><strong>Late for School/Late for Class/Skipping lesson</strong>
-</p>
-<ul>
-<li>
-<p>A student will be considered late for school if he/she arrives in school
-after 7.30 am. All students are strongly encouraged to be in school by
-7.30 am.</p>
-</li>
-<li>
-<p>Students must remain within the school grounds once they have reported
-to school.</p>
-</li>
-<li>
-<p>Disciplinary action will be taken against students who are late for school,
-class, supplementary/ remedial lessons or play truant.</p>
-</li>
-</ul>
-<p></p>
-<ol start="5" data-tight="true" class="tight">
-<li>
-<p><strong>School Property</strong>
-</p>
-</li>
-</ol>
-<ul>
-<li>
-<p>All books, sports equipment and items loaned from the school must be handled
-with care and returned in good condition after use.</p>
-</li>
-<li>
-<p>Students are not allowed to enter any rooms unless accompanied by a teacher.</p>
-</li>
-<li>
-<p>Students are not allowed to bring home school property unless given permission
-by a teacher.</p>
-</li>
-</ul>
-<p></p>
-<ol start="6" data-tight="true" class="tight">
-<li>
-<p><strong>Examination Matters</strong>
-</p>
-</li>
-</ol>
-<ul>
-<li>
-<p>Possession of notes, copying from others or allowing others to copy during
-examinations or tests is a very serious offence. Students found cheating
-or attempting to cheat during tests or examinations will be dealt with
-severely.</p>
-</li>
-<li>
-<p>Students are not allowed to bring their mobile phones/devices to school
-during examination/PSLE days. Such devices will be collected and returned
-to the student at the end of the day.</p>
-</li>
-</ul>
-<p></p>
-<ol start="7" data-tight="true" class="tight">
-<li>
-<p><strong>Care for Personal Belongings</strong>
-</p>
-</li>
-</ol>
-<p>Students are responsible for their own personal belongings and should
-avoid bringing valuables or excessive amounts of money to school.</p>
-<p></p>
-<ol start="8" data-tight="true" class="tight">
-<li>
-<p><strong>Possession of Weapons</strong>
-</p>
-</li>
-</ol>
-<p>Students are not allowed to have any weapons in their possession. They
-are also not allowed to bring any weapon-like items which can be used or
-intended to be used to cause harm to others.</p>
-<p>Examples of such items:</p>
-<ul>
-<li>
-<p>Pen knife/Knife</p>
-</li>
-<li>
-<p>Metal ruler</p>
-</li>
-<li>
-<p>Comb with pointed end</p>
-</li>
-<li>
-<p>Scissors (school will provide students with scissors if there is a need
-to use them)&nbsp;</p>
-</li>
-</ul>
-<p></p>
-<ol start="9" data-tight="true" class="tight">
-<li>
-<p><strong>Items Prohibited in School</strong>
-</p>
-</li>
-</ol>
-<p>The following items must not be brought to school:</p>
-<ul>
-<li>
-<p>iPads/Tablets</p>
-</li>
-<li>
-<p>Portable gaming console (PSP/NDS etc.)</p>
-</li>
-<li>
-<p>Card games/trading cards</p>
-</li>
-<li>
-<p>Laser pointers</p>
-</li>
-<li>
-<p>Matches/Lighters</p>
-</li>
-<li>
-<p>Any other items which are deemed as a distraction or dangerous.</p>
-</li>
-</ul>
-<p></p>
-<ol start="10" data-tight="true" class="tight">
-<li>
-<p><strong>Electronics Devices (Smartphones and Smartwatches)</strong>
-</p>
-</li>
-</ol>
-<p>Students are not to use personal digital devices, including smartphones,
-during school hours including recess, CCA and after-school programmes (e.g.
-supplementary/ enrichment/remedial lessons). Students who bring such devices
-are to put them in their school bags before school start time. The devices
-must be <u>switched off</u> when the students are in school. Students should
-bear responsibility for safekeeping of devices. The school will not be
-held responsible for any loss of smartphones.&nbsp;&nbsp;</p>
-<p></p>
-<p>Students wearing smartwatches, with camera and call functions, are to
-keep them in the school bag during curriculum hours. They will only be
-allowed to wear it if the camera and call functions are disabled.&nbsp;</p>
-<p></p>
-<p>Students are not allowed to use his/her smartphones or the smartwatches’
-camera and call functions at <u>all areas</u> as long as they are within
-the school compounds. Students found using these devices in school without
-valid reason will have the items confiscated. The confiscated items will
-be returned only to parents.</p>
-<p></p>
-<p><strong>Discipline Policy - Offences &amp; Consequences</strong>
-</p>
-<p>Discipline and good character are the hallmarks of a Southvien. The school
-categorises offences into 3 stages: Stage 1 for minor offences, Stage 2
-for major offences and Stage 3 for very serious offences. The school will
-take one or more of the following actions when students misbehave.
+child’s absence. ● Absence from examinations and tests must be covered
+by a medical certificate or other relevant official documents. Doctors
+will need to include the diagnosis of illness in the medical certificate.
+Late for School/Late for Class/Skipping lesson ● A student will be considered
+late for school if he/she arrives in school after 7.30 am. All students
+are strongly encouraged to be in school by 7.30 am. ● Students must remain
+within the school grounds once they have reported to school. ● Disciplinary
+action will be taken against students who are late for school, class, supplementary/
+remedial lessons or play truant. 5. School Property ● All books, sports
+equipment and items loaned from the school must be handled with care and
+returned in good condition after use. ● Students are not allowed to enter
+any rooms unless accompanied by a teacher. ● Students are not allowed to
+bring home school property unless given permission by a teacher. 6. Examination
+Matters ● Possession of notes, copying from others or allowing others to
+copy during examinations or tests is a very serious offence. Students found
+cheating or attempting to cheat during tests or examinations will be dealt
+with severely. ● Students are not allowed to bring their mobile phones/devices
+to school during examination/PSLE days. Such devices will be collected
+and returned to the student at the end of the day.. 7. Care for Personal
+Belongings Students are responsible for their own personal belongings and
+should avoid bringing valuables or excessive amounts of money to school.
+8. Possession of Weapons Students are not allowed to have any weapons in
+their possession. They are also not allowed to bring any weapon-like items
+which can be used or intended to be used to cause harm to others. Examples
+of such items: ● Pen knife/Knife ● Metal ruler ● Comb with pointed end
+● Scissors (school will provide students with scissors if there is a need
+to use them) 9. Items Prohibited in School The following items must not
+be brought to school: ● iPads/Tablets ● Portable gaming console ● Card
+games/trading cards ● Laser pointers ● Matches/Lighters ● Any other items
+which are deemed as a distraction or dangerous. 10.Electronics Devices
+(Smartphones and Smartwatches) Students are not to use personal digital
+devices, including smartphones, during school hours including recess, CCA
+and after-school programmes (e.g. supplementary/ enrichment/remedial lessons).
+Students who bring such devices are to put them in their school bags before
+school start time. The devices must be switched off when the students are
+in school. Students should bear responsibility for safekeeping of devices.
+The school will not be held responsible for any loss of smart devices.
+Students wearing smartwatches, with camera and call functions, are to keep
+them in the school bag during curriculum hours. They will only be allowed
+to wear it if the camera and call functions are disabled. Students are
+not allowed to use his/her smartphones or the smartwatches’ camera and
+call functions at all areas as long as they are within the school compounds.
+Students found using these devices in school without valid reason will
+have the items confiscated. The confiscated items will be returned only
+to parents. Discipline Policy - Offences &amp; Consequences Discipline
+and good character are the hallmarks of a Southvien. The school categorises
+offences into 3 stages: Stage 1 for minor offences, Stage 2 for serious
+offences and Stage 3 for very serious offences. The school will take one
+or more of the actions detailed in the table and baseline consequences
+shown on Page 18-22 will be meted out when students commit any of the offences.
 <br>
 </p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SR4.png">
 </div>
