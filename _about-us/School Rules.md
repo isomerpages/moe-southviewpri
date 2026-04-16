@@ -11,13 +11,8 @@ measure up the standards of behaviour expected by the school. If a student
 misbehaves in or outside the school, disciplinary action will be taken
 against him/her and the incident will be recorded in the School Cockpit
 System.</p>
-<p></p>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>School Hours</strong>
+<p>1.<strong> School Hours</strong>
 </p>
-</li>
-</ol>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -45,12 +40,8 @@ System.</p>
 <p>We start flag raising punctually at 7.30 am. It is a good habit for students
 to be in school by 7.30 am. Students who report after 7.30 am will be considered
 late for school.</p>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p><strong>National Anthem and Pledge</strong>
+<p>2.<strong> National Anthem and Pledge</strong>
 </p>
-</li>
-</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p>All students must attend the daily flag-raising ceremony.</p>
