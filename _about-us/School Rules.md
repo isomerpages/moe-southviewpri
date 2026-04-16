@@ -144,10 +144,6 @@ granted by the school.</p>
 is PE for the day.</p>
 </li>
 <li>
-<p>Girls are only allowed to be in their running shorts during PE lessons.
-Skirts need to be worn at all times otherwise.&nbsp;</p>
-</li>
-<li>
 <p>PE t-shirt must be tucked in at all times.</p>
 </li>
 </ul>
