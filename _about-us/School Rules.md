@@ -63,10 +63,10 @@ take the Pledge.</p>
 <p>Students will take the pledge with the right fist over the heart.</p>
 </li>
 </ul>
-<p>All students are to stand at attention:</p>
-<p>− when the flag is raised or lowered,</p>
-<p>− when the National Anthem is being sung, and</p>
-<p>− during pledge-taking.</p>
+<p>All students are to stand at attention:
+<br>− when the flag is raised or lowered,
+<br>− when the National Anthem is being sung, and
+<br>− during pledge-taking.</p>
 <p>3. <strong>Personal Appearance School Uniform</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -98,9 +98,9 @@ granted by the school.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The PE attire comprises:</p>
-<p>− School PE T-shirt with nametag sewn above the school crest; and</p>
-<p>− school running shorts/ skort (for girls)</p>
+<p>The PE attire comprises:
+<br>− School PE T-shirt with nametag sewn above the school crest; and
+<br>− school running shorts/ skort (for girls)</p>
 </li>
 <li>
 <p>All students are to wear the PE attire during PE lessons and CCA sessions.</p>
