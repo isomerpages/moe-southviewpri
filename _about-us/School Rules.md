@@ -469,12 +469,10 @@ take one or more of the following actions when students misbehave.
 <p><strong>Use of Electronic Devices (Mobile Phones and Smart Watches)</strong>
 </p>
 <p>Unauthorised use of personal mobile phones/ smart watches (with camera
-and call functions) is not allowed during official school activities e.g.
-curriculum time, learning journeys, CCA, supplementary lessons, recess/lunch.
-These items will be confiscated and only returned to the parent(s) personally
-if unauthorised use is found. Students may be furthered barred from bringing
-such items to school. Repeated offenders from 2<sup>nd</sup> time onwards
-will sign a contract with school and the devices will be confiscated until
-end of semester.</p>
+and call functions) is not allowed at all times, during official school
+activities e.g. curriculum time, learning journeys, CCA, supplementary
+lessons, recess/lunch. These items will be confiscated and only returned
+to the parent(s) personally if unauthorised use is found. Students may
+be furthered barred from bringing such items to school.</p>
 <p>
 <br>Page updated on: 16 April 2026</p>
