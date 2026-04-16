@@ -174,39 +174,19 @@ to produce beautiful, harmonious music.</p>
 <p></p>
 <p><strong><u>Tamil Department</u></strong>
 </p>
-<p><strong>Thematic Based Approach</strong>
+<p><strong>⮚	Embracing Cultural Identity</strong>
 </p>
-<p>As part of the cultural experience, students were introduced to thematic
-based hands-on activities during the Mother Tongue Fortnight week. For
-instance, they learnt about clay painting, using various colors to bring
-about the joy of Deepavali celebrations. They also explored various dances
-from the different states of India. In addition, they learnt about the
-costumes and props used during this session.</p>
+<p>At South View, we believe that language is most alive when it is felt,
+heard, and tasted. Our Tamil Language department recently organized a series
+of immersive, hands-on activities designed to bridge the gap between textbook
+vocabulary and cultural identity. By integrating the rhythmic beats of
+the Parai and the aromatic world of Indian herbs and spices, our pupils
+are discovering that learning Tamil is a journey of the senses.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%" height="auto" width="100%" src="/images/MT8.png">
 </div>
-<p><strong>Embracing 21st CC Skills</strong>
-</p>
-<p>To inculcate 21st CC skills, P5 students tried Podcast by sharing their
-views about contemporary issues. They brainstormed ideas in pairs and had
-a dialogue session with their partner. This was a good opportunity for
-them to apply their Spoken Interaction skills.</p>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/MT9.png">
-</div>
-<p><strong>Embracing Nature using Tamil Language</strong>
-</p>
-<p>Developing language skills can enhance one’s ability to express their
-connection with nature, fostering a deeper appreciation and respect for
-the environment. As such, our P2 students read a big book on conserving
-trees, and they tried bark shading, followed by a discussion about the
-different textures of tree bark. As part of exploring Indian spices, they
-decorated photo frames with Indian spices such as star anise, cardamom
-and cinnamon.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%" height="auto" width="100%" src="/images/MT10.png">
-</div>
-<h4>2. Competitions</h4>
+<p></p>
+<h4><strong>Competitions</strong></h4>
 <p><strong><u>Chinese Department</u></strong>
 </p>
 <p>The level wide competitions provide students with opportunities to:
