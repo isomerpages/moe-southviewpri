@@ -477,4 +477,4 @@ such items to school. Repeated offenders from 2<sup>nd</sup> time onwards
 will sign a contract with school and the devices will be confiscated until
 end of semester.</p>
 <p>
-<br>Page updated on: 31 January 2025</p>
+<br>Page updated on: 16 April 2026</p>
