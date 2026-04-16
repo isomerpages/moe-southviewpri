@@ -456,38 +456,25 @@ take one or more of the following actions when students misbehave.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SR6.png">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SR7.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SR8.png">
+</div>
 <p><strong>Additional Notes:</strong>
 </p>
-<ol>
-<li>
-<p><strong>FAIR conduct</strong>
-</p>
-<p>When the student’s name is captured in the School Offence Module, he/
-she may be given a FAIR conduct grade depending on the severity of the
-offence committed.</p>
-<p></p>
-</li>
-<li>
-<p><strong>Repeated Offences</strong>
-</p>
-<p>Repeated offences will be recorded and captured in the School Offence
-Module in the School Cockpit System.</p>
-<p>The school may also implement measures such as <strong><u>counselling, caning and suspension for repeated offences and for Stage 2 and Stage 3 offences</u></strong>.
-The school will inform parents before proceeding with any of the measures.</p>
-<p></p>
-</li>
-<li>
 <p><strong>Use of Electronic Devices (Mobile Phones and Smart Watches)</strong>
 </p>
 <p>Unauthorised use of personal mobile phones/ smart watches (with camera
 and call functions) is not allowed during official school activities e.g.
-curriculum time, learning journeys, CCA, supplementary lessons, recess/lunch.</p>
-<p>These items will be confiscated and only returned to the parent(s) personally
+curriculum time, learning journeys, CCA, supplementary lessons, recess/lunch.
+These items will be confiscated and only returned to the parent(s) personally
 if unauthorised use is found. Students may be furthered barred from bringing
 such items to school. Repeated offenders from 2<sup>nd</sup> time onwards
 will sign a contract with school and the devices will be confiscated until
 end of semester.</p>
-</li>
-</ol>
 <p>
 <br>Page updated on: 31 January 2025</p>
