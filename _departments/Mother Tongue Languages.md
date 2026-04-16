@@ -2,38 +2,32 @@
 title: Mother Tongue Languages
 permalink: /departments/mother-tongue-languages/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<p><strong>Mother Tongue Languages (MTL) Department </strong>is dedicated
+<p><strong>Mother Tongue Languages (MTL) Department</strong> is dedicated
 to nurturing students in three key areas, laying a strong foundation for
 their growth and development:</p>
 <p><strong><u>Communication</u></strong>
-<br>- By mastering the MTL, students acquire essential 21st Century Competencies
-for effective expression, building the groundwork for confident communication.
-<br>
-<br><strong><u>Culture</u></strong>
-<br>- Through immersive cultural experiences, students develop a strong sense
-of pride and appreciation for the MTL culture, an integral part of Singapore’s
-national identity.
-<br>
-<br><strong><u>Connection</u></strong>
-<br>- By exploring their heritage, students strengthen their connections to
-their roots and build meaningful bridges to communities across Asia and
-the world.
-<br>
-<br>Beyond the national curriculum, our department offers a variety of programmes
+<br>By mastering the MTL, students acquire essential 21st Century&nbsp;Competencies
+for effective expression, building the groundwork&nbsp;for confident communication.</p>
+<p><strong><u>Culture</u></strong>
+<br>Through immersive cultural experiences, students develop a&nbsp;strong
+sense of pride and appreciation for the MTL culture, an&nbsp;&nbsp;&nbsp;
+integral part of Singapore’s national identity.</p>
+<p><strong><u>Connection</u></strong>
+<br>By exploring their heritage, students strengthen their connections to
+their roots and build meaningful bridges to communities across&nbsp;Asia
+and the world.</p>
+<p>Beyond the national curriculum, our department offers a variety of programmes
 and competitions to ignite a love for their Mother Tongue languages and
 foster a deeper understanding of its cultural significance.</p>
-<p>
-<br>
+<p><strong>&nbsp;</strong>
 </p>
 <p><strong>Key Programmes:</strong>
 </p>
-<h4>1. MTL Fortnight</h4>
-<p>The MTL Fortnight provides students with opportunities to:
-<br>
-</p>
-<ul data-tight="true" class="tight">
+<h4><strong>MTL Fortnight</strong></h4>
+<p>The MTL Fortnight provides students with opportunities to:</p>
+<ol data-tight="true" class="tight">
 <li>
 <p>Understand the cultural significance of themes that align with their developmental
 stage and language proficiency.</p>
@@ -41,11 +35,7 @@ stage and language proficiency.</p>
 <li>
 <p>Apply theme-related vocabulary through engaging cultural activities.</p>
 </li>
-</ul>
-<p></p>
-<p>
-<br>
-</p>
+</ol>
 <p><strong><u>Chinese Department</u></strong>
 </p>
 <p>Each year, themes such as "Traditional Games" or "Traditional Food" are
@@ -57,29 +47,67 @@ while sparking curiosity and enjoyment.</p>
 </div>
 <p><strong><u>Malay Department</u></strong>
 </p>
-<p><strong>1. Hands-on Activities for Cultural Learning:</strong>
-<br>• Through interactive, hands-on activities, students can immerse themselves
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Hands-on Activities for Cultural Learning:</strong>
+</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Through interactive, hands-on activities, students can immerse themselves
 in the Malay culture. Engaging in these activities helps students connect
 with the culture in a meaningful and enjoyable way, allowing them to see
 how traditions have evolved over time.</p>
-<p><strong>2. Connecting with Families:</strong>
-<br>• The program encourages students to bring knowledge home, allowing them
+</li>
+</ul>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>Connecting with Families:</strong>
+</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>The program encourages students to bring knowledge home, allowing them
 to converse with family members and share what they have learnt. This helps
 to bridge the gap between school and home, ensuring that cultural traditions
 are kept alive within families and across generations.</p>
-<p><strong>3. Performance-Based Activities:</strong>
-<br>• Engaging in poetry recitals, skits, or role-playing activities encourages
+</li>
+</ul>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><strong>Performance-Based Activities:</strong>
+</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Engaging in poetry recitals, skits, or role-playing activities encourages
 pupils to practice speaking Malay in a fun and confident manner. This informal
 setting removes the pressure of formal classroom learning and gives students
-the chance to experiment with the language.
-<br>• Students perform in groups or individually, which also promotes teamwork
+the chance to experiment with the language.</p>
+</li>
+<li>
+<p>Students perform in groups or individually, which also promotes teamwork
 and peer motivation. Working with others encourages collaboration, helps
 build confidence, and makes the learning experience more dynamic.</p>
-<p><strong>4. Building Confidence in Using the Language:</strong>
-<br>• By participating in both cultural and language activities, students
-become more confident to use Spoken Malay in everyday conversations. They
-learn to speak with fluency and confidence in informal settings, which
-helps them transit to using the language in more formal situations.</p>
+</li>
+</ul>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p><strong>Building Confidence in Using the Language:</strong>
+</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>By participating in both cultural and language activities, students become
+more confident to use Spoken Malay in everyday conversations. They learn
+to speak with fluency and confidence in informal settings, which helps
+them transit to using the language in more formal situations.</p>
+</li>
+</ul>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -89,20 +117,17 @@ helps them transit to using the language in more formal situations.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Primary 1</strong>
-<br>Students learnt about the traditional game, Gasing.
-<br>
 </p>
+<p>Students learnt about the traditional Wau.</p>
+<p>Students will colour and cut out the Wau.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 55%" height="auto" width="100%" src="/images/MT2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Primary 2</strong>
-<br>Silat is Malay traditional martial arts that is still active in the Malay
-community. By learning the basics will be more encouraged to preserve this
-traditional martial art.
-<br>
-</p>
+<br>Students learnt about traditional games, Congkak and Capteh. They play
+together with their classmates.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 55%" height="auto" width="100%" src="/images/MT3.png">
 </div>
@@ -111,18 +136,16 @@ traditional martial art.
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Primary 3</strong>
-<br>Students learnt how to make bunga rampai using the traditional ingredients.
-<br>
-</p>
+<br>Students learnt about the importance of pandan leaves and usages of the
+leaves in Malay culture.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 55%" height="auto" width="100%" src="/images/MT4.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Primary 4</strong>
-<br>Students learnt about the traditional Wau.
-<br>
-</p>
+<br>Students learned about the importance of coconuts and explored traditional
+delicacies made using coconut.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%" height="auto" width="100%" src="/images/MT5.png">
 </div>
@@ -131,18 +154,16 @@ traditional martial art.
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Primary 5</strong>
-<br>Students learnt about wayang kulit.
-<br>
-</p>
+<br>Students learned Dikir Barat, including its basic rhythms, vocal techniques,
+and the importance of teamwork in performance.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 55%" height="auto" width="100%" src="/images/MT6.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Primary 6</strong>
-<br>Students learnt to make designs using Batik.
-<br>
-</p>
+<br>Students learned basic Kompang skills and practiced listening to one another
+to produce beautiful, harmonious music.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%" height="auto" width="100%" src="/images/MT7.png">
 </div>
@@ -153,7 +174,8 @@ traditional martial art.
 <p></p>
 <p><strong><u>Tamil Department</u></strong>
 </p>
-<p><strong>Thematic Based Approach</strong></p>
+<p><strong>Thematic Based Approach</strong>
+</p>
 <p>As part of the cultural experience, students were introduced to thematic
 based hands-on activities during the Mother Tongue Fortnight week. For
 instance, they learnt about clay painting, using various colors to bring
@@ -163,7 +185,8 @@ costumes and props used during this session.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%" height="auto" width="100%" src="/images/MT8.png">
 </div>
-<p><strong>Embracing 21st CC Skills</strong></p>
+<p><strong>Embracing 21st CC Skills</strong>
+</p>
 <p>To inculcate 21st CC skills, P5 students tried Podcast by sharing their
 views about contemporary issues. They brainstormed ideas in pairs and had
 a dialogue session with their partner. This was a good opportunity for
@@ -171,7 +194,8 @@ them to apply their Spoken Interaction skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/MT9.png">
 </div>
-<p><strong>Embracing Nature using Tamil Language</strong></p>
+<p><strong>Embracing Nature using Tamil Language</strong>
+</p>
 <p>Developing language skills can enhance one’s ability to express their
 connection with nature, fostering a deeper appreciation and respect for
 the environment. As such, our P2 students read a big book on conserving
