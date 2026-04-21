@@ -269,10 +269,10 @@ variant: tiptap
 <p>P2 Steadfast</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Low Kim</p>
+<p>Mdm Peng Binglun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>low_kim_b@moe.edu.sg</p>
+<p>peng_binglun@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
