@@ -108,10 +108,14 @@ invites hands-on exploration, creativity, and a spirit of inventive making.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 88%;" height="auto" width="100%" alt="" src="/images/RT7.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RT8.jpg">
+</div>
 </th>
 </tr>
 <tr>
@@ -134,10 +138,14 @@ resources are always where the learning happens.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/RT9.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/RT10.jpg">
+</div>
 </td>
 </tr>
 <tr>
