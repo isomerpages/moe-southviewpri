@@ -334,12 +334,12 @@ themselves to <strong>serve and inspire others</strong>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RT18.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/RT18.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RT19.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/RT19.jpg">
 </div>
 </td>
 </tr>
@@ -366,12 +366,12 @@ and inspire others.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RT20.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/RT20.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RT21.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/RT21.jpg">
 </div>
 </td>
 </tr>
@@ -395,12 +395,12 @@ a collaborative learning environment.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RT22.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/RT22.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RT23.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/RT23.jpg">
 </div>
 </td>
 </tr>
