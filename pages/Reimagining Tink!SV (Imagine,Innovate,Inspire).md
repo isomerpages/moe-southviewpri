@@ -417,6 +417,6 @@ to achieve a common goal.</p>
 </table>
 <p></p>
 <h4><strong>SHARING OF GOOD PRACTICES</strong></h4>
-<p><a href="mailto:Nadiah_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nadiah_abdul_rahman@schools.gov.sg</a>
+<p><a href="mailto:Nadiah_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nadiah_abdul_rahman@schools.gov.sg</a>
 <br>Nadiah Binte Abdul Rahman Zamawi (CIET, HOD)</p>
 <p></p>
