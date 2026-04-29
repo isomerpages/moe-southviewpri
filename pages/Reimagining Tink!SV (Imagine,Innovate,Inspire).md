@@ -36,17 +36,17 @@ to explore, create, contribute, and lead.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/RT1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RT1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RT2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RT2.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RT3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RT3.jpg">
 </div>
 </th>
 </tr>
@@ -74,17 +74,17 @@ environment.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/RT4.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/RT4.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/RT5.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/RT5.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/RT6.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/RT6.jpg">
 </div>
 </th>
 </tr>
@@ -109,7 +109,7 @@ invites hands-on exploration, creativity, and a spirit of inventive making.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 88%;" height="auto" width="100%" alt="" src="/images/RT7.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RT7.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -139,12 +139,12 @@ resources are always where the learning happens.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/RT9.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RT9.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/RT10.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RT10.jpg">
 </div>
 </td>
 </tr>
@@ -199,12 +199,12 @@ while inspiring a schoolwide culture of creativity and collaboration.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/RT11.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RT11.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/RT12.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RT12.jpg">
 </div>
 </th>
 </tr>
@@ -231,17 +231,17 @@ learn to design with purpose and heart.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/RT13.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/RT13.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/RT14.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/RT14.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/RT15.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/RT15.jpg">
 </div>
 </th>
 </tr>
@@ -278,12 +278,12 @@ leadership in action.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/RT16.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RT16.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/RT17.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RT17.jpg">
 </div>
 </th>
 </tr>
@@ -334,12 +334,12 @@ themselves to <strong>serve and inspire others</strong>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/RT18.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RT18.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/RT19.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RT19.jpg">
 </div>
 </td>
 </tr>
@@ -366,12 +366,12 @@ and inspire others.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/RT20.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RT20.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/RT21.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RT21.jpg">
 </div>
 </td>
 </tr>
@@ -395,12 +395,12 @@ a collaborative learning environment.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/RT22.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RT22.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/RT23.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RT23.jpg">
 </div>
 </td>
 </tr>
