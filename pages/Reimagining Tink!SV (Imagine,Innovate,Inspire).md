@@ -1,6 +1,6 @@
 ---
 title: Reimagining Tink!SV (Imagine,Innovate,Inspire)
-permalink: /reimagining-tinksv-imagine-innovate-inspire/
+permalink: /permalink/tinksv/
 variant: tiptap
 description: ""
 ---
@@ -34,19 +34,30 @@ to explore, create, contribute, and lead.</p>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/RT1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RT1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RT2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RT2.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RT3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RT3.jpg">
 </div>
 </th>
 </tr>
@@ -72,19 +83,30 @@ environment.</p>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/RT4.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/RT4.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/RT5.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/RT5.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/RT6.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/RT6.jpg">
 </div>
 </th>
 </tr>
@@ -107,9 +129,17 @@ invites hands-on exploration, creativity, and a spirit of inventive making.</p>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 88%;" height="auto" width="100%" alt="" src="/images/RT7.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RT7.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -138,13 +168,21 @@ resources are always where the learning happens.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/RT9.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RT9.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/RT10.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RT10.jpg">
 </div>
 </td>
 </tr>
@@ -197,11 +235,23 @@ while inspiring a schoolwide culture of creativity and collaboration.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RT11.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RT12.jpg">
+</div>
 </th>
 </tr>
 <tr>
@@ -225,14 +275,31 @@ learn to design with purpose and heart.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/RT13.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/RT14.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/RT15.jpg">
+</div>
 </th>
 </tr>
 <tr>
@@ -266,11 +333,23 @@ leadership in action.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RT16.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RT17.jpg">
+</div>
 </th>
 </tr>
 <tr>
@@ -326,6 +405,18 @@ themselves to <strong>serve and inspire others</strong>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RT18.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RT19.jpg">
+</div>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
 <p><strong>Adaptive and Inventive Thinking:</strong>
 </p>
@@ -354,6 +445,18 @@ and inspire others.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RT20.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RT21.jpg">
+</div>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
 <p><strong>Communication:</strong>
 </p>
@@ -379,6 +482,18 @@ a collaborative learning environment.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RT22.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RT23.jpg">
+</div>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
 <p><strong>Collaboration:</strong>
 </p>
@@ -391,6 +506,6 @@ to achieve a common goal.</p>
 </table>
 <p></p>
 <h4><strong>SHARING OF GOOD PRACTICES</strong></h4>
-<p><a href="mailto:Nadiah_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nadiah_abdul_rahman@schools.gov.sg</a>
+<p><a href="mailto:Nadiah_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nadiah_abdul_rahman@schools.gov.sg</a>
 <br>Nadiah Binte Abdul Rahman Zamawi (CIET, HOD)</p>
 <p></p>
