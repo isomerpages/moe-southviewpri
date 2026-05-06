@@ -421,8 +421,6 @@ themselves to <strong>serve and inspire others</strong>
 <td rowspan="1" colspan="2">
 <p><strong>Adaptive and Inventive Thinking:</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 <p>Students test their balloon cars while a Maker Buddy works alongside them
 to refine their prototypes — applying iterative design thinking to problem-solve
 in action, and <strong>extending their passion</strong> for making to serve
