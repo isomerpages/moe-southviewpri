@@ -1,8 +1,9 @@
 ---
-title: Reimagining Tink!SV (Imagine,Innovate,Inspire)
-permalink: /permalink/tinksv/
+title: Reimagining Tink!SV (Learning Space)
+permalink: /departments/curriculum-innovation-n-educational-technology/reimagining-tink-sv-learning-space/
 variant: tiptap
 description: ""
+third_nav_title: CIET
 ---
 <h4><strong>ABOUT THE PROJECT</strong></h4>
 <p>South View Primary School reimagined its makerspace — Tink!SV (!magine,
@@ -504,8 +505,4 @@ to achieve a common goal.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<h4><strong>SHARING OF GOOD PRACTICES</strong></h4>
-<p><a href="mailto:Nadiah_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nadiah_abdul_rahman@schools.gov.sg</a>
-<br>Nadiah Binte Abdul Rahman Zamawi (CIET, HOD)</p>
 <p></p>
