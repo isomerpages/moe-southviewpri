@@ -24,9 +24,8 @@ variant: tiptap
 <p><strong><u>Teachers-in-charge</u></strong> 
 <br>
 <br>Mdm Lee Li Peng
-<br>Mr Tong Zhi Loong Dominic
 <br>Ms Pang Nyuk Chin Jan
-<br>Mdm Lim Xiao Ting
+<br>Mr Eddie Quek
 <br>
 <br><strong><u>Page last updated on: 7 Feb 2024</u></strong>
 </p>
