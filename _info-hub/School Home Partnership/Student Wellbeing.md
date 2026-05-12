@@ -10,7 +10,7 @@ third_nav_title: School Home Partnership
 change in home address) from time to time. As a school, we must ensure
 that the addresses, contact numbers and commuter status of all Southviens
 are kept up-to-date so that they can be easily contacted in times of emergency.
-Should there be any changes, please alert the school via email at svps@moe.edu.sg.</p>
+Should there be any changes, please alert the school via email at <a href="svps@moe.edu.sg" rel="noopener nofollow" target="_blank">svps@moe.edu.sg</a>.</p>
 <p></p>
 <p><strong><u>Personal responsibility of students</u></strong>
 <br>In order to develop a sense of responsibility in our students, the school
