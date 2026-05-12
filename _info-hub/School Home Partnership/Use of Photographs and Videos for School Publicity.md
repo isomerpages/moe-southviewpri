@@ -1,8 +1,8 @@
 ---
 title: Use of Photographs and Videos for School Publicity
-permalink: /departments/pupil-well-being/use-of-photographs-and-videos-for-school-publicity/
+permalink: /info-hub/school-home-partnership/use-of-photographs-and-videos-for-school-publicity/
 description: ""
-third_nav_title: Pupil Well Being
+third_nav_title: School Home Partnership
 variant: markdown
 ---
 <p>During the course of your child's/ward's time in our school, photographs, recordings, and student work may be captured or created during various school events, programmes, activities, lessons, and assessments. Student work includes but is not limited to written assignments, projects, artwork, creative outputs, presentations, and academic achievements.<br><br>

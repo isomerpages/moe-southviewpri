@@ -1,6 +1,6 @@
 ---
-title: Road Safety and Security
-permalink: /info-hub/road-safety-and-security/
+title: Safety and Security
+permalink: /info-hub/safety-and-security/
 description: ""
 variant: tiptap
 ---
@@ -38,12 +38,6 @@ the security guard before proceeding to the General Office for the appointment.<
 <p>For safety reasons and preparation for school dismissal, except for emergency
 or medical cases, no visitors/parents/guardians are allowed to enter the
 school premise 30 minutes before and after dismissal at 1.30 pm.</p>
-</li>
-<li>
-<p>In order to develop our pupils a sense of responsibility, the school will
-not allow parents to pass items which they have forgotten (i.e homework)
-to the General Office. Please contact the teacher if the items are urgent
-i.e pocket money and we will assist your children accordingly.</p>
 </li>
 </ul>
 <p><strong><u>Arrival and Dismissal</u></strong>
