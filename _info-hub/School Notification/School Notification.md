@@ -39,7 +39,8 @@ to read or download the respective letters.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>May-Jun</p>
+<p><a href="" rel="noopener nofollow" target="_blank">May-Jun</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jul</p>
