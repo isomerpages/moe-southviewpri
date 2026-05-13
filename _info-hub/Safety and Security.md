@@ -25,8 +25,8 @@ the security post upon exiting the school.</p>
 </li>
 <li>
 <p>Visitors/parents/ guardians are&nbsp;<strong><u>NOT</u></strong>&nbsp;allowed
-to proceed beyond the General Office and bookshop to other parts of the
-school building without being escorted by a school staff.</p>
+to proceed beyond the General Office without being accompanied by a school
+staff.</p>
 </li>
 <li>
 <p>Any parent or guardian who wishes to meet or communicate with school personnel
