@@ -15,4 +15,7 @@ sections:
         - title: SV80
           description: Click🖱️or Tap 👆 to visit!
           url: https://go.gov.sg/sv80
+        - title: Phase 1 Registration for 2026 P1 Exercise
+          description: Click here for more info
+          url: /p1-registration-phase-1/
 ---
