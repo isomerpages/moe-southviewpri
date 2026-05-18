@@ -1,5 +1,6 @@
 ---
-title: Phase 1 Registration for 2026 P1 Exercise
+title: Phase 1 Registration for 2026 P1 Exercise (For children with older
+  siblings in school)
 permalink: /p1-registration-phase-1/
 variant: tiptap
 description: ""
