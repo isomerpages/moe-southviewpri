@@ -7,8 +7,8 @@ variant: tiptap
 ---
 <p><strong>PRIMARY ONE (P1) REGISTRATION EXERCISE</strong>
 </p>
-<p>P1 Registration Exercise (P1 Ex) details will be announced at later date.
-For more information, please visit&nbsp;<a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener" target="_blank">https://www.moe.gov.sg/primary/p1-registration</a>.</p>
+<p>For P1 Registration Exercise (P1 Ex) information, please visit&nbsp;
+<a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener" target="_blank">https://www.moe.gov.sg/primary/p1-registration</a>.</p>
 <p><u>1. Registration Phases and Procedures</u>
 </p>
 <p>For more details on registration phases and procedures, please visit&nbsp;
