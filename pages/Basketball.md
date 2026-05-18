@@ -4,7 +4,7 @@ permalink: /permalink/
 variant: tiptap
 description: ""
 ---
-<p>Dear Parents/Guardians</p>
+<p>Dear Parents/Guardians,</p>
 <p>Phase 1 registration is for a Singapore Citizen (SC) or Permanent Resident
 (PR) child born between 2 January 2020 and 1 January 2021 (both dates inclusive)
 and has an older sibling currently studying in our primary school.</p>
