@@ -140,5 +140,5 @@ canteen stalls in the school will be only be selling set meals with one
 or two fixed items at a fixed price during recess and meal times. This
 will help in reducing wait time as well as relief congestion at the stalls.
 Please <a href="https://drive.google.com/file/d/1Kn5hvxszbLu1TBkNaT4iWE591sOJInmn/view?usp=drive_link" rel="noopener nofollow" target="_blank">"Click Here"</a> for
-canteen menu.</p>
-<p>Page last updated: 16 Jan 2026</p>
+the canteen menu.</p>
+<p>Page last updated: 29 May 2026</p>
