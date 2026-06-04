@@ -77,7 +77,7 @@ Serve.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" src="/images/OB3.jpg">
+<img style="width: 97%;" height="auto" width="100%" src="/images/OB3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -97,7 +97,7 @@ Serve.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" src="/images/OB5.jpg">
+<img style="width: 97%;" height="auto" width="100%" src="/images/OB5.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
