@@ -40,8 +40,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="https://drive.google.com/file/d/1NkN0NGX0VzyTDyQ5PTqr95Ct7M9wtx9A/view?usp=sharing" rel="noopener nofollow" target="_blank">Term 1</a>
 <br><a href="https://drive.google.com/file/d/1UlApHz8QjENi9tGpM9zjtc7ueYgq8ZZc/view?usp=sharing" rel="noopener nofollow" target="_blank">Term 2</a>
-<br>Term 3
-<br>Term 4</p>
+<br><a href="https://drive.google.com/file/d/1pITU5_YxFynAp6d2xE1RHdIVSA_HBtN-/view?usp=drive_link" rel="noopener nofollow" target="_blank">Term 3</a> 
+<br><a href="https://drive.google.com/file/d/1pV5Imaie39vYUmnZqgtD8JJMpq3nvL3j/view?usp=drive_link" rel="noopener nofollow" target="_blank">Term 4</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -57,4 +58,4 @@ variant: tiptap
 </table>
 <p></p>
 <p></p>
-<p>Page last updated: 3 March 2026</p>
+<p>Page last updated: 1 July 2026</p>
