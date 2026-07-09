@@ -51,11 +51,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://drive.google.com/file/d/1FBWdWrZLTaq5fXdg2SvwTBmjgd6kgBeT/view?usp=sharing" rel="noopener nofollow" target="_blank">Semester 1</a>
-<br>Semester 2</p>
+<br><a href="https://drive.google.com/file/d/10boOuJS07JtpzZDt_jJwZVImNWvJeQLY/view?usp=drive_link" rel="noopener nofollow" target="_blank">Semester 2</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <p></p>
-<p>Page last updated: 1 July 2026</p>
+<p>Page last updated: 9 July 2026</p>
