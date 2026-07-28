@@ -38,7 +38,10 @@ Singapore EduSmart Learning Hub by clicking this link <a href="https://singapore
 </p>
 <p><u>EduSmart Student Care - Registration of Interest</u>
 <br>
-<br>Please find the EduSmart Student Care 2027 Registration of Interest (ROI)
+<br>If you would like your child to be considered should a vacancy arise,
+please register your interest via the link below by 20 September 2026.
+EduSmart Student Care will contact you if an opening becomes available.
+Please find the EduSmart Student Care 2027 Registration of Interest (ROI)
 link as requested:
 <br>
 <br><a href="https://forms.gle/2eEwxYSRoRDSnTP88" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/2eEwxYSRoRDSnTP88</a>
@@ -65,13 +68,12 @@ administered by Ministry of Social and Family Development (MSF). Please
 refer to the <a href="https://supportgowhere.life.gov.sg/schemes/SCFA/student-care-fee-assistance-scfa" rel="noopener" target="_blank">website</a> for
 SCFA eligibility criteria</p>
 <p><strong><u>Operating Hours (Monday to Friday)</u></strong>
-<br>
-<br>There is no change to the current operating hours, as follows:
+</p>
+<p>There is no change to the current operating hours, as follows:
 <br>School Term: After School to 7.00 p.m.
 <br>School Holidays: 7.30 a.m. to 7.00 p.m.
-<br>
+<br><strong>All SCC students must be fetched by 7.00pm daily.</strong>
 <br>The student care centre is closed on Saturdays, Sundays and gazetted public
 holidays.
-<br>
 <br>EduSmart will also provide parents with more information on the centre’s
 closure days through emails.</p>
