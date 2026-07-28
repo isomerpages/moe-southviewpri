@@ -36,14 +36,12 @@ Singapore EduSmart Learning Hub by clicking this link <a href="https://singapore
 <p>
 <br>
 </p>
-<p><a href="https://forms.zohopublic.com/edusmartlearninghubsouthview/form/P1EduSmartStudentCareRegistrationofInterest2026/formperma/YMCXg7IVyIsgz0Rbaw6wkrW0uCjxmM8poZ2nukdtcFA" rel="noopener noreferrer nofollow" target="_blank">EduSmart Student Care - Registration of Interest</a>
+<p><u>EduSmart Student Care - Registration of Interest</u>
 <br>
-<br>Registration for EduSmart Student Care 2026 (Primary 1) has now closed,
-and SCC is at full capacity atm for 2026 Primary One intake.</p>
-<p>If you would like your child to be considered should a vacancy arise,
-please register your interest via the link below by 17 November 2025. EduSmart
-Student Care will contact you if an opening becomes available. Please register
-your interest with the following link: <a href="https://zfrmz.com/ySdQAngFGOCbdvD9Vcqh" rel="noopener noreferrer nofollow" target="_blank">https://zfrmz.com/ySdQAngFGOCbdvD9Vcqh</a>
+<br>Please find the EduSmart Student Care 2027 Registration of Interest (ROI)
+link as requested:
+<br>
+<br><a href="https://forms.gle/2eEwxYSRoRDSnTP88" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/2eEwxYSRoRDSnTP88</a>
 </p>
 <p>No action is needed if you are not enrolling your child in our SCC.</p>
 <p>If we are unable to enroll your child in our SCC, you can consider nearby
