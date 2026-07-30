@@ -16,26 +16,21 @@ Activities and Outdoor Activities. You may find out more information about
 Singapore EduSmart Learning Hub by clicking this link <a href="https://singaporeedusmart.com.sg/" rel="noopener" target="_blank">click here</a>
 </p>
 <p><strong>Daily Schedule</strong>
-<br><strong>• Primary 1</strong>
+<br><strong>• Primary 1 - Primary 2</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 150%;" height="auto" width="100%" src="/images/SCC1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCC_P1___P2.png">
 </div>
-<p>
-<br><strong>• Primary 2 and Primary 3</strong>
+<p><strong>• Primary 3 - Primary 6</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 150%;" height="auto" width="100%" src="/images/SCC2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCC_P3___P6.png">
 </div>
-<p>
-<br><strong>• Primary 4, Primary 5 and Primary 6</strong>
+<p><strong>• Holiday Schedule</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 150%;" height="auto" width="100%" src="/images/SCC3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCC_Schedule__Holidays_.png">
 </div>
-<p>
-<br>
-</p>
 <p><u>EduSmart Student Care - Registration of Interest</u>
 <br>
 <br>If you would like your child to be considered should a vacancy arise,
@@ -70,7 +65,7 @@ SCFA eligibility criteria</p>
 <p><strong><u>Operating Hours (Monday to Friday)</u></strong>
 </p>
 <p>There is no change to the current operating hours, as follows:
-<br>School Term: After School to 7.00 p.m.
+<br>School Term: 1.35 p.m. to 7.00 p.m.
 <br>School Holidays: 7.30 a.m. to 7.00 p.m.
 <br><strong>All SCC students must be fetched by 7.00pm daily.</strong>
 <br>The student care centre is closed on Saturdays, Sundays and gazetted public
