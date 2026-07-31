@@ -50,7 +50,7 @@ MSF-registered Student Care Centres can be found at the MSF website at&nbsp;
 <p>
 <br><strong><u>Monthly SSC Fees</u></strong>
 <br>
-<br>The monthly SSC fees in 2024 is $245.
+<br>The monthly SSC fees in 2026 is $245.
 <br>
 <br>The initial upfront fee consists of 1 month fee, deposit of $245 and registration
 fee of $20. SSC T-shirt can be purchased at $11 per piece.
